@@ -1,7 +1,77 @@
 {
-  "updated_at": "2026-11-10T19:08:31.157478+00:00",
+  "updated_at": "2026-11-10T20:02:18.112775+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Levice v Berlíně chce vyloučit svou poslankyni Emdeovou. Neuznává Izrael",
+      "summary": "Radikálně levicová strana Levice v Berlíně připraví návrh na vyloučení kontroverzní poslankyně Vanessy Emdeové ze svého poslaneckého klubu v zemském parlamentu kvůli jejím postojům ke…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-10T19:50:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/levice-v-berline-chce-svou-kontroverzni-poslankyni-emdeovou-vyloucit-z-klubu.A261110_192345_zahranicni_rtn",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "AI Osobností roku se stal podnikatel Tomáš Čupr, uspěl i ministr Vojtěch",
+      "summary": "Titul AI Osobnost roku 2026 získal zakladatel Slevomatu nebo Rohlíku Tomáš Čupr. Ministr zdravotnictví Adam Vojtěch (za ANO) zvítězil v kategorii Zdravotnictví a vysokoškolský pedagog…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-10T19:47:00+00:00",
+      "url": "https://www.idnes.cz/ekonomika/domaci/ai-osobnosti-roku-se-stal-podnikatel-tomas-cupr-uspel-i-ministr-vojtech.A261110_204106_ekonomika_remy",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Babiš v „pikošce\" spojil Vrbětice a Vondru. „Neberte si ho do pusy,“ zuřil Kupka",
+      "summary": "Premiér Andrej Babiš (ANO) ve svém pravidelném nedělním vystoupení zmínil mimo jiné výbuch muničáku ve Vrběticích v roce 2014. Za ten mohou podle českých tajných…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-10T20:40:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/babis-v-pikosce-spojil-vrbetice-a-vondru-neberte-si-ho-do-pusy-zuril-kupka/r~aaa293cd364089d67f32bd962b38676c/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Polsko řeší, jak reformovat ústavní soud. Variantou je kompletní obměna",
+      "summary": "Polská vláda poprvé po víc než dvou a půl letech zveřejnila rozhodnutí ústavního soudu. Premiér Donald Tusk to považuje za počátek nové éry. Ústavní krize…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-10T19:38:36+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/polsko-resi-jak-reformovat-ustavni-soud-variantou-je-kompletni-obmena-379493",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Lotyška oslavovala na TikToku ruské zločiny. Soud ji poslal do vězení",
+      "summary": "Lotyšský soud poslal ženu na tři roky do vězení s následnou dvouletou zkušební dobou za to, že na platformě TikTok oslavovala válečné zločiny páchané ruskými…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-10T20:36:16+01:00",
+      "url": "https://www.denik.cz/evropa/lotyska-oslavovala-na-tiktoku-ruske-zlociny-soud-ji-poslal-do-vezeni/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Soukromí těžaři poprvé po dlouhé době prodali část plynu z Ukrajiny do zahraničí",
+      "summary": "Poprvé po téměř pěti letech prodali soukromí těžaři na Ukrajině část plynu do zahraničí. V říjnu to umožnila ukrajinská vláda kvůli poklesu domácí poptávky. Jednou…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-10T19:27:23+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/soukromi-tezari-poprve-po-dlouhe-dobe-prodali-cast-plynu-z-ukrajiny-do-zahranici-379486",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Po energetice a mostech přichází na řadu vyhladovění. Kam zamíří další ruské útoky",
+      "summary": "Rusko plánuje útočit na obilné sklady a další objekty potravinářského průmyslu na Ukrajině, varuje tamější ministerstvo obrany. To by mohlo pro zemi sužovanou válkou znamenat…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-10T19:22:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-utok-obilniny.A261110_192017_zahranicni_balu",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Zemřela francouzská hrdinka odboje. Proti nacistům vedla třicet mužů",
       "summary": "Ve věku 104 let zemřela jedna z hrdinek francouzského odboje z druhé světové války Solange Alexandreová. Poté, co působila jako spojka odboje, založila společně se…",
@@ -47,18 +117,6 @@
       "analysis_url": "https://www.idnes.cz/zpravy/zahranicni/navrh-prekresleni-hranice-ukrajina-rusko-usa-jednani.A261110_155742_zahranicni_fohl"
     },
     {
-      "title": "„No nepokakáme se.“ Fico a Babiš se pustili do německého ultimáta o půjčce Ukrajině",
-      "summary": "Robert Fico odmítá, aby Slovensko přispělo na další půjčku Ukrajině, a německého kancléře Friedricha Merze obvinil z vydírání. Jeho český protějšek Andrej Babiš (ANO) volil…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-10T18:22:44+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/no-nepokakame-se-fico-a-babis-se-pustili-do-nemeckeho-ultimata-o-pujcce-ukrajine/r~aaa2948f200ae8120712d92ce507cc77/",
-      "importance": "Podle Aktuálně.cz spojil Friedrich Merz podporu Německa pro příští sedmiletý rozpočet EU s účastí všech členů na financování Ukrajiny. Robert Fico odmítl slovenský podíl na další půjčce, současně ale připustil pokračování humanitární pomoci. Jeho vyjádření se tedy nevztahuje na všechny formy pomoci Ukrajině.\n\nPro ukrajinský rozpočet zbývá vyřešit, jak EU opatří slíbených 45 miliard eur na rok 2027. Jednou ze zvažovaných cest jsou společné dluhopisy. Pro členské státy bude podstatné, kdo ponese náklady a případné záruky. Německá podmínka může jednání o unijním rozpočtu zdržet, samotný dopis ale jeho schvalování nezastavil.",
-      "importance_kind": "analysis",
-      "analysis_source": "Aktuálně.cz",
-      "analysis_url": "https://zpravy.aktualne.cz/zahranici/no-nepokakame-se-fico-a-babis-se-pustili-do-nemeckeho-ultimata-o-pujcce-ukrajine/r~aaa2948f200ae8120712d92ce507cc77/"
-    },
-    {
       "title": "Trest smrti za zbabělost. Konžský soud odsoudil 66 vojáků, chce zlepšit morálku",
       "summary": "Zbabělost, vzpoura a neuposlechnutí rozkazu. To byl výčet prohřešků, kterých se měli dopustit vojáci Demokratické republiky Kongo. 66 z nich soud poslal na smrt. Podle…",
       "source": "CNN Prima NEWS",
@@ -69,6 +127,16 @@
       "importance_kind": "analysis",
       "analysis_source": "CNN Prima NEWS",
       "analysis_url": "https://cnn.iprima.cz/demokraticka-republika-kongo-udelila-66-vojakum-trest-smrti-jste-zbabeli-prohlasil-soud-526767"
+    },
+    {
+      "title": "Babiš s Ficem se pustili do německého ultimáta kvůli Ukrajině. Padl i nevybíravý výraz",
+      "summary": "Robert Fico odmítá, aby Slovensko přispělo na další půjčku Ukrajině, a německého kancléře Friedricha Merze obvinil z vydírání. Jeho český protějšek Andrej Babiš (ANO) volil…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-10T18:22:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/no-nepokakame-se-fico-a-babis-se-pustili-do-nemeckeho-ultimata-o-pujcce-ukrajine/r~aaa2948f200ae8120712d92ce507cc77/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
     },
     {
       "title": "Starostové řekli, s kým budou vládnout Praze. Piráti jsou ze hry venku",
@@ -155,18 +223,6 @@
       "analysis_url": "https://www.ceskenoviny.cz/zpravy/vlada-vypsala-vyberove-rizeni-na-predsedu-uohs-nastoupi-od-prosince/2900198"
     },
     {
-      "title": "Za prezidentem i na velryby. Benda, Hřib či Jurečka budou 17. listopadu na Tchaj-wanu",
-      "summary": "Devítka opozičních poslanců vyrazí na přelomu týdne na návštěvu Tchaj-wanu. Delegaci povede šéf poslanců ODS a předseda Skupiny přátel Tchaj-wanu Marek Benda. Zúčastnit by se…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-10T16:36:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/tchaj-wan-opozice-poslanci-cesta-benda-jurecka-hrib.A261110_162038_domaci_chtl",
-      "importance": "Přijetí u tchajwanského prezidenta by devíti českým poslancům otevřelo přímý politický kontakt. Delegaci podle zveřejněného programu tvoří opozice. Tchajpej tak může dojednat pokračování parlamentních kontaktů, ale z návštěvy nelze vyvozovat příslib českého kabinetu.\n\nKonkrétní příležitost nabízí plánovaná schůzka na ministerstvu zdravotnictví. Pro české instituce bude podstatné, zda poslanci zprostředkují kontakt mezi odbornými pracovišti a zda o něj budou mít zájem obě strany. To lze vyhodnotit i po skončení návštěvy.",
-      "importance_kind": "analysis",
-      "analysis_source": "iDNES.cz",
-      "analysis_url": "https://www.idnes.cz/zpravy/domaci/tchaj-wan-opozice-poslanci-cesta-benda-jurecka-hrib.A261110_162038_domaci_chtl"
-    },
-    {
       "title": "Masový exodus a vojáci v ulicích. V JAR graduje násilí vůči migrantům",
       "summary": "V Jihoafrické republice v posledních měsících sílí protiimigrační protesty a xenofobní útoky. Vláda po brutálním ubití cizince nasadila stovky vojáků do města Durban a pozastavila…",
       "source": "ČT24",
@@ -202,25 +258,27 @@
     },
     {
       "title": "Havlíček uvedl, že na Ukrajině bude jednat také o dodávkách letadel Skyfox",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
+      "summary": "Součástí nadcházejících rozhovorů s ukrajinskými protějšky budou také možné dodávky letadel Skyfox, řekl v úterý cestou na Ukrajinu novinářům český ministr průmyslu a obchodu Karel…",
+      "source": "Aktuálně.cz",
       "category": "svet",
-      "published_at": "2026-11-10T17:09:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/havlicek-uvedl-ze-na-ukrajine-bude-jednat-take-o-dodavkach-letadel-skyfox/2900180",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "published_at": "2026-11-10T17:17:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/havlicek-uvedl-ze-na-ukrajine-bude-jednat-take-o-dodavkach-letadel-skyfox/r~aaa29101e96d42e2a71e637319974a64/",
+      "importance": "Zařazení letadel Skyfox na program rozhovorů dává českému výrobci možnost zjistit, jakou dodávku ukrajinská strana skutečně potřebuje. Z oznámení schůzky zatím výrobce nemůže vycházet při plánování výroby a ukrajinská strana při plánování převzetí strojů.\n\nRozdíl by přinesla dohoda o počtu letadel, úhradě a termínu předání. Právě tyto údaje by ukázaly, zda jednání směřují k zakázce a jak dlouho by její uskutečnění trvalo. Ministr oznámil téma rozhovorů, nikoli sjednané podmínky.",
+      "importance_kind": "analysis",
+      "analysis_source": "Aktuálně.cz",
+      "analysis_url": "https://zpravy.aktualne.cz/zahranici/havlicek-uvedl-ze-na-ukrajine-bude-jednat-take-o-dodavkach-letadel-skyfox/r~aaa29101e96d42e2a71e637319974a64/"
     },
     {
-      "title": "Trumpova rodina, Epstein i ICE. Demokraté odhalili, na co si po volbách posvítí",
-      "summary": "Demokraté v USA po volebním vítězství chystají sérii vyšetřování Trumpovy administrativy. Zaměřit se chtějí na možné střety zájmů prezidentovy rodiny, postupy imigračního úřadu ICE, korupci…",
-      "source": "Deník",
+      "title": "Živě: Exkluzivní debata amerických velvyslanců o dopadu voleb v USA na Evropu",
+      "summary": "Sledujte exkluzivní debatu dřívějších amerických velvyslanců v Česku Stephena B. Kinga a Normana L. Eisena spolu s bývalým ministrem zahraničních věcí Tomášem Petříčkem a reportérem…",
+      "source": "Aktuálně.cz",
       "category": "svet",
-      "published_at": "2026-11-10T16:37:37+01:00",
-      "url": "https://www.denik.cz/svet/volby-usa-demokrate-rekli-na-co-se-u-donalda-trumpa-zameri-vysetrovani/",
-      "importance": "Volební výsledek dává demokratům příležitost dostat otázky obchodů prezidentovy rodiny a postupů imigračního úřadu před kongresové výbory. Veřejné slyšení může donutit úředníky vysvětlit konkrétní rozhodnutí a umožnit porovnat jejich odpovědi s dokumenty.\n\nPro posouzení podezření bude důležitější obsah těchto dokumentů než počet oznámených vyšetřování. Teprve zjištěná vazba mezi soukromým zájmem a konkrétním úředním krokem by dodala tvrzení o střetu zájmů věcnou oporu. Ohlášení kontrol samo výsledek nepředjímá.",
+      "published_at": "2026-11-10T16:45:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/zive-exkluzivni-debata-americkych-velvyslancu-o-dopadu-voleb-v-usa-na-evropu/r~aaa294fe6132771ad0c59382dd2b649d/",
+      "importance": "Debata bývalých amerických velvyslanců nabízí českému publiku výklad voleb z pohledu lidí se zkušeností z Washingtonu i Prahy. U jejich odhadů má smysl rozlišovat mezi tím, co může změnit nové složení Kongresu hlasováním o penězích, a tím, co záleží na dalším rozhodnutí prezidenta.\n\nZveřejněná pozvánka neobsahuje závěry hostů. Samotné konání diskuse proto nepotvrzuje změnu amerických závazků vůči Evropě. U konkrétní předpovědi lze následně sledovat, zda ji podpoří návrh zákona, rozpočtové hlasování nebo stanovisko administrativy.",
       "importance_kind": "analysis",
-      "analysis_source": "CNN Prima NEWS",
-      "analysis_url": "https://cnn.iprima.cz/trump-bude-celit-vlne-vysetrovani-americkym-kongresem-co-vsechno-se-na-nej-chysta-526676"
+      "analysis_source": "Aktuálně.cz",
+      "analysis_url": "https://zpravy.aktualne.cz/zahranici/zive-exkluzivni-debata-americkych-velvyslancu-o-dopadu-voleb-v-usa-na-evropu/r~aaa294fe6132771ad0c59382dd2b649d/"
     },
     {
       "title": "Rozhodnutí vlády? Okamura přiznal, že spojenci české vojáky na obří cvičení nepozvali",
@@ -243,30 +301,6 @@
       "importance_kind": "analysis",
       "analysis_source": "ČTK",
       "analysis_url": "https://www.ceskenoviny.cz/zpravy/zelenskyj-v-abu-zabi-se-jednalo-o-vymene-zajatcu-a-navratu-ukrajinskych-deti/2896477"
-    },
-    {
-      "title": "Krakovský střelec se zajímal o Breivika, řekl ministr",
-      "summary": "Krakovský střelec, který zabil tři členy své rodiny a šest náhodných kolemjdoucích, se zajímal o norského neonacistického extremistu Anderse Breivika, řekl podle agentury PAP ministr…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-10T15:04:22+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/krakovsky-strelec-se-zajimal-o-breivika-rekl-ministr-379479",
-      "importance": "Polský ministr popsal stopy, které vedou vyšetřovatele k prověřování extremistické motivace. Pro pozůstalé i veřejnost je podstatné, zda lze konkrétní přesvědčení spojit s rozhodnutím útočníka. Zájem o předchozí pachatele je důvod tuto možnost prověřit, sám motiv neprokazuje.\n\nProkurátor popsal dosavadní zjištění zdrženlivěji než ministr. Dokud vyšetřování nevysvětlí vztah mezi nalezenými materiály a činem, bylo by předčasné vydávat politickou motivaci za uzavřený závěr nebo ji připisovat širší skupině lidí.",
-      "importance_kind": "analysis",
-      "analysis_source": "iDNES.cz",
-      "analysis_url": "https://www.idnes.cz/zpravy/zahranicni/polsko-krakov-strelec-utok-anders-breivik-krajni-pravice.A261110_105501_zahranicni_kha"
-    },
-    {
-      "title": "Volby v Mariánských Lázních platí i přes kupčení s hlasy, rozhodl soud",
-      "summary": "Krajský soud v Plzni uvedl, že volby v Mariánských Lázních provázelo kupčení s hlasy. Volby ale za neplatné neprohlásil, protože se podle něj neprokázalo jednoznačně,…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-10T15:54:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/volby-v-marianskych-laznich-plati-i-pres-kupceni-s-hlasy-rozhodl-soud/r~aaa291cd44be2bdc50d0b6f843f94265/",
-      "importance": "Obyvatelé Mariánských Lázní podle tohoto rozhodnutí k urnám znovu nepůjdou. Soud dokázal spojit odměnu se dvěma odevzdanými lístky. Posoudil také to, zda by bez nich připadl mandát jiné straně nebo se do zastupitelstva dostal jiný kandidát. Ani jedno by se nestalo. U dalších oslovených voličů nedokázal z podkladů určit, kolik hlasů peníze skutečně ovlivnily.\n\nPro město tak zůstává v platnosti zvolené zastupitelstvo. Pro lidi zapojené do kupování hlasů má věc jinou dohru. Policie dál prověřuje původ peněz a případnou účast dalších osob. Výsledek tohoto šetření je důležitý pro určení osobní odpovědnosti i v situaci, kdy prokázané hlasy na rozdělení mandátů nestačily.",
-      "importance_kind": "analysis",
-      "analysis_source": "iDNES.cz",
-      "analysis_url": "https://www.idnes.cz/karlovy-vary/zpravy/volby-hlasy-kupceni-marianske-lazne-soud-navrh-zamitnuti.A261110_105218_vary-zpravy_pkz"
     },
     {
       "title": "Zelenskyj: V Abú Zabí se jednalo o výměně zajatců a návratu ukrajinských dětí",
@@ -337,23 +371,9 @@
       "importance_kind": "analysis",
       "analysis_source": "iDNES.cz",
       "analysis_url": "https://www.idnes.cz/zpravy/domaci/nukib-kyberspionaz-rusko-utok.A261110_140128_domaci_aoc"
-    },
-    {
-      "title": "Sněmovní výbor zahájil řízení vůči Ševčíkovi kvůli výroku o menopauze",
-      "summary": "Sněmovní mandátový a imunitní výbor v úterý zahájil disciplinární řízení vůči poslanci za SPD Miroslavu Ševčíkovi. Ševčík čelí podnětu předsedkyně poslaneckého klubu STAN Michaely Šebelové…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-10T12:33:55+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/snemovni-vybor-zahajil-rizeni-vuci-sevcikovi-kvuli-vyroku-o-menopauze-379474",
-      "importance": "Výbor bude řešit také to, komu byl výrok v sále určen. Poslankyně Šebelová žádá veřejnou omluvu a Ševčík popírá, že mířil na ni. To vysvětluje, proč má výslech obou účastníků význam i tehdy, když je samotné zvolání zachyceno.\n\nOmluva před Sněmovnou by byla konkrétním výsledkem, o který navrhovatelka usiluje. Zahájením řízení uložena nebyla. Výbor má věc znovu projednat 8. prosince a omluvená účast jedné ze stran může ovlivnit, zda již tehdy bude možné rozhodnout.",
-      "importance_kind": "analysis",
-      "analysis_source": "ČTK",
-      "analysis_url": "https://www.ceskenoviny.cz/zpravy/snemovni-vybor-zahajil-rizeni-vuci-sevcikovi-za-spd-kvuli-vyroku-na-plenu/2899801"
     }
   ],
-  "unavailable_sources": [
-    "TN.cz"
-  ],
+  "unavailable_sources": [],
   "sources": [
     {
       "name": "ČT24",
@@ -361,9 +381,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 19,
+      "candidates": 17,
       "selected": 6,
-      "free_articles_checked": 6
+      "free_articles_checked": 7
     },
     {
       "name": "iROZHLAS",
@@ -371,7 +391,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 24,
+      "candidates": 23,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -382,7 +402,7 @@
       "feeds_total": 2,
       "status": "ok",
       "candidates": 22,
-      "selected": 8,
+      "selected": 7,
       "free_articles_checked": 8
     },
     {
@@ -401,7 +421,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -412,8 +432,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 10,
-      "selected": 5,
-      "free_articles_checked": 6
+      "selected": 7,
+      "free_articles_checked": 8
     },
     {
       "name": "Deník",
@@ -423,7 +443,7 @@
       "status": "ok",
       "candidates": 17,
       "selected": 5,
-      "free_articles_checked": 5
+      "free_articles_checked": 6
     },
     {
       "name": "iDNES.cz",
@@ -431,9 +451,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
-      "selected": 5,
-      "free_articles_checked": 6
+      "candidates": 17,
+      "selected": 7,
+      "free_articles_checked": 7
     },
     {
       "name": "CNN Prima NEWS",
@@ -441,7 +461,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 13,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -498,10 +518,10 @@
     {
       "name": "TN.cz",
       "site": "https://tn.nova.cz/",
-      "feeds_ok": 0,
+      "feeds_ok": 1,
       "feeds_total": 1,
-      "status": "unavailable",
-      "candidates": 0,
+      "status": "ok",
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -511,7 +531,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 20,
+      "candidates": 21,
       "selected": 0,
       "free_articles_checked": 0
     }
