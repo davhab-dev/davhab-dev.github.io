@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-11-10T20:02:18.112775+00:00",
+  "updated_at": "2026-11-10T20:56:47.510683+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Netanjahu zaútočil na strany izraelských Arabů. Nabádá k vládě národní jednoty",
+      "summary": "Izraelský premiér Benjamin Netanjahu vyzval k vytvoření vlády národní jednoty a slovně zaútočil na strany izraelských Arabů. Učinil tak v projevu v parlamentu poté, co…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-10T20:44:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/netanjahu-vyzval-k-vlade-narodni-jednoty-a-zautocil-na-strany-izraelskych-arabu.A261110_210950_zahranicni_asus",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Írán se děsí jaderného úderu USA. Rozdává jód a čeká útok na horu Pickaxe",
+      "summary": "Teherán rozdává obyvatelům v okolí jaderných zařízení jódové tablety, zatímco v zemi sílí obavy z dalšího amerického úderu. Jedním z možných cílů by se mohl…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-10T20:30:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/usa-iran-pickaxe-jaderny-program.A261110_145034_zahranicni_dtt",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Soud zneplatnil volby ve Slavětíně. S lístky lidé dostávali i letáky jedné strany",
+      "summary": "Hlasování ve volbách ve Slavětíně na Lounsku prohlásil ústecký krajský soud za neplatné. Vyplývá to z informací zveřejněných na úřední desce soudu. S hlasovacími lístky…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-10T21:26:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/soud-zneplatnil-volby-ve-slavetine-s-listky-lide-dostavali-i-letaky-jedne-strany/r~aaa29c7f8754b4e2e6231a653db84d1b/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "TikToku hrozí ve Španělsku vypnutí. Madridu vadí obsah týkající se zneužívání dětí",
+      "summary": "Španělská vláda požaduje, aby platforma pro sdílení krátkých videí TikTok pozastavila provoz v zemi, dokud neodstraní materiál zobrazující sexuální zneužívání dětí. Informovala o tom agentura…",
+      "source": "CNN Prima NEWS",
+      "category": "svet",
+      "published_at": "2026-11-10T21:15:58+01:00",
+      "url": "https://cnn.iprima.cz/oblibene-socialni-siti-hrozi-v-evropske-zemi-vypnuti-duvodem-je-obsah-se-zneuzivanim-deti-526817",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Zemřela jedna z hrdinek francouzského válečného odboje. Zavzpomínal i Macron",
+      "summary": "Ve věku 104 let zemřela jedna z hrdinek francouzského odboje z druhé světové války Solange Alexandreová. Poté, co působila jako spojka odboje, založila společně se…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-10T20:08:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/umrti-hrdinka-francouzsky-odboj-druha-sv-valka.A261110_193912_zahranicni_rtn",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Dva výbuchy a pak třítunová bomba. Ruský útok na kryt plný civilistů minutu po minutě",
+      "summary": "Ruská armáda zasáhla 2. listopadu podzemní školu v ukrajinské obci Komyšuvacha v Záporožské oblasti. Místo sloužilo jako kryt a výdejna humanitární pomoci. Zemřelo přes 50…",
+      "source": "CNN Prima NEWS",
+      "category": "svet",
+      "published_at": "2026-11-10T21:07:21+01:00",
+      "url": "https://cnn.iprima.cz/dva-vybuchy-a-pak-tritunova-bomba-rusky-utok-na-kryt-plny-civilistu-minutu-po-minute-526776",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Levice v Berlíně chce vyloučit svou poslankyni Emdeovou. Neuznává Izrael",
       "summary": "Radikálně levicová strana Levice v Berlíně připraví návrh na vyloučení kontroverzní poslankyně Vanessy Emdeové ze svého poslaneckého klubu v zemském parlamentu kvůli jejím postojům ke…",
@@ -63,16 +123,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Po energetice a mostech přichází na řadu vyhladovění. Kam zamíří další ruské útoky",
-      "summary": "Rusko plánuje útočit na obilné sklady a další objekty potravinářského průmyslu na Ukrajině, varuje tamější ministerstvo obrany. To by mohlo pro zemi sužovanou válkou znamenat…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-10T19:22:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-utok-obilniny.A261110_192017_zahranicni_balu",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Zemřela francouzská hrdinka odboje. Proti nacistům vedla třicet mužů",
       "summary": "Ve věku 104 let zemřela jedna z hrdinek francouzského odboje z druhé světové války Solange Alexandreová. Poté, co působila jako spojka odboje, založila společně se…",
       "source": "Deník",
@@ -91,30 +141,6 @@
       "url": "https://www.idnes.cz/zpravy/domaci/studenti-demonstrace-na-podporu-verejnopravnich-medii.A261110_080537_domaci_jira",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
-    },
-    {
-      "title": "Vyhrožuje, vydírá. Babiše a Fica nahněval Merzův požadavek ohledně Ukrajiny",
-      "summary": "Premiéři Česka a Slovenska Andrej Babiš a Robert Fico se ohradili vůči výzvě německého kancléře Friedricha Merze, aby se všechny země Evropské unie bez výjimky…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-10T17:46:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/babis-a-fico-se-ohradili-vuci-vyzve-merze-k-dalsi-financni-podpore-ukrajiny.A261110_115706_domaci_aoc",
-      "importance": "Ukrajina odhaduje schodek svého rozpočtu pro rok 2027 na 70 miliard eur. Unie se zavázala pokrýt 45 miliard, ale členské státy se ještě nedohodly, odkud peníze vezmou. Praha a Bratislava mají výjimku ze záruk za dřívější půjčku ve výši 90 miliard eur. Pro nový závazek zatím není určen český ani slovenský příspěvek.\n\nFico označil německý požadavek na účast všech států za vydírání a odmítl účast Slovenska na další půjčce. Babiš v dopise předsedovi Evropské rady odmítl spojit financování Ukrajiny s jednáním o víceletém rozpočtu EU. Pro Kyjev bude rozhodující až dohoda, která určí zdroj peněz a podíl jednotlivých zemí. Z vystoupení premiérů neplyne, že jednání o rozpočtu už byla zablokována.",
-      "importance_kind": "analysis",
-      "analysis_source": "ČTK",
-      "analysis_url": "https://www.ceskenoviny.cz/zpravy/babis-a-fico-se-ohradili-vuci-vyzve-merze-k-financni-podpore-ukrajiny/2899954"
-    },
-    {
-      "title": "USA přišly s „kartografickým trikem“, aby Putinovi na Donbase zařídily vítězství",
-      "summary": "Američtí vyjednavači navrhli překreslení hranic ukrajinské Doněcké a Luhanské oblasti. Ruský prezident Vladimir Putin by tak mohl na papíře prohlásit, že Rusko plně ovládá Donbas,…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-10T17:23:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/navrh-prekresleni-hranice-ukrajina-rusko-usa-jednani.A261110_155742_zahranicni_fohl",
-      "importance": "Podle informací časopisu The Economist, které přinesl iDNES.cz, američtí vyjednavači zvažovali změnu správních hranic na Donbase. Moskva by podle této úvahy mohla prohlásit svůj územní požadavek za splněný a Ukrajina by si podržela opevněná města, která brání. Článek popisuje vyjednávací nápad. Nedokládá souhlas Kyjeva ani Moskvy.\n\nPro obyvatele dotčených měst je rozhodující, kdo by území skutečně spravoval a jaké bezpečnostní záruky by po příměří platily. Samotná změna mapy tyto otázky neřeší. Zelenskyj po rozhovorech v Abú Zabí potvrdil diskusi o bezpečnostních zárukách a návratu zajatců. Přijetí nové hranice neoznámil.",
-      "importance_kind": "analysis",
-      "analysis_source": "iDNES.cz",
-      "analysis_url": "https://www.idnes.cz/zpravy/zahranicni/navrh-prekresleni-hranice-ukrajina-rusko-usa-jednani.A261110_155742_zahranicni_fohl"
     },
     {
       "title": "Trest smrti za zbabělost. Konžský soud odsoudil 66 vojáků, chce zlepšit morálku",
@@ -187,18 +213,6 @@
       "analysis_url": "https://www.ceskenoviny.cz/zpravy/v-praze-povladne-koalice-stan-spolu-a-prahy-sobe/2895938"
     },
     {
-      "title": "STAN pouští Piráty k vodě. Společně se SPOLU chce jít do koalice s Prahou sobě",
-      "summary": "Hnutí STAN, které vyhrálo pražské komunální volby, chce sestavit koalici se SPOLU (ODS, TOP 09) a s Prahou sobě. Dnes to na základě dosavadních koaličních…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-10T16:57:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/stan-vitez-voleb-v-praze-chce-sestavit-koalici-se-spolu-a-prahou-sobe.A261110_175123_domaci_remy",
-      "importance": "Pražští Starostové chtějí do rady přizvat Prahu sobě. Jejích 13 zastupitelů by doplnilo po 17 mandátech STAN a Spolu. Piráti by se svými sedmi mandáty zůstali mimo radu, pokud navržené složení přijmou i partneři a zastupitelstvo vedení skutečně zvolí.\n\nPodle dosavadních jednání by STAN získal pět míst v jedenáctičlenné radě včetně primátora, Spolu čtyři a Praha sobě dvě. Které oblasti jednotliví radní převezmou a na jakých projektech se shodnou, má upřesnit koaliční smlouva a program. Strany je chtějí připravit před pokračováním ustavující schůze 19. listopadu.",
-      "importance_kind": "analysis",
-      "analysis_source": "iDNES.cz",
-      "analysis_url": "https://www.idnes.cz/zpravy/domaci/stan-vitez-voleb-v-praze-chce-sestavit-koalici-se-spolu-a-prahou-sobe.A261110_175123_domaci_remy"
-    },
-    {
       "title": "Agentura EU varovala před útoky na domácí spotřebiče",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -223,16 +237,14 @@
       "analysis_url": "https://www.ceskenoviny.cz/zpravy/vlada-vypsala-vyberove-rizeni-na-predsedu-uohs-nastoupi-od-prosince/2900198"
     },
     {
-      "title": "Masový exodus a vojáci v ulicích. V JAR graduje násilí vůči migrantům",
+      "title": "Vlna násilí proti migrantům v JAR spustila nebývalý exodus",
       "summary": "V Jihoafrické republice v posledních měsících sílí protiimigrační protesty a xenofobní útoky. Vláda po brutálním ubití cizince nasadila stovky vojáků do města Durban a pozastavila…",
       "source": "ČT24",
       "category": "svet",
       "published_at": "2026-11-10T16:30:00+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/masovy-exodus-a-vojaci-v-ulicich-v-jar-graduje-nasili-vuci-migrantum-379475",
-      "importance": "Nasazení vojáků v Durbanu může krátkodobě pomoci rodinám, které se kvůli násilí bojí vyjít z domu. O tom, zda se budou moci vrátit k práci nebo posílat děti do školy, ale rozhodne i bezpečnost po odchodu hlídek. Odjezd před hrozbami navíc představuje jinou situaci než úřední deportace.\n\nRozdíl ovlivňuje výklad uváděných počtů. Evidence lidí vrácených úřady nezachytí každého, kdo odešel sám ze strachu před útoky. Pro posouzení účinku zásahu je proto důležité sledovat vedle evidovaných návratů také to, zda násilí ustává v konkrétních komunitách.",
-      "importance_kind": "analysis",
-      "analysis_source": "ČT24",
-      "analysis_url": "https://ct24.ceskatelevize.cz/clanek/svet/masovy-exodus-a-vojaci-v-ulicich-v-jar-graduje-nasili-vuci-migrantum-379475"
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
     },
     {
       "title": "Skandál šéfa Nvidie pokračuje. Trump ho hájí, milenka bývala novinářkou",
@@ -279,28 +291,6 @@
       "importance_kind": "analysis",
       "analysis_source": "Aktuálně.cz",
       "analysis_url": "https://zpravy.aktualne.cz/zahranici/zive-exkluzivni-debata-americkych-velvyslancu-o-dopadu-voleb-v-usa-na-evropu/r~aaa294fe6132771ad0c59382dd2b649d/"
-    },
-    {
-      "title": "Rozhodnutí vlády? Okamura přiznal, že spojenci české vojáky na obří cvičení nepozvali",
-      "summary": "Ukazuje se, že po nástupu vlády Andreje Babiše (ANO) a příchodu SPD na ministerstvo obrany se spojenci od Česka odvracejí. To se projevilo i při…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-10T16:37:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/spojenecke-manevry-bez-ceskych-vojaku-nepozvali-nas-otocil-okamura/r~aaa291326a7e83a94e954a79eb78a238/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Zelenskyj oznámil posun v jednáních s Ruskem a USA, řešili se zajatci i děti",
-      "summary": "Zástupci Ukrajiny, Ruska a USA při úterních třístranných jednáních v Abú Zabí diskutovali o výměnách zajatců a návratu ukrajinských dětí do vlasti, uvedl v úterý…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-10T16:05:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/zelenskyj-oznamil-posun-v-jednanich-s-ruskem-a-usa-resili-se-zajatci-i-deti/r~aaa297d2baa64a78016c8d1d42789346/",
-      "importance": "Jednání o zajatcích nabízí výsledek, který mohou rodiny ověřit přímo. Zprávu o posunu v rozhovorech ale nelze zaměnit za potvrzení návratu konkrétního člověka. To nastane až při uskutečněné výměně. Podobně má debata o návratu dětí význam především tehdy, když se skutečně podaří předat děti jejich blízkým.\n\nBezpečnostní záruky mají jiný časový horizont. Mají řešit, co se stane při ohrožení Ukrajiny po možné mírové dohodě. Úspěch jednotlivé humanitární výměny proto může prospět rodinám dlouho předtím, než bude shoda na budoucím uspořádání.",
-      "importance_kind": "analysis",
-      "analysis_source": "ČTK",
-      "analysis_url": "https://www.ceskenoviny.cz/zpravy/zelenskyj-v-abu-zabi-se-jednalo-o-vymene-zajatcu-a-navratu-ukrajinskych-deti/2896477"
     },
     {
       "title": "Zelenskyj: V Abú Zabí se jednalo o výměně zajatců a návratu ukrajinských dětí",
@@ -431,9 +421,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
-      "selected": 7,
-      "free_articles_checked": 8
+      "candidates": 9,
+      "selected": 6,
+      "free_articles_checked": 7
     },
     {
       "name": "Deník",
@@ -451,8 +441,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
-      "selected": 7,
+      "candidates": 18,
+      "selected": 6,
       "free_articles_checked": 7
     },
     {
@@ -461,9 +451,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
-      "selected": 1,
-      "free_articles_checked": 1
+      "candidates": 14,
+      "selected": 3,
+      "free_articles_checked": 3
     },
     {
       "name": "E15",
