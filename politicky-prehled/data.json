@@ -79,8 +79,10 @@
       "category": "svet",
       "published_at": "2026-11-10T20:30:00+00:00",
       "url": "https://www.idnes.cz/zpravy/zahranicni/usa-iran-pickaxe-jaderny-program.A261110_145034_zahranicni_dtt",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Článek připisuje informaci o rozdávání jódových tablet představiteli íránského zdravotnictví citovanému deníkem The Times. Nedokládá rozhodnutí USA použít jadernou zbraň. Varování před takovým útokem pochází mimo jiné od komentátora Tuckera Carlsona a anonymních zdrojů; nezávislé české potvrzení tohoto scénáře se nepodařilo dohledat.\n\nPro obyvatele okolí komplexu Pickaxe by případný úder představoval zásadní bezpečnostní riziko, jeho podobu však z článku nelze určit. Podklad výslovně uvádí neznámý obsah podzemního areálu a neověřený původ kolujícího instruktážního videa. Rozhodujícími novými podklady by byly oficiální kroky úřadů a ověřené informace o zařízení. Samotná distribuce tablet nedokazuje blížící se jaderný výbuch ani jeho následky.",
+      "importance_kind": "analysis",
+      "analysis_source": "iDNES.cz",
+      "analysis_url": "https://www.idnes.cz/zpravy/zahranicni/usa-iran-pickaxe-jaderny-program.A261110_145034_zahranicni_dtt"
     },
     {
       "title": "Soud zneplatnil volby ve Slavětíně. S lístky lidé dostávali i letáky jedné strany",
@@ -149,8 +151,10 @@
       "category": "svet",
       "published_at": "2026-11-10T20:52:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/krakovsky-strelec-ktery-zabil-devet-lidi-se-zajimal-o-breivika-rekl-ministr/2900278",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Polské úřady po smrti pachatele pokračují ve zkoumání jeho kontaktů, zbraní a motivace. Ministr spravedlnosti spojuje nálezy s krajní pravicí, zatímco citovaný prokurátor hovoří obecněji o extremistických ideologiích. Článek tak nedokládá uzavřený závěr o politickém motivu. Smrt střelce podle podkladu vylučuje jeho obžalobu, nikoli další objasňování události.\n\nTusk požaduje revizi pravidel pro zbraně a přísnější kontrolu chování na internetu, ale konkrétní změnu pravidel zpráva neoznamuje. Pro držitele zbraní ani provozovatele služeb z této výzvy zatím nelze odvozovat novou povinnost. Další posun ukážou výsledky forenzních analýz a případný přesný návrh změn, který bude možné posoudit podle rozsahu a účinnosti.",
+      "importance_kind": "analysis",
+      "analysis_source": "ČTK / České noviny",
+      "analysis_url": "https://www.ceskenoviny.cz/zpravy/krakovsky-strelec-ktery-zabil-devet-lidi-se-zajimal-o-breivika-rekl-ministr/2900278"
     },
     {
       "title": "AI Osobností roku se stal podnikatel Tomáš Čupr, uspěl i ministr Vojtěch",
@@ -159,8 +163,10 @@
       "category": "domaci",
       "published_at": "2026-11-10T19:47:00+00:00",
       "url": "https://www.idnes.cz/ekonomika/domaci/ai-osobnosti-roku-se-stal-podnikatel-tomas-cupr-uspel-i-ministr-vojtech.A261110_204106_ekonomika_remy",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Ceny České asociace AI zvyšují veřejnou viditelnost oceněných osobností, včetně ministra zdravotnictví Adama Vojtěcha. Jde o výsledek soutěže pořádané asociací, nikoli o rozhodnutí vlády či posouzení účinnosti konkrétního zdravotnického systému. Článek odlišuje veřejné nominace od samostatné ceny odborné poroty.\n\nPro pacienty nebo uživatele veřejných služeb samotné ocenění nezavádí novou službu ani nárok. Praktický přínos by bylo nutné doložit konkrétním nasazením technologií a měřitelnými výsledky. Zpráva neobsahuje rozpočty, harmonogram takového zavádění ani údaje o jeho účincích; závěr o zlepšení péče z ní proto neplyne.",
+      "importance_kind": "analysis",
+      "analysis_source": "iDNES.cz",
+      "analysis_url": "https://www.idnes.cz/ekonomika/domaci/ai-osobnosti-roku-se-stal-podnikatel-tomas-cupr-uspel-i-ministr-vojtech.A261110_204106_ekonomika_remy"
     },
     {
       "title": "Babiš v „pikošce\" spojil Vrbětice a Vondru. „Neberte si ho do pusy,“ zuřil Kupka",
