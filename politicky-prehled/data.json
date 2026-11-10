@@ -57,8 +57,10 @@
       "category": "svet",
       "published_at": "2026-11-10T18:22:33+01:00",
       "url": "https://cnn.iprima.cz/demokraticka-republika-kongo-udelila-66-vojakum-trest-smrti-jste-zbabeli-prohlasil-soud-526767",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Konžský soud rozhodoval o 71 vojácích, které armáda obvinila po ústupu před povstalci. Podle CNN Prima NEWS s odvoláním na BBC uložil 66 trestů smrti, jednoho vojáka poslal na deset let do vězení a čtyři osvobodil. Zpráva neuvádí, zda jsou rozsudky pravomocné ani zda byl některý trest vykonán.\n\nArmáda očekává, že přísné tresty omezí útěky z jednotek na východě země. Tento účinek zatím nedoložila. Vojáci zároveň poukazují na nedostatečnou výstroj a nízké platy. Rozsudek sám tyto podmínky služby nemění.",
+      "importance_kind": "analysis",
+      "analysis_source": "CNN Prima NEWS",
+      "analysis_url": "https://cnn.iprima.cz/demokraticka-republika-kongo-udelila-66-vojakum-trest-smrti-jste-zbabeli-prohlasil-soud-526767"
     },
     {
       "title": "Starostové řekli, s kým budou vládnout Praze. Piráti jsou ze hry venku",
@@ -67,8 +69,10 @@
       "category": "domaci",
       "published_at": "2026-11-10T18:15:00+01:00",
       "url": "https://zpravy.aktualne.cz/domaci/stan-si-v-praze-vybral-koalicni-partnery-chce-vladnout-se-spolu-a-prahou-sobe/r~aaa29d1cf5e3bd4abec35af450b3c355/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Pražský zastupitelský klub STAN zvolil pro další jednání Spolu a Prahu sobě. Tato trojice má 47 ze 65 mandátů. Pokud dohodu přijmou také zbývající dva kluby, může nové vedení města zvolit bez hlasů Pirátů, kteří se na dosavadní radě podíleli.\n\nPro obyvatele Prahy je důležité zejména obsazení dopravy a městského majetku. Podle dosavadních jednání mají obě oblasti připadnout Praze sobě. Rozdělení mají strany upřesnit 11. listopadu. Samotnou radu má zastupitelstvo volit po obnovení ustavující schůze 19. listopadu.",
+      "importance_kind": "analysis",
+      "analysis_source": "Aktuálně.cz",
+      "analysis_url": "https://zpravy.aktualne.cz/domaci/stan-si-v-praze-vybral-koalicni-partnery-chce-vladnout-se-spolu-a-prahou-sobe/r~aaa29d1cf5e3bd4abec35af450b3c355/"
     },
     {
       "title": "EU varuje před dalšími kyberútoky. Ohroženy mohou být i domácnosti",
@@ -77,8 +81,10 @@
       "category": "svet",
       "published_at": "2026-11-10T18:03:45+01:00",
       "url": "https://www.denik.cz/evropa/eu-varuje-pred-dalsimi-kyberutoky-ohrozeny-mohou-byt-i-domacnosti/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Evropské supermarkety už pocítily konkrétní následek útoků na chlazení. Když teplota v mrazácích stoupla, některé provozovny musely vyřadit potraviny. Ve Francii incident zasáhl přibližně 700 míst obchodních řetězců. Pro obchodníky tak výpadek znamená i ztrátu zásob, přestože prodejna sama zůstane otevřená.\n\nŘeditel evropské agentury ENISA upozornil, že podobným rizikům mohou být vystaveny také domácí routery a připojené spotřebiče. Jde o varování před možným dalším cílem. Zpráva nedokládá útok na české domácnosti ani neoznačuje konkrétní model, který by lidé měli přestat používat.",
+      "importance_kind": "analysis",
+      "analysis_source": "ČTK",
+      "analysis_url": "https://www.ceskenoviny.cz/zpravy/agentura-eu-varovala-pred-utoky-na-domaci-spotrebice/2900212"
     },
     {
       "title": "Rusko převzalo koncept ukrajinské iniciativy „Koláč nezávislosti“",
