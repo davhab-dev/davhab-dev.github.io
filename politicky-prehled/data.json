@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-11-10T15:00:37.529803+00:00",
+  "updated_at": "2026-11-10T15:58:58.291890+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Havlíček přivezl na Ukrajinu nejpočetnější českou delegaci. Nechybějí známé firmy",
+      "summary": "Od našich zpravodajů na Ukrajině – První místopředseda vlády a ministr průmyslu a obchodu Karel Havlíček (ANO) dorazil na Ukrajinu. „Mám s členy ukrajinské vlády…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-10T15:48:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/havlicek-cesta-na-ukrajinu-delegace-prilet.A261110_163204_domaci_ijan",
+      "importance": "Další vývoj může ovlivnit bezpečnost obyvatel, humanitární situaci i vztahy mezi státy. Zhoršení situace může zvýšit nároky na pomoc a tlak na diplomatická jednání.",
+      "importance_kind": "possible_impact"
+    },
+    {
+      "title": "Živě: Exkluzivní debata amerických velvyslanců o dopadu voleb v USA na Evropu",
+      "summary": "Sledujte exkluzivní debatu dřívějších amerických velvyslanců v Česku Stephena B. Kinga a Normana L. Eisena spolu s bývalým ministrem zahraničních věcí Tomášem Petříčkem a reportérem…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-10T16:45:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/zive-exkluzivni-debata-americkych-velvyslancu-o-dopadu-voleb-v-usa-na-evropu/r~aaa294fe6132771ad0c59382dd2b649d/",
+      "importance": "Vývoj může změnit složení vedení a priority při rozhodování o veřejných penězích. Výsledek bude záviset na dalších jednáních a konkrétních dohodách.",
+      "importance_kind": "possible_impact"
+    },
+    {
+      "title": "Ve Francii sílí autoritářské praktiky, varuje Amnesty International",
+      "summary": "Lidskoprávní organizace Amnesty International v úterý varovala před ohrožením právního státu ve Francii a sílícími projevy autoritářských praktik v zemi. Prohlášení přichází v době celostátních…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-10T15:39:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ve-francii-sili-autoritarske-praktiky-varuje-amnesty-international.A261110_161214_zahranicni_kha",
+      "importance": "Další reakce mohou ovlivnit vztahy mezi zúčastněnými zeměmi nebo institucemi. Z dostupného popisu nelze konkrétnější dopad spolehlivě odhadnout.",
+      "importance_kind": "possible_impact"
+    },
+    {
+      "title": "Trumpova rodina, Epstein i ICE. Demokraté odhalili, na co si po volbách posvítí",
+      "summary": "Demokraté v USA po volebním vítězství chystají sérii vyšetřování Trumpovy administrativy. Zaměřit se chtějí na možné střety zájmů prezidentovy rodiny, postupy imigračního úřadu ICE, korupci…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-10T16:37:37+01:00",
+      "url": "https://www.denik.cz/svet/volby-usa-demokrate-rekli-na-co-se-u-donalda-trumpa-zameri-vysetrovani/",
+      "importance": "Vývoj může změnit složení vedení a priority při rozhodování o veřejných penězích. Výsledek bude záviset na dalších jednáních a konkrétních dohodách.",
+      "importance_kind": "possible_impact"
+    },
+    {
+      "title": "Spojenecké manévry bez českých vojáků? Nepozvali nás, otočil Okamura",
+      "summary": "Ukazuje se, že po nástupu vlády Andreje Babiše (ANO) a příchodu SPD na ministerstvo obrany se spojenci od Česka odvracejí. To se projevilo i při…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-10T16:37:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/spojenecke-manevry-bez-ceskych-vojaku-nepozvali-nas-otocil-okamura/r~aaa291326a7e83a94e954a79eb78a238/",
+      "importance": "Pokud na vyjádření navážou konkrétní kroky, mohou změnit priority vlády nebo vztahy s jejími partnery. Bez následného rozhodnutí může dopad zůstat hlavně v politické debatě.",
+      "importance_kind": "possible_impact"
+    },
+    {
+      "title": "Na klimatickou konferenci OSN dorazili brazilský prezident Lula i Thunbergová",
+      "summary": "Brazilský prezident Luiz Inácio Lula da Silva v noci na úterý oznámil svůj příjezd na klimatickou konferenci OSN, která se koná v Turecku. Celkem by…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-10T15:28:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/konference-klima-osn-turecko-prezident-lula-thunbergova.A261110_161320_zahranicni_fohl",
+      "importance": "Pokud na vyjádření navážou konkrétní kroky, mohou změnit priority vlády nebo vztahy s jejími partnery. Bez následného rozhodnutí může dopad zůstat hlavně v politické debatě.",
+      "importance_kind": "possible_impact"
+    },
+    {
+      "title": "Němci zasazují druhou ránu. Merz trvá na emisních povolenkách, které odmítá Babiš",
+      "summary": "Německý kancléř Friedrich Merz vyzval v dopise Evropskou komisi, aby neustupovala od plánu na zavedení systému emisních povolenek ETS2. Napsal to dnes časopis Der Spiegel,…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-10T15:25:00+00:00",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/der-spiegel-merz-vyzval-evropskou-komisi-aby-neustupovala-od-zavedeni-ets2.A261110_161358_eko-zahranicni_remy",
+      "importance": "Další reakce mohou ovlivnit vztahy mezi zúčastněnými zeměmi nebo institucemi. Z dostupného popisu nelze konkrétnější dopad spolehlivě odhadnout.",
+      "importance_kind": "possible_impact"
+    },
+    {
+      "title": "Zelenskyj oznámil posun v jednáních s Ruskem a USA, řešili se zajatci i děti",
+      "summary": "Zástupci Ukrajiny, Ruska a USA při úterních třístranných jednáních v Abú Zabí diskutovali o výměnách zajatců a návratu ukrajinských dětí do vlasti, uvedl v úterý…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-10T16:05:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/zelenskyj-oznamil-posun-v-jednanich-s-ruskem-a-usa-resili-se-zajatci-i-deti/r~aaa297d2baa64a78016c8d1d42789346/",
+      "importance": "Další vývoj může ovlivnit bezpečnost obyvatel, humanitární situaci i vztahy mezi státy. Zhoršení situace může zvýšit nároky na pomoc a tlak na diplomatická jednání.",
+      "importance_kind": "possible_impact"
+    },
+    {
+      "title": "Krakovský střelec se zajímal o Breivika, řekl ministr",
+      "summary": "Krakovský střelec, který zabil tři členy své rodiny a šest náhodných kolemjdoucích, se zajímal o norského neonacistického extremistu Anderse Breivika, řekl podle agentury PAP ministr…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-10T15:04:22+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/krakovsky-strelec-se-zajimal-o-breivika-rekl-ministr-379479",
+      "importance": "Pokud na vyjádření navážou konkrétní kroky, mohou změnit priority vlády nebo vztahy s jejími partnery. Bez následného rozhodnutí může dopad zůstat hlavně v politické debatě.",
+      "importance_kind": "possible_impact"
+    },
     {
       "title": "Volby v Mariánských Lázních platí i přes kupčení s hlasy, rozhodl soud",
       "summary": "Krajský soud v Plzni uvedl, že volby v Mariánských Lázních provázelo kupčení s hlasy. Volby ale za neplatné neprohlásil, protože se podle něj neprokázalo jednoznačně,…",
@@ -53,16 +143,6 @@
       "importance_kind": "possible_impact"
     },
     {
-      "title": "Prezidentské volby ve Francii 2027: Kdy budou a kdo kandiduje",
-      "summary": "Francii čekají na jaře 2027 prezidentské volby, které rozhodnou o nástupci Emmanuela Macrona. Současný prezident se po dvou po sobě jdoucích funkčních obdobích znovu ucházet…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-10T14:46:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/prezidentske-volby-ve-francii-2027-kdy-budou-a-kdo-kandiduje.A260731_131410_zahranicni_wall",
-      "importance": "Vývoj může změnit složení vedení a priority při rozhodování o veřejných penězích. Výsledek bude záviset na dalších jednáních a konkrétních dohodách.",
-      "importance_kind": "possible_impact"
-    },
-    {
       "title": "Pavel bude jednat s Babišem mimo jiné o jmenování předsedy ÚOHS",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -70,36 +150,6 @@
       "published_at": "2026-11-10T15:44:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/pavel-bude-jednat-s-babisem-mimo-jine-o-jmenovani-predsedy-uohs/2900135",
       "importance": "Další postup může ovlivnit rozhodování příslušných úřadů a lidí, kterých se téma týká. Z dostupného popisu nelze konkrétnější dopad spolehlivě odhadnout.",
-      "importance_kind": "possible_impact"
-    },
-    {
-      "title": "Politické divadlo, pomáhá to nepřátelům, kritizuje Hegseth návrh impeachmentu",
-      "summary": "Americký ministr obrany Pete Hegseth označil snahu o podání ústavní žaloby na jeho osobu kvůli válce v Íránu za politické divadlo, které selže. Nepřátelům Spojených…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-10T14:19:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/hegseth-ustavni-zaloba-impeachment-usa-republikani-iran.A261110_144031_zahranicni_jhr",
-      "importance": "Další vývoj může ovlivnit bezpečnost obyvatel, humanitární situaci i vztahy mezi státy. Zhoršení situace může zvýšit nároky na pomoc a tlak na diplomatická jednání.",
-      "importance_kind": "possible_impact"
-    },
-    {
-      "title": "„Jede se schovat.“ Opozice tepe Babiše za neúčast na oslavách 17. listopadu",
-      "summary": "Opozice ostře kritizuje rozhodnutí premiéra Andreje Babiše (ANO) nezúčastnit se oslav 17. listopadu. Premiér bude v té době spolu s ministrem zahraničí Petrem Macinkou (Motoristé)…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-10T14:18:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/opozice-kupka-havel-babis-17-listopad.A261110_103559_domaci_mul",
-      "importance": "Neúčast premiéra může zesílit kritiku opozice a přesunout pozornost od oslav k politickému sporu. Dopad na důvěru veřejnosti bude záviset i na dalším vysvětlení vlády.",
-      "importance_kind": "possible_impact"
-    },
-    {
-      "title": "Babišova návštěva Izraele je oslavou 17. listopadu, míní Vondráček",
-      "summary": "Premiér Andrej Babiš oznámil, že se z důvodu pracovní cesty do Izraele nezúčastní vzpomínkových akcí konaných na výročí Sametové revoluce. Společně s ním odlétá také…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-10T14:17:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/narodni-trida-17-listopad-ucast-potvrdila-schillerova-havlicek.A261110_102109_domaci_jira",
-      "importance": "Neúčast premiéra může zesílit kritiku opozice a přesunout pozornost od oslav k politickému sporu. Dopad na důvěru veřejnosti bude záviset i na dalším vysvětlení vlády.",
       "importance_kind": "possible_impact"
     },
     {
@@ -120,16 +170,6 @@
       "published_at": "2026-11-10T13:51:29+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/nukib-upozornuje-na-ruske-kyberutoky-hrozi-pry-i-destruktivni-379478",
       "importance": "Další útoky mohou narušit služby nebo vést k úniku dat. Pro dotčené instituce to může znamenat náklady na obnovu provozu a posílení zabezpečení.",
-      "importance_kind": "possible_impact"
-    },
-    {
-      "title": "Střelec z Krakova se zajímal o norského vraha Breivika, zjistila policie",
-      "summary": "Krakovský střelec, který zabil tři členy své rodiny a šest náhodných kolemjdoucích, se zajímal o norského neonacistického extremistu Anderse Breivika. V úterý to řekl ministr…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-10T13:44:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/polsko-krakov-strelec-utok-anders-breivik-krajni-pravice.A261110_105501_zahranicni_kha",
-      "importance": "Pokud na vyjádření navážou konkrétní kroky, mohou změnit priority vlády nebo vztahy s jejími partnery. Bez následného rozhodnutí může dopad zůstat hlavně v politické debatě.",
       "importance_kind": "possible_impact"
     },
     {
@@ -163,16 +203,6 @@
       "importance_kind": "possible_impact"
     },
     {
-      "title": "Demokraté chystají pro Ukrajinu pomoc za 330 miliard, chtějí obejít Trumpa",
-      "summary": "Demokraté po vítězství v amerických kongresových volbách připravují pomoc Ukrajině za přibližně 330 miliard korun. Chtějí také zpřísnit sankce proti Rusku a prověřit omezení satelitního…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-10T13:54:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/demokrate-chystaji-pro-ukrajinu-pomoc-za-330-miliard-chteji-obejit-trumpa/r~aaa29e09d8d74951b266afe48c0ca4bb/",
-      "importance": "Vývoj může změnit složení vedení a priority při rozhodování o veřejných penězích. Výsledek bude záviset na dalších jednáních a konkrétních dohodách.",
-      "importance_kind": "possible_impact"
-    },
-    {
       "title": "Zelenskyj přicestoval do Kodaně; Dánsko daruje Ukrajině pomoc za 15,6 miliard Kč",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -200,16 +230,6 @@
       "published_at": "2026-11-10T12:33:55+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/snemovni-vybor-zahajil-rizeni-vuci-sevcikovi-kvuli-vyroku-o-menopauze-379474",
       "importance": "Vývoj může změnit složení vedení a priority při rozhodování o veřejných penězích. Výsledek bude záviset na dalších jednáních a konkrétních dohodách.",
-      "importance_kind": "possible_impact"
-    },
-    {
-      "title": "Je posedlý dějinami, překrucuje fakta. Za Rusy dojednává mír ideolog. Kreml jím pohrdá",
-      "summary": "Do Abú Dhabí dorazily na dvoudenní setkání ruská, americká a ukrajinská delegace. Jenže podle analytiků to nevypadá, že po úterku či středě bude blíž k…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-10T13:30:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/je-posedly-dejinami-prekrucuje-fakta-za-rusy-dojednava-mir-ideolog-kreml-jim-pohrda/r~aaa29bd581413b97ee383d2da40806c1/",
-      "importance": "Další vývoj může ovlivnit bezpečnost obyvatel, humanitární situaci i vztahy mezi státy. Zhoršení situace může zvýšit nároky na pomoc a tlak na diplomatická jednání.",
       "importance_kind": "possible_impact"
     },
     {
@@ -253,36 +273,6 @@
       "importance_kind": "possible_impact"
     },
     {
-      "title": "Nervozita v ODS: Vyměňme vedení, zní z regionů. Kupka už reagoval",
-      "summary": "Předsednictvo ODS bude v pátek řešit situaci a nespokojenost ve straně. Uvedl to šéf občanských demokratů Martin Kupka. Mezi straníky totiž roste nespokojenost z vývoje…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-10T12:37:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/nervozita-v-ods-vymenme-vedeni-zni-z-regionu-prizen-volicu-slabne/r~aaa29e41cdae6367ae20c8853989284f/",
-      "importance": "Další postup může ovlivnit rozhodování příslušných úřadů a lidí, kterých se téma týká. Z dostupného popisu nelze konkrétnější dopad spolehlivě odhadnout.",
-      "importance_kind": "possible_impact"
-    },
-    {
-      "title": "Pavel promluvil o své (ne)chuti být prezidentem. Prozradil, co ho nakonec změnilo",
-      "summary": "Při debatách ohledně prezidenta Petra Pavla často padají otázky, do jaké míry ho vlastně baví být prezidentem a zda vůbec chtěl a chce tento úřad…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-10T12:18:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/pavel-promluvil-o-sve-ne-chuti-byt-prezidentem-prozradil-co-ho-nakonec-zmenilo/r~aaa299dbb288c27d10dae2fdae9d537f/",
-      "importance": "Pokud na vyjádření navážou konkrétní kroky, mohou změnit priority vlády nebo vztahy s jejími partnery. Bez následného rozhodnutí může dopad zůstat hlavně v politické debatě.",
-      "importance_kind": "possible_impact"
-    },
-    {
-      "title": "V Bulharsku se v mlze srazilo přes 80 aut: Jedenáct mrtvých a desítky zraněných",
-      "summary": "Několik hromadných srážek desítek vozidel si v úterý ráno na dálnici nedaleko města Jambol na jihovýchodě Bulharska vyžádalo nejméně 11 mrtvých a 48 zraněných. Informovala…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-10T11:51:23+01:00",
-      "url": "https://www.denik.cz/evropa/hromadna-srazka-v-bulharsku-jedenact-mrtvych-a-desitky-zranenych/",
-      "importance": "Další reakce mohou ovlivnit vztahy mezi zúčastněnými zeměmi nebo institucemi. Z dostupného popisu nelze konkrétnější dopad spolehlivě odhadnout.",
-      "importance_kind": "possible_impact"
-    },
-    {
       "title": "Srážka skoro devadesáti aut si v Bulharsku vyžádala dvanáct mrtvých",
       "summary": "Několik hromadných srážek desítek vozidel si v úterý ráno na dálnici nedaleko města Jambol na jihovýchodě Bulharska vyžádalo nejméně dvanáct mrtvých a 48 zraněných, informovala…",
       "source": "ČT24",
@@ -300,26 +290,6 @@
       "published_at": "2026-11-10T10:48:07+01:00",
       "url": "https://cnn.iprima.cz/novy-pokus-o-mir-prehledne-evropa-se-obava-trumpovy-hry-v-cem-jsou-jednani-tentokrat-jina-526708",
       "importance": "Dohoda by mohla omezit boje a otevřít prostor pro bezpečnostní záruky či obnovu země. Pokud jednání selžou, nejistota pro obyvatele i spojence může pokračovat.",
-      "importance_kind": "possible_impact"
-    },
-    {
-      "title": "Dva ze tří soudců, kteří vrátili Rusko na hokejová MS, pobývali v Moskvě, píše web",
-      "summary": "Dva ze tří soudců mezinárodní sportovní arbitráže CAS, kteří v říjnu rozhodli o návratu Ruska na hokejová mistrovství světa, pobývali v nedávné době v Moskvě,…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-10T09:37:49+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/dva-ze-tri-soudcu-kteri-vratili-rusko-na-hokejova-ms-pobyvali-v-moskve-pise-web-379466",
-      "importance": "Spor může ovlivnit účast sportovců na mezinárodních soutěžích a vztahy mezi svazy. Diplomatické reakce mohou přenést téma i do jednání mezi státy.",
-      "importance_kind": "possible_impact"
-    },
-    {
-      "title": "Jelínek: Babišův úprk do Izraele osten protestů neotupí. Slízne si to potom",
-      "summary": "Rozhodnutí premiéra Andreje Babiše vydat se během oslav 17. listopadu na státní návštěvu Izraele zabrání tomu, aby na něj křičeli lidé na Národní třídě, protesty…",
-      "source": "CNN Prima NEWS",
-      "category": "domaci",
-      "published_at": "2026-11-10T10:28:04+01:00",
-      "url": "https://cnn.iprima.cz/jelinek-babisuv-uprk-do-izraele-osten-protestu-neotupi-slizne-si-to-potom-526717",
-      "importance": "Neúčast premiéra může zesílit kritiku opozice a přesunout pozornost od oslav k politickému sporu. Dopad na důvěru veřejnosti bude záviset i na dalším vysvětlení vlády.",
       "importance_kind": "possible_impact"
     },
     {
@@ -351,7 +321,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 22,
+      "candidates": 24,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -361,7 +331,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 27,
+      "candidates": 24,
       "selected": 6,
       "free_articles_checked": 8
     },
@@ -371,7 +341,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -392,7 +362,7 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 11,
-      "selected": 7,
+      "selected": 6,
       "free_articles_checked": 7
     },
     {
@@ -411,8 +381,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
-      "selected": 7,
+      "candidates": 15,
+      "selected": 6,
       "free_articles_checked": 7
     },
     {
@@ -421,9 +391,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
-      "selected": 2,
-      "free_articles_checked": 2
+      "candidates": 12,
+      "selected": 1,
+      "free_articles_checked": 1
     },
     {
       "name": "E15",
@@ -451,7 +421,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 13,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -471,7 +441,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
+      "candidates": 5,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -481,7 +451,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -491,7 +461,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 18,
       "selected": 0,
       "free_articles_checked": 0
     }
