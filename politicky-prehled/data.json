@@ -21,8 +21,10 @@
       "category": "domaci",
       "published_at": "2026-11-10T17:46:00+00:00",
       "url": "https://www.idnes.cz/zpravy/domaci/studenti-demonstrace-na-podporu-verejnopravnich-medii.A261110_080537_domaci_jira",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Stovky studentů na pražském náměstí Republiky žádaly zachování poplatků pro Českou televizi a Český rozhlas. Zazněl i požadavek na odvolání ministra kultury Oty Klempíře. Na shromáždění o získání podpory pro své požadavky usilovali studenti několika vysokých škol. O změně zákona se tam nerozhodovalo.\n\nPro domácnosti je podstatné, zda a od kdy by jim zanikla povinnost platit poplatky. Pro obě média bude rozhodující, podle jakých pravidel by dostávala náhradu ze státního rozpočtu a na jak dlouho dopředu by její výši znala. Případné odvolání ministra samo o sobě žádnou z těchto otázek neřeší.",
+      "importance_kind": "analysis",
+      "analysis_source": "iDNES.cz",
+      "analysis_url": "https://www.idnes.cz/zpravy/domaci/studenti-demonstrace-na-podporu-verejnopravnich-medii.A261110_080537_domaci_jira"
     },
     {
       "title": "USA přišly s „kartografickým trikem“, aby Putinovi na Donbase zařídily vítězství",
@@ -31,8 +33,10 @@
       "category": "svet",
       "published_at": "2026-11-10T17:23:00+00:00",
       "url": "https://www.idnes.cz/zpravy/zahranicni/navrh-prekresleni-hranice-ukrajina-rusko-usa-jednani.A261110_155742_zahranicni_fohl",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Podle informací časopisu The Economist, které přinesl iDNES.cz, američtí vyjednavači zvažovali změnu správních hranic na Donbase. Moskva by podle této úvahy mohla prohlásit svůj územní požadavek za splněný a Ukrajina by si podržela opevněná města, která brání. Článek popisuje vyjednávací nápad. Nedokládá souhlas Kyjeva ani Moskvy.\n\nPro obyvatele dotčených měst je rozhodující, kdo by území skutečně spravoval a jaké bezpečnostní záruky by po příměří platily. Samotná změna mapy tyto otázky neřeší. Zelenskyj po rozhovorech v Abú Zabí potvrdil diskusi o bezpečnostních zárukách a návratu zajatců. Přijetí nové hranice neoznámil.",
+      "importance_kind": "analysis",
+      "analysis_source": "iDNES.cz",
+      "analysis_url": "https://www.idnes.cz/zpravy/zahranicni/navrh-prekresleni-hranice-ukrajina-rusko-usa-jednani.A261110_155742_zahranicni_fohl"
     },
     {
       "title": "„No nepokakáme se.“ Fico a Babiš se pustili do německého ultimáta o půjčce Ukrajině",
@@ -41,8 +45,10 @@
       "category": "domaci",
       "published_at": "2026-11-10T18:22:44+01:00",
       "url": "https://zpravy.aktualne.cz/zahranici/no-nepokakame-se-fico-a-babis-se-pustili-do-nemeckeho-ultimata-o-pujcce-ukrajine/r~aaa2948f200ae8120712d92ce507cc77/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Podle Aktuálně.cz spojil Friedrich Merz podporu Německa pro příští sedmiletý rozpočet EU s účastí všech členů na financování Ukrajiny. Robert Fico odmítl slovenský podíl na další půjčce, současně ale připustil pokračování humanitární pomoci. Jeho vyjádření se tedy nevztahuje na všechny formy pomoci Ukrajině.\n\nPro ukrajinský rozpočet zbývá vyřešit, jak EU opatří slíbených 45 miliard eur na rok 2027. Jednou ze zvažovaných cest jsou společné dluhopisy. Pro členské státy bude podstatné, kdo ponese náklady a případné záruky. Německá podmínka může jednání o unijním rozpočtu zdržet, samotný dopis ale jeho schvalování nezastavil.",
+      "importance_kind": "analysis",
+      "analysis_source": "Aktuálně.cz",
+      "analysis_url": "https://zpravy.aktualne.cz/zahranici/no-nepokakame-se-fico-a-babis-se-pustili-do-nemeckeho-ultimata-o-pujcce-ukrajine/r~aaa2948f200ae8120712d92ce507cc77/"
     },
     {
       "title": "Trest smrti za zbabělost. Konžský soud odsoudil 66 vojáků, chce zlepšit morálku",
