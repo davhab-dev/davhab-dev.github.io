@@ -1,7 +1,77 @@
 {
-  "updated_at": "2026-11-10T17:03:59.446574+00:00",
+  "updated_at": "2026-11-10T17:56:15.882876+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Vyhrožuje, vydírá. Babiše a Fica nahněval Merzův požadavek ohledně Ukrajiny",
+      "summary": "Premiéři Česka a Slovenska Andrej Babiš a Robert Fico se ohradili vůči výzvě německého kancléře Friedricha Merze, aby se všechny země Evropské unie bez výjimky…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-10T17:46:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/babis-a-fico-se-ohradili-vuci-vyzve-merze-k-dalsi-financni-podpore-ukrajiny.A261110_115706_domaci_aoc",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Stovky studentů se postavily za ČT a rozhlas. Zazněly výzvy k odvolání Klempíře",
+      "summary": "Vysokoškolští studenti v úterý opět protestovali proti změně financování veřejnoprávních médií. Akce se konaly v Praze i dalších městech. V metropoli vyvrcholily v symbolických 16:36…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-10T17:46:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/studenti-demonstrace-na-podporu-verejnopravnich-medii.A261110_080537_domaci_jira",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "USA přišly s „kartografickým trikem“, aby Putinovi na Donbase zařídily vítězství",
+      "summary": "Američtí vyjednavači navrhli překreslení hranic ukrajinské Doněcké a Luhanské oblasti. Ruský prezident Vladimir Putin by tak mohl na papíře prohlásit, že Rusko plně ovládá Donbas,…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-10T17:23:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/navrh-prekresleni-hranice-ukrajina-rusko-usa-jednani.A261110_155742_zahranicni_fohl",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "„No nepokakáme se.“ Fico a Babiš se pustili do německého ultimáta o půjčce Ukrajině",
+      "summary": "Robert Fico odmítá, aby Slovensko přispělo na další půjčku Ukrajině, a německého kancléře Friedricha Merze obvinil z vydírání. Jeho český protějšek Andrej Babiš (ANO) volil…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-10T18:22:44+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/no-nepokakame-se-fico-a-babis-se-pustili-do-nemeckeho-ultimata-o-pujcce-ukrajine/r~aaa2948f200ae8120712d92ce507cc77/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Trest smrti za zbabělost. Konžský soud odsoudil 66 vojáků, chce zlepšit morálku",
+      "summary": "Zbabělost, vzpoura a neuposlechnutí rozkazu. To byl výčet prohřešků, kterých se měli dopustit vojáci Demokratické republiky Kongo. 66 z nich soud poslal na smrt. Podle…",
+      "source": "CNN Prima NEWS",
+      "category": "svet",
+      "published_at": "2026-11-10T18:22:33+01:00",
+      "url": "https://cnn.iprima.cz/demokraticka-republika-kongo-udelila-66-vojakum-trest-smrti-jste-zbabeli-prohlasil-soud-526767",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Starostové řekli, s kým budou vládnout Praze. Piráti jsou ze hry venku",
+      "summary": "Hnutí STAN, které vyhrálo pražské komunální volby, chce sestavit koalici se Spolu (ODS, TOP 09) a s Prahou sobě. V úterý to na základě dosavadních…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-10T18:15:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/stan-si-v-praze-vybral-koalicni-partnery-chce-vladnout-se-spolu-a-prahou-sobe/r~aaa29d1cf5e3bd4abec35af450b3c355/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "EU varuje před dalšími kyberútoky. Ohroženy mohou být i domácnosti",
+      "summary": "Po kybernetickém útoku na chladicí zařízení v evropských supermarketech by dalším terčem mohly být domácí spotřebiče, varoval v únoru podle agentury AFP šéf Agentury EU…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-10T18:03:45+01:00",
+      "url": "https://www.denik.cz/evropa/eu-varuje-pred-dalsimi-kyberutoky-ohrozeny-mohou-byt-i-domacnosti/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Rusko převzalo koncept ukrajinské iniciativy „Koláč nezávislosti“",
       "summary": "Ruská organizace Masterskaja Novych Media podle ukrajinské aktivistky Larysy Latypové převzala koncept i slogany ukrajinské iniciativy „Koláč nezávislosti“, která vznikla v roce 2024. Její obdobu…",
@@ -27,16 +97,34 @@
       "analysis_url": "https://www.ceskenoviny.cz/zpravy/v-praze-povladne-koalice-stan-spolu-a-prahy-sobe/2895938"
     },
     {
-      "title": "Odvolejte Klempíře, nebo podejte demisi, žádají studenti na demonstraci",
-      "summary": "Vysokoškolští studenti dnes opět protestují proti změně financování veřejnoprávních médií. Akce se konají v Praze i dalších městech, v metropoli vyvrcholí v symbolických 16:36 hodin…",
+      "title": "STAN pouští Piráty k vodě. Společně se SPOLU chce jít do koalice s Prahou sobě",
+      "summary": "Hnutí STAN, které vyhrálo pražské komunální volby, chce sestavit koalici se SPOLU (ODS, TOP 09) a s Prahou sobě. Dnes to na základě dosavadních koaličních…",
       "source": "iDNES.cz",
       "category": "domaci",
-      "published_at": "2026-11-10T16:48:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/studenti-demonstrace-na-podporu-verejnopravnich-medii.A261110_080537_domaci_jira",
-      "importance": "Studenti spojují požadavek na odchod ministra kultury s odporem ke změně financování ČT a Českého rozhlasu. Jde o dvě rozhodnutí s odlišnými následky. I kdyby ministr odešel, návrh na převedení financování do státního rozpočtu může vláda dál prosazovat.\n\nPro obě média je proto důležitější osud samotného návrhu. Kdyby o částce rozhodovala politická většina každý rok, vedení redakcí by obtížněji plánovalo víceleté pořady či investice. Rozsah tohoto rizika záleží na tom, zda zákon stanoví předvídatelné financování i pro období po změně vlády.",
-      "importance_kind": "analysis",
-      "analysis_source": "ČT24",
-      "analysis_url": "https://ct24.ceskatelevize.cz/clanek/domaci/studenti-vysokych-skol-demonstruji-za-verejnopravni-media-379487"
+      "published_at": "2026-11-10T16:57:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/stan-vitez-voleb-v-praze-chce-sestavit-koalici-se-spolu-a-prahou-sobe.A261110_175123_domaci_remy",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Agentura EU varovala před útoky na domácí spotřebiče",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-10T17:56:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/agentura-eu-varovala-pred-utoky-na-domaci-spotrebice/2900212",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Vláda vypsala výběrové řízení na předsedu ÚOHS, nastoupí od prosince",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-10T17:39:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/vlada-vypsala-vyberove-rizeni-na-predsedu-uohs-nastoupi-od-prosince/2900198",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
     },
     {
       "title": "Za prezidentem i na velryby. Benda, Hřib či Jurečka budou 17. listopadu na Tchaj-wanu",
@@ -75,18 +163,6 @@
       "analysis_url": "https://www.ceskenoviny.cz/zpravy/2899856"
     },
     {
-      "title": "Pavel přijme na Hradě Babiše. Budou řešit bezpečnost i připravenost na krize",
-      "summary": "Prezident Petr Pavel a premiér Andrej Babiš se ve středu ráno setkají na Pražském hradě. V 8:00 se uskuteční jejich pravidelné a plánované jednání, uvedla…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-10T16:19:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/prezident-petr-pavel-prijme-na-hrade-premiera-andreje-babise.A261110_152520_domaci_lupr",
-      "importance": "Společný kalendář prezidenta a premiéra má důsledek i pro partnery Česka. Pokud si předem vyjasní, kdo zemi zastoupí a s jakou pozicí, snižuje se riziko, že spojenci před důležitou schůzkou dostanou různá sdělení. Spor o zastoupení na summitu NATO ukázal, proč je toto téma na programu.\n\nSchůzka je podle Hradu pravidelná. Její svolání proto samo o sobě nesignalizuje novou bezpečnostní hrozbu. Praktický výsledek bude možné posoudit podle oznámeného rozdělení zahraničních cest nebo návazného rozhodnutí o krizové připravenosti.",
-      "importance_kind": "analysis",
-      "analysis_source": "iDNES.cz",
-      "analysis_url": "https://www.idnes.cz/zpravy/domaci/prezident-petr-pavel-prijme-na-hrade-premiera-andreje-babise.A261110_152520_domaci_lupr"
-    },
-    {
       "title": "Havlíček uvedl, že na Ukrajině bude jednat také o dodávkách letadel Skyfox",
       "summary": "Součástí nadcházejících rozhovorů s ukrajinskými protějšky budou také možné dodávky letadel Skyfox, řekl v úterý cestou na Ukrajinu novinářům český ministr průmyslu a obchodu Karel…",
       "source": "Aktuálně.cz",
@@ -99,18 +175,6 @@
       "analysis_url": "https://zpravy.aktualne.cz/zahranici/havlicek-uvedl-ze-na-ukrajine-bude-jednat-take-o-dodavkach-letadel-skyfox/r~aaa29101e96d42e2a71e637319974a64/"
     },
     {
-      "title": "Havlíček přivezl na Ukrajinu nejpočetnější českou delegaci. Nechybějí známé firmy",
-      "summary": "Od našich zpravodajů na Ukrajině – První místopředseda vlády a ministr průmyslu a obchodu Karel Havlíček (ANO) dorazil na Ukrajinu. „Mám s členy ukrajinské vlády…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-10T15:48:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/havlicek-cesta-na-ukrajinu-delegace-prilet.A261110_163204_domaci_ijan",
-      "importance": "Havlíčkova cesta spojuje dva odlišné druhy pomoci. Pět bezplatně nabídnutých lokomotiv reaguje na konkrétní požadavek ukrajinské strany. Jejich praktický přínos se projeví po předání a uvedení do provozu. Přítomnost zhruba padesáti firem má delší časový horizont.\n\nPro podniky má společná mise cenu v tom, že se na místě dostanou k partnerům a zjistí jejich potřeby. Počet účastníků ale nevypovídá o objemu budoucích zakázek. Ten bude možné hodnotit až podle podepsaných smluv, jejich financování a plnění.",
-      "importance_kind": "analysis",
-      "analysis_source": "iDNES.cz",
-      "analysis_url": "https://www.idnes.cz/zpravy/domaci/havlicek-cesta-na-ukrajinu-delegace-prilet.A261110_163204_domaci_ijan"
-    },
-    {
       "title": "Živě: Exkluzivní debata amerických velvyslanců o dopadu voleb v USA na Evropu",
       "summary": "Sledujte exkluzivní debatu dřívějších amerických velvyslanců v Česku Stephena B. Kinga a Normana L. Eisena spolu s bývalým ministrem zahraničních věcí Tomášem Petříčkem a reportérem…",
       "source": "Aktuálně.cz",
@@ -121,18 +185,6 @@
       "importance_kind": "analysis",
       "analysis_source": "Aktuálně.cz",
       "analysis_url": "https://zpravy.aktualne.cz/zahranici/zive-exkluzivni-debata-americkych-velvyslancu-o-dopadu-voleb-v-usa-na-evropu/r~aaa294fe6132771ad0c59382dd2b649d/"
-    },
-    {
-      "title": "Ve Francii sílí autoritářské praktiky, varuje Amnesty International",
-      "summary": "Lidskoprávní organizace Amnesty International v úterý varovala před ohrožením právního státu ve Francii a sílícími projevy autoritářských praktik v zemi. Prohlášení přichází v době celostátních…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-10T15:39:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/ve-francii-sili-autoritarske-praktiky-varuje-amnesty-international.A261110_161214_zahranicni_kha",
-      "importance": "Amnesty upozorňuje mimo jiné na zákazy demonstrací a na záměry rozpustit některá hnutí. Rozdíl je praktický. Zákaz jedné akce omezuje konkrétní protest. Rozpuštění organizace by mohlo zasáhnout i její budoucí činnost a schopnost zastupovat své členy.\n\nPřed prezidentskými volbami tak záleží na tom, které kroky úřady skutečně provedou a jak konkrétně je zdůvodní. Zpráva zachycuje hodnocení lidskoprávní organizace. U každého případu je třeba odlišit ohlášený záměr, vydané rozhodnutí a výsledek případného přezkumu.",
-      "importance_kind": "analysis",
-      "analysis_source": "iDNES.cz",
-      "analysis_url": "https://www.idnes.cz/zpravy/zahranicni/ve-francii-sili-autoritarske-praktiky-varuje-amnesty-international.A261110_161214_zahranicni_kha"
     },
     {
       "title": "Trumpova rodina, Epstein i ICE. Demokraté odhalili, na co si po volbách posvítí",
@@ -157,30 +209,6 @@
       "importance_kind": "analysis",
       "analysis_source": "iDNES.cz",
       "analysis_url": "https://www.idnes.cz/zpravy/domaci/vlada-podle-okamury-rozhodla-o-neucasti-ceskych-vojaku-na-cviceni-v-polsku.A261110_055453_domaci_tbr"
-    },
-    {
-      "title": "Na klimatickou konferenci OSN dorazili brazilský prezident Lula i Thunbergová",
-      "summary": "Brazilský prezident Luiz Inácio Lula da Silva v noci na úterý oznámil svůj příjezd na klimatickou konferenci OSN, která se koná v Turecku. Celkem by…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-10T15:28:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/konference-klima-osn-turecko-prezident-lula-thunbergova.A261110_161320_zahranicni_fohl",
-      "importance": "Přítomnost brazilského prezidenta může dát brazilským prioritám přímé zastání při jednáních s dalšími vládami. Greta Thunbergová má odlišnou roli. Může přitáhnout pozornost k rozdílu mezi veřejnými sliby a výsledným textem, ale za žádný stát závazek nepřijímá.\n\nPro země, které čekají na konkrétní opatření nebo peníze, bude mít větší váhu obsah závěrečné dohody než počet známých účastníků. Až při konci konference bude možné porovnat, které požadavky se promítly do závazků, kdo je má splnit a v jaké lhůtě.",
-      "importance_kind": "analysis",
-      "analysis_source": "iDNES.cz",
-      "analysis_url": "https://www.idnes.cz/zpravy/zahranicni/konference-klima-osn-turecko-prezident-lula-thunbergova.A261110_161320_zahranicni_fohl"
-    },
-    {
-      "title": "Němci zasazují druhou ránu. Merz trvá na emisních povolenkách, které odmítá Babiš",
-      "summary": "Německý kancléř Friedrich Merz vyzval v dopise Evropskou komisi, aby neustupovala od plánu na zavedení systému emisních povolenek ETS2. Napsal to dnes časopis Der Spiegel,…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-10T15:25:00+00:00",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/der-spiegel-merz-vyzval-evropskou-komisi-aby-neustupovala-od-zavedeni-ets2.A261110_161358_eko-zahranicni_remy",
-      "importance": "Merzův dopis ukazuje, že vláda v Praze při snaze změnit ETS2 nemůže počítat s automatickou podporou Berlína. Pro odběratele paliv je důležité, zda dodavatelé přenesou náklady povolenek do konečné ceny. Z dopisu německého kancléře se výše tohoto nákladu určit nedá.\n\nPro domácnost, která plánuje výměnu vytápění, má přitom hodnotu i předvídatelnost termínu. Český odpor a německá podpora vysvětlují politický spor, ale samy pravidla nemění. Rozhodující bude, zda vznikne a projde konkrétní evropský návrh na jejich úpravu.",
-      "importance_kind": "analysis",
-      "analysis_source": "iDNES.cz",
-      "analysis_url": "https://www.idnes.cz/ekonomika/zahranicni/der-spiegel-merz-vyzval-evropskou-komisi-aby-neustupovala-od-zavedeni-ets2.A261110_161358_eko-zahranicni_remy"
     },
     {
       "title": "Zelenskyj oznámil posun v jednáních s Ruskem a USA, řešili se zajatci i děti",
@@ -279,18 +307,6 @@
       "analysis_url": "https://www.ceskenoviny.cz/zpravy/nukib-v-analyze-upozornuje-na-dlouhodobe-ruske-kyberutoky/2900050"
     },
     {
-      "title": "Média nedáme! Stovky studentů demonstrují v centru Prahy",
-      "summary": "Na náměstí Republiky v Praze začala studentská demonstrace na podporu médií veřejné služby a kultury. Na místě jsou stovky studentů z několika pražských univerzit. Na…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-10T14:41:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/dalsi-protest-na-podporu-verejnopravnich-medii-studenti-se-sesli-v-dejvicich/r~aaa296cde50467ee1fe703b06d5d9061/",
-      "importance": "Protesty v několika univerzitních městech spojují spor o veřejnoprávní média s otázkou, jak dlouhodobě financovat kulturu, vysoké školy a vědu. Šíře požadavků pomáhá vysvětlit účast různých škol. Zároveň ztěžuje posouzení, který konkrétní ústupek by organizátoři považovali za úspěch.\n\nU ČT a rozhlasu je možné výsledek hodnotit poměrně přesně. Posun by nastal změnou návrhu financování nebo přijetím pravidel, která oběma institucím umožní plánovat i za horizont jednoho státního rozpočtu. Samotný počet účastníků zatím vypovídá především o mobilizaci studentů.",
-      "importance_kind": "analysis",
-      "analysis_source": "ČT24",
-      "analysis_url": "https://ct24.ceskatelevize.cz/clanek/domaci/studenti-vysokych-skol-demonstruji-za-verejnopravni-media-379487"
-    },
-    {
       "title": "Hegseth označil snahu o podání ústavní žaloby na jeho osobu za politické divadlo",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -315,18 +331,6 @@
       "analysis_url": "https://www.idnes.cz/zpravy/domaci/nukib-kyberspionaz-rusko-utok.A261110_140128_domaci_aoc"
     },
     {
-      "title": "Zelenskyj přicestoval do Kodaně; Dánsko daruje Ukrajině pomoc za 15,6 miliard Kč",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-10T13:53:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/zelenskyj-pricestoval-do-kodane-dansko-daruje-ukrajine-pomoc-za-156-miliard-kc/2900043",
-      "importance": "Přepočet na 15,6 miliardy korun vyjadřuje oznámenou hodnotu dánské vojenské pomoci. Kyjev z tohoto oznámení nezískává stejně velkou částku volných peněz pro státní rozpočet. Dánsko mluví o vojenském vybavení, jehož přínos nastane podle toho, co a kdy bude možné převzít.\n\nNa programu návštěvy jsou také ochrana vzdušného prostoru a energetická bezpečnost. Pro obyvatele ohrožené výpadky elektřiny by mělo význam, kdyby se výsledky jednání promítly do skutečně dostupné ochrany. Samotná souhrnná cena daru ale neříká, která zařízení bude možné chránit a od kdy.",
-      "importance_kind": "analysis",
-      "analysis_source": "ČTK",
-      "analysis_url": "https://www.ceskenoviny.cz/zpravy/2900043"
-    },
-    {
       "title": "Sněmovní výbor zahájil řízení vůči Ševčíkovi kvůli výroku o menopauze",
       "summary": "Sněmovní mandátový a imunitní výbor v úterý zahájil disciplinární řízení vůči poslanci za SPD Miroslavu Ševčíkovi. Ševčík čelí podnětu předsedkyně poslaneckého klubu STAN Michaely Šebelové…",
       "source": "ČT24",
@@ -339,18 +343,6 @@
       "analysis_url": "https://www.ceskenoviny.cz/zpravy/snemovni-vybor-zahajil-rizeni-vuci-sevcikovi-za-spd-kvuli-vyroku-na-plenu/2899801"
     },
     {
-      "title": "Nejen mrtvá rodina, byt střelce z Polska ukrýval další hrůzy. Muž studoval vrahy",
-      "summary": "V bytě rodiny střelce z Krakova nezahynuli jen jeho rodiče a sestra. Podle polských médií útočník zastřelil také dvě kočky. Vrah tam vypálil nejméně osmkrát,…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-10T13:23:53+01:00",
-      "url": "https://www.denik.cz/evropa/polsko-strelec-z-krakova-co-nasla-policie-v-byte-utocnik-se-zajimal-o-vraha-breivika/",
-      "importance": "Nálezy z bytu a počítače pomáhají rekonstruovat zájmy pachatele. Pro vysvětlení krakovského případu mají váhu především tehdy, pokud je vyšetřovatelé dokážou spojit s důvodem jeho jednání. Samotné vrstvení znepokojivých detailů tuto souvislost nedokládá.\n\nPro veřejnou debatu je proto důležité rozlišit, co prověřuje policie a co již uzavřela prokuratura. Podle zveřejněných vyjádření se zkoumá i ideologická stopa. Předčasné označení celého případu za politicky motivovaný by tuto otevřenou otázku vydávalo za výsledek.",
-      "importance_kind": "analysis",
-      "analysis_source": "iDNES.cz",
-      "analysis_url": "https://www.idnes.cz/zpravy/zahranicni/polsko-krakov-strelec-utok-anders-breivik-krajni-pravice.A261110_105501_zahranicni_kha"
-    },
-    {
       "title": "Ukrajině platíme účty, ale u jednacího stolu nejsme, řekli Babiš a Fico",
       "summary": "Evropa by se měla aktivně podílet na vyjednávání o ukončení války na Ukrajině, shodli se premiéři Česka a Slovenska Andrej Babiš (ANO) a Robert Fico…",
       "source": "ČT24",
@@ -361,18 +353,6 @@
       "importance_kind": "analysis",
       "analysis_source": "ČTK",
       "analysis_url": "https://www.ceskenoviny.cz/zpravy/2899954"
-    },
-    {
-      "title": "Nový pokus o mír PŘEHLEDNĚ: Evropa se obává Trumpovy hry. V čem jsou jednání tentokrát jiná?",
-      "summary": "V úterý v Abú Dhabí začíná nové kolo mírových rozhovorů mezi USA, Ukrajinou a Ruskem. Administrativa amerického prezidenta Donalda Trumpa tak obnovuje své úsilí o…",
-      "source": "CNN Prima NEWS",
-      "category": "svet",
-      "published_at": "2026-11-10T10:48:07+01:00",
-      "url": "https://cnn.iprima.cz/novy-pokus-o-mir-prehledne-evropa-se-obava-trumpovy-hry-v-cem-jsou-jednani-tentokrat-jina-526708",
-      "importance": "Obnovený třístranný formát dává Ukrajině, Rusku a Spojeným státům prostor jednat přímo. Pro evropské vlády je podstatné, jak se k nim dostanou návrhy o budoucí bezpečnosti kontinentu. Přítomnost evropských představitelů v témže městě ještě neznamená, že mohou upravovat text při hlavním jednání.\n\nVýsledek má smysl měřit po jednotlivých tématech. U výměny zajatců lze sledovat skutečná předání. U dlouhodobých záruk by muselo být jasné, kdo se k čemu zavazuje a co by se stalo při porušení dohody. Pokrok v humanitární otázce tak může být skutečný i při trvajícím sporu o podobu míru.",
-      "importance_kind": "analysis",
-      "analysis_source": "ČTK",
-      "analysis_url": "https://www.ceskenoviny.cz/zpravy/-rubio-jednani-o-ukonceni-valky-na-ukrajine-oznacil-za-velmi-produktivni/2899986"
     }
   ],
   "unavailable_sources": [],
@@ -383,7 +363,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 19,
+      "candidates": 18,
       "selected": 6,
       "free_articles_checked": 6
     },
@@ -403,8 +383,8 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 20,
-      "selected": 6,
+      "candidates": 22,
+      "selected": 7,
       "free_articles_checked": 8
     },
     {
@@ -413,7 +393,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -423,7 +403,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 17,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -433,9 +413,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
-      "selected": 7,
-      "free_articles_checked": 7
+      "candidates": 12,
+      "selected": 8,
+      "free_articles_checked": 8
     },
     {
       "name": "Deník",
@@ -453,8 +433,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
-      "selected": 7,
+      "candidates": 15,
+      "selected": 5,
       "free_articles_checked": 7
     },
     {
@@ -463,7 +443,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 12,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -473,7 +453,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 6,
+      "candidates": 7,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -493,7 +473,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -523,7 +503,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 11,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -533,7 +513,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 18,
+      "candidates": 20,
       "selected": 0,
       "free_articles_checked": 0
     }
