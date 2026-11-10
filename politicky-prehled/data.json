@@ -101,8 +101,10 @@
       "category": "svet",
       "published_at": "2026-11-10T21:15:58+01:00",
       "url": "https://cnn.iprima.cz/oblibene-socialni-siti-hrozi-v-evropske-zemi-vypnuti-duvodem-je-obsah-se-zneuzivanim-deti-526817",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Španělské ministerstvo požádalo prokuraturu o zásah kvůli šíření materiálů se zneužíváním dětí a připustilo možnost pozastavení TikToku. Podklad ČT24 z 9. listopadu dokládá podnět úřadům, nikoli již účinné vypnutí služby. Rozsah nelegálního obsahu přisuzuje šetření Maldita.es; nejde o pravomocný závěr soudu.\n\nPro děti zachycené na záznamech je podstatné zastavení dalšího šíření a pro uživatele případný rozsah omezení služby. Posun ukáže rozhodnutí příslušných orgánů a konkrétní změny odstraňování obsahu. Použitý starší podklad nepotvrzuje, zda úřady mezitím rozhodly, a neumožňuje určit datum ani délku případného omezení.",
+      "importance_kind": "analysis",
+      "analysis_source": "ČT24 / RTVE",
+      "analysis_url": "https://ct24.ceskatelevize.cz/clanek/svet/spanelska-vlada-zada-vysetreni-udajnych-pripadu-sexualniho-zneuzivani-deti-na-tiktoku-379436"
     },
     {
       "title": "Lidé ve Slavětíně půjdou k volbám znovu, hlasování prohlásil soud za neplatné",
@@ -123,8 +125,10 @@
       "category": "svet",
       "published_at": "2026-11-10T20:08:00+00:00",
       "url": "https://www.idnes.cz/zpravy/zahranicni/umrti-hrdinka-francouzsky-odboj-druha-sv-valka.A261110_193912_zahranicni_rtn",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Úmrtím Solange Alexandreové odchází přímá pamětnice francouzského odboje, která vedla i vlastní bojovou jednotku. Macron jí vzdal veřejný hold. Jde o připomínku historické služby, nikoli oznámení nové státní politiky.\n\nPro uchování jejího svědectví mají význam již zaznamenané rozhovory a dokumenty. Článek připomíná přijetí Řádu čestné legie v roce 2024; neoznamuje novou poctu ani program vzpomínkových akcí. Ty proto nelze z prezidentova vyjádření předjímat.",
+      "importance_kind": "analysis",
+      "analysis_source": "Novinky / ČTK",
+      "analysis_url": "https://www.novinky.cz/clanek/zahranicni-evropa-ve-veku-104-let-zemrela-jedna-z-hrdinek-francouzskeho-odboje-ze-druhe-sv-valky-40607940"
     },
     {
       "title": "Dva výbuchy a pak třítunová bomba. Ruský útok na kryt plný civilistů minutu po minutě",
@@ -133,8 +137,10 @@
       "category": "svet",
       "published_at": "2026-11-10T21:07:21+01:00",
       "url": "https://cnn.iprima.cz/dva-vybuchy-a-pak-tritunova-bomba-rusky-utok-na-kryt-plny-civilistu-minutu-po-minute-526776",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Útok na Komyšuvachu se stal 2. listopadu; nynější rekonstrukce z něj nedělá novou událost. ČT24 ve zprávě ze 6. listopadu uváděla podle oblastní správy nejméně 53 obětí. Zasažená podzemní škola sloužila jako kryt i výdejna pomoci. Místní tak vedle ztráty blízkých přišli o zařízení, které zajišťovalo několik základních služeb.\n\nZáběry z policejní kamery podle ČT24 ověřila agentura Reuters a humanitární využití objektu potvrdila také organizace WCK. Ruské tvrzení o vojenském cíli tím není doloženo. Zástupkyně monitorovací mise OSN mluvila o pravděpodobném porušení mezinárodního práva, nikoli o soudním rozsudku. Další posun může přinést uzavření pátrání a vyšetření okolností; starší podklad neudává konečný počet obětí.",
+      "importance_kind": "analysis",
+      "analysis_source": "ČT24",
+      "analysis_url": "https://ct24.ceskatelevize.cz/clanek/svet/rusky-utok-na-centrum-humanitarni-pomoci-v-obci-komysuvacha-ma-pres-padesat-obeti-379346"
     },
     {
       "title": "Krakovský střelec, který zabil devět lidí, se zajímal o Breivika, řekl ministr",
