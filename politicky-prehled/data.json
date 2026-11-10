@@ -175,8 +175,10 @@
       "category": "domaci",
       "published_at": "2026-11-10T20:40:00+01:00",
       "url": "https://zpravy.aktualne.cz/domaci/babis-v-pikosce-spojil-vrbetice-a-vondru-neberte-si-ho-do-pusy-zuril-kupka/r~aaa293cd364089d67f32bd962b38676c/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Babiš zpochybnil pronajímání vrbětických skladů za někdejšího ministra Vondry, zatímco Vondra odpovídá, že smlouvy uzavíral samostatný státní podnik. Článek neoznamuje nové obvinění Vondry ani nové rozhodnutí vyšetřovatelů. Časová souvislost pronájmu s jeho působením ve funkci sama nedokládá odpovědnost za pozdější výbuch.\n\nPro veřejné posouzení je nutné oddělit správu areálu od otázky pachatelů útoku. Podklad připomíná závěry českých služeb o agentech GRU a někdejší diplomatická opatření Babišovy vlády. Nynější slovní spor tyto závěry sám nemění. Nový věcný posun by vyžadoval konkrétní dokumenty o rozhodování a odpovědnosti; ostré reakce politiků je nenahrazují.",
+      "importance_kind": "analysis",
+      "analysis_source": "Aktuálně.cz",
+      "analysis_url": "https://zpravy.aktualne.cz/domaci/babis-v-pikosce-spojil-vrbetice-a-vondru-neberte-si-ho-do-pusy-zuril-kupka/r~aaa293cd364089d67f32bd962b38676c/"
     },
     {
       "title": "Polsko řeší, jak reformovat ústavní soud. Variantou je kompletní obměna",
@@ -197,8 +199,10 @@
       "category": "svet",
       "published_at": "2026-11-10T20:36:16+01:00",
       "url": "https://www.denik.cz/evropa/lotyska-oslavovala-na-tiktoku-ruske-zlociny-soud-ji-poslal-do-vezeni/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Soud v Rize uložil ženě tříletý trest za veřejné schvalování ruských válečných zločinů prostřednictvím videí z roku 2024. Rozsudek není pravomocný a obhajoba oznámila odvolání. Titulek proto nelze chápat jako potvrzení konečného výsledku řízení či již zahájeného výkonu tohoto trestu.\n\nJádrem sporu je úmysl při zveřejňování: soud podle zprávy shledal vědomé oslavování zločinů, žena a její obhájce tvrdí, že šlo o lehkovážnou snahu získat popularitu. Další význam případu určí odvolací rozhodnutí a jeho odůvodnění. Z tohoto jednotlivého rozsudku nelze vyvozovat zákaz ruštiny na sociálních sítích ani automatický trest za jakýkoli proruský názor.",
+      "importance_kind": "analysis",
+      "analysis_source": "Deník",
+      "analysis_url": "https://www.denik.cz/evropa/lotyska-oslavovala-na-tiktoku-ruske-zlociny-soud-ji-poslal-do-vezeni/"
     },
     {
       "title": "Soukromí těžaři poprvé po dlouhé době prodali část plynu z Ukrajiny do zahraničí",
