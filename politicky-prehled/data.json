@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T21:52:27.191284+00:00",
+  "updated_at": "2026-11-10T22:54:00.439535+00:00",
   "window_hours": 24,
   "articles": [
     {
@@ -227,18 +227,6 @@
       "analysis_url": "https://www.novinky.cz/clanek/zahranicni-evropa-ve-veku-104-let-zemrela-jedna-z-hrdinek-francouzskeho-odboje-ze-druhe-sv-valky-40607940"
     },
     {
-      "title": "Trest smrti za zbabělost. Konžský soud odsoudil 66 vojáků, chce zlepšit morálku",
-      "summary": "Zbabělost, vzpoura a neuposlechnutí rozkazu. To byl výčet prohřešků, kterých se měli dopustit vojáci Demokratické republiky Kongo. 66 z nich soud poslal na smrt. Podle…",
-      "source": "CNN Prima NEWS",
-      "category": "svet",
-      "published_at": "2026-11-10T18:22:33+01:00",
-      "url": "https://cnn.iprima.cz/demokraticka-republika-kongo-udelila-66-vojakum-trest-smrti-jste-zbabeli-prohlasil-soud-526767",
-      "importance": "Konžský soud rozhodoval o 71 vojácích, které armáda obvinila po ústupu před povstalci. Podle CNN Prima NEWS s odvoláním na BBC uložil 66 trestů smrti, jednoho vojáka poslal na deset let do vězení a čtyři osvobodil. Zpráva neuvádí, zda jsou rozsudky pravomocné ani zda byl některý trest vykonán.\n\nArmáda očekává, že přísné tresty omezí útěky z jednotek na východě země. Tento účinek zatím nedoložila. Vojáci zároveň poukazují na nedostatečnou výstroj a nízké platy. Rozsudek sám tyto podmínky služby nemění.",
-      "importance_kind": "analysis",
-      "analysis_source": "CNN Prima NEWS",
-      "analysis_url": "https://cnn.iprima.cz/demokraticka-republika-kongo-udelila-66-vojakum-trest-smrti-jste-zbabeli-prohlasil-soud-526767"
-    },
-    {
       "title": "Babiš s Ficem se pustili do německého ultimáta kvůli Ukrajině. Padl i nevybíravý výraz",
       "summary": "Robert Fico odmítá, aby Slovensko přispělo na další půjčku Ukrajině, a německého kancléře Friedricha Merze obvinil z vydírání. Jeho český protějšek Andrej Babiš (ANO) volil…",
       "source": "Aktuálně.cz",
@@ -371,6 +359,18 @@
       "analysis_url": "https://zpravy.aktualne.cz/zahranici/zive-exkluzivni-debata-americkych-velvyslancu-o-dopadu-voleb-v-usa-na-evropu/r~aaa294fe6132771ad0c59382dd2b649d/"
     },
     {
+      "title": "Zelenskyj: V Abú Zabí se jednalo o výměně zajatců a návratu ukrajinských dětí",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-10T15:52:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/zelenskyj-v-abu-zabi-se-jednalo-o-vymene-zajatcu-a-navratu-ukrajinskych-deti/2896477",
+      "importance": "U zprávy o dojednávané výměně zajatců záleží také na původu informace. Zelenskyj potvrdil, že delegace o výměně mluvily. Zpráva o konkrétně dohodnuté rozsáhlé výměně se opírá o zdroj blízký ukrajinské delegaci. Pro rodiny je rozdíl mezi těmito sděleními zásadní.\n\nHmatatelným výsledkem budou předaní lidé a potvrzení jejich návratu. I dílčí výměna může mít bezprostřední hodnotu, zatímco jednání o dětech či o bezpečnostních zárukách budou pokračovat. Jedno plnění proto ještě nevypovídá o dohodě na všech třech otázkách.",
+      "importance_kind": "analysis",
+      "analysis_source": "ČTK",
+      "analysis_url": "https://www.ceskenoviny.cz/zpravy/zelenskyj-v-abu-zabi-se-jednalo-o-vymene-zajatcu-a-navratu-ukrajinskych-deti/2896477"
+    },
+    {
       "title": "NÚKIB varuje před kybernetickými útoky z Ruska",
       "summary": "Národní úřad pro kybernetickou a informační bezpečnost (NÚKIB) upozorňuje na dlouhodobé a sofistikované kybernetické útoky ruských státně sponzorovaných aktérů, které míří na české i spojenecké…",
       "source": "Deník",
@@ -401,7 +401,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 22,
+      "candidates": 20,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -411,8 +411,8 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 25,
-      "selected": 5,
+      "candidates": 24,
+      "selected": 6,
       "free_articles_checked": 8
     },
     {
@@ -472,8 +472,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 15,
-      "selected": 4,
-      "free_articles_checked": 4
+      "selected": 3,
+      "free_articles_checked": 3
     },
     {
       "name": "E15",
@@ -511,7 +511,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 9,
       "selected": 0,
       "free_articles_checked": 0
     },
