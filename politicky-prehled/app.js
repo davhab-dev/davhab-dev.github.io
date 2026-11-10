@@ -45,7 +45,20 @@ function render() {
       const why = element('div', '', 'why');
       const note = element('small', a.importance_kind === 'possible_impact' ? 'Možný dopad · odhad' : 'Tematický kontext', 'small');
       note.style.display = 'block'; note.style.marginTop = '6px';
-      why.append(element('b', 'Proč je to důležité'), document.createTextNode(a.importance), note);
+      why.append(element('b', 'Proč je to důležité'));
+      if (a.importance_kind === 'analysis') {
+        for (const paragraph of a.importance.split('\n\n')) why.append(element('p', paragraph));
+        note.textContent = 'Rozbor dopadů';
+        const evidence = a.analysis_url && new URL(a.analysis_url);
+        if (evidence && evidence.protocol === 'https:' && allowedSourceHosts.has(evidence.hostname)) {
+          const citation = element('a', 'Podklad: ' + a.analysis_source);
+          citation.href = evidence.href;
+          note.append(' · ', citation);
+        }
+      } else {
+        why.append(document.createTextNode(a.importance));
+      }
+      why.append(note);
       card.append(why);
     }
     card.append(source);

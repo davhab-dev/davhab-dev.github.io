@@ -19,8 +19,10 @@
       "category": "domaci",
       "published_at": "2026-11-10T18:00:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/v-praze-povladne-koalice-stan-spolu-a-prahy-sobe/2895938",
-      "importance": "Vývoj může změnit složení vedení a priority při rozhodování o veřejných penězích. Výsledek bude záviset na dalších jednáních a konkrétních dohodách.",
-      "importance_kind": "possible_impact"
+      "importance": "Pražský klub STAN dal přednost Praze sobě před Piráty. Pokud se přidají také kluby Spolu a Prahy sobě, bude mít tato trojice 47 z 65 zastupitelů. K většině stačí 33 hlasů. Při plné účasti by tedy koalice mohla při hlasování o rozpočtu přijít o podporu čtrnácti vlastních zastupitelů a stále návrh prosadit.\n\nPro Pražany zatím z hlasování klubu neplyne, které dopravní nebo bytové projekty dostanou přednost. O tom víc řekne obsah koaliční dohody a první společný rozpočet. Bezprostředně teď záleží na tom, zda stejnou sestavu schválí i zbývající dva kluby.",
+      "importance_kind": "analysis",
+      "analysis_source": "ČTK",
+      "analysis_url": "https://www.ceskenoviny.cz/zpravy/v-praze-povladne-koalice-stan-spolu-a-prahy-sobe/2895938"
     },
     {
       "title": "Odvolejte Klempíře, nebo podejte demisi, žádají studenti na demonstraci",
@@ -179,8 +181,10 @@
       "category": "domaci",
       "published_at": "2026-11-10T15:54:00+01:00",
       "url": "https://zpravy.aktualne.cz/domaci/volby-v-marianskych-laznich-plati-i-pres-kupceni-s-hlasy-rozhodl-soud/r~aaa291cd44be2bdc50d0b6f843f94265/",
-      "importance": "Opakování hlasování může oddálit vznik vedení obce a změnit rozdělení mandátů. Do vyjasnění výsledku se mohou zdržet některá místní rozhodnutí.",
-      "importance_kind": "possible_impact"
+      "importance": "Obyvatelé Mariánských Lázní podle tohoto rozhodnutí k urnám znovu nepůjdou. Soud dokázal spojit odměnu se dvěma odevzdanými lístky. Posoudil také to, zda by bez nich připadl mandát jiné straně nebo se do zastupitelstva dostal jiný kandidát. Ani jedno by se nestalo. U dalších oslovených voličů nedokázal z podkladů určit, kolik hlasů peníze skutečně ovlivnily.\n\nPro město tak zůstává v platnosti zvolené zastupitelstvo. Pro lidi zapojené do kupování hlasů má věc jinou dohru. Policie dál prověřuje původ peněz a případnou účast dalších osob. Výsledek tohoto šetření je důležitý pro určení osobní odpovědnosti i v situaci, kdy prokázané hlasy na rozdělení mandátů nestačily.",
+      "importance_kind": "analysis",
+      "analysis_source": "iDNES.cz",
+      "analysis_url": "https://www.idnes.cz/karlovy-vary/zpravy/volby-hlasy-kupceni-marianske-lazne-soud-navrh-zamitnuti.A261110_105218_vary-zpravy_pkz"
     },
     {
       "title": "Zelenskyj: V Abú Zabí se jednalo o výměně zajatců a návratu ukrajinských dětí",
@@ -299,8 +303,10 @@
       "category": "svet",
       "published_at": "2026-11-10T11:56:15+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/ceska-a-slovenska-vlada-spolecne-jednaji-v-bratislave-379473",
-      "importance": "Další vývoj může ovlivnit bezpečnost obyvatel, humanitární situaci i vztahy mezi státy. Zhoršení situace může zvýšit nároky na pomoc a tlak na diplomatická jednání.",
-      "importance_kind": "possible_impact"
+      "importance": "Požadavek Babiše a Fica, aby Evropa měla u mírových rozhovorů svého zástupce, má konkrétní rozpočtové pozadí. Německo žádá, aby se na pokrytí příštího ukrajinského schodku podílely všechny státy Unie. Fico odmítl slovenskou účast na další půjčce. Babiš při vystoupení jednoznačnou odpověď na další půjčku nedal. Ani společný požadavek obou premiérů tedy Kyjevu neříká, s jakými penězi může počítat.\n\nPokud by evropský vyjednavač dostal mandát mluvit i o financování, mohl by ostatním stranám předem sdělit, kterou část případné dohody jsou evropské vlády připraveny zaplatit. Kdyby měly vlády částky potvrdit až dodatečně, mohl by vzniknout rozdíl mezi dojednaným slibem a skutečně dostupnými prostředky. Prvním měřítkem posunu proto bude, zda se státy shodnou vedle jména zástupce také na tom, co může jejich jménem nabídnout.",
+      "importance_kind": "analysis",
+      "analysis_source": "ČTK",
+      "analysis_url": "https://www.ceskenoviny.cz/zpravy/2899954"
     },
     {
       "title": "Nový pokus o mír PŘEHLEDNĚ: Evropa se obává Trumpovy hry. V čem jsou jednání tentokrát jiná?",
