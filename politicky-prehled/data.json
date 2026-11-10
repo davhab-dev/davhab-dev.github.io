@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T22:54:00.439535+00:00",
+  "updated_at": "2026-11-10T23:46:39.313698+00:00",
   "window_hours": 24,
   "articles": [
     {
@@ -47,18 +47,6 @@
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/jak-jeffrey-epstein-prispel-k-padu-prince-andrewa-i-britskeho-premiera-379495",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
-    },
-    {
-      "title": "Slavětín půjde k volbám znovu. Rozhodl tak soud po skandálu s letáky",
-      "summary": "Volební hlasování ve Slavětíně na Lounsku proběhne znovu. K hlasovacím lístkům byly v říjnu během roznášení přidané propagační letáky jedné z kandidujících stran, kterou vede…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-10T20:51:00+00:00",
-      "url": "https://www.idnes.cz/volby/slavetin-pujde-k-volbam-znovu-rozhodl-tak-soud-po-skandalu-s-letaky.A261110_215148_domaci_balu",
-      "importance": "Soud ve Slavětíně nařídil opakovat hlasování kvůli volebním letákům vloženým do obálek s hlasovacími lístky. Kandidátní listiny zůstávají platné. Voliči tedy mají znovu rozhodnout mezi registrovanými kandidáty.\n\nStarosta přisuzuje vložení letáků doručovatelce; jde o jeho vysvětlení. Rozhodnutí samo neurčuje vítěze opakovaného hlasování. Další posun ukáže vyhlášení termínu a nový výsledek. Použitý podklad termín neuvádí.",
-      "importance_kind": "analysis",
-      "analysis_source": "iROZHLAS",
-      "analysis_url": "https://www.irozhlas.cz/zpravy-domov/hlasovani-ve-slavetine-na-lounsku-je-neplatne-komunalni-volby-se-budou-opakovat_2611101800_lbl"
     },
     {
       "title": "Netanjahu zaútočil na strany izraelských Arabů. Nabádá k vládě národní jednoty",
@@ -155,18 +143,6 @@
       "importance_kind": "analysis",
       "analysis_source": "ČTK / České noviny",
       "analysis_url": "https://www.ceskenoviny.cz/zpravy/krakovsky-strelec-ktery-zabil-devet-lidi-se-zajimal-o-breivika-rekl-ministr/2900278"
-    },
-    {
-      "title": "AI Osobností roku se stal podnikatel Tomáš Čupr, uspěl i ministr Vojtěch",
-      "summary": "Titul AI Osobnost roku 2026 získal zakladatel Slevomatu nebo Rohlíku Tomáš Čupr. Ministr zdravotnictví Adam Vojtěch (za ANO) zvítězil v kategorii Zdravotnictví a vysokoškolský pedagog…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-10T19:47:00+00:00",
-      "url": "https://www.idnes.cz/ekonomika/domaci/ai-osobnosti-roku-se-stal-podnikatel-tomas-cupr-uspel-i-ministr-vojtech.A261110_204106_ekonomika_remy",
-      "importance": "Ceny České asociace AI zvyšují veřejnou viditelnost oceněných osobností, včetně ministra zdravotnictví Adama Vojtěcha. Jde o výsledek soutěže pořádané asociací, nikoli o rozhodnutí vlády či posouzení účinnosti konkrétního zdravotnického systému. Článek odlišuje veřejné nominace od samostatné ceny odborné poroty.\n\nPro pacienty nebo uživatele veřejných služeb samotné ocenění nezavádí novou službu ani nárok. Praktický přínos by bylo nutné doložit konkrétním nasazením technologií a měřitelnými výsledky. Zpráva neobsahuje rozpočty, harmonogram takového zavádění ani údaje o jeho účincích; závěr o zlepšení péče z ní proto neplyne.",
-      "importance_kind": "analysis",
-      "analysis_source": "iDNES.cz",
-      "analysis_url": "https://www.idnes.cz/ekonomika/domaci/ai-osobnosti-roku-se-stal-podnikatel-tomas-cupr-uspel-i-ministr-vojtech.A261110_204106_ekonomika_remy"
     },
     {
       "title": "Babiš v „pikošce\" spojil Vrbětice a Vondru. „Neberte si ho do pusy,“ zuřil Kupka",
@@ -349,18 +325,6 @@
       "analysis_url": "https://zpravy.aktualne.cz/zahranici/havlicek-uvedl-ze-na-ukrajine-bude-jednat-take-o-dodavkach-letadel-skyfox/r~aaa29101e96d42e2a71e637319974a64/"
     },
     {
-      "title": "Živě: Exkluzivní debata amerických velvyslanců o dopadu voleb v USA na Evropu",
-      "summary": "Sledujte exkluzivní debatu dřívějších amerických velvyslanců v Česku Stephena B. Kinga a Normana L. Eisena spolu s bývalým ministrem zahraničních věcí Tomášem Petříčkem a reportérem…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-10T16:45:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/zive-exkluzivni-debata-americkych-velvyslancu-o-dopadu-voleb-v-usa-na-evropu/r~aaa294fe6132771ad0c59382dd2b649d/",
-      "importance": "Debata bývalých amerických velvyslanců nabízí českému publiku výklad voleb z pohledu lidí se zkušeností z Washingtonu i Prahy. U jejich odhadů má smysl rozlišovat mezi tím, co může změnit nové složení Kongresu hlasováním o penězích, a tím, co záleží na dalším rozhodnutí prezidenta.\n\nZveřejněná pozvánka neobsahuje závěry hostů. Samotné konání diskuse proto nepotvrzuje změnu amerických závazků vůči Evropě. U konkrétní předpovědi lze následně sledovat, zda ji podpoří návrh zákona, rozpočtové hlasování nebo stanovisko administrativy.",
-      "importance_kind": "analysis",
-      "analysis_source": "Aktuálně.cz",
-      "analysis_url": "https://zpravy.aktualne.cz/zahranici/zive-exkluzivni-debata-americkych-velvyslancu-o-dopadu-voleb-v-usa-na-evropu/r~aaa294fe6132771ad0c59382dd2b649d/"
-    },
-    {
       "title": "Zelenskyj: V Abú Zabí se jednalo o výměně zajatců a návratu ukrajinských dětí",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -403,7 +367,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 20,
+      "candidates": 19,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -423,7 +387,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -433,7 +397,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 16,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -443,9 +407,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
-      "selected": 6,
-      "free_articles_checked": 7
+      "candidates": 7,
+      "selected": 5,
+      "free_articles_checked": 6
     },
     {
       "name": "Deník",
@@ -463,9 +427,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 18,
-      "selected": 7,
-      "free_articles_checked": 8
+      "candidates": 16,
+      "selected": 5,
+      "free_articles_checked": 6
     },
     {
       "name": "CNN Prima NEWS",
@@ -473,7 +437,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 16,
       "selected": 3,
       "free_articles_checked": 3
     },
@@ -543,7 +507,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 21,
+      "candidates": 22,
       "selected": 0,
       "free_articles_checked": 0
     }
