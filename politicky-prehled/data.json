@@ -117,8 +117,10 @@
       "category": "domaci",
       "published_at": "2026-11-10T16:57:00+00:00",
       "url": "https://www.idnes.cz/zpravy/domaci/stan-vitez-voleb-v-praze-chce-sestavit-koalici-se-spolu-a-prahou-sobe.A261110_175123_domaci_remy",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Pražští Starostové chtějí do rady přizvat Prahu sobě. Jejích 13 zastupitelů by doplnilo po 17 mandátech STAN a Spolu. Piráti by se svými sedmi mandáty zůstali mimo radu, pokud navržené složení přijmou i partneři a zastupitelstvo vedení skutečně zvolí.\n\nPodle dosavadních jednání by STAN získal pět míst v jedenáctičlenné radě včetně primátora, Spolu čtyři a Praha sobě dvě. Které oblasti jednotliví radní převezmou a na jakých projektech se shodnou, má upřesnit koaliční smlouva a program. Strany je chtějí připravit před pokračováním ustavující schůze 19. listopadu.",
+      "importance_kind": "analysis",
+      "analysis_source": "iDNES.cz",
+      "analysis_url": "https://www.idnes.cz/zpravy/domaci/stan-vitez-voleb-v-praze-chce-sestavit-koalici-se-spolu-a-prahou-sobe.A261110_175123_domaci_remy"
     },
     {
       "title": "Agentura EU varovala před útoky na domácí spotřebiče",
@@ -127,8 +129,10 @@
       "category": "svet",
       "published_at": "2026-11-10T17:56:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/agentura-eu-varovala-pred-utoky-na-domaci-spotrebice/2900212",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Útoky narušily chlazení potravin a ve Francii zasáhly také krevní banky, které musely část zásob přemístit. Pro provozovatele je důležité, jak dlouho byla překročena skladovací teplota a co bylo možné včas zachránit. Ředitel ENISA zmínil domácí spotřebiče jako možný budoucí cíl. Článek dokládá škody především v provozovnách.\n\nFrancie připsala říjnový útok jednotce íránských revolučních gard a předvolala si íránského velvyslance. Írán obvinění odmítl. Francouzská prokuratura požádala o vydání mezinárodních zatykačů. Podrobnosti důkazů článek neuvádí a z francouzského obvinění nelze dovozovat pachatele všech incidentů v dalších zemích.",
+      "importance_kind": "analysis",
+      "analysis_source": "ČTK / České noviny",
+      "analysis_url": "https://www.ceskenoviny.cz/zpravy/agentura-eu-varovala-pred-utoky-na-domaci-spotrebice/2900212"
     },
     {
       "title": "Vláda vypsala výběrové řízení na předsedu ÚOHS, nastoupí od prosince",
@@ -137,8 +141,10 @@
       "category": "domaci",
       "published_at": "2026-11-10T17:39:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/vlada-vypsala-vyberove-rizeni-na-predsedu-uohs-nastoupi-od-prosince/2900198",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Zájemci o vedení ÚOHS musí doručit přihlášku Úřadu vlády do 18. listopadu do 12 hodin. Rozhoduje okamžik doručení. Uchazeči musí mimo jiné doložit nejméně deset let právní nebo ekonomické praxe a předložit vlastní koncepci úřadu na první rok i na delší období.\n\nPetru Mlsnovi končí šestiletý mandát 2. prosince a může se přihlásit znovu. Soutěž tedy otevírá výběr, ale sama ještě neznamená výměnu předsedy. Po posouzení uchazečů následuje návrh vlády a jmenování prezidentem. Pro zadavatele veřejných zakázek a firmy bude důležité, jaké priority vybraný předseda stanoví pro dohled a rozhodování úřadu.",
+      "importance_kind": "analysis",
+      "analysis_source": "ČTK / České noviny",
+      "analysis_url": "https://www.ceskenoviny.cz/zpravy/vlada-vypsala-vyberove-rizeni-na-predsedu-uohs-nastoupi-od-prosince/2900198"
     },
     {
       "title": "Za prezidentem i na velryby. Benda, Hřib či Jurečka budou 17. listopadu na Tchaj-wanu",
