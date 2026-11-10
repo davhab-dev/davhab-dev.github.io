@@ -185,8 +185,10 @@
       "category": "svet",
       "published_at": "2026-11-10T19:38:36+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/polsko-resi-jak-reformovat-ustavni-soud-variantou-je-kompletni-obmena-379493",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Polská vláda obnovila zveřejňování rozhodnutí ústavního soudu, ale tím nevyřešila spor o legitimitu jeho vedení. Podle ČT24 čeká na přezkum přibližně 1200 případů. Pro jejich účastníky má význam nejen vydání rozhodnutí, ale i to, zda je ostatní instituce uznají a budou podle něj postupovat.\n\nKompletní výměna soudců je zatím diskutovanou variantou. Citovaný předseda advokátní rady ji podmiňuje změnou ústavy a zárukami proti opakovanému politickému přestavování soudu. Posun by znamenala shoda na konkrétním postupu a obnovené rozhodování respektované napříč institucemi. Tuskovo hodnocení nové éry je politický výrok, nikoli důkaz ukončení krize.",
+      "importance_kind": "analysis",
+      "analysis_source": "ČT24",
+      "analysis_url": "https://ct24.ceskatelevize.cz/clanek/svet/polsko-resi-jak-reformovat-ustavni-soud-variantou-je-kompletni-obmena-379493"
     },
     {
       "title": "Lotyška oslavovala na TikToku ruské zločiny. Soud ji poslal do vězení",
@@ -215,8 +217,10 @@
       "category": "svet",
       "published_at": "2026-11-10T18:57:45+01:00",
       "url": "https://www.denik.cz/evropa/zemrela-francouzska-hrdinka-odboje-proti-nacistum-vedla-tricet-muzu/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Zpráva připomíná úmrtí odbojářky Solange Alexandreové a Macronovu poctu jejímu působení. Její příběh zahrnuje spojovací práci, sabotážní akce i velení jednotce; nejde o nové rozhodnutí týkající se obrany nebo sociálních práv.\n\nBezprostřední význam spočívá v uchování historické zkušenosti pro další generace. Dostupný český podklad dokládá její dřívější svědectví a státní ocenění, neuvádí však datum pohřbu ani novou státní vzpomínkovou akci. Konkrétní podobu dalších poct proto zatím nelze určit.",
+      "importance_kind": "analysis",
+      "analysis_source": "Novinky / ČTK",
+      "analysis_url": "https://www.novinky.cz/clanek/zahranicni-evropa-ve-veku-104-let-zemrela-jedna-z-hrdinek-francouzskeho-odboje-ze-druhe-sv-valky-40607940"
     },
     {
       "title": "Trest smrti za zbabělost. Konžský soud odsoudil 66 vojáků, chce zlepšit morálku",
