@@ -241,8 +241,10 @@
       "category": "domaci",
       "published_at": "2026-11-10T18:22:00+01:00",
       "url": "https://zpravy.aktualne.cz/zahranici/no-nepokakame-se-fico-a-babis-se-pustili-do-nemeckeho-ultimata-o-pujcce-ukrajine/r~aaa2948f200ae8120712d92ce507cc77/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Fico odmítl slovenskou účast na další půjčce Ukrajině, zatímco Babiš se k nové půjčce podle ČTK jednoznačně nevyjádřil. Český premiér odmítl především spojování ukrajinského financování s víceletým rozpočtem EU. Označení německého postupu za vydírání je Ficovo hodnocení, nikoli právní závěr.\n\nPro členské státy zůstává otevřené, jak zajistit slíbených 45 miliard eur pro ukrajinský rozpočet na příští rok a kdo ponese náklady. Dřívější výjimka ze záruk sama neurčuje podmínky nové pomoci. Posun bude patrný z dohody o zdroji financování a závazcích zemí; slovní spor s Merzem ještě neznamená skutečné zablokování rozpočtu.",
+      "importance_kind": "analysis",
+      "analysis_source": "ČTK / České noviny",
+      "analysis_url": "https://www.ceskenoviny.cz/zpravy/babis-a-fico-se-ohradili-vuci-vyzve-merze-k-financni-podpore-ukrajiny/2899954"
     },
     {
       "title": "Starostové řekli, s kým budou vládnout Praze. Piráti jsou ze hry venku",
@@ -335,8 +337,10 @@
       "category": "domaci",
       "published_at": "2026-11-10T16:19:59+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/studenti-vysokych-skol-demonstruji-za-verejnopravni-media-379487",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Studentské protesty požadují stažení návrhu rušícího poplatky ČT a ČRo a otevření odborné debaty. Samotné demonstrace návrh nezastavily: Babiš podle článku stažení odmítá, připouští však jednání o podobě předlohy. Obavy studentů z politického ovlivňování médií je proto třeba odlišit od již prokázaného dopadu dosud projednávané změny.\n\nPro diváky, posluchače a zaměstnance médií bude rozhodující výsledný způsob financování a záruky jeho předvídatelnosti. Konkrétní posun ukážou změny textu návrhu a další parlamentní hlasování. Požadavky na podporu školství, kultury či odvolání některých představitelů rozšiřují protest, ale zpráva nedokládá, že by vláda některému z těchto požadavků již vyhověla.",
+      "importance_kind": "analysis",
+      "analysis_source": "ČT24",
+      "analysis_url": "https://ct24.ceskatelevize.cz/clanek/domaci/studenti-vysokych-skol-demonstruji-za-verejnopravni-media-379487"
     },
     {
       "title": "Havlíček uvedl, že na Ukrajině bude jednat také o dodávkách letadel Skyfox",
