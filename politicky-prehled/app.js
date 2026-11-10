@@ -192,6 +192,13 @@ $('#edition').addEventListener('change', async event => {
     $('#archiveMessage').textContent = 'Vydání se nepodařilo načíst. Zůstává předchozí přehled.';
   }
 });
+$('#news').addEventListener('click', event => {
+  const panel = event.target.closest('details.impact[open]');
+  if (!panel || event.target.closest('summary, a') || !window.getSelection().isCollapsed) return;
+  panel.open = false;
+  panel.querySelector('summary').focus({preventScroll: true});
+});
+
 render(); refresh(); loadArchive();
 setInterval(loadArchive, 5 * 60000);
 setInterval(refresh, 30000);
