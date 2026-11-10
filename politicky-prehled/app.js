@@ -56,6 +56,7 @@ function render() {
           note.append(' · ', citation);
         }
       } else {
+        if (a.importance_kind === 'pending') note.textContent = 'Stav rozboru';
         why.append(document.createTextNode(a.importance));
       }
       why.append(note);
