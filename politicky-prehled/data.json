@@ -225,8 +225,10 @@
       "category": "svet",
       "published_at": "2026-11-11T08:12:55+01:00",
       "url": "https://www.denik.cz/svet/v-rusku-zadrzeli-dva-agenty-polskych-tajnych-sluzeb/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Přes kategorické znění titulku jde v textu o tvrzení ruské FSB, které Polsko zpochybňuje. Zveřejněné informace neumožňují nezávisle potvrdit špionáž ani údajné napojení zadržených na polské služby. Zadržení, obvinění a prokázaná vina jsou odlišné skutečnosti.\n\nMožným následkem je další diplomatický spor a tlak na vysvětlení, koho Rusko zadrželo a na jakém základě. Praktický vývoj ukáže formální komunikace mezi státy a ověřitelné informace o dotčených osobách. Opakované převzetí prohlášení FSB další redakcí není nové nezávislé potvrzení jeho pravdivosti.",
+      "importance_kind": "analysis",
+      "analysis_source": "Deník",
+      "analysis_url": "https://www.denik.cz/svet/v-rusku-zadrzeli-dva-agenty-polskych-tajnych-sluzeb/"
     },
     {
       "title": "Ústí nad Labem zvažuje rušení městských obvodů. Na Střekově o tom debatovalo ustavující zastupitelstvo",
