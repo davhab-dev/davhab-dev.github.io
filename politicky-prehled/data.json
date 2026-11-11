@@ -201,8 +201,10 @@
       "category": "domaci",
       "published_at": "2026-11-11T08:25:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/pavel-neucast-vojaku-na-cviceni-v-polsku-nepovazuji-za-stastnou/2900379",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Prezidentova kritika se týká příprav na situaci po skončení bojů, nikoli oznámeného vyslání českých jednotek do současné války. Zpráva současně cituje generální štáb, podle něhož česká účast existuje na úrovni velitelství. Pro posouzení je proto nutné rozlišovat praktický výcvik jednotek v Polsku a práci štábních důstojníků.\n\nOmezená účast může ovlivnit zkušenosti ze společné přípravy i vnímání české ochoty přispět spojenci. Rozsah takového dopadu zatím není doložen. Podstatné bude jasné stanovisko vlády a armády k tomu, jaké úkoly Česko připouští a jaké odmítá; samotný politický spor ještě neurčuje podobu budoucích bezpečnostních záruk.",
+      "importance_kind": "analysis",
+      "analysis_source": "ČTK / České noviny",
+      "analysis_url": "https://www.ceskenoviny.cz/zpravy/pavel-neucast-vojaku-na-cviceni-v-polsku-nepovazuji-za-stastnou/2900379"
     },
     {
       "title": "Pavel se sešel s Babišem. Řešit budou klíčového úředníka i armádu",
