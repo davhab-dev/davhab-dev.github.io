@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-11T01:19:12.285574+00:00",
+  "updated_at": "2026-11-11T03:00:12.949826+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Republikáni ve Sněmovně reprezentantů zablokovali snahu o odvolání Hegsetha",
+      "summary": "Republikánská většina v americké Sněmovně reprezentantů v úterý fakticky zablokovala snahu o odvolání ministra obrany Petea Hegsetha kvůli válce proti Íránu. Návrh na ústavní žalobu…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-11T01:42:58+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/republikani-ve-snemovne-reprezentantu-zablokovali-snahu-o-odvolani-hegsetha-379497",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Pavel bude jednat s Babišem mimo jiné o jmenování předsedy ÚOHS",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
@@ -13,26 +23,6 @@
       "importance_kind": "analysis",
       "analysis_source": "ČTK",
       "analysis_url": "https://www.ceskenoviny.cz/zpravy/pavel-bude-jednat-s-babisem-mimo-jine-o-jmenovani-predsedy-uohs/2900135"
-    },
-    {
-      "title": "Republikáni ve Sněmovně reprezentantů zablokovali impeachment Hegsetha",
-      "summary": "Republikánská většina v americké Sněmovně reprezentantů v úterý fakticky zablokovala snahu o odvolání ministra obrany Petea Hegsetha v souvislosti s válkou proti Íránu, uvedly dnes…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-10T23:49:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/republikani-ve-snemovne-reprezentantu-zablokovali-impeachment-hegsetha.A261111_002735_zahranicni_air",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Republikáni zablokovali snahu o odvolání Hegsetha",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-11T00:28:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/republikani-zablokovali-snahu-o-odvolani-hegsetha/2900326",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
     },
     {
       "title": "ČR si dnes připomene Den válečných veteránů",
@@ -161,6 +151,18 @@
       "analysis_url": "https://www.irozhlas.cz/zpravy-domov/hlasovani-ve-slavetine-na-lounsku-je-neplatne-komunalni-volby-se-budou-opakovat_2611101800_lbl"
     },
     {
+      "title": "Zemřela jedna z hrdinek francouzského válečného odboje. Zavzpomínal i Macron",
+      "summary": "Ve věku 104 let zemřela jedna z hrdinek francouzského odboje z druhé světové války Solange Alexandreová. Poté, co působila jako spojka odboje, založila společně se…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-10T20:08:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/umrti-hrdinka-francouzsky-odboj-druha-sv-valka.A261110_193912_zahranicni_rtn",
+      "importance": "Úmrtím Solange Alexandreové odchází přímá pamětnice francouzského odboje, která vedla i vlastní bojovou jednotku. Macron jí vzdal veřejný hold. Jde o připomínku historické služby, nikoli oznámení nové státní politiky.\n\nPro uchování jejího svědectví mají význam již zaznamenané rozhovory a dokumenty. Článek připomíná přijetí Řádu čestné legie v roce 2024; neoznamuje novou poctu ani program vzpomínkových akcí. Ty proto nelze z prezidentova vyjádření předjímat.",
+      "importance_kind": "analysis",
+      "analysis_source": "Novinky / ČTK",
+      "analysis_url": "https://www.novinky.cz/clanek/zahranicni-evropa-ve-veku-104-let-zemrela-jedna-z-hrdinek-francouzskeho-odboje-ze-druhe-sv-valky-40607940"
+    },
+    {
       "title": "Dva výbuchy a pak třítunová bomba. Ruský útok na kryt plný civilistů minutu po minutě",
       "summary": "Ruská armáda zasáhla 2. listopadu podzemní školu v ukrajinské obci Komyšuvacha v Záporožské oblasti. Místo sloužilo jako kryt a výdejna humanitární pomoci. Zemřelo přes 50…",
       "source": "CNN Prima NEWS",
@@ -281,18 +283,6 @@
       "analysis_url": "https://www.ceskenoviny.cz/zpravy/agentura-eu-varovala-pred-utoky-na-domaci-spotrebice/2900212"
     },
     {
-      "title": "Rusko převzalo koncept ukrajinské iniciativy „Koláč nezávislosti“",
-      "summary": "Ruská organizace Masterskaja Novych Media podle ukrajinské aktivistky Larysy Latypové převzala koncept i slogany ukrajinské iniciativy „Koláč nezávislosti“, která vznikla v roce 2024. Její obdobu…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-10T17:00:00+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-prevzalo-koncept-ukrajinske-iniciativy-kolac-nezavislosti-379482",
-      "importance": "Spor se týká toho, komu publikum připíše původ společného rituálu. Ukrajinská iniciativa spojila místní recepty s oslavou nezávislosti a rozdáváním koláčů vojákům. Podle její spoluzakladatelky se v ruské kampani objevila i tato méně samozřejmá kombinace prvků.\n\nPro původní organizátory vzniká praktický problém při šíření projektu za hranicemi. Člověk, který nejdříve uvidí ruskou verzi, nemusí poznat ukrajinský původ. Rozsah tohoto účinku zpráva neměří. Posoudit převzetí pomáhá časová posloupnost obou kampaní a srovnání jejich veřejných materiálů.",
-      "importance_kind": "analysis",
-      "analysis_source": "ČT24",
-      "analysis_url": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-prevzalo-koncept-ukrajinske-iniciativy-kolac-nezavislosti-379482"
-    },
-    {
       "title": "Skandál šéfa Nvidie pokračuje. Trump ho hájí, milenka bývala novinářkou",
       "summary": "Alice Huangová, s níž měl poměr šéf Nvidie Jensen Huang, působila ve vedení firmy vyšetřované kvůli podezření z obcházení amerických omezení vývozu čipů. Americké tajné…",
       "source": "Deník",
@@ -369,8 +359,8 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 28,
-      "selected": 6,
+      "candidates": 27,
+      "selected": 5,
       "free_articles_checked": 7
     },
     {
