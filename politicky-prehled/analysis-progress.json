@@ -3,10 +3,6 @@
   "current": null,
   "queue": [
     [
-      "https://zpravy.aktualne.cz/domaci/pavel-se-sesel-s-babisem-resit-budou-klicoveho-urednika-i-armadu/r~aaa298812781cb3f21ef44e744e133ce/",
-      "Pavel se sešel s Babišem. Řešit budou klíčového úředníka i armádu"
-    ],
-    [
       "https://www.denik.cz/svet/v-rusku-zadrzeli-dva-agenty-polskych-tajnych-sluzeb/",
       "V Rusku zadrželi dva agenty polských tajných služeb"
     ],
@@ -84,7 +80,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-11T10:07:54.397332+00:00",
+  "heartbeat": "2026-11-11T10:07:59.778191+00:00",
   "cycle": {
     "started_at": "2026-11-11T10:00:06.858337+00:00",
     "initial_pending": 37,
@@ -156,6 +152,10 @@
       [
         "https://www.ceskenoviny.cz/zpravy/pavel-neucast-vojaku-na-cviceni-v-polsku-nepovazuji-za-stastnou/2900379",
         "Pavel: Neúčast vojáků na cvičení v Polsku nepovažuji za šťastnou"
+      ],
+      [
+        "https://zpravy.aktualne.cz/domaci/pavel-se-sesel-s-babisem-resit-budou-klicoveho-urednika-i-armadu/r~aaa298812781cb3f21ef44e744e133ce/",
+        "Pavel se sešel s Babišem. Řešit budou klíčového úředníka i armádu"
       ]
     ],
     "deferred": [],
