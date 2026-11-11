@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T13:23:36.559847+00:00",
+  "updated": "2026-11-11T13:24:31.933349+00:00",
   "articles": [
     {
       "title": "'Increasing awareness between cyclists and motorists' – Garmin partners with navigation app Waze to increase rider safety with real-time alerts",
@@ -1488,7 +1488,6 @@
     }
   ],
   "source_errors": [
-    "MTBS.cz: syntax error: line 1, column 0",
-    "MTBS.cz: HTTP Error 404: Not Found"
+    "NaKole.cz: HTTP Error 403: Forbidden"
   ]
 }
