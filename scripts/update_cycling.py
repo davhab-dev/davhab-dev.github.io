@@ -25,12 +25,12 @@ FEEDS = [
     ("BikeRadar Gravel", "https://feeds.purplemanager.com/193c804a-a673-47bd-b09b-11baf4822a17/bikeradar-gravel-feed", "EN", "Gravel"),
 ]
 TAGS = [
-    ("Gravel", ("gravel", "bikepacking")),
-    ("MTB", ("mountain bike", "mountain biking", "xc ", "cross-country", "downhill", "enduro")),
-    ("Trénink", ("training", "fitness", "nutrition", "recovery", "workout")),
-    ("Servis", ("maintenance", "repair", "workshop", "service", "mechanic")),
-    ("Technika", ("tech", "review", "tyre", "tire", "wheel", "groupset", "brake", "gear", "bike test")),
-    ("Závody", ("race", "tour de france", "giro", "vuelta", "championship", "worldtour", "cyclocross", "cyclo-cross")),
+    ("Gravel", ("gravel", "bikepacking", "gravelisty")),
+    ("MTB", ("mountain bike", "mountain biking", "xc ", "cross-country", "downhill", "enduro", "horských kol", "bikery")),
+    ("Trénink", ("training", "fitness", "nutrition", "recovery", "workout", "trénink", "regenerac", "výživ")),
+    ("Servis", ("maintenance", "repair", "workshop", "service", "mechanic", "oprava", "údržba", "servis kol")),
+    ("Technika", ("tech", "review", "tyre", "tire", "wheel", "groupset", "brake", "gear", "bike test", "přilba", "pláště", "komponent", "elektrokol", "technika", "kotoučových brzd", "test:")),
+    ("Závody", ("race", "tour de france", "giro", "vuelta", "championship", "worldtour", "cyclocross", "cyclo-cross", "cyklokros", "mistrovství evropy", "světový pohár", "závod")),
 ]
 def clean(value):
     return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", value or ""))).strip()
@@ -229,6 +229,8 @@ def main():
     if DEST.exists():
         try: existing=json.loads(DEST.read_text(encoding="utf-8")).get("articles",[])
         except (ValueError,OSError): pass
+    # Odstranime historicke chybne zaznamy bez datumu; aktualni se znovu nactou.
+    existing=[a for a in existing if not (a.get("source")=="MTBS.cz" and not a.get("published"))]
     fresh=[]
     errors=[]
     for name,url,lang,cat in FEEDS:
