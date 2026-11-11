@@ -1,17 +1,7 @@
 {
   "active": true,
-  "current": {
-    "key": [
-      "https://www.ceskenoviny.cz/zpravy/bily-dum-varuje-demokraty-pred-vysetrovanim-trumpovy-vlady/2900709",
-      "Bílý dům varuje demokraty před vyšetřováním Trumpovy vlády"
-    ],
-    "started_at": "2026-11-11T15:54:16.630063+00:00"
-  },
+  "current": null,
   "queue": [
-    [
-      "https://www.ceskenoviny.cz/zpravy/bily-dum-varuje-demokraty-pred-vysetrovanim-trumpovy-vlady/2900709",
-      "Bílý dům varuje demokraty před vyšetřováním Trumpovy vlády"
-    ],
     [
       "https://www.idnes.cz/zpravy/domaci/z-jidelen-fastfoody-motoriste-a-premier-rusi-vyhlasku-o-stravovani.A261111_102500_domaci_mls",
       "Vláda ruší vyhlášku o stravování. Stát nemá být zachránce lidstva, říká Šťastný"
@@ -142,13 +132,20 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-11T15:54:16.630063+00:00",
+  "heartbeat": "2026-11-11T15:55:07.904826+00:00",
   "cycle": {
     "started_at": "2026-11-11T15:53:42.871624+00:00",
     "initial_pending": 33,
-    "completed": [],
+    "completed": [
+      [
+        "https://www.ceskenoviny.cz/zpravy/bily-dum-varuje-demokraty-pred-vysetrovanim-trumpovy-vlady/2900709",
+        "Bílý dům varuje demokraty před vyšetřováním Trumpovy vlády"
+      ]
+    ],
     "deferred": [],
     "status": "running"
   },
-  "samples_seconds": []
+  "samples_seconds": [
+    51.274763
+  ]
 }
