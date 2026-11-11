@@ -13,6 +13,8 @@ import xml.etree.ElementTree as ET
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 DEST = ROOT / "cyklisticky-prehled" / "articles.json"
 FEEDS = [
+    ("MTBS.cz", "https://mtbs.cz/rss/sekce/bleskovky", "CS", "Závody"),
+    ("MTBS.cz", "https://mtbs.cz/rss_06.mtbs", "CS", "Technika"),
     ("Cyclingnews", "https://www.cyclingnews.com/feeds.xml", "EN", "Závody"),
     ("BikeRadar", "https://feeds.purplemanager.com/193c804a-a673-47bd-b09b-11baf4822a17/bikeradar-news", "EN", "Technika"),
     ("BikeRadar MTB", "https://feeds.purplemanager.com/193c804a-a673-47bd-b09b-11baf4822a17/bikeradar-mtb-feed", "EN", "MTB"),
