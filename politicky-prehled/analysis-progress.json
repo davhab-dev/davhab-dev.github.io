@@ -1,7 +1,169 @@
 {
-  "active": false,
-  "current": null,
-  "queue": [],
+  "active": true,
+  "current": {
+    "key": [
+      "https://www.ceskenoviny.cz/zpravy/soud-trumpova-zaloba-na-bbc-o-odskodne-deset-miliard-usd-muze-pokracovat/2900433",
+      "Soud: Trumpova žaloba na BBC o odškodné deset miliard USD může pokračovat"
+    ],
+    "started_at": "2026-11-11T10:00:07.102469+00:00"
+  },
+  "queue": [
+    [
+      "https://www.ceskenoviny.cz/zpravy/soud-trumpova-zaloba-na-bbc-o-odskodne-deset-miliard-usd-muze-pokracovat/2900433",
+      "Soud: Trumpova žaloba na BBC o odškodné deset miliard USD může pokračovat"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/praha-sobe-koalice-praha-stan-spolu-hlavacek-portlik.A261110_162725_domaci_dyn",
+      "Hlavní město povede STAN, SPOLU a Praha sobě. Dopravu má Scheinherr, finance Portlík"
+    ],
+    [
+      "https://www.irozhlas.cz/zpravy-domov/martina-putu-mohl-v-cele-libereckeho-kraje-vystridat-jan-svitak-ze-starostu-pro_2611111023_tkp",
+      "Martina Půtu by mohl v čele Libereckého kraje vystřídat Jan Sviták ze Starostů pro Liberecký kraj"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/rozpocet-vybor-poslanecka-snemovna-schillerova-pikora-dluh-schodek.A261110_210656_domaci_ikro",
+      "Výbor posuzuje jednotlivé kapitoly návrhu rozpočtu, řeší i sektorové daně"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/kennedyovi-donald-trump-vitezny-oblouk-federalni-soud.A261111_100049_zahranicni_onbu",
+      "Rodině Kennedyových vadí Trumpův vítězný oblouk, plán napadla u soudu"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/v-abu-zabi-pokracuji-mirove-hovory-mezi-zastupci-ukrajiny-ruska-a-usa/2900427",
+      "V Abú Zabí pokračují mírové hovory mezi zástupci Ukrajiny, Ruska a USA"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/protest-pred-prazskou-radnici-rakusan-tlaci-na-sve-lidi-aby-nesli-vladnout-s-ano/r~aaa298d4e6b7293d7538921bb84d9099/",
+      "Protest před pražskou radnicí. Rakušan tlačí na své lidi, aby nešli vládnout s ANO"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/putu-zrejme-v-cele-libereckeho-kraje-vystrida-poslanec-jan-svitak-z-slk/2900417",
+      "Půtu zřejmě v čele Libereckého kraje vystřídá poslanec Jan Sviták z SLK"
+    ],
+    [
+      "https://www.idnes.cz/ekonomika/domaci/vlada-nyni-podle-havlicka-neuvazuje-o-zavedeni-sektorovych-dani.A261111_091456_ekonomika_ven",
+      "O sektorových daních vláda neuvažuje, řekl ministr Havlíček. Odmítají je i firmy"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/italie-se-ohradila-navrh-zakaz-pizzy-v-ruskych-skolach.A261111_090219_zahranicni_ikul",
+      "Rusko chce zakázat pizzu ve školách. Itálie je pohoršená, reaguje zvláštním receptem"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/hoekstra-eu-nekde-klimaticke-regulace-prehnala/2900400",
+      "Hoekstra: EU někde klimatické regulace přehnala"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/putin-chce-zit-hodne-dlouhy-zivot-jeho-pritel-kvuli-tomu-prijal-dulezity-krok/r~aaa292d52ad0d43890efff04e333156b/",
+      "Putin chce žít hodně dlouhý život. Jeho přítel kvůli tomu přijal důležitý krok"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/pavla-rozladila-neucast-ceskych-vojaku-na-cviceni-v-polsku-379503",
+      "Pavla rozladila neúčast českých vojáků na cvičení v Polsku"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/fsb-hlasi-zatceni-dvou-udajnych-polskych-agentu-varsava-informaci-overuje-379501",
+      "FSB hlásí zatčení dvou údajných polských agentů, Varšava mluví o provokaci"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/migracni-vlna-na-kanarskych-ostrovech-vyvolava-protesty-spanelska-vlada-celi-kritice-379496",
+      "Migrační vlna na Kanárských ostrovech vyvolává protesty. Španělská vláda čelí kritice"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/pavel-jednal-s-babisem-chtel-probrat-jeho-dopis-ci-deni-kolem-ct-a-cro/2900135",
+      "Pavel jednal s Babišem, chtěl probrat jeho dopis či dění kolem ČT a ČRo"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/pavel-neucast-vojaku-na-cviceni-v-polsku-nepovazuji-za-stastnou/2900379",
+      "Pavel: Neúčast vojáků na cvičení v Polsku nepovažuji za šťastnou"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/pavel-se-sesel-s-babisem-resit-budou-klicoveho-urednika-i-armadu/r~aaa298812781cb3f21ef44e744e133ce/",
+      "Pavel se sešel s Babišem. Řešit budou klíčového úředníka i armádu"
+    ],
+    [
+      "https://www.denik.cz/svet/v-rusku-zadrzeli-dva-agenty-polskych-tajnych-sluzeb/",
+      "V Rusku zadrželi dva agenty polských tajných služeb"
+    ],
+    [
+      "https://www.irozhlas.cz/zpravy-domov/usti-nad-labem-zvazuje-ruseni-mestskych-obvodu-ve-strekove-o-tom-debatovalo_2611110737_elv",
+      "Ústí nad Labem zvažuje rušení městských obvodů. Na Střekově o tom debatovalo ustavující zastupitelstvo"
+    ],
+    [
+      "https://www.irozhlas.cz/zpravy-svet/ruska-tajna-sluzba-tvrdi-ze-zadrzela-dva-polske-agenty-vini-je-ze-spionaze-v_2611110729_mst",
+      "Ruská tajná služba tvrdí, že zadržela dva polské agenty. Viní je ze špionáže v Kaliningradské oblasti"
+    ],
+    [
+      "https://denikn.cz/newsletter/2252765/babis-a-fico-se-setkali-ve-slovenske-narodni-galerii-zacala-mirova-jednani-mezi-ukrajinou-a-ruskem-prahu-povede-krome-stan-a-spolu-i-praha-sobe/",
+      "R5M: Babiš a Fico se setkali ve Slovenské národní galerii | Začala mírová jednání mezi Ukrajinou a Ruskem | Prahu povede kromě STAN a Spolu i Praha sobě"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/pochvalil-ho-trump-podrzela-snemovna-republikani-zablokovali-snahu-o-hegsethovo-odvolani/r~aaa29e80ca3fcbfb069c01704095c033/",
+      "Pochválil ho Trump, podržela sněmovna. Republikáni zablokovali snahu o Hegsethovo odvolání"
+    ],
+    [
+      "https://www.denik.cz/evropa/babis-a-fico-se-ohradili-vuci-vyzve-merze-k-dalsi-financni-podpore-ukrajiny/",
+      "Babiš a Fico se ohradili vůči výzvě Merze k další finanční podpoře Ukrajiny"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/evropa-celi-kyberutokum-na-chladici-zarizeni-nukib-doporucuje-preventivni-opatreni-379438",
+      "Evropa čelí kyberútokům na chladicí zařízení. NÚKIB doporučuje preventivní opatření"
+    ],
+    [
+      "https://www.irozhlas.cz/zpravy-svet/demokrate-v-usa-zvitezili-co-ale-republikani-stihnou-do-ledna-zustaneme-pres_2611110700_vdv",
+      "Demokraté v USA zvítězili, co ale republikáni stihnou do ledna? ‚Zůstaneme přes Vánoce,‘ volají"
+    ],
+    [
+      "https://www.respekt.cz/informacni-servis/zelenskyj-evropa-si-musi-vybrat-kdo-ji-bude-zastupovat-na-jednanich-s-ruskem-2026-11-11-00-16",
+      "Zelenskyj: Evropa si musí vybrat, kdo ji bude zastupovat na jednáních s Ruskem"
+    ],
+    [
+      "https://www.irozhlas.cz/zpravy-svet/republikani-zablokovali-hegsethuv-impeachment-jenz-navrhl-jejich-kongresman-ten_2611110657_ako",
+      "Republikáni zablokovali Hegsethův impeachment, jenž navrhl jejich kongresman. Ten hlasoval pro"
+    ],
+    [
+      "https://www.denik.cz/svet/republikani-ve-snemovne-reprezentantu-zablokovali-snahu-o-odvolani-hegsetha/",
+      "Republikáni ve Sněmovně reprezentantů zablokovali snahu o odvolání Hegsetha"
+    ],
+    [
+      "https://www.irozhlas.cz/zpravy-svet/online-po-utoku-dronu-horelo-v-ruskem-pristavu-ust-luga-patri-k-nejvetsim-pro_2611110625_ako",
+      "ONLINE: Po útoku dronů hořelo v ruském přístavu Usť-Luga, patří k největším pro vývoz ropy"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/priznejme-si-to-putin-neni-izolovany-rika-politik-ktery-mu-zavolal/r~aaa298990a4e771b4698968c3c2392f8/",
+      "„Přiznejme si to: Putin není izolovaný.“ Politik popsal telefonát, za který to schytal"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/odvolani-namestci-protesty-i-spor-o-dph-co-se-deje-okolo-spravy-krnapu-379418",
+      "Odvolaní náměstci, protesty i spor o DPH. Co se děje okolo Správy KRNAPu?"
+    ],
+    [
+      "https://cnn.iprima.cz/elone-prijed-vyrabet-letajici-auta-do-krasnodaru-putinovy-babicky-zvou-muska-do-ruska-526746",
+      "Elone, přijeď vyrábět létající auta do Krasnodaru. Putinovy babičky zvou Muska do Ruska"
+    ],
+    [
+      "https://www.irozhlas.cz/zpravy-domov/rakusan-vedeme-permanentni-kampan-mluvime-se-vsemi-ziskat-volice-ano-je-nejtezsi_2611110525_jgr",
+      "Rakušan: Vedeme permanentní kampaň, mluvíme se všemi. Získat voliče ANO je nejtěžší a nejdůležitější cíl"
+    ],
+    [
+      "https://www.irozhlas.cz/zpravy-domov/starosta-abertam-podle-soudu-zpusobil-skodu-za-deset-milionu-mesto-se-spokojilo_2611110500_zko",
+      "Starosta Abertam podle soudu způsobil škodu za deset milionů, město se spokojilo s půl milionem"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/dronovy-utok-zpusobil-pozar-v-ruskem-exportnim-pristavu-ust-luga/2900340",
+      "Dronový útok způsobil požár v ruském exportním přístavu Usť-Luga"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/havlicek-jednal-se-sefem-lvovske-oblasti-o-tezbe-plynu-a-zdravotnictvi/2900335",
+      "Havlíček jednal se šéfem Lvovské oblasti o těžbě plynu a zdravotnictví"
+    ]
+  ],
   "needs_sources": [],
-  "heartbeat": "2026-11-11T09:37:21.792616+00:00"
+  "heartbeat": "2026-11-11T10:00:07.102469+00:00",
+  "cycle": {
+    "started_at": "2026-11-11T10:00:06.858337+00:00",
+    "initial_pending": 37,
+    "completed": [],
+    "deferred": [],
+    "status": "running"
+  }
 }
