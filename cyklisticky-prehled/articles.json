@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T15:31:33.047589+00:00",
+  "updated": "2026-11-11T15:32:55.392826+00:00",
   "articles": [
     {
       "title": "Superprestige Niel: Cameron Mason soloes to first win of the season and biggest victory of his career",
@@ -461,6 +461,15 @@
       "published": "2026-11-09"
     },
     {
+      "title": "Jak na bikepacking: Jak bojovat s vlastní hlavou?",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132008/jak-na-bikepacking-jak-bojovat-s-vlastni-hlavou.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "Gravel",
+      "published": "2026-11-09"
+    },
+    {
       "title": "Ridley a čtyři čeští nováčci jsou hlavními změnami ATT Investments pro rok 2027. Nejen o tom jsme si povídali s Adrianem Banaszekem",
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/ridley-a-ctyri-cesti-novacci-jsou-hlavnimi-zmenami-att-investments-pro-rok-2027-nejen-o-tom-jsme-si-povidali-s-adrianem-banaszekem",
@@ -593,15 +602,6 @@
       "source": "MTBIKER.cz",
       "lang": "CS",
       "category": "MTB",
-      "published": "2026-11-08"
-    },
-    {
-      "title": "Jak na bikepacking: Jak bojovat s vlastní hlavou?",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132008/jak-na-bikepacking-jak-bojovat-s-vlastni-hlavou.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "Gravel",
       "published": "2026-11-08"
     },
     {
@@ -1098,6 +1098,15 @@
       "lang": "CS",
       "category": "Technika",
       "published": "2026-11-05T08:08:29+00:00"
+    },
+    {
+      "title": "Rozběhnito s farářem: Nemusíš závodit, stačí jen vyběhnout",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132077/rozbehnito-s-fararem-nemusis-zavodit-staci-jen-vybehnout.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "Závody",
+      "published": "2026-11-05"
     },
     {
       "title": "Luxusní značky, třeste se – test novinek Sportful 2026",
@@ -2810,6 +2819,24 @@
       "published": ""
     },
     {
+      "title": "Pogačar kritizuje nedostatečnou bezpečnost v cyklistice. Závody jsou stále rychlejší, organizátoři ale zaostávají",
+      "summary": "",
+      "url": "https://www.roadcycling.cz/clanek/pogacar-kritizuje-nedostatecnou-bezpecnost-v-cyklistice-zavody-jsou-stale-rychlejsi-organizatori-ale-zaostavaji",
+      "source": "RoadCycling.cz",
+      "lang": "CS",
+      "category": "Závody",
+      "published": ""
+    },
+    {
+      "title": "Na Koppenbergcrossu obhájili vládu Nys (i po dvou pádech) a Brand (po sóle). Zemanová dojela devátá mezi elitou, Bažant šestý v U23",
+      "summary": "",
+      "url": "https://www.roadcycling.cz/clanek/na-koppenbergcrossu-obhajili-vladu-nys-i-po-dvou-padech-a-brand-po-sole-zemanova-dojela-devata-mezi-elitou-bazant-sesty-v-u23",
+      "source": "RoadCycling.cz",
+      "lang": "CS",
+      "category": "Závody",
+      "published": ""
+    },
+    {
       "title": "Je to červené, rychlé a není to Ferrari. Co je to? (unboxing)",
       "summary": "",
       "url": "https://www.mtbiker.cz/clanky/131966/je-to-cervene-rychle-a-neni-to-ferrari-co-je-to-unboxing.html",
@@ -2852,33 +2879,6 @@
       "source": "MTBIKER.cz",
       "lang": "CS",
       "category": "Technika",
-      "published": ""
-    },
-    {
-      "title": "Rozběhnito s farářem: Nemusíš závodit, stačí jen vyběhnout",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132077/rozbehnito-s-fararem-nemusis-zavodit-staci-jen-vybehnout.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": ""
-    },
-    {
-      "title": "Pogačar kritizuje nedostatečnou bezpečnost v cyklistice. Závody jsou stále rychlejší, organizátoři ale zaostávají",
-      "summary": "",
-      "url": "https://www.roadcycling.cz/clanek/pogacar-kritizuje-nedostatecnou-bezpecnost-v-cyklistice-zavody-jsou-stale-rychlejsi-organizatori-ale-zaostavaji",
-      "source": "RoadCycling.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": ""
-    },
-    {
-      "title": "Na Koppenbergcrossu obhájili vládu Nys (i po dvou pádech) a Brand (po sóle). Zemanová dojela devátá mezi elitou, Bažant šestý v U23",
-      "summary": "",
-      "url": "https://www.roadcycling.cz/clanek/na-koppenbergcrossu-obhajili-vladu-nys-i-po-dvou-padech-a-brand-po-sole-zemanova-dojela-devata-mezi-elitou-bazant-sesty-v-u23",
-      "source": "RoadCycling.cz",
-      "lang": "CS",
-      "category": "Závody",
       "published": ""
     }
   ],
