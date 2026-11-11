@@ -1,18 +1,62 @@
 {
-  "active": false,
+  "active": true,
   "current": null,
   "queue": [
     [
+      "https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-mir-jednani-vyjednavac-medinskij.A261111_184904_zahranicni_rtn",
+      "Vrátí se nám každý centimetr. Ukrajina je prasklý vřed, soudí ruský šéfvyjednavač"
+    ],
+    [
+      "https://www.irozhlas.cz/zpravy-domov/sport-me-naucil-ze-zadny-uspech-neni-dilem-jednotlivce-primatorem-opavy-je_2611112035_med",
+      "‚Sport mě naučil, že žádný úspěch není dílem jednotlivce.‘ Primátorem Opavy je bývalý basketbalista"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/koalicni-smlouvu-ve-zline-podepsaly-stan-zlin-21-a-trojblok-379531",
+      "Koaliční smlouvu ve Zlíně podepsaly STAN, Zlín 21 a trojblok"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/cesko-by-mohlo-dodat-ukrajine-16-letounu-skyfox-uvedl-havlicek-379530",
+      "Havlíček: Česko by mohlo dodat Ukrajině 16 letounů Skyfox. Čtyři už byly potvrzeny"
+    ],
+    [
+      "https://www.denik.cz/evropa/orbanuv-bratr-je-ve-vazbe-hrozi-mu-az-deset-let-vezeni/",
+      "Orbánův bratr je ve vazbě. Hrozí mu až deset let vězení"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/madarsky-soud-poslal-orbanova-bratra-do-vazby.A261111_195802_zahranicni_meli",
+      "Bratr bojovníka proti migraci Orbána je ve vazbě. Pašoval do země Vietnamce"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/kdybych-vedel-o-sve-rakovine-nekandidoval-bych-priznal-biden.A261111_201143_zahranicni_meli",
+      "Kdybych věděl o své rakovině, neusiloval bych o druhý mandát, lituje Biden"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/zemedelci-celi-vysokym-nakladum-i-tlakum-na-ochranu-zivotniho-prostredi-379526",
+      "Zemědělci čelí vysokým nákladům i tlakům na ochranu životního prostředí"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/ukrajina-havlicek-navsteva-delegace-smyhal.A261111_132545_domaci_aoc",
+      "Havlíček se v Kyjevě sešel s premiérem. Česko nejspíš dodá 16 letounů"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/prehledne-co-ceka-prahu-pod-novymi-pany-zdrazeni-nejen-mhd-i-megaprojekt/r~aaa29ecd0ee6b316faead01f39ee5664/",
+      "Přehledně: Co čeká Prahu pod novými pány. Zdražení nejen MHD i megaprojekt"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/madarsky-soud-poslal-orbanova-bratra-do-vazby/r~aaa2993f0a31c82f517fa4a0d24fa74e/",
+      "Maďarský soud poslal Orbánova bratra do vazby"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/polsko-hybridni-valka-ukrajina-rusko-belorusko.A261111_182153_zahranicni_rtn",
+      "Oslava banderovců na památnících v Polsku. Objednávka opět vede na východ"
+    ],
+    [
+      "https://cnn.iprima.cz/predseda-uohs-mlsna-prisel-o-proverku-presto-zvazuje-ze-se-bude-o-funkci-znovu-uchazet-526935",
+      "Předseda ÚOHS Mlsna přišel o prověrku. Přesto zvažuje, že se bude o funkci znovu ucházet"
+    ],
+    [
       "https://www.irozhlas.cz/zpravy-domov/novy-rok-novy-hejtman-v-libereckem-kraji-konci-puta-jeho-misto-ma-pripadnout_2611111940_aha",
       "Nový rok, nový hejtman. V libereckém kraji končí Půta, jeho místo má připadnout Janu Svitákovi"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/madarsky-soud-poslal-orbanova-bratra-a-jeho-pritelkyni-na-mesic-do-vazby-379529",
-      "Maďarský soud poslal Orbánova bratra a jeho přítelkyni na měsíc do vazby"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/iran-potrebuje-obohaceny-uran-pro-jaderne-ponorky-rekl-sef-iranske-rady-bezpecnosti.A261111_173649_zahranicni_meli",
-      "Potřebujeme obohacený uran pro jaderné ponorky, vysvětluje Írán"
     ],
     [
       "https://cnn.iprima.cz/orbanuv-bratr-je-ve-vazbe-soud-ho-tam-poslal-i-s-pritelkyni-526931",
@@ -51,10 +95,6 @@
       "Babiš popřel Okamuru. O neúčasti armády na cvičení v Polsku na vládě nepadlo ani slovo"
     ],
     [
-      "https://www.idnes.cz/zpravy/domaci/babis-miri-do-irska-lidri-eu-tam-maji-resit-umelou-inteligenci-i-ceny-energii.A261111_090139_domaci_chtl",
-      "Babiš míří do Irska. S lídry EU bude řešit AI a ceny energií, setká se i se Zelenským"
-    ],
-    [
       "https://cnn.iprima.cz/iran-pohrozil-udery-na-zakladny-v-evrope-reagovat-chce-na-pripadny-utok-usa-526922",
       "Írán hrozí údery na americké základny v Evropě. Chce tak reagovat na případný útok USA"
     ],
@@ -64,35 +104,15 @@
     ],
     [
       "https://zpravy.aktualne.cz/zahranici/v-polsku-je-panem-polak-varsava-praska-ve-svech-pochod-nacionalistu-vede-prezident/r~aaa29e596f17a2a7917a097588ec95ad/",
-      "V Polsku je pánem Polák. Varšava praská ve švech, pochod nacionalistů vede prezident"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/polsko-slavi-svatek-nezavislosti-ve-varsave-se-kona-pochod-nacionalistu-379523",
-      "Polsko slaví Svátek nezávislosti, Varšavou prošli nacionalisté"
+      "V Polsku je pánem Polák. Varšava praskala ve švech, pochod nacionalistů vedl prezident"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/ukrajinci-tvrdi-ze-jsou-na-zimu-pripraveni-maji-teple-obleceni-a-varice/2900727",
       "Ukrajinci tvrdí, že jsou na zimu připraveni, mají teplé oblečení a vařiče"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/nacionaliste-polsko-den-nezavislosti-podpora-od-prezident-nawrockeho.A261111_164048_zahranicni_jira",
-      "V Polsku je pánem Polák. Varšavou vyrazil pochod nacionalistů s prezidentem v čele"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/asi-ma-co-skryvat-nevysetrujte-trumpovu-vladu-varuje-bily-dum-demokraty.A261111_164721_zahranicni_bro",
-      "„Asi má co skrývat.“ Nevyšetřujte Trumpovu vládu, varuje Bílý dům demokraty"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/ministri-standardy-vyhlasky-o-skolnim-stravovani-budou-nezavaznym-doporucenim/2900695",
-      "Ministři: Standardy vyhlášky o školním stravování budou nezávazným doporučením"
-    ],
-    [
       "https://www.denik.cz/cesko/andrej-babis-17-listopad-narodni-trida-vit-rakusan/",
       "Premiér by na Národní chybět neměl, není to chlapské ani státnické, říká Rakušan"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/ctyri-roky-po-osvobozeni-obyvatele-chersonu-popisuji-jak-se-tam-zmenil-zivot-379519",
-      "Čtyři roky po osvobození obyvatelé Chersonu popisují, jak se tam změnil život"
     ],
     [
       "https://www.denik.cz/cesko/sektorove-dane-vlada-vit-rakusan-debata/",
@@ -103,24 +123,8 @@
       "‚S touhle vládou ne.‘ Piráti ve Sněmovně nepodpoří celostátní referendum, vadí jim dezinformace"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/organizace-se-obavaji-zmen-pravidel-ve-skolnich-jidelnach-plaga-i-stastny-kroky-haji-379518",
-      "Organizace se obávají změn pravidel ve školních jídelnách. Ministři kroky hájí"
-    ],
-    [
       "https://www.irozhlas.cz/zpravy-svet/tisice-skol-v-italii-a-britanii-dostaly-vyhruzky-bombou-policie-hrozby_2611111552_ntu",
       "Tisíce škol v Itálii a Británii dostaly výhrůžky bombou. Policie hrozby nepovažuje za věrohodné"
-    ],
-    [
-      "https://zpravy.aktualne.cz/domaci/hrib-ostre-tepal-babise-za-utek-z-narodni-tridy-sam-bude-tisice-kilometru-daleko/r~aaa29ab96627d027ea369d685f640a8e/",
-      "Ani k Babišovi kritický Hřib nedorazí na Národní. „Já nejsem premiér,“ říká"
-    ],
-    [
-      "https://www.irozhlas.cz/zpravy-domov/filip-sedlak-nemuze-byt-zastupitelem-v-pardubickem-patem-obvode-rozhodl-soud_2611111501_aha",
-      "Filip Sedlák nemůže být zastupitelem v pardubickém pátém obvodě, rozhodl soud. Neměl tam bydliště"
-    ],
-    [
-      "https://www.irozhlas.cz/zpravy-svet/online-vyslanci-usa-se-ve-ctvrtek-sejdou-v-moskve-s-putinem-pote-v-dublinu-ze_2611111459_ntu",
-      "ONLINE: Vyslanci USA se ve čtvrtek sejdou v Moskvě s Putinem. Poté v Dublinu se Zelenským"
     ],
     [
       "https://www.denik.cz/cesko/vit-rakusan-kritika-chovani-sevcik-okamura-snemovna/",
@@ -131,37 +135,18 @@
       "Rakušan k antimonopolnímu úřadu: Doufám, že vláda nedá na to, kdo je čí kamarád"
     ],
     [
-      "https://www.irozhlas.cz/zpravy-svet/cechy-vitezstvi-ruska-na-ukrajine-ohrozilo-proto-eu-nechape-ze-nechceme-pomoci_2611111308_mst",
-      "Čechy by vítězství Ruska na Ukrajině ohrozilo. Proto EU nechápe, že nechceme pomoci, říká novinář"
-    ],
-    [
-      "https://www.denik.cz/svet/rusko-a-ukrajina-si-vymeni-zajatce-vyslanci-miri-za-putinem-a-zelenskym/",
-      "Rusko a Ukrajina si vymění zajatce. Vyslanci míří za Putinem a Zelenským"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/babis-resil-s-pavlem-svou-cestu-do-izraele-i-valku-na-ukrajine-379500",
-      "Babiš řešil s Pavlem svou cestu do Izraele i válku na Ukrajině"
-    ],
-    [
       "https://www.respekt.cz/informacni-servis/zelenskyj-evropa-si-musi-vybrat-kdo-ji-bude-zastupovat-na-jednanich-s-ruskem-2026-11-11-00-16",
       "Zelenskyj: Evropa si musí vybrat, kdo ji bude zastupovat na jednáních s Ruskem"
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-11T18:58:02.434343+00:00",
+  "heartbeat": "2026-11-11T20:10:44.474185+00:00",
   "cycle": {
-    "started_at": "2026-11-11T18:56:37.103903+00:00",
-    "initial_pending": 37,
-    "completed": [
-      [
-        "https://www.ceskenoviny.cz/zpravy/cesko-by-mohlo-dodat-ukrajine-16-letounu-skyfox/2900335",
-        "Česko by mohlo dodat Ukrajině 16 letounů Skyfox"
-      ]
-    ],
+    "started_at": "2026-11-11T20:10:44.474185+00:00",
+    "initial_pending": 34,
+    "completed": [],
     "deferred": [],
-    "status": "incomplete",
-    "finished_at": "2026-11-11T18:58:02.434343+00:00",
-    "remaining": 36
+    "status": "running"
   },
   "samples_seconds": [
     51.274763,

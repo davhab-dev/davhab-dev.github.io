@@ -1,18 +1,136 @@
 {
-  "updated_at": "2026-11-11T18:55:17.982215+00:00",
+  "updated_at": "2026-11-11T20:08:40.334383+00:00",
   "window_hours": 24,
   "articles": [
     {
-      "title": "Česko by mohlo dodat Ukrajině 16 letounů Skyfox",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
+      "title": "Vrátí se nám každý centimetr. Ukrajina je prasklý vřed, soudí ruský šéfvyjednavač",
+      "summary": "Zdá se, že se Rusko a Ukrajina přiblížily k míru, uvedl v ruské televizi po třístranných, americko-rusko-ukrajinských jednáních v Abú Zabí hlavní ruský vyjednavač Vladimir…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-11T19:58:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-mir-jednani-vyjednavac-medinskij.A261111_184904_zahranicni_rtn",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "‚Sport mě naučil, že žádný úspěch není dílem jednotlivce.‘ Primátorem Opavy je bývalý basketbalista",
+      "summary": "Novým opavským primátorem se dnes stal bývalý basketbalista a trenér Petr Czudek z OK Změna pro Opavu. Město povede koalice OK Změna pro Opavu s…",
+      "source": "iROZHLAS",
       "category": "domaci",
-      "published_at": "2026-11-11T19:46:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/cesko-by-mohlo-dodat-ukrajine-16-letounu-skyfox/2900335",
-      "importance": "Havlíček podle aktuální zprávy jednal o dvanácti dalších strojích nad čtyři dříve potvrzené. Součet šestnácti tedy označuje možný rozsah dodávek, nikoli šestnáct už předaných letadel. Pro ukrajinskou stranu bude rozhodující uzavření konkrétní dohody, financování, konfigurace a harmonogram dodávek; tyto podmínky nynější krátká aktualizace neuvádí.\n\nJednání o Skyfoxech navazuje na dřívější odmítnutí předání armádních L-159. Jde o odlišné letouny a nelze z něj vyvozovat změnu tohoto rozhodnutí. Případné dodávky by otevřely další zakázku českému výrobci, ale okamžitý přínos pro ukrajinské letectvo nelze určit bez údajů o výcviku, provozní podpoře a termínu nasazení. Zveřejněný text zatím obsahuje i starší části o energetice a nemocnici; podrobnosti letecké dohody proto zůstávají neověřené.",
-      "importance_kind": "analysis",
-      "analysis_source": "ČTK / České noviny",
-      "analysis_url": "https://www.ceskenoviny.cz/zpravy/cesko-by-mohlo-dodat-ukrajine-16-letounu-skyfox/2900335"
+      "published_at": "2026-11-11T20:35:00+01:00",
+      "url": "https://www.irozhlas.cz/zpravy-domov/sport-me-naucil-ze-zadny-uspech-neni-dilem-jednotlivce-primatorem-opavy-je_2611112035_med",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Koaliční smlouvu ve Zlíně podepsaly STAN, Zlín 21 a trojblok",
+      "summary": "Koaliční smlouvu ve Zlíně ve středu večer podepsali zástupci hnutí STAN, Zlín 21 a trojbloku, který tvoří ODS, Společně pro Zlín a Zlín Srdcem s…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-11T19:33:44+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/koalicni-smlouvu-ve-zline-podepsaly-stan-zlin-21-a-trojblok-379531",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Havlíček: Česko by mohlo dodat Ukrajině 16 letounů Skyfox. Čtyři už byly potvrzeny",
+      "summary": "Česko by mohlo Ukrajině dodat šestnáct letounů Skyfox, řekl ve středu novinářům český ministr průmyslu a obchodu Karel Havlíček. V zemi, která se brání ruské…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-11T19:29:58+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/cesko-by-mohlo-dodat-ukrajine-16-letounu-skyfox-uvedl-havlicek-379530",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Orbánův bratr je ve vazbě. Hrozí mu až deset let vězení",
+      "summary": "Soud v Budapešti ve středu poslal na jeden měsíc do vazby Árona Orbána, bratra někdejšího dlouholetého maďarského premiéra Viktora Orbána. Vazebně stíhaná je také přítelkyně…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-11T20:20:45+01:00",
+      "url": "https://www.denik.cz/evropa/orbanuv-bratr-je-ve-vazbe-hrozi-mu-az-deset-let-vezeni/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Bratr bojovníka proti migraci Orbána je ve vazbě. Pašoval do země Vietnamce",
+      "summary": "Soud v Budapešti poslal v úterý na jeden měsíc do vazby Árona Orbána, bratra někdejšího dlouholetého maďarského premiéra Viktora Orbána, a jeho přítelkyni. Spolu s…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-11T19:20:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/madarsky-soud-poslal-orbanova-bratra-do-vazby.A261111_195802_zahranicni_meli",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Kdybych věděl o své rakovině, neusiloval bych o druhý mandát, lituje Biden",
+      "summary": "Bývalý americký prezident Joe Biden uvedl, že když byl v prezidentském úřadu, nevěděl, že má rakovinu. Kdyby mu tehdy byla odhalena, o druhý mandát by…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-11T19:18:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/kdybych-vedel-o-sve-rakovine-nekandidoval-bych-priznal-biden.A261111_201143_zahranicni_meli",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Zemědělci čelí vysokým nákladům i tlakům na ochranu životního prostředí",
+      "summary": "Ze zisku do ztráty – zemědělci mluví zřejmě o nejtíživějším roce od vstupu Česka do Evropské unie. Náklady žene vzhůru i evropský tlak na ochranu…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-11T19:13:11+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/zemedelci-celi-vysokym-nakladum-i-tlakum-na-ochranu-zivotniho-prostredi-379526",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Havlíček se v Kyjevě sešel s premiérem. Česko nejspíš dodá 16 letounů",
+      "summary": "Návštěva jaderné elektrárny, jednání s vlivnými politiky, podnikatelské fórum, ale i zastávka na natankování a rychlé občerstvení na benzínce. I takový byl včerejší program vicepremiéra…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-11T19:02:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/ukrajina-havlicek-navsteva-delegace-smyhal.A261111_132545_domaci_aoc",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Přehledně: Co čeká Prahu pod novými pány. Zdražení nejen MHD i megaprojekt",
+      "summary": "Co přinese nová vládní koalice Starostů, Spolu a Prahy sobě občanům české metropole? Je pravděpodobné, že dojde ke zdražení ročního jízdného MHD. S tím by…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-11T20:00:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/prehledne-co-ceka-prahu-pod-novymi-pany-zdrazeni-nejen-mhd-i-megaprojekt/r~aaa29ecd0ee6b316faead01f39ee5664/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Maďarský soud poslal Orbánova bratra do vazby",
+      "summary": "Soud v Budapešti ve středu poslal na jeden měsíc do vazby Árona Orbána, bratra někdejšího dlouholetého maďarského premiéra Viktora Orbána. Vazebně stíhaná je také přítelkyně…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-11T19:54:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/madarsky-soud-poslal-orbanova-bratra-do-vazby/r~aaa2993f0a31c82f517fa4a0d24fa74e/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Oslava banderovců na památnících v Polsku. Objednávka opět vede na východ",
+      "summary": "Polsko řeší další projev hybridní války, uvedla ukrajinská agentura UNIAN. Anonymní účty na sociálních sítích zadávaly cílené objednávky k vandalským útokům. Banderovské nápisy „Sláva UPA“…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-11T18:53:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/polsko-hybridni-valka-ukrajina-rusko-belorusko.A261111_182153_zahranicni_rtn",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Předseda ÚOHS Mlsna přišel o prověrku. Přesto zvažuje, že se bude o funkci znovu ucházet",
+      "summary": "Předseda Úřadu pro ochranu hospodářské soutěže (ÚOHS) Petr Mlsna přišel o bezpečnostní prověrku. K 2. prosinci mu končí šestiletý mandát, odebrání prověrky mu fakticky znemožní…",
+      "source": "CNN Prima NEWS",
+      "category": "domaci",
+      "published_at": "2026-11-11T19:50:24+01:00",
+      "url": "https://cnn.iprima.cz/predseda-uohs-mlsna-prisel-o-proverku-presto-zvazuje-ze-se-bude-o-funkci-znovu-uchazet-526935",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
     },
     {
       "title": "Nový rok, nový hejtman. V libereckém kraji končí Půta, jeho místo má připadnout Janu Svitákovi",
@@ -21,26 +139,6 @@
       "category": "domaci",
       "published_at": "2026-11-11T19:40:00+01:00",
       "url": "https://www.irozhlas.cz/zpravy-domov/novy-rok-novy-hejtman-v-libereckem-kraji-konci-puta-jeho-misto-ma-pripadnout_2611111940_aha",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Maďarský soud poslal Orbánova bratra a jeho přítelkyni na měsíc do vazby",
-      "summary": "Soud v Budapešti poslal ve středu na jeden měsíc do vazby Árona Orbána, bratra někdejšího dlouholetého maďarského premiéra Viktora Orbána. Vazebně stíhaná je také přítelkyně…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-11T18:30:41+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/madarsky-soud-poslal-orbanova-bratra-a-jeho-pritelkyni-na-mesic-do-vazby-379529",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Potřebujeme obohacený uran pro jaderné ponorky, vysvětluje Írán",
-      "summary": "Írán potřebuje obohacený uran pro vývoj lodí a ponorek s jaderným pohonem, uvedl v úterý v Libanonské televizní stanici Al-Majádín šéf íránské Nejvyšší rady národní…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-11T18:23:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/iran-potrebuje-obohaceny-uran-pro-jaderne-ponorky-rekl-sef-iranske-rady-bezpecnosti.A261111_173649_zahranicni_meli",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -135,16 +233,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Babiš míří do Irska. S lídry EU bude řešit AI a ceny energií, setká se i se Zelenským",
-      "summary": "Od našeho zpravodaje v Dublinu – Premiér Andrej Babiš (ANO) ve středu večer odletěl na dvoudenní cestu do Dublinu. Ve čtvrtek se zúčastní summitu Evropského…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-11T16:39:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/babis-miri-do-irska-lidri-eu-tam-maji-resit-umelou-inteligenci-i-ceny-energii.A261111_090139_domaci_chtl",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Írán hrozí údery na americké základny v Evropě. Chce tak reagovat na případný útok USA",
       "summary": "Írán pohrozil, že v případě dalšího amerického útoku odpoví i údery na americké základny v Evropě, pokud je Spojené státy k útoku využijí.",
       "source": "CNN Prima NEWS",
@@ -165,22 +253,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "V Polsku je pánem Polák. Varšava praská ve švech, pochod nacionalistů vede prezident",
-      "summary": "Polsko si ve středu připomíná obnovu své nezávislosti v roce 1918. Ve Varšavě vyšly na pochod desetitisíce nacionalistů a stoupenců krajní pravice. Do jejich čela…",
+      "title": "V Polsku je pánem Polák. Varšava praskala ve švech, pochod nacionalistů vedl prezident",
+      "summary": "Polsko si ve středu připomnělo obnovení nezávislosti v roce 1918. Varšavou prošel pochod několika set tisíc nacionalistů a stoupenců krajní pravice. Do jejich čela se…",
       "source": "Aktuálně.cz",
       "category": "svet",
       "published_at": "2026-11-11T17:29:00+01:00",
       "url": "https://zpravy.aktualne.cz/zahranici/v-polsku-je-panem-polak-varsava-praska-ve-svech-pochod-nacionalistu-vede-prezident/r~aaa29e596f17a2a7917a097588ec95ad/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Polsko slaví Svátek nezávislosti, Varšavou prošli nacionalisté",
-      "summary": "Polsko si ve středu připomínalo obnovu své nezávislosti v roce 1918 a ve Varšavě vyšly na pochod desetitisíce nacionalistů a stoupenců krajní pravice. Do jejich…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-11T16:27:27+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/polsko-slavi-svatek-nezavislosti-ve-varsave-se-kona-pochod-nacionalistu-379523",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -191,26 +269,6 @@
       "category": "svet",
       "published_at": "2026-11-11T17:16:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/ukrajinci-tvrdi-ze-jsou-na-zimu-pripraveni-maji-teple-obleceni-a-varice/2900727",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "V Polsku je pánem Polák. Varšavou vyrazil pochod nacionalistů s prezidentem v čele",
-      "summary": "Polsko si ve středu připomíná obnovu své nezávislosti v roce 1918. Ve Varšavě při této příležitosti vyšly na pochod desetitisíce nacionalistů a stoupenců krajní pravice.…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-11T15:55:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/nacionaliste-polsko-den-nezavislosti-podpora-od-prezident-nawrockeho.A261111_164048_zahranicni_jira",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "„Asi má co skrývat.“ Nevyšetřujte Trumpovu vládu, varuje Bílý dům demokraty",
-      "summary": "Bílý dům vyslal varování demokratům, aby nezahajovali chystané vyšetřování administrativy prezidenta Donalda Trumpa. Podle prohlášení Bílého domu by se taková šetření, která jsou standardním nástrojem…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-11T15:51:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/asi-ma-co-skryvat-nevysetrujte-trumpovu-vladu-varuje-bily-dum-demokraty.A261111_164721_zahranicni_bro",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -227,32 +285,12 @@
       "analysis_url": "https://www.ceskenoviny.cz/zpravy/bily-dum-varuje-demokraty-pred-vysetrovanim-trumpovy-vlady/2900709"
     },
     {
-      "title": "Ministři: Standardy vyhlášky o školním stravování budou nezávazným doporučením",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-11T16:30:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/ministri-standardy-vyhlasky-o-skolnim-stravovani-budou-nezavaznym-doporucenim/2900695",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Premiér by na Národní chybět neměl, není to chlapské ani státnické, říká Rakušan",
       "summary": "Deník.cz pokračuje v debatách s lídrem opozice, předsedou hnutí STAN Vítem Rakušanem. Hlavním tématem byly listopadové demonstrace a vládní politika.",
       "source": "Deník",
       "category": "domaci",
       "published_at": "2026-11-11T16:20:58+01:00",
       "url": "https://www.denik.cz/cesko/andrej-babis-17-listopad-narodni-trida-vit-rakusan/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Čtyři roky po osvobození obyvatelé Chersonu popisují, jak se tam změnil život",
-      "summary": "Slzy radosti, objetí, ukrajinské vlajky – před čtyřmi lety, 11. listopadu 2022, osvobodily ukrajinské obranné síly Cherson z ruské okupace. Náměstí Svobody se stalo místem…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-11T15:16:23+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/ctyri-roky-po-osvobozeni-obyvatele-chersonu-popisuji-jak-se-tam-zmenil-zivot-379519",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -277,52 +315,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Organizace se obávají změn pravidel ve školních jídelnách. Ministři kroky hájí",
-      "summary": "Dětský ombudsman Martin Beneš zaslal vládě výhrady k chystané novele vyhlášky o školním stravování. Obává se především toho, že by vláda z vyhlášky mohla vypustit…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-11T14:59:00+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/organizace-se-obavaji-zmen-pravidel-ve-skolnich-jidelnach-plaga-i-stastny-kroky-haji-379518",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Tisíce škol v Itálii a Británii dostaly výhrůžky bombou. Policie hrozby nepovažuje za věrohodné",
       "summary": "E-mail s bombovou výhrůžkou obdrželo v Itálii na 6000 škol, uvedl ve středu podle médií ministr školství Giuseppe Valditara. Policie zatím v žádné z nich…",
       "source": "iROZHLAS",
       "category": "svet",
       "published_at": "2026-11-11T15:52:00+01:00",
       "url": "https://www.irozhlas.cz/zpravy-svet/tisice-skol-v-italii-a-britanii-dostaly-vyhruzky-bombou-policie-hrozby_2611111552_ntu",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Ani k Babišovi kritický Hřib nedorazí na Národní. „Já nejsem premiér,“ říká",
-      "summary": "Premiér Andrej Babiš (ANO) se 17. listopadu nezúčastní tradičního pietního aktu na Národní třídě, protože bude na návštěvě Izraele. Šéf Pirátů Zdeněk Hřib ho za…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-11T15:40:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/hrib-ostre-tepal-babise-za-utek-z-narodni-tridy-sam-bude-tisice-kilometru-daleko/r~aaa29ab96627d027ea369d685f640a8e/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Filip Sedlák nemůže být zastupitelem v pardubickém pátém obvodě, rozhodl soud. Neměl tam bydliště",
-      "summary": "Filip Sedlák z uskupení Naše Pardubice nemůže být zastupitelem obvodu Pardubice V, rozhodla pardubická pobočka krajského soudu v Hradci Králové. Důvodem je, že Sedlák neměl…",
-      "source": "iROZHLAS",
-      "category": "domaci",
-      "published_at": "2026-11-11T15:01:00+01:00",
-      "url": "https://www.irozhlas.cz/zpravy-domov/filip-sedlak-nemuze-byt-zastupitelem-v-pardubickem-patem-obvode-rozhodl-soud_2611111501_aha",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "ONLINE: Vyslanci USA se ve čtvrtek sejdou v Moskvě s Putinem. Poté v Dublinu se Zelenským",
-      "summary": "Zvláštní američtí vyslanci Steve Witkoff a Jared Kushner ve čtvrtek odcestují do Moskvy, kde se setkají s ruským prezidentem Vladimirem Putinem. Po návštěvě ruské metropole…",
-      "source": "iROZHLAS",
-      "category": "svet",
-      "published_at": "2026-11-11T14:59:00+01:00",
-      "url": "https://www.irozhlas.cz/zpravy-svet/online-vyslanci-usa-se-ve-ctvrtek-sejdou-v-moskve-s-putinem-pote-v-dublinu-ze_2611111459_ntu",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -347,36 +345,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Čechy by vítězství Ruska na Ukrajině ohrozilo. Proto EU nechápe, že nechceme pomoci, říká novinář",
-      "summary": "Premiér Andrej Babiš (ANO) odmítl spojování dalšího financování pro Ukrajinu s jednáním o víceletém rozpočtu Unie. I slovenský premiér Robert Fico se ohradil proti výzvě…",
-      "source": "iROZHLAS",
-      "category": "svet",
-      "published_at": "2026-11-11T13:08:00+01:00",
-      "url": "https://www.irozhlas.cz/zpravy-svet/cechy-vitezstvi-ruska-na-ukrajine-ohrozilo-proto-eu-nechape-ze-nechceme-pomoci_2611111308_mst",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Rusko a Ukrajina si vymění zajatce. Vyslanci míří za Putinem a Zelenským",
-      "summary": "V některých otázkách se podařilo dosáhnout vzájemného porozumění, v jiných nikoliv a jednání budou pokračovat, uvedl podle agentury Reuters vedoucí ruské delegace Vladimir Medinskij po…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-11T12:55:43+01:00",
-      "url": "https://www.denik.cz/svet/rusko-a-ukrajina-si-vymeni-zajatce-vyslanci-miri-za-putinem-a-zelenskym/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Babiš řešil s Pavlem svou cestu do Izraele i válku na Ukrajině",
-      "summary": "Premiér Andrej Babiš (ANO) hovořil na středeční schůzce s prezidentem Petrem Pavlem o válce na Ukrajině, armádní koncepci i své cestě do Izraele. Předseda vlády…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-11T10:55:22+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/babis-resil-s-pavlem-svou-cestu-do-izraele-i-valku-na-ukrajine-379500",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Zelenskyj: Evropa si musí vybrat, kdo ji bude zastupovat na jednáních s Ruskem",
       "summary": "Evropa se v listopadu musí rozhodnout, kdo ji bude zastupovat na mírových jednáních o válce na Ukrajině, řekl podle telegramového kanálu RBK-Ukrajina ukrajinský prezident Volodymyr…",
       "source": "Respekt",
@@ -395,9 +363,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
-      "selected": 6,
-      "free_articles_checked": 6
+      "candidates": 18,
+      "selected": 4,
+      "free_articles_checked": 5
     },
     {
       "name": "iROZHLAS",
@@ -405,8 +373,8 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 15,
-      "selected": 7,
+      "candidates": 16,
+      "selected": 5,
       "free_articles_checked": 8
     },
     {
@@ -415,8 +383,8 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 29,
-      "selected": 6,
+      "candidates": 27,
+      "selected": 4,
       "free_articles_checked": 8
     },
     {
@@ -435,7 +403,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 18,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -445,9 +413,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
-      "selected": 5,
-      "free_articles_checked": 5
+      "candidates": 8,
+      "selected": 6,
+      "free_articles_checked": 7
     },
     {
       "name": "Deník",
@@ -455,7 +423,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 14,
       "selected": 5,
       "free_articles_checked": 6
     },
@@ -465,9 +433,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
-      "selected": 5,
-      "free_articles_checked": 5
+      "candidates": 15,
+      "selected": 6,
+      "free_articles_checked": 7
     },
     {
       "name": "CNN Prima NEWS",
@@ -476,8 +444,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 11,
-      "selected": 3,
-      "free_articles_checked": 3
+      "selected": 4,
+      "free_articles_checked": 4
     },
     {
       "name": "E15",
@@ -505,7 +473,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
+      "candidates": 8,
       "selected": 0,
       "free_articles_checked": 1
     },
@@ -535,7 +503,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -545,7 +513,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 19,
+      "candidates": 20,
       "selected": 0,
       "free_articles_checked": 0
     }
