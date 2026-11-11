@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://www.idnes.cz/zpravy/domaci/z-jidelen-fastfoody-motoriste-a-premier-rusi-vyhlasku-o-stravovani.A261111_102500_domaci_mls",
+      "Vláda ruší vyhlášku o stravování. Stát nemá být zachránce lidstva, říká Šťastný"
+    ],
+    "started_at": "2026-11-11T15:55:28.356214+00:00"
+  },
   "queue": [
     [
       "https://www.idnes.cz/zpravy/domaci/z-jidelen-fastfoody-motoriste-a-premier-rusi-vyhlasku-o-stravovani.A261111_102500_domaci_mls",
@@ -132,7 +138,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-11T15:55:07.904826+00:00",
+  "heartbeat": "2026-11-11T15:55:28.356214+00:00",
   "cycle": {
     "started_at": "2026-11-11T15:53:42.871624+00:00",
     "initial_pending": 33,
