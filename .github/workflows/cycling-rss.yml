@@ -1,0 +1,28 @@
+name: Aktualizace Cyklistickeho prehledu
+on:
+  schedule:
+    - cron: '12,42 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: cycling-rss-update
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Stahnout RSS a vytvorit JSON
+        run: python3 scripts/update_cycling.py
+      - name: Ulozit zmeny
+        run: |
+          if git diff --quiet -- cyklisticky-prehled/articles.json && [ -f cyklisticky-prehled/articles.json ]; then
+            echo "Bez zmen"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cyklisticky-prehled/articles.json
+          git diff --cached --quiet || (git commit -m "Aktualizace cyklistickych clanku" && git push)
