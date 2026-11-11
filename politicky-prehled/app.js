@@ -126,6 +126,17 @@ function setupSearch() {
   $('#count').setAttribute('aria-live','polite');
 }
 
+function pendingAnalysisMessage(a, now = Date.now()) {
+  const unknown = 'Čas dokončení zatím nelze spolehlivě odhadnout.';
+  if (a.analysis_status === 'needs_sources') return 'Ověřování podkladů pokračuje. ' + unknown;
+  // Historical editions must not show a live countdown.
+  if (viewingArchive || (searching() && !latestData.articles.some(r => r.url === a.url && r.title === a.title && r.analysis_eta_at === a.analysis_eta_at))) return unknown;
+  const eta = Date.parse(a.analysis_eta_at), measured = Date.parse(a.analysis_estimated_at);
+  if (Number.isFinite(eta) && Number.isFinite(measured) && now >= measured && now - measured <= 600000 && eta > now)
+    return `Odhad zveřejnění rozboru: přibližně za ${Math.ceil((eta-now)/60000)} min.`;
+  return unknown;
+}
+
 function render() {
   const now = Date.now();
   const articles = searching() ? searchArticles() : viewingArchive ? data.articles : data.articles.filter(a => {
@@ -179,7 +190,7 @@ function render() {
         }
       } else {
         why.append(label);
-        if (a.importance_kind === 'pending') note.textContent = 'Stav rozboru';
+        if (a.importance_kind === 'pending') note.textContent = pendingAnalysisMessage(a, now);
         why.append(document.createTextNode(a.importance));
       }
       why.append(note);

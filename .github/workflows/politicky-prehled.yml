@@ -1,12 +1,6 @@
-name: Politicky prehled - hourly update
+name: Politicky prehled - manual recovery
 on:
-  schedule:
-    - cron: '17 * * * *'
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - '.github/workflows/politicky-prehled.yml'
 permissions:
   contents: write
   pages: write
@@ -38,10 +32,7 @@ jobs:
           python -m unittest discover -s .politicky-prehled-source/scripts -p 'test_update_politics.py'
           node --check .politicky-prehled-source/app.js
       - name: Fetch current articles
-        run: python .politicky-prehled-source/scripts/update_politics.py
-      - name: Prepare public application
-        run: |
-          rsync -a --delete --exclude='.git' --exclude='.github' --exclude='scripts' --exclude='README.md' --exclude='.gitignore' .politicky-prehled-source/ politicky-prehled/
+        run: python .politicky-prehled-source/scripts/collect_cycle.py politicky-prehled
       - name: Save latest edition
         run: |
           git config user.name 'github-actions[bot]'

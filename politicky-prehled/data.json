@@ -1,7 +1,77 @@
 {
-  "updated_at": "2026-11-11T07:29:21.936189+00:00",
+  "updated_at": "2026-11-11T08:09:59.023107+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Pavla rozladila neúčast českých vojáků na cvičení v Polsku",
+      "summary": "Prezident Petr Pavel nepovažuje za šťastnou neúčast tuzemských vojáků na cvičení v Polsku nazvaném Koalicja 26.2. Česko by se mělo účastnit příprav na dobu po…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-11T08:02:01+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/pavla-rozladila-neucast-ceskych-vojaku-na-cviceni-v-polsku-379503",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Ukrajinci zasáhli obří ruský přístav v Baltském moři. Nenapadli ho poprvé",
+      "summary": "Ukrajinské dronové útoky v noci na středu způsobily požár v ruském exportním přístavu Usť-Luga v Baltském moři. Uvedl to gubernátor Leningradské oblasti Alexandr Drozděnko, který…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-11T07:58:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/dronovy-utok-ukrajina-pobalti-ust-luga.A261111_061708_zahranicni_onbu",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Neúčast vojáků na cvičení v Polsku není šťastná, řekl Pavel. Jednal s Babišem",
+      "summary": "Prezident Petr Pavel přijal ve středu v 8 hodin premiéra Andreje Babiše (ANO). Šlo o pravidelné a plánované setkání. Pavel avizoval, že se budou zabývat…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-11T07:55:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/babis-pavel-prazsky-hrad-setkani-bezpecnost-vlada-prezident.A261110_154641_domaci_dyn",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Výbor posoudí jednotlivé kapitoly návrhu rozpočtu",
+      "summary": "Rozpočtový výbor Poslanecké sněmovny bude ve středu pokračovat v projednávání návrhu státního rozpočtu na příští rok, který počítá se schodkem 386 miliard korun. Poslanci se…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-11T07:43:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/rozpocet-vybor-poslanecka-snemovna-schillerova-pikora-dluh-schodek.A261110_210656_domaci_ikro",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Migrační vlna na Kanárských ostrovech vyvolává protesty. Španělská vláda čelí kritice",
+      "summary": "Ve Španělsku před blížícími se volbami znovu roste napětí kvůli migraci. Situaci vyostřily tisíce migrantů, kteří z afrického pobřeží dorazili na kanárský ostrov El Hierro.…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-11T07:31:41+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/migracni-vlna-na-kanarskych-ostrovech-vyvolava-protesty-spanelska-vlada-celi-kritice-379496",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Pavel chce s Babišem probrat jeho dopis či dění kolem veřejnoprávních médií",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-11T08:30:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/pavel-chce-s-babisem-probrat-jeho-dopis-ci-deni-kolem-verejnopravnich-medii/2900135",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Střelby na Úřadu vlády se nelekejte, upozornila policie. Cvičí likvidaci útočníka",
+      "summary": "Na Úřadu vlády a v jeho okolí se koná cvičení složek IZS zaměřené na eliminaci aktivního útočníka. Uvedla to policie na síti X s tím,…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-11T07:29:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/strelby-na-uradu-vlady-si-nevsimejte-uvedla-policie-cvici-likvidaci-utocnika.A261111_082522_domaci_tbr",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Pavel se sešel s Babišem. Řešit budou klíčového úředníka i armádu",
       "summary": "Na jednání s prezidentem Petrem Pavlem dorazil ve středu ráno premiér Andrej Babiš (ANO). Politici podle slov hlavy státu budou řešit hlavně aktuální dění. A…",
@@ -13,12 +83,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Neúčast vojáků na cvičení v Polsku není šťastná, řekl Pavel. Jedná s Babišem",
-      "summary": "Prezident Petr Pavel přijímá ve středu od 8 hodin premiéra Andreje Babiše (ANO). Jde o pravidelné a plánované setkání, na kterém se oba politici mají…",
-      "source": "iDNES.cz",
+      "title": "Ústí nad Labem zvažuje rušení městských obvodů. Na Střekově o tom debatovalo ustavující zastupitelstvo",
+      "summary": "Starostou ústeckého Střekova je Jakub Přibyl z koalice Jedno Ústí, vystřídal Pavla Peterku z hnutí ANO. Koalice Jedno Ústí obsadilo také pětičlennou radu. Ustavující zastupitelstvo…",
+      "source": "iROZHLAS",
       "category": "domaci",
-      "published_at": "2026-11-11T07:03:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/babis-pavel-prazsky-hrad-setkani-bezpecnost-vlada-prezident.A261110_154641_domaci_dyn",
+      "published_at": "2026-11-11T07:37:00+01:00",
+      "url": "https://www.irozhlas.cz/zpravy-domov/usti-nad-labem-zvazuje-ruseni-mestskych-obvodu-ve-strekove-o-tom-debatovalo_2611110737_elv",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -29,16 +99,6 @@
       "category": "domaci",
       "published_at": "2026-11-11T06:24:00+00:00",
       "url": "https://www.idnes.cz/zpravy/domaci/praha-sobe-koalice-praha-stan-spolu-hlavacek-portlik.A261110_162725_domaci_dyn",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "R5M: Babiš a Fico se setkali ve Slovenské národní galerii | Začala mírová jednání mezi Ukrajinou a Ruskem | Prahu povede kromě STAN a Spolu i Praha sobě",
-      "summary": "",
-      "source": "Deník N",
-      "category": "domaci",
-      "published_at": "2026-11-11T06:15:04+00:00",
-      "url": "https://denikn.cz/newsletter/2252765/babis-a-fico-se-setkali-ve-slovenske-narodni-galerii-zacala-mirova-jednani-mezi-ukrajinou-a-ruskem-prahu-povede-krome-stan-a-spolu-i-praha-sobe/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -73,6 +133,16 @@
       "importance_kind": "pending"
     },
     {
+      "title": "Demokraté v USA zvítězili, co ale republikáni stihnou do ledna? ‚Zůstaneme přes Vánoce,‘ volají",
+      "summary": "Končícím republikánům v americkém Kongresu zbývá necelých pět jednacích týdnů. Bylo by namístě předpokládat, že strana po historické volební porážce využije zbývající čas k prosazení…",
+      "source": "iROZHLAS",
+      "category": "svet",
+      "published_at": "2026-11-11T07:00:00+01:00",
+      "url": "https://www.irozhlas.cz/zpravy-svet/demokrate-v-usa-zvitezili-co-ale-republikani-stihnou-do-ledna-zustaneme-pres_2611110700_vdv",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
       "title": "Zelenskyj: Evropa si musí vybrat, kdo ji bude zastupovat na jednáních s Ruskem",
       "summary": "Evropa se v listopadu musí rozhodnout, kdo ji bude zastupovat na mírových jednáních o válce na Ukrajině, řekl podle telegramového kanálu RBK-Ukrajina ukrajinský prezident Volodymyr…",
       "source": "Respekt",
@@ -83,12 +153,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Ukrajinci zasáhli obří ruský přístav v Baltském moři. Nenapadli ho poprvé",
-      "summary": "Ukrajinské dronové útoky v noci na středu způsobily požár v ruském exportním přístavu Usť-Luga v Baltském moři. Uvedl to gubernátor Leningradské oblasti Alexandr Drozděnko, který…",
-      "source": "iDNES.cz",
+      "title": "Republikáni zablokovali Hegsethův impeachment, jenž navrhl jejich kongresman. Ten hlasoval pro",
+      "summary": "Republikánská většina v americké Sněmovně reprezentantů v úterý fakticky zablokovala snahu o odvolání ministra obrany Petea Hegsetha kvůli válce proti Íránu. Informovaly o tom agentury.",
+      "source": "iROZHLAS",
       "category": "svet",
-      "published_at": "2026-11-11T05:41:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/dronovy-utok-ukrajina-pobalti-ust-luga.A261111_061708_zahranicni_onbu",
+      "published_at": "2026-11-11T06:57:00+01:00",
+      "url": "https://www.irozhlas.cz/zpravy-svet/republikani-zablokovali-hegsethuv-impeachment-jenz-navrhl-jejich-kongresman-ten_2611110657_ako",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -99,6 +169,16 @@
       "category": "svet",
       "published_at": "2026-11-11T06:36:25+01:00",
       "url": "https://www.denik.cz/svet/republikani-ve-snemovne-reprezentantu-zablokovali-snahu-o-odvolani-hegsetha/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "ONLINE: Po útoku dronů hořelo v ruském přístavu Usť-Luga, patří k největším pro vývoz ropy",
+      "summary": "Ukrajinské dronové útoky v noci na středu způsobily požár v ruském exportním přístavu Usť-Luga v Baltském moři. Uvedl to gubernátor Leningradské oblasti Alexandr Drozděnko, který…",
+      "source": "iROZHLAS",
+      "category": "svet",
+      "published_at": "2026-11-11T06:25:00+01:00",
+      "url": "https://www.irozhlas.cz/zpravy-svet/online-po-utoku-dronu-horelo-v-ruskem-pristavu-ust-luga-patri-k-nejvetsim-pro_2611110625_ako",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -143,12 +223,32 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Dronový útok způsobil požár v ruském přístavu Usť-Luga, uvedl gubernátor",
+      "title": "Rakušan: Vedeme permanentní kampaň, mluvíme se všemi. Získat voliče ANO je nejtěžší a nejdůležitější cíl",
+      "summary": "Předseda opozičních Starostů a nezávislých Vít Rakušan se vyhřívá na výsluní, kam jej v posledních měsících vyvezly volební modely a průzkumy preferencí. Ze STAN je…",
+      "source": "iROZHLAS",
+      "category": "domaci",
+      "published_at": "2026-11-11T05:25:00+01:00",
+      "url": "https://www.irozhlas.cz/zpravy-domov/rakusan-vedeme-permanentni-kampan-mluvime-se-vsemi-ziskat-volice-ano-je-nejtezsi_2611110525_jgr",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Starosta Abertam podle soudu způsobil škodu za deset milionů, město se spokojilo s půl milionem",
+      "summary": "Policie prověřuje postup radnice v Abertamech na Karlovarsku. Jak totiž zjistil Radiožurnál, město se v roce 2024 dohodlo s bývalým starostou Zdeňkem Lakatošem na půlmilionovém…",
+      "source": "iROZHLAS",
+      "category": "domaci",
+      "published_at": "2026-11-11T05:00:00+01:00",
+      "url": "https://www.irozhlas.cz/zpravy-domov/starosta-abertam-podle-soudu-zpusobil-skodu-za-deset-milionu-mesto-se-spokojilo_2611110500_zko",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Dronový útok způsobil požár v ruském exportním přístavu Usť-Luga",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
       "category": "svet",
       "published_at": "2026-11-11T04:55:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/dronovy-utok-zpusobil-pozar-v-ruskem-pristavu-ust-luga-uvedl-gubernator/2900340",
+      "url": "https://www.ceskenoviny.cz/zpravy/dronovy-utok-zpusobil-pozar-v-ruskem-exportnim-pristavu-ust-luga/2900340",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -173,18 +273,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Pavel bude jednat s Babišem mimo jiné o jmenování předsedy ÚOHS",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-11T00:57:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/pavel-bude-jednat-s-babisem-mimo-jine-o-jmenovani-predsedy-uohs/2900135",
-      "importance": "Současnému šéfovi antimonopolního úřadu končí mandát 2. prosince. Časový tlak se tak střetává s prezidentovým požadavkem, aby bylo z čeho vybírat a postup byl průhledný. Důležité bude, zda lze ještě před koncem mandátu porovnat uchazeče podle předem srozumitelných kritérií.\n\nPro firmy a zadavatele, jejichž případy úřad posuzuje, má význam důvěra v nezávislost jeho vedení. Tu může podpořit zveřejněné zdůvodnění výběru. Samotná schůzka prezidenta s premiérem nedává podklad k závěru, jak úřad rozhodne konkrétní soutěž nebo zakázku.",
-      "importance_kind": "analysis",
-      "analysis_source": "ČTK",
-      "analysis_url": "https://www.ceskenoviny.cz/zpravy/pavel-bude-jednat-s-babisem-mimo-jine-o-jmenovani-predsedy-uohs/2900135"
-    },
-    {
       "title": "ČR si dnes připomene Den válečných veteránů",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -197,6 +285,16 @@
       "analysis_url": "https://www.ceskenoviny.cz/zpravy/cr-si-dnes-pripomene-den-valecnych-veteranu/2900324"
     },
     {
+      "title": "Návrh zákona o referendu má šanci projít Sněmovnou. Spoléháme na Piráty, říká Libor Vondráček",
+      "summary": "„Avizovali jsme, že se prvně musíme shodnout na vládě a vědět, co je to, na co jsou i Motoristé schopni přistoupit. Uvidíme, co do toho…",
+      "source": "iROZHLAS",
+      "category": "domaci",
+      "published_at": "2026-11-11T00:10:00+01:00",
+      "url": "https://www.irozhlas.cz/zpravy-domov/navrh-zakona-o-referendu-ma-sanci-projit-snemovnou-spolehame-na-piraty-rika_2611110010_cen",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
       "title": "Babiš dnes v Kramářově vile přijme maďarského prezidenta",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -207,30 +305,6 @@
       "importance_kind": "analysis",
       "analysis_source": "ČTK / České noviny",
       "analysis_url": "https://www.ceskenoviny.cz/zpravy/babis-dnes-v-kramarove-vile-prijme-madarskeho-prezidenta/2900317"
-    },
-    {
-      "title": "Republikáni v americké Sněmovně si do svého čela zvolili konzervativce Jordana",
-      "summary": "Republikáni ve Sněmovně reprezentantů si do svého čela zvolili konzervativce Jima Jordana. Zákonodárce z Ohia od ledna povede republikánskou menšinu v dolní komoře poté, co…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-10T21:46:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/republikani-v-americke-snemovne-si-do-sveho-cela-zvolili-konzervativce-jordana.A261110_210929_zahranicni_fohl",
-      "importance": "Republikánští poslanci vybrali Jima Jordana do čela své příští sněmovní menšiny poměrem 106 ku 73 hlasům. Funkce se ujme v lednu. Volba určuje vedení opozičního klubu v dolní komoře, sama však nemění výsledek voleb ani nedává republikánům kontrolu nad Sněmovnou.\n\nPro Trumpovu administrativu bude důležité, jak Jordan sjednotí poslance při střetu s demokratickou většinou. Ta získá vedení výborů a možnost předvolávat svědky při vyšetřování prezidenta a jeho spolupracovníků. Konkrétní dopad se ukáže až na programu výborů a hlasováních nového Kongresu; Jordanova útočná rétorika zatím není rozhodnutím o jednotlivých zákonech.",
-      "importance_kind": "analysis",
-      "analysis_source": "iDNES.cz / ČTK",
-      "analysis_url": "https://www.idnes.cz/zpravy/zahranicni/republikani-v-americke-snemovne-si-do-sveho-cela-zvolili-konzervativce-jordana.A261110_210929_zahranicni_fohl"
-    },
-    {
-      "title": "Babišova návštěva Izraele je oslavou 17. listopadu, míní Vondráček",
-      "summary": "Premiér Andrej Babiš oznámil, že se z důvodu pracovní cesty do Izraele nezúčastní vzpomínkových akcí konaných na výročí Sametové revoluce. Společně s ním odlétá také…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-10T21:38:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/narodni-trida-17-listopad-ucast-potvrdila-schillerova-havlicek.A261110_102109_domaci_jira",
-      "importance": "Babiš a část ministrů mají od 16. do 18. listopadu jednat v Izraeli, a proto se nezúčastní pražských připomínek sametové revoluce. Schillerová a Havlíček naopak účast na Národní třídě přislíbili. Pro návštěvníky oslav se tedy mění především zastoupení vlády; článek neoznamuje zrušení ani omezení samotných akcí.\n\nVondráčkovo označení cesty za oslavu 17. listopadu je jeho politické hodnocení, nikoli doložený výsledek návštěvy. Podobně Babišova naděje na zklidnění atmosféry zůstává očekáváním. Skutečný výsledek bude možné posoudit podle účasti oznámených představitelů a zveřejněných závěrů zahraniční cesty, nikoli podle sporu o její symboliku.",
-      "importance_kind": "analysis",
-      "analysis_source": "iDNES.cz",
-      "analysis_url": "https://www.idnes.cz/zpravy/domaci/narodni-trida-17-listopad-ucast-potvrdila-schillerova-havlicek.A261110_102109_domaci_jira"
     },
     {
       "title": "Jak Jeffrey Epstein přispěl k pádu prince Andrewa i britského premiéra",
@@ -255,18 +329,6 @@
       "analysis_url": "https://www.irozhlas.cz/zpravy-domov/hlasovani-ve-slavetine-na-lounsku-je-neplatne-komunalni-volby-se-budou-opakovat_2611101800_lbl"
     },
     {
-      "title": "TikToku hrozí ve Španělsku vypnutí. Madridu vadí obsah týkající se zneužívání dětí",
-      "summary": "Španělská vláda požaduje, aby platforma pro sdílení krátkých videí TikTok pozastavila provoz v zemi, dokud neodstraní materiál zobrazující sexuální zneužívání dětí. Informovala o tom agentura…",
-      "source": "CNN Prima NEWS",
-      "category": "svet",
-      "published_at": "2026-11-10T21:15:58+01:00",
-      "url": "https://cnn.iprima.cz/oblibene-socialni-siti-hrozi-v-evropske-zemi-vypnuti-duvodem-je-obsah-se-zneuzivanim-deti-526817",
-      "importance": "Španělské ministerstvo požádalo prokuraturu o zásah kvůli šíření materiálů se zneužíváním dětí a připustilo možnost pozastavení TikToku. Podklad ČT24 z 9. listopadu dokládá podnět úřadům, nikoli již účinné vypnutí služby. Rozsah nelegálního obsahu přisuzuje šetření Maldita.es; nejde o pravomocný závěr soudu.\n\nPro děti zachycené na záznamech je podstatné zastavení dalšího šíření a pro uživatele případný rozsah omezení služby. Posun ukáže rozhodnutí příslušných orgánů a konkrétní změny odstraňování obsahu. Použitý starší podklad nepotvrzuje, zda úřady mezitím rozhodly, a neumožňuje určit datum ani délku případného omezení.",
-      "importance_kind": "analysis",
-      "analysis_source": "ČT24 / RTVE",
-      "analysis_url": "https://ct24.ceskatelevize.cz/clanek/svet/spanelska-vlada-zada-vysetreni-udajnych-pripadu-sexualniho-zneuzivani-deti-na-tiktoku-379436"
-    },
-    {
       "title": "Polsko řeší, jak reformovat ústavní soud. Variantou je kompletní obměna",
       "summary": "Polská vláda poprvé po víc než dvou a půl letech zveřejnila rozhodnutí ústavního soudu. Premiér Donald Tusk to považuje za počátek nové éry. Ústavní krize…",
       "source": "ČT24",
@@ -279,18 +341,6 @@
       "analysis_url": "https://ct24.ceskatelevize.cz/clanek/svet/polsko-resi-jak-reformovat-ustavni-soud-variantou-je-kompletni-obmena-379493"
     },
     {
-      "title": "Lotyška oslavovala na TikToku ruské zločiny. Soud ji poslal do vězení",
-      "summary": "Lotyšský soud poslal ženu na tři roky do vězení s následnou dvouletou zkušební dobou za to, že na platformě TikTok oslavovala válečné zločiny páchané ruskými…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-10T20:36:16+01:00",
-      "url": "https://www.denik.cz/evropa/lotyska-oslavovala-na-tiktoku-ruske-zlociny-soud-ji-poslal-do-vezeni/",
-      "importance": "Soud v Rize uložil ženě tříletý trest za veřejné schvalování ruských válečných zločinů prostřednictvím videí z roku 2024. Rozsudek není pravomocný a obhajoba oznámila odvolání. Titulek proto nelze chápat jako potvrzení konečného výsledku řízení či již zahájeného výkonu tohoto trestu.\n\nJádrem sporu je úmysl při zveřejňování: soud podle zprávy shledal vědomé oslavování zločinů, žena a její obhájce tvrdí, že šlo o lehkovážnou snahu získat popularitu. Další význam případu určí odvolací rozhodnutí a jeho odůvodnění. Z tohoto jednotlivého rozsudku nelze vyvozovat zákaz ruštiny na sociálních sítích ani automatický trest za jakýkoli proruský názor.",
-      "importance_kind": "analysis",
-      "analysis_source": "Deník",
-      "analysis_url": "https://www.denik.cz/evropa/lotyska-oslavovala-na-tiktoku-ruske-zlociny-soud-ji-poslal-do-vezeni/"
-    },
-    {
       "title": "Soukromí těžaři poprvé po dlouhé době prodali část plynu z Ukrajiny do zahraničí",
       "summary": "Poprvé po téměř pěti letech prodali soukromí těžaři na Ukrajině část plynu do zahraničí. V říjnu to umožnila ukrajinská vláda kvůli poklesu domácí poptávky. Jednou…",
       "source": "ČT24",
@@ -301,30 +351,6 @@
       "importance_kind": "analysis",
       "analysis_source": "ČT24",
       "analysis_url": "https://ct24.ceskatelevize.cz/clanek/svet/soukromi-tezari-poprve-po-dlouhe-dobe-prodali-cast-plynu-z-ukrajiny-do-zahranici-379486"
-    },
-    {
-      "title": "Zemřela francouzská hrdinka odboje. Proti nacistům vedla třicet mužů",
-      "summary": "Ve věku 104 let zemřela jedna z hrdinek francouzského odboje z druhé světové války Solange Alexandreová. Poté, co působila jako spojka odboje, založila společně se…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-10T18:57:45+01:00",
-      "url": "https://www.denik.cz/evropa/zemrela-francouzska-hrdinka-odboje-proti-nacistum-vedla-tricet-muzu/",
-      "importance": "Zpráva připomíná úmrtí odbojářky Solange Alexandreové a Macronovu poctu jejímu působení. Její příběh zahrnuje spojovací práci, sabotážní akce i velení jednotce; nejde o nové rozhodnutí týkající se obrany nebo sociálních práv.\n\nBezprostřední význam spočívá v uchování historické zkušenosti pro další generace. Dostupný český podklad dokládá její dřívější svědectví a státní ocenění, neuvádí však datum pohřbu ani novou státní vzpomínkovou akci. Konkrétní podobu dalších poct proto zatím nelze určit.",
-      "importance_kind": "analysis",
-      "analysis_source": "Novinky / ČTK",
-      "analysis_url": "https://www.novinky.cz/clanek/zahranicni-evropa-ve-veku-104-let-zemrela-jedna-z-hrdinek-francouzskeho-odboje-ze-druhe-sv-valky-40607940"
-    },
-    {
-      "title": "Rusko převzalo koncept ukrajinské iniciativy „Koláč nezávislosti“",
-      "summary": "Ruská organizace Masterskaja Novych Media podle ukrajinské aktivistky Larysy Latypové převzala koncept i slogany ukrajinské iniciativy „Koláč nezávislosti“, která vznikla v roce 2024. Její obdobu…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-10T17:00:00+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-prevzalo-koncept-ukrajinske-iniciativy-kolac-nezavislosti-379482",
-      "importance": "Spor se týká toho, komu publikum připíše původ společného rituálu. Ukrajinská iniciativa spojila místní recepty s oslavou nezávislosti a rozdáváním koláčů vojákům. Podle její spoluzakladatelky se v ruské kampani objevila i tato méně samozřejmá kombinace prvků.\n\nPro původní organizátory vzniká praktický problém při šíření projektu za hranicemi. Člověk, který nejdříve uvidí ruskou verzi, nemusí poznat ukrajinský původ. Rozsah tohoto účinku zpráva neměří. Posoudit převzetí pomáhá časová posloupnost obou kampaní a srovnání jejich veřejných materiálů.",
-      "importance_kind": "analysis",
-      "analysis_source": "ČT24",
-      "analysis_url": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-prevzalo-koncept-ukrajinske-iniciativy-kolac-nezavislosti-379482"
     }
   ],
   "unavailable_sources": [],
@@ -335,9 +361,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 18,
-      "selected": 6,
-      "free_articles_checked": 7
+      "candidates": 16,
+      "selected": 7,
+      "free_articles_checked": 8
     },
     {
       "name": "iROZHLAS",
@@ -345,9 +371,9 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 19,
-      "selected": 0,
-      "free_articles_checked": 0
+      "candidates": 18,
+      "selected": 7,
+      "free_articles_checked": 8
     },
     {
       "name": "ČTK / České noviny",
@@ -375,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -385,7 +411,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 6,
+      "candidates": 5,
       "selected": 5,
       "free_articles_checked": 5
     },
@@ -395,9 +421,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 19,
-      "selected": 5,
-      "free_articles_checked": 5
+      "candidates": 17,
+      "selected": 3,
+      "free_articles_checked": 4
     },
     {
       "name": "iDNES.cz",
@@ -415,9 +441,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
-      "selected": 2,
-      "free_articles_checked": 3
+      "candidates": 16,
+      "selected": 1,
+      "free_articles_checked": 2
     },
     {
       "name": "E15",
@@ -445,9 +471,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
-      "selected": 1,
-      "free_articles_checked": 1
+      "candidates": 11,
+      "selected": 0,
+      "free_articles_checked": 0
     },
     {
       "name": "Respekt",
@@ -455,7 +481,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 7,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -465,7 +491,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 7,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -475,7 +501,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -485,7 +511,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 20,
+      "candidates": 21,
       "selected": 0,
       "free_articles_checked": 0
     }
