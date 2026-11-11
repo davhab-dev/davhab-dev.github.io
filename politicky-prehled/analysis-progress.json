@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://www.ceskenoviny.cz/zpravy/cesko-ma-zajem-zapojit-se-do-obrannych-pujcek-safe-rekl-babis/2900333",
+      "Česko má zájem zapojit se do obranných půjček SAFE, řekl Babiš"
+    ],
+    "started_at": "2026-11-11T17:37:59.699783+00:00"
+  },
   "queue": [
     [
       "https://www.ceskenoviny.cz/zpravy/cesko-ma-zajem-zapojit-se-do-obrannych-pujcek-safe-rekl-babis/2900333",
@@ -140,7 +146,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-11T17:37:17.802955+00:00",
+  "heartbeat": "2026-11-11T17:37:59.699783+00:00",
   "cycle": {
     "started_at": "2026-11-11T17:37:17.802955+00:00",
     "initial_pending": 34,
