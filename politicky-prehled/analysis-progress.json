@@ -1,5 +1,5 @@
 {
-  "active": true,
+  "active": false,
   "current": null,
   "queue": [
     [
@@ -136,7 +136,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-11T17:38:35.789470+00:00",
+  "heartbeat": "2026-11-11T17:38:52.784919+00:00",
   "cycle": {
     "started_at": "2026-11-11T17:37:17.802955+00:00",
     "initial_pending": 34,
@@ -147,7 +147,9 @@
       ]
     ],
     "deferred": [],
-    "status": "running"
+    "status": "incomplete",
+    "finished_at": "2026-11-11T17:38:52.784919+00:00",
+    "remaining": 33
   },
   "samples_seconds": [
     51.274763,
