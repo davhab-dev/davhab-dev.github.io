@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://www.ceskenoviny.cz/zpravy/bily-dum-varuje-demokraty-pred-vysetrovanim-trumpovy-vlady/2900709",
+      "Bílý dům varuje demokraty před vyšetřováním Trumpovy vlády"
+    ],
+    "started_at": "2026-11-11T15:54:16.630063+00:00"
+  },
   "queue": [
     [
       "https://www.ceskenoviny.cz/zpravy/bily-dum-varuje-demokraty-pred-vysetrovanim-trumpovy-vlady/2900709",
@@ -136,7 +142,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-11T15:53:42.871624+00:00",
+  "heartbeat": "2026-11-11T15:54:16.630063+00:00",
   "cycle": {
     "started_at": "2026-11-11T15:53:42.871624+00:00",
     "initial_pending": 33,
