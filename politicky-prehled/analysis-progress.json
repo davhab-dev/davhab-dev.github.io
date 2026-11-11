@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://www.ceskenoviny.cz/zpravy/cesko-by-mohlo-dodat-ukrajine-16-letounu-skyfox/2900335",
+      "Česko by mohlo dodat Ukrajině 16 letounů Skyfox"
+    ],
+    "started_at": "2026-11-11T18:57:05.841507+00:00"
+  },
   "queue": [
     [
       "https://www.ceskenoviny.cz/zpravy/cesko-by-mohlo-dodat-ukrajine-16-letounu-skyfox/2900335",
@@ -152,7 +158,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-11T18:56:37.103903+00:00",
+  "heartbeat": "2026-11-11T18:57:05.841507+00:00",
   "cycle": {
     "started_at": "2026-11-11T18:56:37.103903+00:00",
     "initial_pending": 37,
