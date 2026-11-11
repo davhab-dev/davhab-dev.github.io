@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://www.irozhlas.cz/zpravy-domov/sport-me-naucil-ze-zadny-uspech-neni-dilem-jednotlivce-primatorem-opavy-je_2611112035_med",
+      "‚Sport mě naučil, že žádný úspěch není dílem jednotlivce.‘ Primátorem Opavy je bývalý basketbalista"
+    ],
+    "started_at": "2026-11-11T20:12:26.320826+00:00"
+  },
   "queue": [
     [
       "https://www.irozhlas.cz/zpravy-domov/sport-me-naucil-ze-zadny-uspech-neni-dilem-jednotlivce-primatorem-opavy-je_2611112035_med",
@@ -136,7 +142,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-11T20:12:03.867699+00:00",
+  "heartbeat": "2026-11-11T20:12:26.320826+00:00",
   "cycle": {
     "started_at": "2026-11-11T20:10:44.474185+00:00",
     "initial_pending": 34,
