@@ -16,9 +16,119 @@ function element(tag, text, className) {
   if (className) node.className = className;
   return node;
 }
+
+// Search all saved editions lazily; immutable snapshots are fetched once per visit.
+const searchCache = new Map();
+let archiveReady = false, archiveLoading = false, searchLoading = false;
+let searchFailures = 0;
+function normalizeSearch(text) {
+  return String(text || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+}
+function searchStem(word) {
+  if (/^letn(a|e|ou|u|y|ych|ym|ymi)$/.test(word)) return '@letna';
+  // Conservative light inflection matching; short words remain exact.
+  return word.length > 5 ? word.replace(/(oveho|ovemu|ovych|ovymi|ami|emi|ovi|ove|ach|ich|ych|ymi|ou|em|om|a|e|u|y|i)$/, '') : word;
+}
+function searchTokens(text) { return normalizeSearch(text).match(/[a-z0-9]+/g) || []; }
+function wordMatches(word, query) {
+  return word === query || (query.length >= 4 && searchStem(word) === searchStem(query));
+}
+function fieldMatches(text, term) { return searchTokens(text).some(word => wordMatches(word, term)); }
+function articleScore(a, terms) {
+  const fields = [a.title, a.summary, a.importance, a.source];
+  if (!terms.every(t => fields.some(f => fieldMatches(f, t)))) return 0;
+  return terms.reduce((score, t) => score + fields.reduce((n, f, i) => n + (fieldMatches(f,t) ? [8,4,2,1][i] : 0), 0), 0);
+}
+function searchKey(a) {
+  try {
+    const u = new URL(a.url); u.hash = '';
+    for (const key of [...u.searchParams.keys()]) if (/^(utm_|fbclid$|gclid$)/.test(key)) u.searchParams.delete(key);
+    return u.href;
+  } catch { return a.url; }
+}
+function searching() { return searchTokens($('#search').value).length > 0; }
+function searchArticles() {
+  const terms = searchTokens($('#search').value), found = new Map();
+  const editions = [latestData, ...[...searchCache.values()].sort((a,b) => Date.parse(b.updated_at)-Date.parse(a.updated_at))];
+  for (const edition of editions) for (const a of edition.articles) {
+    if (!Number.isFinite(Date.parse(a.published_at))) continue;
+    const score = articleScore(a,terms), key = searchKey(a);
+    if (score && (!found.has(key) || score > found.get(key).score)) found.set(key,{a,score});
+  }
+  return [...found.values()].sort((x,y) => ($('#searchSort').value === 'newest' ? 0 : y.score-x.score) || Date.parse(y.a.published_at)-Date.parse(x.a.published_at)).map(x=>x.a);
+}
+function highlightSearch(node, text) {
+  const terms = searchTokens($('#search').value);
+  for (const part of String(text || '').split(/([\p{L}\p{N}]+)/u)) {
+    node.append(terms.some(t => wordMatches(normalizeSearch(part),t)) ? element('mark',part) : document.createTextNode(part));
+  }
+}
+function searchSnippet(a) {
+  const terms = searchTokens($('#search').value);
+  const text = [a.summary,a.importance,a.title].filter(Boolean).find(f => terms.some(t=>fieldMatches(f,t))) || a.title;
+  const words = [...text.matchAll(/[\p{L}\p{N}]+/gu)];
+  const match = words.find(m=>terms.some(t=>wordMatches(normalizeSearch(m[0]),t)));
+  const start = Math.max(0,(match?.index || 0)-70), end = Math.min(text.length,start+260);
+  const node = element('p','','search-snippet');
+  highlightSearch(node,(start?'…':'')+text.slice(start,end)+(end<text.length?'…':''));
+  return node;
+}
+function searchStatus() {
+  const active = searching();
+  $('#searchControls').hidden = !active;
+  $('#searchRetry').hidden = !active || searchLoading || archiveLoading || (archiveReady && !searchFailures);
+  if (!active) return;
+  $('#searchStatus').textContent = searchLoading || archiveLoading
+    ? `Prohledávám archiv… načteno ${searchCache.size} z ${archiveEntries.length} vydání. Výsledky průběžně přibývají.`
+    : !archiveReady ? 'Archiv se nepodařilo načíst. Výsledky zatím zahrnují aktuální vydání a dříve načtené záznamy.'
+    : searchFailures ? `Výsledky nejsou úplné: ${searchFailures} vydání se nepodařilo načíst. Zkuste načtení znovu.`
+    : `Prohledáno aktuální vydání a ${searchCache.size} archivních vydání. Hledáme v titulcích, shrnutích a celých rozborech; opakované články jsou sloučené.`;
+}
+async function loadSearchArchive() {
+  if (!archiveReady || searchLoading || !searching()) { searchStatus(); return; }
+  const pending = archiveEntries.filter(e=>!searchCache.has(e.path));
+  if (!pending.length) { searchStatus(); return; }
+  searchLoading = true; searchFailures = 0; searchStatus();
+  async function worker() {
+    while(pending.length) {
+      const entry = pending.shift();
+      try {
+        const response = await fetch(entry.path, {signal:AbortSignal.timeout(15000)});
+        if (!response.ok) throw new Error('Archive HTTP '+response.status);
+        const edition = await response.json();
+        if (!Array.isArray(edition.articles) || edition.updated_at !== entry.updated_at) throw new Error('Invalid archive');
+        searchCache.set(entry.path, edition);
+        if (searching() && searchCache.size % 4 === 0) render();
+      } catch { searchFailures++; }
+    }
+  }
+  await Promise.all(Array.from({length:4},worker));
+  searchLoading = false;
+  if (searching()) render();
+}
+function setupSearch() {
+  const input = $('#search');
+  input.placeholder = 'Hledat i v archivu…';
+  input.setAttribute('aria-label','Hledat v aktuálním vydání i celém archivu');
+  input.setAttribute('aria-describedby','searchStatus');
+  const controls = element('div','','search-controls'); controls.id='searchControls'; controls.hidden=true;
+  const label = element('label','Řazení: '); label.htmlFor='searchSort';
+  const sort = element('select'); sort.id='searchSort';
+  for (const [value,text] of [['relevance','Podle relevance'],['newest','Od nejnovějšího']]) { const option=element('option',text);option.value=value;sort.append(option); }
+  const clear = element('button','Zrušit hledání');clear.type='button';
+  clear.addEventListener('click',()=>{input.value='';render();input.focus();});
+  const retry = element('button','Zkusit archiv znovu');retry.id='searchRetry';retry.type='button';retry.hidden=true;
+  retry.addEventListener('click',async()=>{await loadArchive();await loadSearchArchive();});
+  const status=element('p','','small');status.id='searchStatus';status.setAttribute('role','status');
+  controls.append(label,sort,clear,retry,status);input.closest('.toolbar').after(controls);
+  sort.addEventListener('change',render);
+  const style=element('style', '.search-controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center;padding:16px 0}.search-controls select{width:auto;max-width:100%}.search-controls p{flex-basis:100%;margin:0}mark{background:#f7d69b;color:#3d3028;border-radius:2px}.search-snippet{border-left:2px solid #be8751;padding-left:12px}');document.head.append(style);
+  $('#count').setAttribute('aria-live','polite');
+}
+
 function render() {
   const now = Date.now();
-  const articles = viewingArchive ? data.articles : data.articles.filter(a => {
+  const articles = searching() ? searchArticles() : viewingArchive ? data.articles : data.articles.filter(a => {
     const published = Date.parse(a.published_at);
     return Number.isFinite(published) && published <= now && published >= now - 86400000;
   });
@@ -27,7 +137,7 @@ function render() {
   const focusedUrl = focused?.closest('#news article')?.dataset.url;
   const fragment = document.createDocumentFragment();
   for (const a of articles) {
-    const url = new URL(a.url);
+    let url; try { url = new URL(a.url); } catch { continue; }
     if (url.protocol !== 'https:' || !allowedSourceHosts.has(url.hostname)) continue;
     const card = element('article');
     card.dataset.category = a.category;
@@ -41,10 +151,12 @@ function render() {
     link.href = url.href; link.target = '_blank'; link.rel = 'noopener noreferrer';
     source.append(element('span', (a.source === 'ČTK / České noviny' ? 'Zdroj · ' : 'Výňatek z anotace · ') + a.source), link);
     const heading = element('h2');
-    const titleLink = element('a', a.title);
+    const titleLink = element('a');
+    highlightSearch(titleLink,a.title);
     titleLink.href = url.href;
     heading.append(titleLink);
     card.append(meta, heading, element('p',a.summary));
+    if (searching()) card.append(searchSnippet(a));
     if (a.importance) {
       const analysis = a.importance_kind === 'analysis';
       const why = element(analysis ? 'details' : 'div', '', analysis ? 'why impact' : 'why');
@@ -98,8 +210,10 @@ function render() {
   }
   if (data.unavailable_sources?.length) status.textContent += ' Při poslední kontrole nebyl dostupný zdroj: ' + data.unavailable_sources.join(', ') + '.';
   status.hidden = viewingArchive || (!stale && !data.unavailable_sources?.length);
+  if (searching()) { $('#sectionLabel').textContent = 'Výsledky hledání · včetně archivu'; status.hidden = true; }
   renderSources();
   filter();
+  searchStatus();
 }
 function renderSources() {
   const list = $('#sourceList'), fragment = document.createDocumentFragment();
@@ -116,22 +230,21 @@ function renderSources() {
   list.replaceChildren(fragment);
 }
 function filter() {
-  const query = $('#search').value.trim().toLocaleLowerCase('cs');
   let count = 0;
   document.querySelectorAll('#news article').forEach(card => {
-    card.hidden = (category !== 'all' && card.dataset.category !== category) || !card.textContent.toLocaleLowerCase('cs').includes(query);
+    card.hidden = (category !== 'all' && card.dataset.category !== category);
     if (!card.hidden) count++;
   });
   $('#count').textContent = count + ' ' + (count === 1 ? 'zpráva' : count >= 2 && count <= 4 ? 'zprávy' : 'zpráv');
   $('#empty').hidden = count !== 0;
-  $('#empty').textContent = data.articles.length ? 'Tomuto filtru neodpovídá žádná zpráva ve vybraném vydání.' : 'Za posledních 24 hodin nebyly nalezeny články odpovídající výběru.';
+  $('#empty').textContent = searching() ? (searchLoading || archiveLoading ? 'Prohledávám uložená vydání…' : 'Žádný článek neodpovídá dotazu a zvolené rubrice. Zkuste jiné slovo nebo filtr Vše.') : data.articles.length ? 'Tomuto filtru neodpovídá žádná zpráva ve vybraném vydání.' : 'Za posledních 24 hodin nebyly nalezeny články odpovídající výběru.';
 }
 buttons.forEach(button => button.addEventListener('click', () => {
   category = button.dataset.filter;
   buttons.forEach(b => { b.classList.toggle('active', b === button); b.setAttribute('aria-pressed', String(b === button)); });
   filter();
 }));
-$('#search').addEventListener('input', filter);
+$('#search').addEventListener('input', () => { render(); loadSearchArchive(); });
 let refreshing = false;
 async function refresh() {
   if (refreshing || document.hidden) return;
@@ -145,6 +258,7 @@ async function refresh() {
     const changed = JSON.stringify(next) !== JSON.stringify(latestData);
     latestData = next;
     if (!viewingArchive && changed) { data = next; render(); }
+    else if (searching() && changed) render();
   } catch (error) {
     // Preserve the real successful update time and keep expiry checks running.
     console.warn('Aktuální vydání se nepodařilo načíst.', error);
@@ -153,12 +267,15 @@ async function refresh() {
   }
 }
 async function loadArchive() {
+  if (archiveLoading) return;
+  archiveLoading = true;
   try {
     const response = await fetch('archive/index.json', {cache:'no-store'});
     if (!response.ok) throw new Error('Archive unavailable');
     const entries = await response.json();
     if (!Array.isArray(entries)) throw new Error('Invalid archive');
     archiveEntries = entries.filter(e => /^archive\/\d{4}-\d{2}-\d{2}\/[\d-]+\.json$/.test(e.path) && Number.isFinite(Date.parse(e.updated_at)));
+    archiveReady = true;
     const select = $('#edition'), selected = select.value;
     const options = [element('option', 'Aktuální vydání')]; options[0].value = 'current';
     for (const entry of archiveEntries) {
@@ -169,10 +286,13 @@ async function loadArchive() {
     select.value = options.some(o => o.value === selected) ? selected : 'current';
     $('#archiveMessage').textContent = archiveEntries.length ? 'Dostupná vydání od ' + fullFormat.format(new Date(archiveEntries[archiveEntries.length-1].updated_at)) + '.' : 'Archiv se naplní po první aktualizaci.';
   } catch (error) {
+    archiveReady = false;
     $('#archiveMessage').textContent = 'Seznam archivu se nepodařilo načíst. Aktuální přehled je dostupný.';
-  }
+  } finally { archiveLoading = false; searchStatus(); }
+  if (searching()) loadSearchArchive();
 }
 $('#edition').addEventListener('change', async event => {
+  $('#search').value = '';
   const value = event.target.value, request = ++selectionRequest;
   if (value === 'current') { viewingArchive = false; data = latestData; render(); return; }
   const entry = archiveEntries.find(e => e.path === value);
@@ -199,10 +319,11 @@ $('#news').addEventListener('click', event => {
   panel.querySelector('summary').focus({preventScroll: true});
 });
 
-render(); refresh(); loadArchive();
+setupSearch(); render(); refresh(); loadArchive();
 setInterval(loadArchive, 5 * 60000);
 setInterval(refresh, 30000);
 setInterval(render, 60000);
 document.addEventListener('visibilitychange', () => { if (!document.hidden) refresh(); });
 
 document.querySelectorAll('.utility-row details').forEach(panel=>panel.addEventListener('toggle',()=>{if(panel.open)document.querySelectorAll('.utility-row details').forEach(other=>{if(other!==panel)other.open=false;});}));
+
