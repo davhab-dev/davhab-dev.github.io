@@ -1,5 +1,52 @@
 {
   "updated": null,
-  "articles": [],
-  "source_errors": []
+  "articles": [
+    {
+      "title": "Past results and wildcard invitations now define 'pro' categories at The Traka World Series events, The Rift keeps a limited number of entries open for women - Gravel Bits",
+      "summary": "Nový systém bodování a kvalifikace do profesionálních gravelových závodů The Traka World Series.",
+      "url": "https://www.cyclingnews.com/pro-cycling/racing/past-results-and-wildcard-invitations-now-define-pro-categories-at-the-traka-world-series-events-the-rift-keeps-a-limited-number-of-entries-open-for-women-gravel-bits/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Gravel",
+      "published": "2026-11-10T12:00:00+00:00"
+    },
+    {
+      "title": "Canyon-SRAM delve into world of AI with new training and development partnership ahead of 2027 season",
+      "summary": "Tým Canyon-SRAM rozšiřuje využívání analýzy tréninkových dat a AI při přípravě sezony 2027.",
+      "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/canyon-sram-delve-into-world-of-ai-with-new-training-and-development-partnership-ahead-of-2027-season/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Trénink",
+      "published": "2026-11-10T11:00:00+00:00"
+    },
+    {
+      "title": "TotalEnergies becomes XEFI as new title sponsor steps in to save French team",
+      "summary": "Francouzská profesionální cyklistická stáj získala nového titulárního partnera pro sezonu 2027.",
+      "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/totalenergies-becomes-xefi-as-new-title-sponsor-steps-in-to-save-french-team/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-10T10:00:00+00:00"
+    },
+    {
+      "title": "Best free indoor cycling apps: 6 free alternatives to Zwift",
+      "summary": "BikeRadar porovnává bezplatné aplikace pro trénink na cyklistickém trenažéru.",
+      "url": "https://www.bikeradar.com/advice/buyers-guides/best-free-indoor-cycling-apps",
+      "source": "BikeRadar",
+      "lang": "EN",
+      "category": "Trénink",
+      "published": "2026-11-09T10:00:00+00:00"
+    },
+    {
+      "title": "Newmen goes big with its new Streem G.48 gravel wheels, announcing 30.5in and 32in sizes",
+      "summary": "Představení gravelových zapletených kol Streem G.48 s dalšími plánovanými průměry.",
+      "url": "https://www.bikeradar.com/news/newmen-streem-g-48-gravel-wheels",
+      "source": "BikeRadar",
+      "lang": "EN",
+      "category": "Gravel",
+      "published": "2026-11-06T09:00:00+00:00"
+    }
+  ],
+  "source_errors": [],
+  "note": "Ruční ověřené počáteční naplnění (5 článků). Automatický RSS sběr doplní další články a aktualizuje čas."
 }
