@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-mir-jednani-vyjednavac-medinskij.A261111_184904_zahranicni_rtn",
+      "Vrátí se nám každý centimetr. Ukrajina je prasklý vřed, soudí ruský šéfvyjednavač"
+    ],
+    "started_at": "2026-11-11T20:11:19.385422+00:00"
+  },
   "queue": [
     [
       "https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-mir-jednani-vyjednavac-medinskij.A261111_184904_zahranicni_rtn",
@@ -140,7 +146,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-11T20:10:44.474185+00:00",
+  "heartbeat": "2026-11-11T20:11:19.385422+00:00",
   "cycle": {
     "started_at": "2026-11-11T20:10:44.474185+00:00",
     "initial_pending": 34,
