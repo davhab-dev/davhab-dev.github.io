@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-11T03:00:12.949826+00:00",
+  "updated_at": "2026-11-11T04:08:30.420701+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Bude Letná referendem o vládě? Vít Rakušan odpoví dnes v debatě na Deník.cz",
+      "summary": "Deník.cz pokračuje v pravidelných debatách s předními českými politiky. Dnes bude Kateřina Perknerová v pořadu 15 minut rozmlouvat s předsedou STAN Vítem Rakušanem. Zeptáme se,…",
+      "source": "Deník",
+      "category": "domaci",
+      "published_at": "2026-11-11T04:30:00+01:00",
+      "url": "https://www.denik.cz/cesko/debata-denik-cz-vit-rakusan-demonstrace-protest-letna/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Republikáni ve Sněmovně reprezentantů zablokovali snahu o odvolání Hegsetha",
       "summary": "Republikánská většina v americké Sněmovně reprezentantů v úterý fakticky zablokovala snahu o odvolání ministra obrany Petea Hegsetha kvůli válce proti Íránu. Návrh na ústavní žalobu…",
@@ -317,18 +327,6 @@
       "importance_kind": "analysis",
       "analysis_source": "Aktuálně.cz",
       "analysis_url": "https://zpravy.aktualne.cz/zahranici/havlicek-uvedl-ze-na-ukrajine-bude-jednat-take-o-dodavkach-letadel-skyfox/r~aaa29101e96d42e2a71e637319974a64/"
-    },
-    {
-      "title": "NÚKIB varuje před kybernetickými útoky z Ruska",
-      "summary": "Národní úřad pro kybernetickou a informační bezpečnost (NÚKIB) upozorňuje na dlouhodobé a sofistikované kybernetické útoky ruských státně sponzorovaných aktérů, které míří na české i spojenecké…",
-      "source": "Deník",
-      "category": "domaci",
-      "published_at": "2026-11-10T14:10:45+01:00",
-      "url": "https://www.denik.cz/cesko/nukib-varuje-pred-kybernetickymi-utoky-z-ruska/",
-      "importance": "Upozornění NÚKIB se dotýká i lidí a malých organizací, kteří sami nepracují s utajovanými informacemi. Úřad upozorňuje, že zneužité běžné zařízení může posloužit i při útoku proti jinému cíli. Škoda tedy nemusí být bezprostředně vidět jeho majiteli.\n\nPro napadenou instituci má tento detail důsledek při vyhodnocování incidentu. Místo, odkud zaznamenala podezřelou aktivitu, nemusí samo určovat jejího skutečného původce. Zveřejněná analýza popisuje širší dlouhodobý obraz, a nedokládá napadení každé jednotlivé organizace, které se varování týká.",
-      "importance_kind": "analysis",
-      "analysis_source": "iDNES.cz",
-      "analysis_url": "https://www.idnes.cz/zpravy/domaci/nukib-kyberspionaz-rusko-utok.A261110_140128_domaci_aoc"
     }
   ],
   "unavailable_sources": [],
@@ -369,7 +367,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -399,7 +397,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 18,
       "selected": 5,
       "free_articles_checked": 6
     },
@@ -439,7 +437,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 9,
       "selected": 0,
       "free_articles_checked": 0
     },
