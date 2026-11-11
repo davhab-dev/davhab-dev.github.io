@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-11-11T05:12:18.503048+00:00",
+  "updated_at": "2026-11-11T06:11:40.290308+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Pochválil ho Trump, podržela sněmovna. Republikáni zablokovali snahu o Hegsethovo odvolání",
+      "summary": "Republikánská většina v americké Sněmovně reprezentantů v úterý fakticky zablokovala snahu o odvolání ministra obrany Petea Hegsetha kvůli válce proti Íránu. Informovaly o tom ve…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-11T07:05:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/pochvalil-ho-trump-podrzela-snemovna-republikani-zablokovali-snahu-o-hegsethovo-odvolani/r~aaa29e80ca3fcbfb069c01704095c033/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Babiš a Fico se ohradili vůči výzvě Merze k další finanční podpoře Ukrajiny",
+      "summary": "Premiéři Česka a Slovenska Andrej Babiš a Robert Fico se ohradili vůči výzvě německého kancléře Friedricha Merze, aby se všechny země Evropské unie bez výjimky…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-11T07:02:12+01:00",
+      "url": "https://www.denik.cz/evropa/babis-a-fico-se-ohradili-vuci-vyzve-merze-k-dalsi-financni-podpore-ukrajiny/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Zelenskyj: Evropa si musí vybrat, kdo ji bude zastupovat na jednáních s Ruskem",
+      "summary": "Evropa se v listopadu musí rozhodnout, kdo ji bude zastupovat na mírových jednáních o válce na Ukrajině, řekl podle telegramového kanálu RBK-Ukrajina ukrajinský prezident Volodymyr…",
+      "source": "Respekt",
+      "category": "svet",
+      "published_at": "2026-11-11T06:00:00+00:00",
+      "url": "https://www.respekt.cz/informacni-servis/zelenskyj-evropa-si-musi-vybrat-kdo-ji-bude-zastupovat-na-jednanich-s-ruskem-2026-11-11-00-16",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Ukrajinci zasáhli obří ruský přístav v Baltském moři. Nenapadli ho poprvé",
+      "summary": "Ukrajinské dronové útoky v noci na středu způsobily požár v ruském exportním přístavu Usť-Luga v Baltském moři. Uvedl to gubernátor Leningradské oblasti Alexandr Drozděnko, který…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-11T05:41:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/dronovy-utok-ukrajina-pobalti-ust-luga.A261111_061708_zahranicni_onbu",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Republikáni ve Sněmovně reprezentantů zablokovali snahu o odvolání Hegsetha",
+      "summary": "Republikánská většina v americké Sněmovně reprezentantů v úterý fakticky zablokovala snahu o odvolání ministra obrany Petea Hegsetha kvůli válce proti Íránu. Informovaly o tom dnes…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-11T06:36:25+01:00",
+      "url": "https://www.denik.cz/svet/republikani-ve-snemovne-reprezentantu-zablokovali-snahu-o-odvolani-hegsetha/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "„Přiznejme si to: Putin není izolovaný.“ Politik popsal telefonát, za který to schytal",
+      "summary": "Norský premiér Jonas Gahr Støre promluvil o svém nedávném telefonátu ruskému prezidentovi Vladimiru Putinovi. Přiblížil, jak hovor probíhal, podělil se o své hodnocení Putinova vystupování…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-11T06:19:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/priznejme-si-to-putin-neni-izolovany-rika-politik-ktery-mu-zavolal/r~aaa298990a4e771b4698968c3c2392f8/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Odvolaní náměstci, protesty i spor o DPH. Co se děje okolo Správy KRNAPu?",
       "summary": "Odvolání dvou náměstků Správy Krkonošského národního parku (KRNAPu) jejím ředitelem Petrem Moravcem vyvolávají pochybnosti u části veřejnosti i zaměstnanců parku. Reakcí byly protesty před ministerstvem…",
@@ -23,7 +83,7 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Babiš zažil nezvyklé: opozice mu kvůli kritizovanému Motoristovi lichotila. Něco za to chtěla",
+      "title": "„Brabcovi to šlo.“ Opozice Babišovi vychválila exiministra, šlo jim o konec Motoristy",
       "summary": "Slyšet nějakého opozičního poslance, jak lichotí premiéru Andreji Babišovi, je věc vskutku výjimečná. Přesto k ní koncem minulého týdne v Poslanecké sněmovně došlo. Hlavním cílem…",
       "source": "Aktuálně.cz",
       "category": "domaci",
@@ -51,18 +111,6 @@
       "url": "https://www.denik.cz/cesko/debata-denik-cz-vit-rakusan-demonstrace-protest-letna/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
-    },
-    {
-      "title": "Republikáni ve Sněmovně reprezentantů zablokovali snahu o odvolání Hegsetha",
-      "summary": "Republikánská většina v americké Sněmovně reprezentantů v úterý fakticky zablokovala snahu o odvolání ministra obrany Petea Hegsetha kvůli válce proti Íránu. Návrh na ústavní žalobu…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-11T01:42:58+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/republikani-ve-snemovne-reprezentantu-zablokovali-snahu-o-odvolani-hegsetha-379497",
-      "importance": "Postoupení návrhu soudnímu výboru poměrem 211 ku 204 hlasům zabránilo plánovanému hlasování o ústavní žalobě. Hegseth tak tímto krokem nebyl odvolán; nejde však ani o rozhodnutí, které by věcně vyvrátilo výhrady k vedení vojenských operací. Návrh republikána Massieho míří především na válku s Íránem a zmiňuje také Venezuelu a Jemen.\n\nPro vedení Pentagonu výsledek znamená zachování ministra ve funkci, nikoli změnu rozkazů nebo ukončení bojů. Další posun ukáže postup výboru a nového Kongresu, který zasedne v lednu. Ani případné schválení ústavní žaloby Sněmovnou by podle článku samo nestačilo k odvolání: byla by nutná podpora dvou třetin Senátu. Hegsethovo označení návrhu za frašku je jeho politická obhajoba.",
-      "importance_kind": "analysis",
-      "analysis_source": "ČT24 / ČTK",
-      "analysis_url": "https://ct24.ceskatelevize.cz/clanek/svet/republikani-ve-snemovne-reprezentantu-zablokovali-snahu-o-odvolani-hegsetha-379497"
     },
     {
       "title": "Havlíček jednal se šéfem Lvovské oblasti o těžbě plynu a zdravotnictví",
@@ -135,18 +183,6 @@
       "analysis_url": "https://www.idnes.cz/zpravy/domaci/narodni-trida-17-listopad-ucast-potvrdila-schillerova-havlicek.A261110_102109_domaci_jira"
     },
     {
-      "title": "Zelenskyj: Evropa si musí vybrat, kdo za ni bude jednat s Ruskem. Dřív padlo i Pavlovo jméno",
-      "summary": "Evropa se v listopadu musí rozhodnout, kdo ji bude zastupovat na mírových jednáních o válce na Ukrajině, řekl dnes podle telegramového kanálu RBK-Ukrajina ukrajinský prezident…",
-      "source": "CNN Prima NEWS",
-      "category": "svet",
-      "published_at": "2026-11-10T22:13:58+01:00",
-      "url": "https://cnn.iprima.cz/zelenskyj-evropa-si-musi-vybrat-kdo-za-ni-bude-jednat-s-ruskem-driv-padlo-i-pavlovo-jmeno-526819",
-      "importance": "Zelenskyj vyzval evropské státy, aby ještě v listopadu vybraly společného vyjednavače a daly mu mandát. Výběr zatím oznámen nebyl. Evropská přítomnost v Abú Zabí podle článku znamená schůzky s Američany a Ukrajinci, nikoli účast u hlavního třístranného stolu. Zmínka o Petru Pavlovi vychází ze staršího seznamu možných kandidátů; prezident mezitím uvedl, že tuto ambici nemá.\n\nPro evropské vlády by společný mandát mohl vytvořit cestu, jak přímo ovlivňovat bezpečnostní podmínky dohody. Rozhodující bude jeho skutečný rozsah a přijetí evropské účasti ostatními stranami. Zelenského příznivé hodnocení amerického přístupu není potvrzením dohody o území: Kyjev podle něj nadále požaduje konkrétní bezpečnostní záruky a odmítá dohodu pod nátlakem.",
-      "importance_kind": "analysis",
-      "analysis_source": "CNN Prima NEWS",
-      "analysis_url": "https://cnn.iprima.cz/zelenskyj-evropa-si-musi-vybrat-kdo-za-ni-bude-jednat-s-ruskem-driv-padlo-i-pavlovo-jmeno-526819"
-    },
-    {
       "title": "Jak Jeffrey Epstein přispěl k pádu prince Andrewa i britského premiéra",
       "summary": "Bývalý princ Andrew přišel o tituly, z Windsoru se stěhoval nedobrovolně a nyní čelí vyšetřování a řadě obvinění. Nové tisíce e-mailů v kauze Jeffreyho Epsteina…",
       "source": "ČT24",
@@ -203,18 +239,6 @@
       "importance_kind": "analysis",
       "analysis_source": "ČT24 / RTVE",
       "analysis_url": "https://ct24.ceskatelevize.cz/clanek/svet/spanelska-vlada-zada-vysetreni-udajnych-pripadu-sexualniho-zneuzivani-deti-na-tiktoku-379436"
-    },
-    {
-      "title": "Zemřela jedna z hrdinek francouzského válečného odboje. Zavzpomínal i Macron",
-      "summary": "Ve věku 104 let zemřela jedna z hrdinek francouzského odboje z druhé světové války Solange Alexandreová. Poté, co působila jako spojka odboje, založila společně se…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-10T20:08:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/umrti-hrdinka-francouzsky-odboj-druha-sv-valka.A261110_193912_zahranicni_rtn",
-      "importance": "Úmrtím Solange Alexandreové odchází přímá pamětnice francouzského odboje, která vedla i vlastní bojovou jednotku. Macron jí vzdal veřejný hold. Jde o připomínku historické služby, nikoli oznámení nové státní politiky.\n\nPro uchování jejího svědectví mají význam již zaznamenané rozhovory a dokumenty. Článek připomíná přijetí Řádu čestné legie v roce 2024; neoznamuje novou poctu ani program vzpomínkových akcí. Ty proto nelze z prezidentova vyjádření předjímat.",
-      "importance_kind": "analysis",
-      "analysis_source": "Novinky / ČTK",
-      "analysis_url": "https://www.novinky.cz/clanek/zahranicni-evropa-ve-veku-104-let-zemrela-jedna-z-hrdinek-francouzskeho-odboje-ze-druhe-sv-valky-40607940"
     },
     {
       "title": "Dva výbuchy a pak třítunová bomba. Ruský útok na kryt plný civilistů minutu po minutě",
@@ -289,28 +313,16 @@
       "analysis_url": "https://www.novinky.cz/clanek/zahranicni-evropa-ve-veku-104-let-zemrela-jedna-z-hrdinek-francouzskeho-odboje-ze-druhe-sv-valky-40607940"
     },
     {
-      "title": "EU varuje před dalšími kyberútoky. Ohroženy mohou být i domácnosti",
-      "summary": "Po kybernetickém útoku na chladicí zařízení v evropských supermarketech by dalším terčem mohly být domácí spotřebiče, varoval v únoru podle agentury AFP šéf Agentury EU…",
-      "source": "Deník",
+      "title": "Rusko převzalo koncept ukrajinské iniciativy „Koláč nezávislosti“",
+      "summary": "Ruská organizace Masterskaja Novych Media podle ukrajinské aktivistky Larysy Latypové převzala koncept i slogany ukrajinské iniciativy „Koláč nezávislosti“, která vznikla v roce 2024. Její obdobu…",
+      "source": "ČT24",
       "category": "svet",
-      "published_at": "2026-11-10T18:03:45+01:00",
-      "url": "https://www.denik.cz/evropa/eu-varuje-pred-dalsimi-kyberutoky-ohrozeny-mohou-byt-i-domacnosti/",
-      "importance": "Evropské supermarkety už pocítily konkrétní následek útoků na chlazení. Když teplota v mrazácích stoupla, některé provozovny musely vyřadit potraviny. Ve Francii incident zasáhl přibližně 700 míst obchodních řetězců. Pro obchodníky tak výpadek znamená i ztrátu zásob, přestože prodejna sama zůstane otevřená.\n\nŘeditel evropské agentury ENISA upozornil, že podobným rizikům mohou být vystaveny také domácí routery a připojené spotřebiče. Jde o varování před možným dalším cílem. Zpráva nedokládá útok na české domácnosti ani neoznačuje konkrétní model, který by lidé měli přestat používat.",
+      "published_at": "2026-11-10T17:00:00+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-prevzalo-koncept-ukrajinske-iniciativy-kolac-nezavislosti-379482",
+      "importance": "Spor se týká toho, komu publikum připíše původ společného rituálu. Ukrajinská iniciativa spojila místní recepty s oslavou nezávislosti a rozdáváním koláčů vojákům. Podle její spoluzakladatelky se v ruské kampani objevila i tato méně samozřejmá kombinace prvků.\n\nPro původní organizátory vzniká praktický problém při šíření projektu za hranicemi. Člověk, který nejdříve uvidí ruskou verzi, nemusí poznat ukrajinský původ. Rozsah tohoto účinku zpráva neměří. Posoudit převzetí pomáhá časová posloupnost obou kampaní a srovnání jejich veřejných materiálů.",
       "importance_kind": "analysis",
-      "analysis_source": "ČTK",
-      "analysis_url": "https://www.ceskenoviny.cz/zpravy/agentura-eu-varovala-pred-utoky-na-domaci-spotrebice/2900212"
-    },
-    {
-      "title": "Skandál šéfa Nvidie pokračuje. Trump ho hájí, milenka bývala novinářkou",
-      "summary": "Alice Huangová, s níž měl poměr šéf Nvidie Jensen Huang, působila ve vedení firmy vyšetřované kvůli podezření z obcházení amerických omezení vývozu čipů. Americké tajné…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-10T17:30:00+01:00",
-      "url": "https://www.denik.cz/svet/skandal-sef-nvidia-jensen-huang-milenka-spionka/",
-      "importance": "Trumpova veřejná podpora může Jensenovi Huangovi pomoci udržet důvěru obchodních partnerů. Neodpovídá ovšem na otázku, ke kterým firemním informacím mohl mít někdo přístup. Podle zprávy se případem zabývá FBI a vlastní prověřování oznámila také Nvidia.\n\nPro zákazníky firmy by mělo jiný význam zjištění, že byl někdo vystaven pokusu získat informace, a jiný doložený přenos citlivých dat. Teprve konkrétní zjištění umožní určit, které produkty či partneři by mohli být dotčeni. Osobní vztah sám takový přenos neprokazuje.",
-      "importance_kind": "analysis",
-      "analysis_source": "ČTK",
-      "analysis_url": "https://www.ceskenoviny.cz/zpravy/2899856"
+      "analysis_source": "ČT24",
+      "analysis_url": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-prevzalo-koncept-ukrajinske-iniciativy-kolac-nezavislosti-379482"
     },
     {
       "title": "Média nedáme! Studenti vyšli do ulic, Klempíře vyzvali k demisi",
@@ -341,7 +353,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 18,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -361,7 +373,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -381,9 +393,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 5,
-      "selected": 4,
-      "free_articles_checked": 4
+      "candidates": 7,
+      "selected": 6,
+      "free_articles_checked": 6
     },
     {
       "name": "Deník",
@@ -391,7 +403,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 19,
+      "candidates": 21,
       "selected": 5,
       "free_articles_checked": 5
     },
@@ -411,8 +423,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
-      "selected": 4,
+      "candidates": 16,
+      "selected": 3,
       "free_articles_checked": 4
     },
     {
@@ -421,7 +433,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 7,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -431,7 +443,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -441,7 +453,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 11,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -452,8 +464,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 8,
-      "selected": 0,
-      "free_articles_checked": 0
+      "selected": 1,
+      "free_articles_checked": 1
     },
     {
       "name": "Hospodářské noviny",
@@ -481,7 +493,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 21,
+      "candidates": 20,
       "selected": 0,
       "free_articles_checked": 0
     }
