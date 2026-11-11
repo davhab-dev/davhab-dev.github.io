@@ -1,8 +1,7 @@
 name: Kulturně Brnem – aktualizace programu
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '17 */3 * * *'
+# Automatické aktualizace pozastaveny na přání vlastníka 2026-11-11.
 permissions:
   contents: write
 concurrency:
