@@ -1,17 +1,7 @@
 {
   "active": true,
-  "current": {
-    "key": [
-      "https://www.idnes.cz/zpravy/domaci/z-jidelen-fastfoody-motoriste-a-premier-rusi-vyhlasku-o-stravovani.A261111_102500_domaci_mls",
-      "Vláda ruší vyhlášku o stravování. Stát nemá být zachránce lidstva, říká Šťastný"
-    ],
-    "started_at": "2026-11-11T15:55:28.356214+00:00"
-  },
+  "current": null,
   "queue": [
-    [
-      "https://www.idnes.cz/zpravy/domaci/z-jidelen-fastfoody-motoriste-a-premier-rusi-vyhlasku-o-stravovani.A261111_102500_domaci_mls",
-      "Vláda ruší vyhlášku o stravování. Stát nemá být zachránce lidstva, říká Šťastný"
-    ],
     [
       "https://www.ceskenoviny.cz/zpravy/ministri-standardy-vyhlasky-o-skolnim-stravovani-budou-nezavaznym-doporucenim/2900695",
       "Ministři: Standardy vyhlášky o školním stravování budou nezávazným doporučením"
@@ -138,7 +128,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-11T15:55:28.356214+00:00",
+  "heartbeat": "2026-11-11T15:56:32.995472+00:00",
   "cycle": {
     "started_at": "2026-11-11T15:53:42.871624+00:00",
     "initial_pending": 33,
@@ -146,12 +136,17 @@
       [
         "https://www.ceskenoviny.cz/zpravy/bily-dum-varuje-demokraty-pred-vysetrovanim-trumpovy-vlady/2900709",
         "Bílý dům varuje demokraty před vyšetřováním Trumpovy vlády"
+      ],
+      [
+        "https://www.idnes.cz/zpravy/domaci/z-jidelen-fastfoody-motoriste-a-premier-rusi-vyhlasku-o-stravovani.A261111_102500_domaci_mls",
+        "Vláda ruší vyhlášku o stravování. Stát nemá být zachránce lidstva, říká Šťastný"
       ]
     ],
     "deferred": [],
     "status": "running"
   },
   "samples_seconds": [
-    51.274763
+    51.274763,
+    64.639258
   ]
 }
