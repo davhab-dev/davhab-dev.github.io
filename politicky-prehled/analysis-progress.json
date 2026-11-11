@@ -3,10 +3,6 @@
   "current": null,
   "queue": [
     [
-      "https://www.irozhlas.cz/zpravy-domov/usti-nad-labem-zvazuje-ruseni-mestskych-obvodu-ve-strekove-o-tom-debatovalo_2611110737_elv",
-      "Ústí nad Labem zvažuje rušení městských obvodů. Na Střekově o tom debatovalo ustavující zastupitelstvo"
-    ],
-    [
       "https://www.irozhlas.cz/zpravy-svet/ruska-tajna-sluzba-tvrdi-ze-zadrzela-dva-polske-agenty-vini-je-ze-spionaze-v_2611110729_mst",
       "Ruská tajná služba tvrdí, že zadržela dva polské agenty. Viní je ze špionáže v Kaliningradské oblasti"
     ],
@@ -76,7 +72,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-11T10:08:05.371497+00:00",
+  "heartbeat": "2026-11-11T10:08:12.515788+00:00",
   "cycle": {
     "started_at": "2026-11-11T10:00:06.858337+00:00",
     "initial_pending": 37,
@@ -156,6 +152,10 @@
       [
         "https://www.denik.cz/svet/v-rusku-zadrzeli-dva-agenty-polskych-tajnych-sluzeb/",
         "V Rusku zadrželi dva agenty polských tajných služeb"
+      ],
+      [
+        "https://www.irozhlas.cz/zpravy-domov/usti-nad-labem-zvazuje-ruseni-mestskych-obvodu-ve-strekove-o-tom-debatovalo_2611110737_elv",
+        "Ústí nad Labem zvažuje rušení městských obvodů. Na Střekově o tom debatovalo ustavující zastupitelstvo"
       ]
     ],
     "deferred": [],
