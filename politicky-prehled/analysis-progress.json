@@ -3,10 +3,6 @@
   "current": null,
   "queue": [
     [
-      "https://www.idnes.cz/zpravy/zahranicni/kennedyovi-donald-trump-vitezny-oblouk-federalni-soud.A261111_100049_zahranicni_onbu",
-      "Rodině Kennedyových vadí Trumpův vítězný oblouk, plán napadla u soudu"
-    ],
-    [
       "https://www.ceskenoviny.cz/zpravy/v-abu-zabi-pokracuji-mirove-hovory-mezi-zastupci-ukrajiny-ruska-a-usa/2900427",
       "V Abú Zabí pokračují mírové hovory mezi zástupci Ukrajiny, Ruska a USA"
     ],
@@ -136,7 +132,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-11T10:04:00.368590+00:00",
+  "heartbeat": "2026-11-11T10:04:05.510564+00:00",
   "cycle": {
     "started_at": "2026-11-11T10:00:06.858337+00:00",
     "initial_pending": 37,
@@ -156,6 +152,10 @@
       [
         "https://www.idnes.cz/zpravy/domaci/rozpocet-vybor-poslanecka-snemovna-schillerova-pikora-dluh-schodek.A261110_210656_domaci_ikro",
         "Výbor posuzuje jednotlivé kapitoly návrhu rozpočtu, řeší i sektorové daně"
+      ],
+      [
+        "https://www.idnes.cz/zpravy/zahranicni/kennedyovi-donald-trump-vitezny-oblouk-federalni-soud.A261111_100049_zahranicni_onbu",
+        "Rodině Kennedyových vadí Trumpův vítězný oblouk, plán napadla u soudu"
       ]
     ],
     "deferred": [],
