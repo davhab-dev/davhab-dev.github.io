@@ -1,17 +1,7 @@
 {
   "active": true,
-  "current": {
-    "key": [
-      "https://www.ceskenoviny.cz/zpravy/soud-trumpova-zaloba-na-bbc-o-odskodne-deset-miliard-usd-muze-pokracovat/2900433",
-      "Soud: Trumpova žaloba na BBC o odškodné deset miliard USD může pokračovat"
-    ],
-    "started_at": "2026-11-11T10:00:07.102469+00:00"
-  },
+  "current": null,
   "queue": [
-    [
-      "https://www.ceskenoviny.cz/zpravy/soud-trumpova-zaloba-na-bbc-o-odskodne-deset-miliard-usd-muze-pokracovat/2900433",
-      "Soud: Trumpova žaloba na BBC o odškodné deset miliard USD může pokračovat"
-    ],
     [
       "https://www.idnes.cz/zpravy/domaci/praha-sobe-koalice-praha-stan-spolu-hlavacek-portlik.A261110_162725_domaci_dyn",
       "Hlavní město povede STAN, SPOLU a Praha sobě. Dopravu má Scheinherr, finance Portlík"
@@ -158,12 +148,18 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-11T10:00:07.102469+00:00",
+  "heartbeat": "2026-11-11T10:01:08.604934+00:00",
   "cycle": {
     "started_at": "2026-11-11T10:00:06.858337+00:00",
     "initial_pending": 37,
-    "completed": [],
+    "completed": [
+      [
+        "https://www.ceskenoviny.cz/zpravy/soud-trumpova-zaloba-na-bbc-o-odskodne-deset-miliard-usd-muze-pokracovat/2900433",
+        "Soud: Trumpova žaloba na BBC o odškodné deset miliard USD může pokračovat"
+      ]
+    ],
     "deferred": [],
     "status": "running"
-  }
+  },
+  "samples_seconds": []
 }
