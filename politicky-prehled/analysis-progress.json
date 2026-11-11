@@ -7,10 +7,6 @@
       "Protest před pražskou radnicí. Rakušan tlačí na své lidi, aby nešli vládnout s ANO"
     ],
     [
-      "https://www.idnes.cz/ekonomika/domaci/vlada-nyni-podle-havlicka-neuvazuje-o-zavedeni-sektorovych-dani.A261111_091456_ekonomika_ven",
-      "O sektorových daních vláda neuvažuje, řekl ministr Havlíček. Odmítají je i firmy"
-    ],
-    [
       "https://www.idnes.cz/zpravy/zahranicni/italie-se-ohradila-navrh-zakaz-pizzy-v-ruskych-skolach.A261111_090219_zahranicni_ikul",
       "Rusko chce zakázat pizzu ve školách. Itálie je pohoršená, reaguje zvláštním receptem"
     ],
@@ -124,7 +120,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-11T10:04:16.261488+00:00",
+  "heartbeat": "2026-11-11T10:04:21.581854+00:00",
   "cycle": {
     "started_at": "2026-11-11T10:00:06.858337+00:00",
     "initial_pending": 37,
@@ -156,6 +152,10 @@
       [
         "https://www.ceskenoviny.cz/zpravy/putu-zrejme-v-cele-libereckeho-kraje-vystrida-poslanec-jan-svitak-z-slk/2900417",
         "Půtu zřejmě v čele Libereckého kraje vystřídá poslanec Jan Sviták z SLK"
+      ],
+      [
+        "https://www.idnes.cz/ekonomika/domaci/vlada-nyni-podle-havlicka-neuvazuje-o-zavedeni-sektorovych-dani.A261111_091456_ekonomika_ven",
+        "O sektorových daních vláda neuvažuje, řekl ministr Havlíček. Odmítají je i firmy"
       ]
     ],
     "deferred": [],
