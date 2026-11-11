@@ -1,17 +1,7 @@
 {
   "active": true,
-  "current": {
-    "key": [
-      "https://www.irozhlas.cz/zpravy-domov/sport-me-naucil-ze-zadny-uspech-neni-dilem-jednotlivce-primatorem-opavy-je_2611112035_med",
-      "‚Sport mě naučil, že žádný úspěch není dílem jednotlivce.‘ Primátorem Opavy je bývalý basketbalista"
-    ],
-    "started_at": "2026-11-11T20:12:26.320826+00:00"
-  },
+  "current": null,
   "queue": [
-    [
-      "https://www.irozhlas.cz/zpravy-domov/sport-me-naucil-ze-zadny-uspech-neni-dilem-jednotlivce-primatorem-opavy-je_2611112035_med",
-      "‚Sport mě naučil, že žádný úspěch není dílem jednotlivce.‘ Primátorem Opavy je bývalý basketbalista"
-    ],
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/koalicni-smlouvu-ve-zline-podepsaly-stan-zlin-21-a-trojblok-379531",
       "Koaliční smlouvu ve Zlíně podepsaly STAN, Zlín 21 a trojblok"
@@ -142,7 +132,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-11T20:12:26.320826+00:00",
+  "heartbeat": "2026-11-11T20:13:08.894937+00:00",
   "cycle": {
     "started_at": "2026-11-11T20:10:44.474185+00:00",
     "initial_pending": 34,
@@ -150,6 +140,10 @@
       [
         "https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-mir-jednani-vyjednavac-medinskij.A261111_184904_zahranicni_rtn",
         "Vrátí se nám každý centimetr. Ukrajina je prasklý vřed, soudí ruský šéfvyjednavač"
+      ],
+      [
+        "https://www.irozhlas.cz/zpravy-domov/sport-me-naucil-ze-zadny-uspech-neni-dilem-jednotlivce-primatorem-opavy-je_2611112035_med",
+        "‚Sport mě naučil, že žádný úspěch není dílem jednotlivce.‘ Primátorem Opavy je bývalý basketbalista"
       ]
     ],
     "deferred": [],
@@ -160,6 +154,7 @@
     64.639258,
     36.089687,
     38.179534,
-    44.482277
+    44.482277,
+    42.574111
   ]
 }
