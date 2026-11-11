@@ -2,7 +2,7 @@
 <html lang="cs">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="color-scheme" content="dark"><meta name="theme-color" content="#091321">
+<meta name="color-scheme" content="light"><meta name="theme-color" content="#f6fbef">
 <meta name="description" content="Cyklistický přehled – čerstvé cyklistické články z českých a zahraničních médií.">
 <title>Cyklistický přehled | DAVHAB</title>
 <style>
@@ -13,6 +13,31 @@
 .toolbar{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:22px}.toolbar input,.toolbar select{background:var(--panel);color:var(--fg);border:1px solid var(--line);padding:12px 14px;border-radius:10px;font:inherit}.toolbar input{flex:1;min-width:210px}.toolbar select{min-width:160px}
 #articles{display:grid;gap:14px}.article{background:linear-gradient(130deg,#182b43,#101e30);padding:23px;border:1px solid var(--line);border-radius:17px}.meta{color:var(--muted);font-size:.8rem;display:flex;flex-wrap:wrap;gap:9px}.tag{border:1px solid #527d83;color:#a2ebdf;border-radius:99px;padding:1px 9px}.article h2{font-size:1.2rem;line-height:1.4;margin:12px 0}.article h2 a{text-decoration:none}.article h2 a:hover{color:var(--mint);text-decoration:underline}.article p{color:var(--muted);margin:0 0 13px}.actions{display:flex;gap:10px;flex-wrap:wrap}.translate{background:transparent;border:1px solid var(--mint);border-radius:9px;color:var(--mint);padding:8px 12px;font:600 .87rem system-ui;cursor:pointer}.translate:hover{background:#17443d}.original{font-size:.85rem;color:var(--muted);align-self:center}.notice{border:1px solid var(--line);border-radius:14px;padding:22px;color:var(--muted)}.more{margin:22px auto;display:block;background:var(--mint);color:#09231d;border:0;border-radius:10px;padding:11px 20px;font-weight:750;cursor:pointer}footer{border-top:1px solid var(--line);color:var(--muted);font-size:.8rem;margin-top:52px;padding:22px 0}
 @media(max-width:640px){.hero{padding:36px 0 20px}.toolbar>*{width:100%}.article{padding:18px}}
+
+/* Svěží jarní vzhled cyklistického magazínu */
+:root{--bg:#f6fbef;--panel:#ffffff;--line:#cfe5d5;--fg:#203a30;--muted:#536c61;--mint:#167e53}
+body{background:radial-gradient(ellipse 60% 40% at 96% 2%,#cfecff 0%,transparent 76%),radial-gradient(ellipse 50% 40% at 0% 12%,#fff1ad 0%,transparent 80%),var(--bg)}
+header{border-color:#d4e9d8;background:#ffffffdd}
+.hero .eyebrow{color:#d15d40}
+h1 span{color:#17865d}
+.toolbar input,.toolbar select{background:#fff;color:var(--fg);border-color:#bcdac9;box-shadow:0 2px 10px #476a4b08}
+.toolbar input::placeholder{color:#68796d}
+.article{background:linear-gradient(130deg,#fff,#f3fbf3);box-shadow:0 7px 28px #4b876810}
+.article:nth-child(4n+2){background:linear-gradient(130deg,#fff,#fff8e5)}
+.article:nth-child(4n+3){background:linear-gradient(130deg,#fff,#eef6ff)}
+.article:nth-child(4n+4){background:linear-gradient(130deg,#fff,#fff1ec)}
+.article h2 a:hover{color:#08784e}
+.tag{border-color:#9cceb2;background:#dff5e6;color:#1d744c}
+.article:nth-child(4n+2) .tag{background:#fff0c6;border-color:#edda9b;color:#8b6515}
+.article:nth-child(4n+3) .tag{background:#dff0ff;border-color:#b7d8ee;color:#226c9e}
+.article:nth-child(4n+4) .tag{background:#ffe6dc;border-color:#f2c5b7;color:#a7543d}
+.translate{background:#d9f4e0;color:#146946;border-color:#8fcba9}
+.translate:hover{background:#bfeccc}
+.original:hover{color:#0a784d}
+.notice{background:white}
+.more{color:white;background:#19845b}
+.more:hover{background:#126d4a}
+footer{border-color:#cfe5d5}
 </style>
 </head>
 <body>
