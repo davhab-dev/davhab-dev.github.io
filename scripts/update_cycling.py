@@ -321,10 +321,15 @@ def fetch_html_listing(name, base, fallback, mode):
             continue
         if url in seen or title.lower().startswith(("více ", "další ", "přidat ")):
             continue
-        if mode == "mtbiker" and re.search(r"\b(jak na běh|běžeck|běh:|lezení|ferraty)\b", title.lower()):
+        if mode == "mtbiker" and re.search(r"(jak na běh|běžeck|běh:|lezení|ferraty|rozběhnito|bývalé jugoslávie)", title.lower()):
             continue
         seen.add(url)
         date_value = listing_date(" ".join(details))
+        if mode == "mtbiker":
+            # U reklamních a doporučených karet nemusí relativní datum patřit k článku.
+            # Použijeme jen jednoznačné datum D. M. RRRR; jinak datum nezobrazujeme.
+            explicit = re.search(r"(?<!\d)\d{1,2}\.\s*\d{1,2}\.\s*20\d{2}(?!\d)", " ".join(details))
+            date_value = homepage_date(explicit.group(0)) if explicit else ""
         result.append({"title": title, "summary": "", "url": url, "source": name,
                        "lang": "CS", "category": category(title, "", fallback), "published": date_value})
         if len(result) >= 45:
@@ -364,6 +369,9 @@ def main():
             if not items:
                 raise ValueError("nenalezeny odkazy na články")
             fresh.extend(items)
+            # Pro HTML výpis obnovujeme celé aktuální okno a odstraníme starší,
+            # případně nepřesné položky z předchozí verze extraktoru.
+            existing = [a for a in existing if a.get("source") != name]
             print(name, len(items))
         except Exception as exc:
             errors.append(f"{name}: {exc}")
