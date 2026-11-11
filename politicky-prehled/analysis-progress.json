@@ -3,10 +3,6 @@
   "current": null,
   "queue": [
     [
-      "https://ct24.ceskatelevize.cz/clanek/svet/migracni-vlna-na-kanarskych-ostrovech-vyvolava-protesty-spanelska-vlada-celi-kritice-379496",
-      "Migrační vlna na Kanárských ostrovech vyvolává protesty. Španělská vláda čelí kritice"
-    ],
-    [
       "https://www.ceskenoviny.cz/zpravy/pavel-jednal-s-babisem-chtel-probrat-jeho-dopis-ci-deni-kolem-ct-a-cro/2900135",
       "Pavel jednal s Babišem, chtěl probrat jeho dopis či dění kolem ČT a ČRo"
     ],
@@ -96,7 +92,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-11T10:07:38.058343+00:00",
+  "heartbeat": "2026-11-11T10:07:43.533766+00:00",
   "cycle": {
     "started_at": "2026-11-11T10:00:06.858337+00:00",
     "initial_pending": 37,
@@ -156,6 +152,10 @@
       [
         "https://ct24.ceskatelevize.cz/clanek/svet/fsb-hlasi-zatceni-dvou-udajnych-polskych-agentu-varsava-informaci-overuje-379501",
         "FSB hlásí zatčení dvou údajných polských agentů, Varšava mluví o provokaci"
+      ],
+      [
+        "https://ct24.ceskatelevize.cz/clanek/svet/migracni-vlna-na-kanarskych-ostrovech-vyvolava-protesty-spanelska-vlada-celi-kritice-379496",
+        "Migrační vlna na Kanárských ostrovech vyvolává protesty. Španělská vláda čelí kritice"
       ]
     ],
     "deferred": [],
