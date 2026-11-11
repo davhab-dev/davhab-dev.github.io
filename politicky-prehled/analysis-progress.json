@@ -1,14 +1,62 @@
 {
-  "active": false,
+  "active": true,
   "current": null,
   "queue": [
     [
-      "https://www.ceskenoviny.cz/zpravy/ministri-standardy-vyhlasky-o-skolnim-stravovani-budou-nezavaznym-doporucenim/2900695",
-      "Ministři: Standardy vyhlášky o školním stravování budou nezávazným doporučením"
+      "https://www.ceskenoviny.cz/zpravy/cesko-ma-zajem-zapojit-se-do-obrannych-pujcek-safe-rekl-babis/2900333",
+      "Česko má zájem zapojit se do obranných půjček SAFE, řekl Babiš"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/putin-stubb-telefonat-finsky-prezident-kladne-hodnoceni.A261111_145325_zahranicni_ikul",
-      "Byl bystrý, umí i naslouchat. Finský prezident Stubb popsal hovor s Putinem"
+      "https://zpravy.aktualne.cz/domaci/stavkujici-trvaji-na-poplatcich-ale-reditel-ct-se-uz-smiruje-s-novou-realitou/r~aaa295376ae21c49ce043225e6c4cc2b/",
+      "Stávkující trvají na poplatcích, ale ředitel ČT se už smiřuje s novou realitou"
+    ],
+    [
+      "https://www.irozhlas.cz/zpravy-domov/cesko-chybelo-na-cviceni-v-polsku-nemame-ambici-vysilat-vojaky-mimo-uzemi-nato_2611111801_ntu",
+      "Česko chybělo na cvičení v Polsku. ‚Nemáme ambici vysílat vojáky mimo území NATO,‘ uvedl Okamura"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/vetsi-prostor-a-odpovednost-pro-jidelny-vyhlasky-o-skolnim-stravovani-budou-jen-doporucenim/r~aaa29024e63b38d84ffcf625aab30313/",
+      "Větší prostor a odpovědnost pro jídelny. Vyhlášky o školním stravování budou jen doporučením"
+    ],
+    [
+      "https://cnn.iprima.cz/babis-o-neucasti-armady-na-cviceni-v-polsku-na-vlade-nepadlo-ani-slovo-je-to-vec-obrany-526924",
+      "Babiš popřel Okamuru. O neúčasti armády na cvičení v Polsku na vládě nepadlo ani slovo"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/babis-miri-do-irska-lidri-eu-tam-maji-resit-umelou-inteligenci-i-ceny-energii.A261111_090139_domaci_chtl",
+      "Babiš míří do Irska. S lídry EU bude řešit AI a ceny energií, setká se i se Zelenským"
+    ],
+    [
+      "https://cnn.iprima.cz/iran-pohrozil-udery-na-zakladny-v-evrope-reagovat-chce-na-pripadny-utok-usa-526922",
+      "Írán hrozí údery na americké základny v Evropě. Chce tak reagovat na případný útok USA"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/ukrajina-nam-dala-to-nejcennejsi-co-si-nelze-koupit-cas-rika-briza-379514",
+      "„Ukrajina nám dala to nejcennější, co si nelze koupit – čas,“ říká Bříza"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/v-polsku-je-panem-polak-varsava-praska-ve-svech-pochod-nacionalistu-vede-prezident/r~aaa29e596f17a2a7917a097588ec95ad/",
+      "V Polsku je pánem Polák. Varšava praská ve švech, pochod nacionalistů vede prezident"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/polsko-slavi-svatek-nezavislosti-ve-varsave-se-kona-pochod-nacionalistu-379523",
+      "Polsko slaví Svátek nezávislosti, ve Varšavě se koná pochod nacionalistů"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/ukrajinci-tvrdi-ze-jsou-na-zimu-pripraveni-maji-teple-obleceni-a-varice/2900727",
+      "Ukrajinci tvrdí, že jsou na zimu připraveni, mají teplé oblečení a vařiče"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/nacionaliste-polsko-den-nezavislosti-podpora-od-prezident-nawrockeho.A261111_164048_zahranicni_jira",
+      "V Polsku je pánem Polák. Varšavou vyrazil pochod nacionalistů s prezidentem v čele"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/asi-ma-co-skryvat-nevysetrujte-trumpovu-vladu-varuje-bily-dum-demokraty.A261111_164721_zahranicni_bro",
+      "„Asi má co skrývat.“ Nevyšetřujte Trumpovu vládu, varuje Bílý dům demokraty"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/ministri-standardy-vyhlasky-o-skolnim-stravovani-budou-nezavaznym-doporucenim/2900695",
+      "Ministři: Standardy vyhlášky o školním stravování budou nezávazným doporučením"
     ],
     [
       "https://www.denik.cz/cesko/andrej-babis-17-listopad-narodni-trida-vit-rakusan/",
@@ -17,14 +65,6 @@
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/ctyri-roky-po-osvobozeni-obyvatele-chersonu-popisuji-jak-se-tam-zmenil-zivot-379519",
       "Čtyři roky po osvobození obyvatelé Chersonu popisují, jak se tam změnil život"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/pavel-den-valecnych-veteranu-mir-a-svoboda-zalezitost-vsech.A261111_130230_domaci_ikul",
-      "Svobodě a míru musíme přispět každý z nás, řekl Pavel při pietě za veterány"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/spanelsko-generalni-stavka-demonstrace-po-cele-zemi.A261111_110814_zahranicni_ikul",
-      "Španělsko ochromila dva týdny před volbami první generální stávka za 14 let"
     ],
     [
       "https://www.denik.cz/cesko/sektorove-dane-vlada-vit-rakusan-debata/",
@@ -43,12 +83,8 @@
       "Tisíce škol v Itálii a Británii dostaly výhrůžky bombou. Policie hrozby nepovažuje za věrohodné"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/problem-pro-obzalovaneho-gaspara-fico-po-ztrate-vetsiny-neprotlacil-trestni-novelu.A261111_150517_zahranicni_kha",
-      "Problém pro obžalovaného Gašpara. Fico po ztrátě většiny neprotlačil trestní novelu"
-    ],
-    [
       "https://zpravy.aktualne.cz/domaci/hrib-ostre-tepal-babise-za-utek-z-narodni-tridy-sam-bude-tisice-kilometru-daleko/r~aaa29ab96627d027ea369d685f640a8e/",
-      "Degustace čajů, sledování velryb. Ani k Babišovi kritický Hřib nedorazí na Národní"
+      "Ani k Babišovi kritický Hřib nedorazí na Národní. „Já nejsem premiér,“ říká"
     ],
     [
       "https://www.irozhlas.cz/zpravy-domov/filip-sedlak-nemuze-byt-zastupitelem-v-pardubickem-patem-obvode-rozhodl-soud_2611111501_aha",
@@ -75,10 +111,6 @@
       "Sociální výbor doporučil schválit zvýšení penzí podle věku i 2000 Kč důchodcům"
     ],
     [
-      "https://zpravy.aktualne.cz/domaci/zdravotnictvi-22850dba-908b-4192-badc-0e7f1c003a00/ano-otocilo-o-180-stupnu-hlavni-hygienik-uz-nemusi-byt-lekar-opozice-mluvi-o-trafice/r~aaa294abc7782f116c760fa91fc9e62a/",
-      "Babišovi poslanci prosadili potichu zásadní změnu, která vyděsila lékaře"
-    ],
-    [
       "https://www.denik.cz/cesko/vit-rakusan-u-antimonoponiho-uradu-konci-petr-mlsna-vlada-vyberove-rizeni/",
       "Rakušan k antimonopolnímu úřadu: Doufám, že vláda nedá na to, kdo je čí kamarád"
     ],
@@ -95,14 +127,6 @@
       "Rusko a Ukrajina si vymění zajatce. Vyslanci míří za Putinem a Zelenským"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/pavel-mir-a-svoboda-nejsou-narokem-se-kterym-se-muzeme-obratit-na-vladu-/2900324",
-      "Pavel: Mír a svoboda nejsou nárokem, se kterým se můžeme obrátit na vládu"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/evropsky-parlament-dnes-projedna-situaci-verejnopravnich-medii-v-cesku/2900557",
-      "Evropský parlament dnes projedná situaci veřejnoprávních médií v Česku"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/domaci/babis-resil-s-pavlem-svou-cestu-do-izraele-i-valku-na-ukrajine-379500",
       "Babiš řešil s Pavlem svou cestu do Izraele i válku na Ukrajině"
     ],
@@ -111,41 +135,18 @@
       "Symbolické křížky i vojenská technika. Válečné veterány si lidé připomínají i na náměstí Míru v Praze"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/denik-n-sef-antimonopolniho-uradu-mlsna-prisel-o-bezpecnostni-proverku-379511",
-      "Šéf antimonopolního úřadu Mlsna přišel o bezpečnostní prověrku, chce se bránit"
-    ],
-    [
-      "https://www.irozhlas.cz/zpravy-domov/majitele-horskych-bud-uspeli-ve-sporu-o-vjezd-do-klidoveho-uzemi-krkonosskeho_2611111112_tkp",
-      "Majitelé horských bud uspěli ve sporu o vjezd do klidového území Krkonošského národního parku"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/krajsky-soud-zrusil-cast-pravidel-vjezdu-do-krnapu-majitele-bud-uspeli-379509",
-      "Krajský soud zrušil část pravidel vjezdu do KRNAPu, majitelé horských bud uspěli"
-    ],
-    [
       "https://www.respekt.cz/informacni-servis/zelenskyj-evropa-si-musi-vybrat-kdo-ji-bude-zastupovat-na-jednanich-s-ruskem-2026-11-11-00-16",
       "Zelenskyj: Evropa si musí vybrat, kdo ji bude zastupovat na jednáních s Ruskem"
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-11T15:56:49.013538+00:00",
+  "heartbeat": "2026-11-11T17:37:17.802955+00:00",
   "cycle": {
-    "started_at": "2026-11-11T15:53:42.871624+00:00",
-    "initial_pending": 33,
-    "completed": [
-      [
-        "https://www.ceskenoviny.cz/zpravy/bily-dum-varuje-demokraty-pred-vysetrovanim-trumpovy-vlady/2900709",
-        "Bílý dům varuje demokraty před vyšetřováním Trumpovy vlády"
-      ],
-      [
-        "https://www.idnes.cz/zpravy/domaci/z-jidelen-fastfoody-motoriste-a-premier-rusi-vyhlasku-o-stravovani.A261111_102500_domaci_mls",
-        "Vláda ruší vyhlášku o stravování. Stát nemá být zachránce lidstva, říká Šťastný"
-      ]
-    ],
+    "started_at": "2026-11-11T17:37:17.802955+00:00",
+    "initial_pending": 34,
+    "completed": [],
     "deferred": [],
-    "status": "incomplete",
-    "finished_at": "2026-11-11T15:56:49.013538+00:00",
-    "remaining": 31
+    "status": "running"
   },
   "samples_seconds": [
     51.274763,
