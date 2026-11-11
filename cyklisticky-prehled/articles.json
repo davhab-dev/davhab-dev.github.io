@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T15:32:55.392826+00:00",
+  "updated": "2026-11-11T15:34:15.116359+00:00",
   "articles": [
     {
       "title": "Superprestige Niel: Cameron Mason soloes to first win of the season and biggest victory of his career",
@@ -290,15 +290,6 @@
       "published": "2026-11-10"
     },
     {
-      "title": "Gravel v Česku a v zahraničí: Dvě naprosto odlišné disciplíny",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132086/gravel-v-cesku-a-v-zahranici-dve-naprosto-odlisne-discipliny.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "Gravel",
-      "published": "2026-11-10"
-    },
-    {
       "title": "Ostravský cyklokros naváže na Las Vegas. Světový pohár se pojede teprve podruhé pod světly, tady navíc v industriální kulise",
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/ostravsky-cyklokros-navaze-na-las-vegas-svetovy-pohar-se-pojede-teprve-podruhe-pod-svetly-tady-navic-v-industrialni-kulise",
@@ -452,24 +443,6 @@
       "published": "2026-11-09"
     },
     {
-      "title": "Vrstvení jako základ – jak se obléct na podzim",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132080/vrstveni-jako-zaklad-jak-se-oblect-na-podzim.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-11-09"
-    },
-    {
-      "title": "Jak na bikepacking: Jak bojovat s vlastní hlavou?",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132008/jak-na-bikepacking-jak-bojovat-s-vlastni-hlavou.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "Gravel",
-      "published": "2026-11-09"
-    },
-    {
       "title": "Ridley a čtyři čeští nováčci jsou hlavními změnami ATT Investments pro rok 2027. Nejen o tom jsme si povídali s Adrianem Banaszekem",
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/ridley-a-ctyri-cesti-novacci-jsou-hlavnimi-zmenami-att-investments-pro-rok-2027-nejen-o-tom-jsme-si-povidali-s-adrianem-banaszekem",
@@ -593,15 +566,6 @@
       "source": "MTBS.cz",
       "lang": "CS",
       "category": "Závody",
-      "published": "2026-11-08"
-    },
-    {
-      "title": "Koruna bývalé Jugoslávie - výzva, která spojuje víc než jen vrcholy (1. část)",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132078/koruna-byvale-jugoslavie-vyzva-ktera-spojuje-vic-nez-jen-vrcholy-1-cast.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "MTB",
       "published": "2026-11-08"
     },
     {
@@ -1100,15 +1064,6 @@
       "published": "2026-11-05T08:08:29+00:00"
     },
     {
-      "title": "Rozběhnito s farářem: Nemusíš závodit, stačí jen vyběhnout",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132077/rozbehnito-s-fararem-nemusis-zavodit-staci-jen-vybehnout.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": "2026-11-05"
-    },
-    {
       "title": "Luxusní značky, třeste se – test novinek Sportful 2026",
       "summary": "",
       "url": "https://www.mtbiker.cz/clanky/132085/luxusni-znacky-treste-se-test-novinek-sportful-2026.html",
@@ -1566,6 +1521,15 @@
       "lang": "EN",
       "category": "Technika",
       "published": "2026-10-28T10:00:00+00:00"
+    },
+    {
+      "title": "Jak na bikepacking: Jak bojovat s vlastní hlavou?",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132008/jak-na-bikepacking-jak-bojovat-s-vlastni-hlavou.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "Gravel",
+      "published": "2026-10-28"
     },
     {
       "title": "Team TotalEnergies trades Cube for Pardus as another Chinese brand joins pro cycling peloton",
@@ -2819,6 +2783,24 @@
       "published": ""
     },
     {
+      "title": "Gravel v Česku a v zahraničí: Dvě naprosto odlišné disciplíny",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132086/gravel-v-cesku-a-v-zahranici-dve-naprosto-odlisne-discipliny.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "Gravel",
+      "published": ""
+    },
+    {
+      "title": "Vrstvení jako základ – jak se obléct na podzim",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132080/vrstveni-jako-zaklad-jak-se-oblect-na-podzim.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": ""
+    },
+    {
       "title": "Pogačar kritizuje nedostatečnou bezpečnost v cyklistice. Závody jsou stále rychlejší, organizátoři ale zaostávají",
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/pogacar-kritizuje-nedostatecnou-bezpecnost-v-cyklistice-zavody-jsou-stale-rychlejsi-organizatori-ale-zaostavaji",
@@ -2834,51 +2816,6 @@
       "source": "RoadCycling.cz",
       "lang": "CS",
       "category": "Závody",
-      "published": ""
-    },
-    {
-      "title": "Je to červené, rychlé a není to Ferrari. Co je to? (unboxing)",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/131966/je-to-cervene-rychle-a-neni-to-ferrari-co-je-to-unboxing.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": ""
-    },
-    {
-      "title": "Rozhovor: Sezona na kole zanechá stopy. Co po ní nejčastěji řeší servis?",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/131973/rozhovor-sezona-na-kole-zanecha-stopy-co-po-ni-nejcasteji-resi-servis.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": ""
-    },
-    {
-      "title": "Stokrát na Svatý kopeček",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/131997/stokrat-na-svaty-kopecek.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": ""
-    },
-    {
-      "title": "Castelli Transition – jednoduché řešení pro klasickou chybu",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/131990/castelli-transition-jednoduche-reseni-pro-klasickou-chybu.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": ""
-    },
-    {
-      "title": "Objev místa, kam bys jinak nedojel - elektrokola pro každého",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/131899/objev-mista-kam-bys-jinak-nedojel-elektrokola-pro-kazdeho.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "Technika",
       "published": ""
     }
   ],
