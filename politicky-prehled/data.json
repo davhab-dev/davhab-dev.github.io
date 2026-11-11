@@ -1,21 +1,99 @@
 {
-  "updated_at": "2026-11-11T17:35:51.781647+00:00",
+  "updated_at": "2026-11-11T18:55:17.982215+00:00",
   "window_hours": 24,
   "articles": [
     {
-      "title": "Česko má zájem zapojit se do obranných půjček SAFE, řekl Babiš",
+      "title": "Česko by mohlo dodat Ukrajině 16 letounů Skyfox",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
       "category": "domaci",
-      "published_at": "2026-11-11T18:20:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/cesko-ma-zajem-zapojit-se-do-obrannych-pujcek-safe-rekl-babis/2900333",
-      "importance": "Premiér oznámil zájem o další úvěr, nikoli už schválenou českou částku nebo seznam nových zakázek. Návrh má teprve připravit ministerstvo obrany a předložit vládě. Vyšší čerpání by mohlo rozšířit možnosti financování obranných nákupů, zároveň však jde o půjčku, kterou stát musí splácet; nelze ji počítat jako bezplatný příjem.\n\nPro posouzení výhodnosti bude zásadní sazba, splatnost a srovnání s vlastním financováním státu. ČTK uvádí premiérovo očekávání levnějšího financování, ale také výhrady ministerstva financí kvůli dosud neurčenému úroku. Druhé kolo má společný objem 21,3 miliardy eur pro členské státy, nikoli zaručenou částku pro Česko. Dále je nutné sledovat konkrétní české projekty a jejich schválení; dřívější rozdělení úvěru mezi D11, tanky a vozidla samo neříká, na co půjdou nové peníze.",
-      "importance_kind": "analysis",
-      "analysis_source": "ČTK / České noviny",
-      "analysis_url": "https://www.ceskenoviny.cz/zpravy/cesko-ma-zajem-zapojit-se-do-obrannych-pujcek-safe-rekl-babis/2900333"
+      "published_at": "2026-11-11T19:46:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/cesko-by-mohlo-dodat-ukrajine-16-letounu-skyfox/2900335",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
     },
     {
-      "title": "Stávkující trvají na poplatcích, ale ředitel ČT se už smiřuje s novou realitou",
+      "title": "Nový rok, nový hejtman. V libereckém kraji končí Půta, jeho místo má připadnout Janu Svitákovi",
+      "summary": "Liberecký kraj bude mít od nového roku nového hejtmana. Martina Půtu ze Starostů pro Liberecký kraj má ve funkci nahradit jeho stranický kolega Jan Sviták.…",
+      "source": "iROZHLAS",
+      "category": "domaci",
+      "published_at": "2026-11-11T19:40:00+01:00",
+      "url": "https://www.irozhlas.cz/zpravy-domov/novy-rok-novy-hejtman-v-libereckem-kraji-konci-puta-jeho-misto-ma-pripadnout_2611111940_aha",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Maďarský soud poslal Orbánova bratra a jeho přítelkyni na měsíc do vazby",
+      "summary": "Soud v Budapešti poslal ve středu na jeden měsíc do vazby Árona Orbána, bratra někdejšího dlouholetého maďarského premiéra Viktora Orbána. Vazebně stíhaná je také přítelkyně…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-11T18:30:41+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/madarsky-soud-poslal-orbanova-bratra-a-jeho-pritelkyni-na-mesic-do-vazby-379529",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Potřebujeme obohacený uran pro jaderné ponorky, vysvětluje Írán",
+      "summary": "Írán potřebuje obohacený uran pro vývoj lodí a ponorek s jaderným pohonem, uvedl v úterý v Libanonské televizní stanici Al-Majádín šéf íránské Nejvyšší rady národní…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-11T18:23:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/iran-potrebuje-obohaceny-uran-pro-jaderne-ponorky-rekl-sef-iranske-rady-bezpecnosti.A261111_173649_zahranicni_meli",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Orbánův bratr je ve vazbě. Maďarský soud ho tam poslal i s přítelkyní",
+      "summary": "Soud v Budapešti poslal ve středu na jeden měsíc do vazby Árona Orbána, bratra někdejšího dlouholetého maďarského premiéra Viktora Orbána. Vazebně stíhaná je také přítelkyně…",
+      "source": "CNN Prima NEWS",
+      "category": "svet",
+      "published_at": "2026-11-11T19:19:49+01:00",
+      "url": "https://cnn.iprima.cz/orbanuv-bratr-je-ve-vazbe-soud-ho-tam-poslal-i-s-pritelkyni-526931",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "To Zůna, vláda o tom nejednala, řekl Babiš k české absenci na cvičení v Polsku",
+      "summary": "O neúčasti českých vojáků na cvičení v Polsku vláda nejednala. Je to v kompetenci armády a jde o záležitost ministra obrany Jaromíra Zůny, řekl dnes…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-11T17:54:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/o-neucasti-vojaku-na-cviceni-v-polsku-vlada-nejednala-je-to-v-kompetenci-armady-a-zuny-rekl-babis.A261111_184403_domaci_remy",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Česko má zájem zapojit se do druhého kola obranných půjček SAFE, řekl Babiš",
+      "summary": "Česko má zájem zapojit se do druhého kola evropského finančního nástroje SAFE, který byl zřízen Evropskou unií loni a umožňuje státům získat půjčky na obranné…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-11T18:50:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/cesko-ma-zajem-zapojit-se-do-druheho-kola-obrannych-pujcek-safe-rekl-babis/r~aaa29b425407ac85ff2ee5c32ad3a54f/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Ukrajinské drony opět útočily na Sibiři, nejspíše na největší rafinérii",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-11T18:49:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/ukrajinske-drony-opet-utocily-na-sibiri-nejspise-na-nejvetsi-rafinerii/2900340",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "V KRNAP panuje nejistota, odbory zůstávají ve stávkové pohotovosti",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-11T18:39:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/v-krnap-panuje-nejistota-odbory-zustavaji-ve-stavkove-pohotovosti/2897217",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Stávkující trvají na poplatcích, ale šéf ČT se už smiřuje s novou realitou",
       "summary": "Generální ředitel ČT Hynek Chudárek na středečním jednání Rady ČT potvrdil, že premiér Andrej Babiš (ANO) trvá na zrušení koncesionářských poplatků. Podle Chudárka se teď…",
       "source": "Aktuálně.cz",
       "category": "domaci",
@@ -25,7 +103,7 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Česko chybělo na cvičení v Polsku. ‚Nemáme ambici vysílat vojáky mimo území NATO,‘ uvedl Okamura",
+      "title": "Česko chybí na cvičení v Polsku. ‚Nemáme ambici vysílat vojáky mimo území NATO,‘ uvedl Okamura",
       "summary": "Čeští vojáci mohli být součástí armádního cvičení v Polsku. Podle předsedy SPD Tomia Okamury, jehož hnutí má ministerstvo obrany v gesci, byla česká armáda přizvána…",
       "source": "iROZHLAS",
       "category": "domaci",
@@ -95,8 +173,8 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Polsko slaví Svátek nezávislosti, ve Varšavě se koná pochod nacionalistů",
-      "summary": "Polsko si ve středu připomíná obnovu své nezávislosti v roce 1918 a ve Varšavě vyšly na pochod desetitisíce nacionalistů a stoupenců krajní pravice. Do jejich…",
+      "title": "Polsko slaví Svátek nezávislosti, Varšavou prošli nacionalisté",
+      "summary": "Polsko si ve středu připomínalo obnovu své nezávislosti v roce 1918 a ve Varšavě vyšly na pochod desetitisíce nacionalistů a stoupenců krajní pravice. Do jejich…",
       "source": "ČT24",
       "category": "svet",
       "published_at": "2026-11-11T16:27:27+00:00",
@@ -145,18 +223,6 @@
       "importance_kind": "analysis",
       "analysis_source": "ČTK / České noviny",
       "analysis_url": "https://www.ceskenoviny.cz/zpravy/bily-dum-varuje-demokraty-pred-vysetrovanim-trumpovy-vlady/2900709"
-    },
-    {
-      "title": "Vláda ruší vyhlášku o stravování. Stát nemá být zachránce lidstva, říká Šťastný",
-      "summary": "Už od září 2027 měly děti ve všech školních jídelnách dostávat na talíř nutričně vyvážená jídla bez polotovarů, přemíry cukru a soli. Jenže vyhlášku, která…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-11T15:38:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/z-jidelen-fastfoody-motoriste-a-premier-rusi-vyhlasku-o-stravovani.A261111_102500_domaci_mls",
-      "importance": "Podle vyjádření ministrů má povinné zastoupení skupin potravin ve školních obědech nahradit doporučení. Nejde tedy pouze o odklad nového spotřebního koše: změnil by se způsob, jakým stát vyžaduje výživovou skladbu jídel. Článek popisuje připravovanou novelu, nikoli doklad, že už nové znění nabylo účinnosti; rozhodující bude zveřejněný předpis a datum jeho použití.\n\nJídelny by získaly větší volnost při sestavování jídelníčku, rodiče však potřebují vědět, jak bude posuzována jeho kvalita bez závazných podílů potravin. Obce a školy, které už investovaly do vybavení, školení nebo receptur, potřebují přechodná pravidla a metodickou podporu. Uváděné zdravotní a finanční přínosy původní reformy jsou modelové odhady citované organizace, nikoli naměřený výsledek zavedené změny. Praktický dopad bude nutné hodnotit podle skutečného složení obědů, jejich přijímání dětmi a množství odpadu.",
-      "importance_kind": "analysis",
-      "analysis_source": "iDNES.cz",
-      "analysis_url": "https://www.idnes.cz/zpravy/domaci/z-jidelen-fastfoody-motoriste-a-premier-rusi-vyhlasku-o-stravovani.A261111_102500_domaci_mls"
     },
     {
       "title": "Ministři: Standardy vyhlášky o školním stravování budou nezávazným doporučením",
@@ -209,7 +275,7 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Organizace se obávají změn pravidel ve školních jídelnách. Plaga i Šťastný kroky hájí",
+      "title": "Organizace se obávají změn pravidel ve školních jídelnách. Ministři kroky hájí",
       "summary": "Dětský ombudsman Martin Beneš zaslal vládě výhrady k chystané novele vyhlášky o školním stravování. Obává se především toho, že by vláda z vyhlášky mohla vypustit…",
       "source": "ČT24",
       "category": "domaci",
@@ -269,36 +335,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Tunely plné balistických střel. Írán ukázal podzemní raketové město",
-      "summary": "Íránské revoluční gardy ukázaly záběry podzemních tunelů a prostor, v nichž jsou uloženy balistické střely, střely s plochou dráhou letu či mobilní zařízení pro jejich…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-11T14:53:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/tunely-plne-balistickych-strel-iran-ukazal-podzemni-raketove-mesto/r~aaa291f81504ec5457cbb54d6db68792/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Soud zrušil zvolení Filipa Sedláka v pardubickém pátém obvodě",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-11T14:26:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/soud-zrusil-zvoleni-filipa-sedlaka-v-pardubickem-patem-obvode/2900622",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Sociální výbor doporučil schválit zvýšení penzí podle věku i 2000 Kč důchodcům",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-11T13:59:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/socialni-vybor-doporucil-schvalit-zvyseni-penzi-podle-veku-i-2000-kc-duchodcum/2900603",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Rakušan k antimonopolnímu úřadu: Doufám, že vláda nedá na to, kdo je čí kamarád",
       "summary": "Jsem zvědavý, jak vláda naloží s nominačním zákonem, doufám, že dá na odborné kompetence a morální integritu víc než na to, že je někdo něčí…",
       "source": "Deník",
@@ -315,16 +351,6 @@
       "category": "svet",
       "published_at": "2026-11-11T13:08:00+01:00",
       "url": "https://www.irozhlas.cz/zpravy-svet/cechy-vitezstvi-ruska-na-ukrajine-ohrozilo-proto-eu-nechape-ze-nechceme-pomoci_2611111308_mst",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Rusko rozšiřuje řady svých mezinárodních žoldáků. V Záporoží byl zajat muž z Indonésie",
-      "summary": "Ukrajinská armáda zajala muže indonéské národnosti, který bojoval na straně Ruska. Jakarta se bojí obchodu s lidmi, ruská strana popírá jakékoliv své zapojení. Ve válce…",
-      "source": "iROZHLAS",
-      "category": "svet",
-      "published_at": "2026-11-11T13:00:00+01:00",
-      "url": "https://www.irozhlas.cz/zpravy-svet/rusko-ukrajina-zaporozi-zoldak-indonesie-obchod-s-lidmi_2611111031_elev",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -349,16 +375,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Symbolické křížky i vojenská technika. Válečné veterány si lidé připomínají i na náměstí Míru v Praze",
-      "summary": "Lidé po celém Česku si ve středu připomínají Den válečných veteránů. Ke 108. výročí konce první světové války vzdávají poctu veteránům i obětem válečných konfliktů,…",
-      "source": "iROZHLAS",
-      "category": "domaci",
-      "published_at": "2026-11-11T11:46:00+01:00",
-      "url": "https://www.irozhlas.cz/zpravy-domov/symbolicke-krizky-i-vojenska-technika-valecne-veterany-si-lide-pripominaji-i-na_2611111146_vaa",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Zelenskyj: Evropa si musí vybrat, kdo ji bude zastupovat na jednáních s Ruskem",
       "summary": "Evropa se v listopadu musí rozhodnout, kdo ji bude zastupovat na mírových jednáních o válce na Ukrajině, řekl podle telegramového kanálu RBK-Ukrajina ukrajinský prezident Volodymyr…",
       "source": "Respekt",
@@ -377,9 +393,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
-      "selected": 5,
-      "free_articles_checked": 7
+      "candidates": 16,
+      "selected": 6,
+      "free_articles_checked": 6
     },
     {
       "name": "iROZHLAS",
@@ -388,7 +404,7 @@
       "feeds_total": 2,
       "status": "ok",
       "candidates": 15,
-      "selected": 8,
+      "selected": 7,
       "free_articles_checked": 8
     },
     {
@@ -397,7 +413,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 27,
+      "candidates": 29,
       "selected": 6,
       "free_articles_checked": 8
     },
@@ -407,7 +423,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -417,7 +433,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 16,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -447,9 +463,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 18,
-      "selected": 4,
-      "free_articles_checked": 4
+      "candidates": 16,
+      "selected": 5,
+      "free_articles_checked": 5
     },
     {
       "name": "CNN Prima NEWS",
@@ -457,9 +473,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
-      "selected": 2,
-      "free_articles_checked": 2
+      "candidates": 11,
+      "selected": 3,
+      "free_articles_checked": 3
     },
     {
       "name": "E15",
@@ -477,7 +493,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -487,7 +503,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 7,
       "selected": 0,
       "free_articles_checked": 1
     },
@@ -497,7 +513,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 7,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -507,7 +523,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 4,
+      "candidates": 9,
       "selected": 0,
       "free_articles_checked": 0
     },
