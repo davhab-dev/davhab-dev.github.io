@@ -275,15 +275,19 @@ class ListingParser(HTMLParser):
         self.heading_depth = 0
         self.anchor = None
         self.entries = []
+        # MTBIKER ma pred samotnym vypisem blok nejctenejsich clanku.
+        self.in_listing = mode != "mtbiker"
     def handle_starttag(self, tag, attrs):
         if tag in ("h2", "h3", "h4"):
             self.heading_depth += 1
-        if tag == "a" and self.anchor is None:
+        if tag == "a" and self.anchor is None and self.in_listing:
             href = dict(attrs).get("href", "")
             url = urllib.parse.urljoin(self.base, href)
             if valid_listing_url(url, self.mode):
                 self.anchor = [url, [], bool(self.heading_depth)]
     def handle_data(self, data):
+        if self.mode == "mtbiker" and "všechny články a videa" in data.lower():
+            self.in_listing = True
         if self.anchor:
             self.anchor[1].append(data)
         elif self.entries:
