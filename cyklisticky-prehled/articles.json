@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T15:21:41.951710+00:00",
+  "updated": "2026-11-11T15:24:38.336135+00:00",
   "articles": [
     {
       "title": "Who had the biggest breakout performances in the world of gravel in 2026? Here are six riders with top form through clouds of dust and mires of mud",
@@ -81,6 +81,15 @@
       "lang": "EN",
       "category": "Závody",
       "published": "2026-11-11T09:08:22+00:00"
+    },
+    {
+      "title": "Lynskey úspěšně bojuje o přežití. V posledních měsících hlásí kladné hospodářské výsledky",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/lynskey-uspesne-bojuje-o-preziti-v-poslednich-mesicich-hlasi-kladne-hospodarske-vysledky/kategorie/servis",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-11"
     },
     {
       "title": "Past results and wildcard invitations now define 'pro' categories at The Traka World Series events, The Rift keeps a limited number of entries open for women - Gravel Bits",
@@ -182,6 +191,42 @@
       "published": "2026-11-10T09:27:16+00:00"
     },
     {
+      "title": "Ostrava naváže na Las Vegas! Po 11 letech světový pohár v cyklokrosu znovu odstartuje pod reflektory",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/ostrava-navaze-na-las-vegas-po-11-letech-svetovy-pohar-v-cyklokrosu-znovu-odstartuje-pod-reflektory/kategorie/cyklokros-svetovy-pohar",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "Technika",
+      "published": "2026-11-10"
+    },
+    {
+      "title": "Schody u Lidlu jako recept na evropské zlato? Thibau Nys kráčí ve stopách slavného otce",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/schody-u-lidlu-jako-recept-na-evropske-zlato-thibau-nys-kraci-ve-stopach-slavneho-otce/kategorie/cyklokros-mistrovstvi-evropy",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-10"
+    },
+    {
+      "title": "Rocky Mountain Blizzard Carbon | Poprvé a naposled v ČR!",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/rocky-mountain-blizzard-carbon-poprve-a-naposled-v-cr/kategorie/tech-news",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-10"
+    },
+    {
+      "title": "Vrchařská prověrka, elektrokolo Touroll S2",
+      "summary": "",
+      "url": "https://cykl.cz/vrcharska-proverka-elektrokolo-touroll-s2",
+      "source": "Cykl.cz",
+      "lang": "CS",
+      "category": "Cyklistika",
+      "published": "2026-11-10"
+    },
+    {
       "title": "'My lifelong dream has come true' - Rising gravel stars carve close victories at Iceman Cometh against former winners Alexey Vermeulen, Deanna Mayles",
       "summary": "Traverse City-native Kyan Olshove wins emotional two-up sprint on uphill sprint against three-time champion",
       "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/my-life-long-dream-has-come-true-rising-gravel-stars-carve-close-victories-at-iceman-cometh-against-former-winners-alexey-vermeulen-deanna-mayles/",
@@ -254,6 +299,51 @@
       "published": "2026-11-09T10:00:00+00:00"
     },
     {
+      "title": "Fotogalerie: Mistrovství Evropy v cyklokrosu - Zeddam 2026 - neděle",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/fotogalerie-mistrovstvi-evropy-v-cyklokrosu-zeddam-2026-nedele/kategorie/zavody",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-09"
+    },
+    {
+      "title": "TEST: Vittoria Mazza Trail – Poctivých 2000 km v terénu!",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/test-vittoria-mazza-trail-poctivych-2000-km-v-terenu/kategorie/testy-recenze",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-09"
+    },
+    {
+      "title": "Fotogalerie: Orbea Rallon RS-LTD",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/fotogalerie-orbea-rallon-rs-ltd/kategorie/technika",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-09"
+    },
+    {
+      "title": "Prima CUP 2027 přidá čtvrtou trasu. Chce přilákat rodiny, gravelisty i méně zkušené bikery",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/prima-cup-2027-prida-ctvrtou-trasu-chce-prilakat-rodiny-gravelisty-i-mene-zkusene-bikery/kategorie/xcm-ostatni-zavody",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "Gravel",
+      "published": "2026-11-09"
+    },
+    {
+      "title": "Značku Ghost na poslední chvíli kupuje nový majitel Haibiku a Winory",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/znacku-ghost-na-posledni-chvili-kupuje-novy-majitel-haibiku-a-winory/kategorie/servis",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-09"
+    },
+    {
       "title": "Fastest lap is not enough to overcome a slow start for Cameron Mason sixth at UEC European Cyclo-cross Championships",
       "summary": "British champion ‘didn’t stop believing until one lap to go’",
       "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/fastest-lap-is-not-enough-to-overcome-a-slow-start-for-cameron-mason-sixth-at-uec-european-cyclo-cross-championships/",
@@ -324,6 +414,24 @@
       "lang": "EN",
       "category": "Závody",
       "published": "2026-11-08T06:53:24+00:00"
+    },
+    {
+      "title": "Bukovská při premiéře na ME v U23 čtvrtá, jen 8 sekund od medaile! Nys rozhodl o evropském titulu na 99 schodech",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/bukovska-pri-premiere-v-u23-ctvrta-nys-rozhodl-o-evropskem-titulu-na-99-schodech/kategorie/cyklokros-mistrovstvi-evropy",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-08"
+    },
+    {
+      "title": "Fotogalerie: Mistrovství Evropy v cyklokrosu - Zeddam 2026 - sobota",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/fotogalerie-mistrovstvi-evropy-v-cyklokrosu-zeddam-2026-sobota/kategorie/zavody",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-08"
     },
     {
       "title": "'This one feels different' - Lucinda Brand on winning European cyclo-cross title after rival was relegated",
@@ -423,6 +531,33 @@
       "lang": "EN",
       "category": "Gravel",
       "published": "2026-11-07T08:00:00+00:00"
+    },
+    {
+      "title": "„Připravili mě o největší okamžik kariéry.“ Schreiber po verdiktu jury neskrývala slzy ani vztek",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/pripravili-me-o-nejvetsi-okamzik-kariery-schreiber-po-verdiktu-jury-neskryvala-slzy-ani-vztek/kategorie/cyklokros-mistrovstvi-evropy",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-07"
+    },
+    {
+      "title": "Tři Češi v top 7, evropský titul žen změnil majitelku až po dojezdu. ME v Zeddamu začalo dramaticky",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/tri-cesi-v-top-7-evropsky-titul-zen-zmenil-majitelku-az-po-dojezdu-me-v-zeddamu-zacalo-dramaticky/kategorie/cyklokros-mistrovstvi-evropy",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-07"
+    },
+    {
+      "title": "Mistrovství Evropy v cyklokrosu - Zeddam 2026",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/mistrovstvi-evropy-v-cyklokrosu-zeddam-2026/kategorie/technika",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-07"
     },
     {
       "title": "Belgian champion leaves UAE Team Emirates-XRG for three-year deal with Movistar",
@@ -585,6 +720,15 @@
       "lang": "EN",
       "category": "Technika",
       "published": "2026-11-06T07:00:00+00:00"
+    },
+    {
+      "title": "TEST: Orbea Rallon RS-LTD absolutní jednorožec",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/test-orbea-rallon-rs-absolutni-jednorozec/kategorie/testy-recenze",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-06"
     },
     {
       "title": "Outshining established players, mid-season promotions and Grand Tour victories – Taking a closer look at 10 stand-out neo-pros of 2026",
@@ -1127,6 +1271,15 @@
       "published": "2026-10-22T09:00:00+00:00"
     },
     {
+      "title": "ORTLIEB představuje TIDURA",
+      "summary": "",
+      "url": "https://cykl.cz/ortlieb-predstavuje-tidura",
+      "source": "Cykl.cz",
+      "lang": "CS",
+      "category": "Cyklistika",
+      "published": "2026-10-22"
+    },
+    {
       "title": "Komoot's latest update brings internet-free navigation to Google's Wear OS devices",
       "summary": "Enhanced app offers detailed maps and a low battery drain mode",
       "url": "https://www.bikeradar.com/news/komoot-extends-its-phone-free-tech-to-wear-os-devices",
@@ -1505,6 +1658,132 @@
       "published": "2026-10-06T14:00:00+00:00"
     },
     {
+      "title": "Dvakrát Double Black",
+      "summary": "",
+      "url": "https://cykl.cz/dvakrat-double-black",
+      "source": "Cykl.cz",
+      "lang": "CS",
+      "category": "Cyklistika",
+      "published": "2026-09-22"
+    },
+    {
+      "title": "Elektro-skládačka Touroll S2",
+      "summary": "",
+      "url": "https://cykl.cz/elektro-skladacka-touroll-s2-5167",
+      "source": "Cykl.cz",
+      "lang": "CS",
+      "category": "Cyklistika",
+      "published": "2026-07-06"
+    },
+    {
+      "title": "Nexelo City, přilba nejen do města",
+      "summary": "",
+      "url": "https://cykl.cz/nexelo-city-prilba-nejen-do-mesta",
+      "source": "Cykl.cz",
+      "lang": "CS",
+      "category": "Cyklistika",
+      "published": "2026-07-01"
+    },
+    {
+      "title": "ORTLIEB Velo-Sling trochu jinak",
+      "summary": "",
+      "url": "https://cykl.cz/5164",
+      "source": "Cykl.cz",
+      "lang": "CS",
+      "category": "Cyklistika",
+      "published": "2026-06-17"
+    },
+    {
+      "title": "Přilba Catlike Kompact´o II",
+      "summary": "",
+      "url": "https://cykl.cz/prilba-catlike-kompact-o-ii",
+      "source": "Cykl.cz",
+      "lang": "CS",
+      "category": "Cyklistika",
+      "published": "2026-06-11"
+    },
+    {
+      "title": "Každodenní batoh Ortlieb",
+      "summary": "",
+      "url": "https://cykl.cz/kazdodenni-batoh-ortlieb-5162",
+      "source": "Cykl.cz",
+      "lang": "CS",
+      "category": "Cyklistika",
+      "published": "2026-06-03"
+    },
+    {
+      "title": "Vylepšená bezdušová ochrana, Tannus",
+      "summary": "",
+      "url": "https://cykl.cz/vylepsena-bezdusova-ochrana-tannus",
+      "source": "Cykl.cz",
+      "lang": "CS",
+      "category": "Cyklistika",
+      "published": "2026-05-27"
+    },
+    {
+      "title": "PUKY pro holky i kluky",
+      "summary": "",
+      "url": "https://cykl.cz/puky-pro-holky-i-kluky",
+      "source": "Cykl.cz",
+      "lang": "CS",
+      "category": "Cyklistika",
+      "published": "2026-05-19"
+    },
+    {
+      "title": "Integrálka LEATT GRAVITY 5.0 – Zkoušejte své hranice, ne štěstí",
+      "summary": "",
+      "url": "https://cykl.cz/integralka-leatt-gravity-5-0-zkousejte-sve-hranice-ne-stesti",
+      "source": "Cykl.cz",
+      "lang": "CS",
+      "category": "Cyklistika",
+      "published": "2026-05-17"
+    },
+    {
+      "title": "Kokpit od Leatt",
+      "summary": "",
+      "url": "https://cykl.cz/kokpit-od-leatt",
+      "source": "Cykl.cz",
+      "lang": "CS",
+      "category": "Cyklistika",
+      "published": "2026-05-14"
+    },
+    {
+      "title": "Brýle 3F Spark jr. - nejen pro juniory",
+      "summary": "",
+      "url": "https://cykl.cz/bryle-3f-spark-jr-nejen-pro-juniory",
+      "source": "Cykl.cz",
+      "lang": "CS",
+      "category": "Cyklistika",
+      "published": "2026-05-11"
+    },
+    {
+      "title": "Bafang RG E510: 5stupňová automatická a manuální nábojová převodovka pro elektrokola",
+      "summary": "",
+      "url": "https://cykl.cz/bafang-rg-e510-5stupnova-automaticka-a-manualni-nabojova-prevodovka-pro-elektrokola",
+      "source": "Cykl.cz",
+      "lang": "CS",
+      "category": "Cyklistika",
+      "published": "2026-05-07"
+    },
+    {
+      "title": "Superior a Rock Machine Day na Spořilově",
+      "summary": "",
+      "url": "https://cykl.cz/superior-a-rock-machine-day-na-sporilove",
+      "source": "Cykl.cz",
+      "lang": "CS",
+      "category": "Cyklistika",
+      "published": "2026-05-06"
+    },
+    {
+      "title": "Author Silikonový chránič",
+      "summary": "",
+      "url": "https://cykl.cz/author-silikonovy-chranic",
+      "source": "Cykl.cz",
+      "lang": "CS",
+      "category": "Cyklistika",
+      "published": "2026-05-01"
+    },
+    {
       "title": "ME cyklokros 2026 - výsledky neděle",
       "summary": "",
       "url": "https://mtbs.cz/clanek/me-cyklokros-2026-vysledky-nedele/kategorie/bleskovky-zavody",
@@ -1538,42 +1817,6 @@
       "source": "MTBS.cz",
       "lang": "CS",
       "category": "Gravel",
-      "published": ""
-    },
-    {
-      "title": "Fotogalerie: Mistrovství Evropy v cyklokrosu - Zeddam 2026 - neděle 09.11. Jan Němec Závody Nedělní souboje o evropské tituly cyklokrosařů ve fotografiích...",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/fotogalerie-mistrovstvi-evropy-v-cyklokrosu-zeddam-2026-nedele/kategorie/zavody",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": ""
-    },
-    {
-      "title": "Fotogalerie: Orbea Rallon RS-LTD 09.11. Petr Bureš Technika",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/fotogalerie-orbea-rallon-rs-ltd/kategorie/technika",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Technika",
-      "published": ""
-    },
-    {
-      "title": "Fotogalerie: Mistrovství Evropy v cyklokrosu - Zeddam 2026 - sobota 08.11. Jan Němec Závody Sobotní fotonálož z evropského šampionátu v cyklokrosu 2026 z nizozemského Zeddamu...",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/fotogalerie-mistrovstvi-evropy-v-cyklokrosu-zeddam-2026-sobota/kategorie/zavody",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": ""
-    },
-    {
-      "title": "Mistrovství Evropy v cyklokrosu - Zeddam 2026 07.11. Jan Němec Technika První obrázky z evropského šampionátu v cyklokrosu 2026 jsou z pátečního tréninku...",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/mistrovstvi-evropy-v-cyklokrosu-zeddam-2026/kategorie/technika",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Technika",
       "published": ""
     },
     {
@@ -1676,15 +1919,6 @@
       "published": ""
     },
     {
-      "title": "TEST: Orbea Rallon RS-LTD absolutní jednorožec 06.11. Petr Bureš Testy - Recenze",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/test-orbea-rallon-rs-absolutni-jednorozec/kategorie/testy-recenze",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": ""
-    },
-    {
       "title": "Bosch dává bikerům větší kontrolu nad motorem. Nově si nastaví trakci pro každý režim zvlášť 16.10. Pressnews Servis",
       "summary": "",
       "url": "https://mtbs.cz/clanek/bosch-dava-bikerum-vetsi-kontrolu-nad-motorem-nove-si-nastavi-trakci-pro-kazdy-rezim-zvlast/kategorie/servis",
@@ -1758,7 +1992,6 @@
     }
   ],
   "source_errors": [
-    "NaKole.cz: HTTP Error 403: Forbidden",
-    "Cykl.cz: HTTP Error 404: Not Found"
+    "NaKole.cz: HTTP Error 403: Forbidden"
   ]
 }
