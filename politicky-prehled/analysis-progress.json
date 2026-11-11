@@ -7,10 +7,6 @@
       "Protest před pražskou radnicí. Rakušan tlačí na své lidi, aby nešli vládnout s ANO"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/putu-zrejme-v-cele-libereckeho-kraje-vystrida-poslanec-jan-svitak-z-slk/2900417",
-      "Půtu zřejmě v čele Libereckého kraje vystřídá poslanec Jan Sviták z SLK"
-    ],
-    [
       "https://www.idnes.cz/ekonomika/domaci/vlada-nyni-podle-havlicka-neuvazuje-o-zavedeni-sektorovych-dani.A261111_091456_ekonomika_ven",
       "O sektorových daních vláda neuvažuje, řekl ministr Havlíček. Odmítají je i firmy"
     ],
@@ -128,7 +124,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-11T10:04:10.612993+00:00",
+  "heartbeat": "2026-11-11T10:04:16.261488+00:00",
   "cycle": {
     "started_at": "2026-11-11T10:00:06.858337+00:00",
     "initial_pending": 37,
@@ -156,6 +152,10 @@
       [
         "https://www.ceskenoviny.cz/zpravy/v-abu-zabi-pokracuji-mirove-hovory-mezi-zastupci-ukrajiny-ruska-a-usa/2900427",
         "V Abú Zabí pokračují mírové hovory mezi zástupci Ukrajiny, Ruska a USA"
+      ],
+      [
+        "https://www.ceskenoviny.cz/zpravy/putu-zrejme-v-cele-libereckeho-kraje-vystrida-poslanec-jan-svitak-z-slk/2900417",
+        "Půtu zřejmě v čele Libereckého kraje vystřídá poslanec Jan Sviták z SLK"
       ]
     ],
     "deferred": [],
