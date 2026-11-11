@@ -7,10 +7,6 @@
       "Protest před pražskou radnicí. Rakušan tlačí na své lidi, aby nešli vládnout s ANO"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/hoekstra-eu-nekde-klimaticke-regulace-prehnala/2900400",
-      "Hoekstra: EU někde klimatické regulace přehnala"
-    ],
-    [
       "https://zpravy.aktualne.cz/zahranici/putin-chce-zit-hodne-dlouhy-zivot-jeho-pritel-kvuli-tomu-prijal-dulezity-krok/r~aaa292d52ad0d43890efff04e333156b/",
       "Putin chce žít hodně dlouhý život. Jeho přítel kvůli tomu přijal důležitý krok"
     ],
@@ -116,7 +112,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-11T10:04:27.542713+00:00",
+  "heartbeat": "2026-11-11T10:04:33.171056+00:00",
   "cycle": {
     "started_at": "2026-11-11T10:00:06.858337+00:00",
     "initial_pending": 37,
@@ -156,6 +152,10 @@
       [
         "https://www.idnes.cz/zpravy/zahranicni/italie-se-ohradila-navrh-zakaz-pizzy-v-ruskych-skolach.A261111_090219_zahranicni_ikul",
         "Rusko chce zakázat pizzu ve školách. Itálie je pohoršená, reaguje zvláštním receptem"
+      ],
+      [
+        "https://www.ceskenoviny.cz/zpravy/hoekstra-eu-nekde-klimaticke-regulace-prehnala/2900400",
+        "Hoekstra: EU někde klimatické regulace přehnala"
       ]
     ],
     "deferred": [],
