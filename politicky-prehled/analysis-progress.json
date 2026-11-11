@@ -2,5 +2,6 @@
   "active": false,
   "current": null,
   "queue": [],
-  "needs_sources": []
+  "needs_sources": [],
+  "heartbeat": "2026-11-11T09:37:21.792616+00:00"
 }
