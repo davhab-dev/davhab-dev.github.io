@@ -1,7 +1,59 @@
 {
-  "updated_at": "2026-11-10T23:46:39.313698+00:00",
+  "updated_at": "2026-11-11T01:19:12.285574+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Pavel bude jednat s Babišem mimo jiné o jmenování předsedy ÚOHS",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-11T00:57:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/pavel-bude-jednat-s-babisem-mimo-jine-o-jmenovani-predsedy-uohs/2900135",
+      "importance": "Současnému šéfovi antimonopolního úřadu končí mandát 2. prosince. Časový tlak se tak střetává s prezidentovým požadavkem, aby bylo z čeho vybírat a postup byl průhledný. Důležité bude, zda lze ještě před koncem mandátu porovnat uchazeče podle předem srozumitelných kritérií.\n\nPro firmy a zadavatele, jejichž případy úřad posuzuje, má význam důvěra v nezávislost jeho vedení. Tu může podpořit zveřejněné zdůvodnění výběru. Samotná schůzka prezidenta s premiérem nedává podklad k závěru, jak úřad rozhodne konkrétní soutěž nebo zakázku.",
+      "importance_kind": "analysis",
+      "analysis_source": "ČTK",
+      "analysis_url": "https://www.ceskenoviny.cz/zpravy/pavel-bude-jednat-s-babisem-mimo-jine-o-jmenovani-predsedy-uohs/2900135"
+    },
+    {
+      "title": "Republikáni ve Sněmovně reprezentantů zablokovali impeachment Hegsetha",
+      "summary": "Republikánská většina v americké Sněmovně reprezentantů v úterý fakticky zablokovala snahu o odvolání ministra obrany Petea Hegsetha v souvislosti s válkou proti Íránu, uvedly dnes…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-10T23:49:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/republikani-ve-snemovne-reprezentantu-zablokovali-impeachment-hegsetha.A261111_002735_zahranicni_air",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Republikáni zablokovali snahu o odvolání Hegsetha",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-11T00:28:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/republikani-zablokovali-snahu-o-odvolani-hegsetha/2900326",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "ČR si dnes připomene Den válečných veteránů",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-11T00:18:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/cr-si-dnes-pripomene-den-valecnych-veteranu/2900324",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Babiš dnes v Kramářově vile přijme maďarského prezidenta",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-11T00:05:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/babis-dnes-v-kramarove-vile-prijme-madarskeho-prezidenta/2900317",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Republikáni v americké Sněmovně si do svého čela zvolili konzervativce Jordana",
       "summary": "Republikáni ve Sněmovně reprezentantů si do svého čela zvolili konzervativce Jima Jordana. Zákonodárce z Ohia od ledna povede republikánskou menšinu v dolní komoře poté, co…",
@@ -107,18 +159,6 @@
       "importance_kind": "analysis",
       "analysis_source": "iROZHLAS",
       "analysis_url": "https://www.irozhlas.cz/zpravy-domov/hlasovani-ve-slavetine-na-lounsku-je-neplatne-komunalni-volby-se-budou-opakovat_2611101800_lbl"
-    },
-    {
-      "title": "Zemřela jedna z hrdinek francouzského válečného odboje. Zavzpomínal i Macron",
-      "summary": "Ve věku 104 let zemřela jedna z hrdinek francouzského odboje z druhé světové války Solange Alexandreová. Poté, co působila jako spojka odboje, založila společně se…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-10T20:08:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/umrti-hrdinka-francouzsky-odboj-druha-sv-valka.A261110_193912_zahranicni_rtn",
-      "importance": "Úmrtím Solange Alexandreové odchází přímá pamětnice francouzského odboje, která vedla i vlastní bojovou jednotku. Macron jí vzdal veřejný hold. Jde o připomínku historické služby, nikoli oznámení nové státní politiky.\n\nPro uchování jejího svědectví mají význam již zaznamenané rozhovory a dokumenty. Článek připomíná přijetí Řádu čestné legie v roce 2024; neoznamuje novou poctu ani program vzpomínkových akcí. Ty proto nelze z prezidentova vyjádření předjímat.",
-      "importance_kind": "analysis",
-      "analysis_source": "Novinky / ČTK",
-      "analysis_url": "https://www.novinky.cz/clanek/zahranicni-evropa-ve-veku-104-let-zemrela-jedna-z-hrdinek-francouzskeho-odboje-ze-druhe-sv-valky-40607940"
     },
     {
       "title": "Dva výbuchy a pak třítunová bomba. Ruský útok na kryt plný civilistů minutu po minutě",
@@ -253,42 +293,6 @@
       "analysis_url": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-prevzalo-koncept-ukrajinske-iniciativy-kolac-nezavislosti-379482"
     },
     {
-      "title": "V Praze povládne koalice STAN, Spolu a Prahy sobě",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-10T18:00:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/v-praze-povladne-koalice-stan-spolu-a-prahy-sobe/2895938",
-      "importance": "Pražský klub STAN dal přednost Praze sobě před Piráty. Pokud se přidají také kluby Spolu a Prahy sobě, bude mít tato trojice 47 z 65 zastupitelů. K většině stačí 33 hlasů. Při plné účasti by tedy koalice mohla při hlasování o rozpočtu přijít o podporu čtrnácti vlastních zastupitelů a stále návrh prosadit.\n\nPro Pražany zatím z hlasování klubu neplyne, které dopravní nebo bytové projekty dostanou přednost. O tom víc řekne obsah koaliční dohody a první společný rozpočet. Bezprostředně teď záleží na tom, zda stejnou sestavu schválí i zbývající dva kluby.",
-      "importance_kind": "analysis",
-      "analysis_source": "ČTK",
-      "analysis_url": "https://www.ceskenoviny.cz/zpravy/v-praze-povladne-koalice-stan-spolu-a-prahy-sobe/2895938"
-    },
-    {
-      "title": "Agentura EU varovala před útoky na domácí spotřebiče",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-10T17:56:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/agentura-eu-varovala-pred-utoky-na-domaci-spotrebice/2900212",
-      "importance": "Útoky narušily chlazení potravin a ve Francii zasáhly také krevní banky, které musely část zásob přemístit. Pro provozovatele je důležité, jak dlouho byla překročena skladovací teplota a co bylo možné včas zachránit. Ředitel ENISA zmínil domácí spotřebiče jako možný budoucí cíl. Článek dokládá škody především v provozovnách.\n\nFrancie připsala říjnový útok jednotce íránských revolučních gard a předvolala si íránského velvyslance. Írán obvinění odmítl. Francouzská prokuratura požádala o vydání mezinárodních zatykačů. Podrobnosti důkazů článek neuvádí a z francouzského obvinění nelze dovozovat pachatele všech incidentů v dalších zemích.",
-      "importance_kind": "analysis",
-      "analysis_source": "ČTK / České noviny",
-      "analysis_url": "https://www.ceskenoviny.cz/zpravy/agentura-eu-varovala-pred-utoky-na-domaci-spotrebice/2900212"
-    },
-    {
-      "title": "Vláda vypsala výběrové řízení na předsedu ÚOHS, nastoupí od prosince",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-10T17:39:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/vlada-vypsala-vyberove-rizeni-na-predsedu-uohs-nastoupi-od-prosince/2900198",
-      "importance": "Zájemci o vedení ÚOHS musí doručit přihlášku Úřadu vlády do 18. listopadu do 12 hodin. Rozhoduje okamžik doručení. Uchazeči musí mimo jiné doložit nejméně deset let právní nebo ekonomické praxe a předložit vlastní koncepci úřadu na první rok i na delší období.\n\nPetru Mlsnovi končí šestiletý mandát 2. prosince a může se přihlásit znovu. Soutěž tedy otevírá výběr, ale sama ještě neznamená výměnu předsedy. Po posouzení uchazečů následuje návrh vlády a jmenování prezidentem. Pro zadavatele veřejných zakázek a firmy bude důležité, jaké priority vybraný předseda stanoví pro dohled a rozhodování úřadu.",
-      "importance_kind": "analysis",
-      "analysis_source": "ČTK / České noviny",
-      "analysis_url": "https://www.ceskenoviny.cz/zpravy/vlada-vypsala-vyberove-rizeni-na-predsedu-uohs-nastoupi-od-prosince/2900198"
-    },
-    {
       "title": "Skandál šéfa Nvidie pokračuje. Trump ho hájí, milenka bývala novinářkou",
       "summary": "Alice Huangová, s níž měl poměr šéf Nvidie Jensen Huang, působila ve vedení firmy vyšetřované kvůli podezření z obcházení amerických omezení vývozu čipů. Americké tajné…",
       "source": "Deník",
@@ -323,18 +327,6 @@
       "importance_kind": "analysis",
       "analysis_source": "Aktuálně.cz",
       "analysis_url": "https://zpravy.aktualne.cz/zahranici/havlicek-uvedl-ze-na-ukrajine-bude-jednat-take-o-dodavkach-letadel-skyfox/r~aaa29101e96d42e2a71e637319974a64/"
-    },
-    {
-      "title": "Zelenskyj: V Abú Zabí se jednalo o výměně zajatců a návratu ukrajinských dětí",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-10T15:52:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/zelenskyj-v-abu-zabi-se-jednalo-o-vymene-zajatcu-a-navratu-ukrajinskych-deti/2896477",
-      "importance": "U zprávy o dojednávané výměně zajatců záleží také na původu informace. Zelenskyj potvrdil, že delegace o výměně mluvily. Zpráva o konkrétně dohodnuté rozsáhlé výměně se opírá o zdroj blízký ukrajinské delegaci. Pro rodiny je rozdíl mezi těmito sděleními zásadní.\n\nHmatatelným výsledkem budou předaní lidé a potvrzení jejich návratu. I dílčí výměna může mít bezprostřední hodnotu, zatímco jednání o dětech či o bezpečnostních zárukách budou pokračovat. Jedno plnění proto ještě nevypovídá o dohodě na všech třech otázkách.",
-      "importance_kind": "analysis",
-      "analysis_source": "ČTK",
-      "analysis_url": "https://www.ceskenoviny.cz/zpravy/zelenskyj-v-abu-zabi-se-jednalo-o-vymene-zajatcu-a-navratu-ukrajinskych-deti/2896477"
     },
     {
       "title": "NÚKIB varuje před kybernetickými útoky z Ruska",
@@ -377,9 +369,9 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 24,
+      "candidates": 28,
       "selected": 6,
-      "free_articles_checked": 8
+      "free_articles_checked": 7
     },
     {
       "name": "Novinky.cz",
@@ -429,7 +421,7 @@
       "status": "ok",
       "candidates": 16,
       "selected": 5,
-      "free_articles_checked": 6
+      "free_articles_checked": 7
     },
     {
       "name": "CNN Prima NEWS",
