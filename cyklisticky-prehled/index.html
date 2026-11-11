@@ -47,6 +47,7 @@ footer{border-color:#cfe5d5}
 <p id="status" role="status">Načítání aktuálních článků…</p>
 <div class="toolbar" aria-label="Filtry článků">
 <input id="search" type="search" placeholder="Vyhledat článek nebo zdroj…" aria-label="Vyhledat článek">
+<select id="language" aria-label="Jazyk článků"><option value="">České i zahraniční</option><option value="CS">Pouze české články</option><option value="EN">Pouze zahraniční</option></select>
 <select id="category" aria-label="Kategorie"><option value="">Všechny kategorie</option></select>
 <select id="source" aria-label="Zdroj"><option value="">Všechny zdroje</option></select>
 </div>
@@ -61,13 +62,15 @@ function textNode(tag,cls,value){const n=document.createElement(tag);if(cls)n.cl
 function fillSelect(id,values){const select=el(id);for(const value of [...new Set(values)].filter(Boolean).sort((a,b)=>a.localeCompare(b,"cs"))){const opt=document.createElement("option");opt.value=value;opt.textContent=value;select.appendChild(opt)}}
 function translatedLink(url){return "https://www.google.com/url?sa=U&url="+encodeURIComponent("https://translate.google.com/translate?sl=auto&tl=cs&u="+encodeURIComponent(url))}
 function render(){
- const term=el("search").value.trim().toLocaleLowerCase("cs"),cat=el("category").value,source=el("source").value;
- const visible=articles.filter(x=>(!cat||x.category===cat)&&(!source||x.source===source)&&(!term||(x.title+" "+x.summary+" "+x.source).toLocaleLowerCase("cs").includes(term)));
+ const term=el("search").value.trim().toLocaleLowerCase("cs"),cat=el("category").value,source=el("source").value,lang=el("language").value;
+ const visible=articles.filter(x=>(!lang||x.lang===lang)&&(!cat||x.category===cat)&&(!source||x.source===source)&&(!term||(x.title+" "+x.summary+" "+x.source).toLocaleLowerCase("cs").includes(term)));
+ const featured=(!lang&&!cat&&!source&&!term)?visible.filter(x=>x.lang==="CS").slice(0,6):[];
+ const ordered=featured.length?[...featured,...visible.filter(x=>!featured.includes(x))]:visible;
  const container=el("articles");container.replaceChildren();
- for(const a of visible.slice(0,limit)){
+ for(const a of ordered.slice(0,limit)){
   let url;try{url=new URL(a.url);if(!["http:","https:"].includes(url.protocol))continue}catch{continue}
   const card=textNode("article","article","");
-  const meta=textNode("div","meta","");meta.append(textNode("span","",a.source||"Zdroj"),textNode("span","",dateString(a.published)),textNode("span","tag",a.category||"Cyklistika"));card.append(meta);
+  const meta=textNode("div","meta","");meta.append(textNode("span","",a.source||"Zdroj"),textNode("span","",dateString(a.published)),textNode("span","tag",a.category||"Cyklistika"),textNode("span","",a.lang==="CS"?"Česky":"Zahraničí"));card.append(meta);
   const heading=textNode("h2","","");const link=textNode("a","",a.title);link.href=url.href;link.target="_blank";link.rel="noopener noreferrer";link.title="Otevřít původní článek v nové kartě";heading.append(link);card.append(heading);
   if(a.summary)card.append(textNode("p","",a.summary));
   const actions=textNode("div","actions","");const original=textNode("a","original","Číst originál ↗");original.href=url.href;original.target="_blank";original.rel="noopener noreferrer";actions.append(original);
@@ -80,9 +83,10 @@ function render(){
  }
  if(!visible.length)container.append(textNode("div","notice",articles.length?"Žádné články neodpovídají filtrům.":"Články se zatím nepodařilo načíst. Automatický sběr bude spuštěn při nejbližší plánované aktualizaci."));
  el("more").hidden=visible.length<=limit;
- el("status").textContent=(articles.length?articles.length+" uložených článků · "+visible.length+" odpovídá filtrům":"Zatím bez načtených článků")+(updated?" · Poslední aktualizace: "+dateString(updated):"");
+ const czech=articles.filter(x=>x.lang==="CS").length;
+ el("status").textContent=(articles.length?articles.length+" článků · z toho "+czech+" českých · "+visible.length+" odpovídá filtrům":"Zatím bez načtených článků")+(updated?" · Poslední aktualizace: "+dateString(updated):"");
 }
-for(const id of ["search","category","source"])el(id).addEventListener(id==="search"?"input":"change",()=>{limit=30;render()});
+for(const id of ["search","language","category","source"])el(id).addEventListener(id==="search"?"input":"change",()=>{limit=30;render()});
 el("more").addEventListener("click",()=>{limit+=30;render()});
 fetch("./articles.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw Error("Soubor s články zatím není dostupný");return r.json()}).then(data=>{articles=Array.isArray(data.articles)?data.articles:[];updated=data.updated||"";fillSelect("category",articles.map(x=>x.category));fillSelect("source",articles.map(x=>x.source));render()}).catch(()=>{render();el("status").textContent="Datový soubor zatím není dostupný. Sběr článků proběhne při nejbližší plánované aktualizaci."});
 </script>
