@@ -3,10 +3,6 @@
   "current": null,
   "queue": [
     [
-      "https://zpravy.aktualne.cz/zahranici/putin-chce-zit-hodne-dlouhy-zivot-jeho-pritel-kvuli-tomu-prijal-dulezity-krok/r~aaa292d52ad0d43890efff04e333156b/",
-      "Putin chce žít hodně dlouhý život. Jeho přítel kvůli tomu přijal důležitý krok"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/domaci/pavla-rozladila-neucast-ceskych-vojaku-na-cviceni-v-polsku-379503",
       "Pavla rozladila neúčast českých vojáků na cvičení v Polsku"
     ],
@@ -108,7 +104,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-11T10:07:22.040324+00:00",
+  "heartbeat": "2026-11-11T10:07:27.096399+00:00",
   "cycle": {
     "started_at": "2026-11-11T10:00:06.858337+00:00",
     "initial_pending": 37,
@@ -156,6 +152,10 @@
       [
         "https://zpravy.aktualne.cz/domaci/protest-pred-prazskou-radnici-rakusan-tlaci-na-sve-lidi-aby-nesli-vladnout-s-ano/r~aaa298d4e6b7293d7538921bb84d9099/",
         "Protest před pražskou radnicí. Rakušan tlačí na své lidi, aby nešli vládnout s ANO"
+      ],
+      [
+        "https://zpravy.aktualne.cz/zahranici/putin-chce-zit-hodne-dlouhy-zivot-jeho-pritel-kvuli-tomu-prijal-dulezity-krok/r~aaa292d52ad0d43890efff04e333156b/",
+        "Putin chce žít hodně dlouhý život. Jeho přítel kvůli tomu přijal důležitý krok"
       ]
     ],
     "deferred": [],
