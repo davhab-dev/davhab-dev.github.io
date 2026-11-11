@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="cs">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="dark"><meta name="theme-color" content="#091321">
+<meta name="description" content="Cyklistický přehled – čerstvé cyklistické články z českých a zahraničních médií.">
+<title>Cyklistický přehled | DAVHAB</title>
+<style>
+:root{--bg:#091321;--panel:#122137;--line:#30465d;--fg:#eaf2f9;--muted:#afc2d2;--mint:#79dbc7}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at 85% 0%,#21445a 0%,transparent 60%),var(--bg);color:var(--fg);font:16px/1.6 system-ui,-apple-system,"Segoe UI",sans-serif}a{color:inherit}a:focus-visible,button:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid var(--mint);outline-offset:3px}
+.wrap{width:min(1100px,calc(100% - 36px));margin:auto}header{border-bottom:1px solid #ffffff20}header .wrap{display:flex;align-items:center;justify-content:space-between;min-height:72px}header a{text-decoration:none;font-weight:800;letter-spacing:.1em}header a span{color:var(--mint)}header .back{font-size:.85rem;color:var(--muted);letter-spacing:0}
+.hero{padding:56px 0 30px}.eyebrow{text-transform:uppercase;letter-spacing:.16em;color:var(--mint);font-size:.77rem;font-weight:800}h1{font-size:clamp(2.1rem,5vw,3.7rem);letter-spacing:-.05em;line-height:1.1;margin:12px 0}h1 span{color:var(--mint)}.hero p{color:var(--muted);max-width:680px}#status{font-size:.85rem;color:var(--muted);margin:0 0 22px}
+.toolbar{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:22px}.toolbar input,.toolbar select{background:var(--panel);color:var(--fg);border:1px solid var(--line);padding:12px 14px;border-radius:10px;font:inherit}.toolbar input{flex:1;min-width:210px}.toolbar select{min-width:160px}
+#articles{display:grid;gap:14px}.article{background:linear-gradient(130deg,#182b43,#101e30);padding:23px;border:1px solid var(--line);border-radius:17px}.meta{color:var(--muted);font-size:.8rem;display:flex;flex-wrap:wrap;gap:9px}.tag{border:1px solid #527d83;color:#a2ebdf;border-radius:99px;padding:1px 9px}.article h2{font-size:1.2rem;line-height:1.4;margin:12px 0}.article h2 a{text-decoration:none}.article h2 a:hover{color:var(--mint);text-decoration:underline}.article p{color:var(--muted);margin:0 0 13px}.actions{display:flex;gap:10px;flex-wrap:wrap}.translate{background:transparent;border:1px solid var(--mint);border-radius:9px;color:var(--mint);padding:8px 12px;font:600 .87rem system-ui;cursor:pointer}.translate:hover{background:#17443d}.original{font-size:.85rem;color:var(--muted);align-self:center}.notice{border:1px solid var(--line);border-radius:14px;padding:22px;color:var(--muted)}.more{margin:22px auto;display:block;background:var(--mint);color:#09231d;border:0;border-radius:10px;padding:11px 20px;font-weight:750;cursor:pointer}footer{border-top:1px solid var(--line);color:var(--muted);font-size:.8rem;margin-top:52px;padding:22px 0}
+@media(max-width:640px){.hero{padding:36px 0 20px}.toolbar>*{width:100%}.article{padding:18px}}
+</style>
+</head>
+<body>
+<header><div class="wrap"><a href="/" aria-label="DAVHAB – hlavní stránka">DAV<span>HAB</span></a><a class="back" href="/">← Zpět na projekty</a></div></header>
+<main class="wrap">
+<div class="hero"><div class="eyebrow">Nezávislý agregátor</div><h1>Cyklistický <span>přehled.</span></h1><p>Novinky ze světa gravelu, MTB, silniční cyklistiky a techniky. Titulky otevírají originální články v nové kartě. Zahraniční text lze otevřít v českém překladu.</p></div>
+<p id="status" role="status">Načítání aktuálních článků…</p>
+<div class="toolbar" aria-label="Filtry článků">
+<input id="search" type="search" placeholder="Vyhledat článek nebo zdroj…" aria-label="Vyhledat článek">
+<select id="category" aria-label="Kategorie"><option value="">Všechny kategorie</option></select>
+<select id="source" aria-label="Zdroj"><option value="">Všechny zdroje</option></select>
+</div>
+<div id="articles" aria-live="polite"></div><button id="more" class="more" type="button" hidden>Načíst další články</button>
+</main><footer><div class="wrap">DAVHAB · Přehled titulků a odkazů, autorská práva náleží původním vydavatelům. · Aktualizace přibližně každých 30 minut.</div></footer>
+<script>
+"use strict";
+const el=id=>document.getElementById(id);
+let articles=[],limit=30,updated="";
+const dateString=s=>{if(!s)return "Datum neuvedeno";const d=new Date(s);return isNaN(d)?"Datum neuvedeno":new Intl.DateTimeFormat("cs-CZ",{dateStyle:"medium",timeStyle:"short",timeZone:"Europe/Prague"}).format(d)};
+function textNode(tag,cls,value){const n=document.createElement(tag);if(cls)n.className=cls;n.textContent=value;return n}
+function fillSelect(id,values){const select=el(id);for(const value of [...new Set(values)].filter(Boolean).sort((a,b)=>a.localeCompare(b,"cs"))){const opt=document.createElement("option");opt.value=value;opt.textContent=value;select.appendChild(opt)}}
+function translatedLink(url){return "https://www.google.com/url?sa=U&url="+encodeURIComponent("https://translate.google.com/translate?sl=auto&tl=cs&u="+encodeURIComponent(url))}
+function render(){
+ const term=el("search").value.trim().toLocaleLowerCase("cs"),cat=el("category").value,source=el("source").value;
+ const visible=articles.filter(x=>(!cat||x.category===cat)&&(!source||x.source===source)&&(!term||(x.title+" "+x.summary+" "+x.source).toLocaleLowerCase("cs").includes(term)));
+ const container=el("articles");container.replaceChildren();
+ for(const a of visible.slice(0,limit)){
+  let url;try{url=new URL(a.url);if(!["http:","https:"].includes(url.protocol))continue}catch{continue}
+  const card=textNode("article","article","");
+  const meta=textNode("div","meta","");meta.append(textNode("span","",a.source||"Zdroj"),textNode("span","",dateString(a.published)),textNode("span","tag",a.category||"Cyklistika"));card.append(meta);
+  const heading=textNode("h2","","");const link=textNode("a","",a.title);link.href=url.href;link.target="_blank";link.rel="noopener noreferrer";link.title="Otevřít původní článek v nové kartě";heading.append(link);card.append(heading);
+  if(a.summary)card.append(textNode("p","",a.summary));
+  const actions=textNode("div","actions","");const original=textNode("a","original","Číst originál ↗");original.href=url.href;original.target="_blank";original.rel="noopener noreferrer";actions.append(original);
+  if(a.lang && a.lang.toUpperCase()!=="CS"){
+   const trans=textNode("button","translate","Přeložit do češtiny ↗");trans.type="button";
+   trans.addEventListener("click",()=>window.open("https://translate.google.com/translate?sl=auto&tl=cs&u="+encodeURIComponent(url.href),"_blank","noopener,noreferrer"));
+   actions.append(trans);
+  }
+  card.append(actions);container.append(card);
+ }
+ if(!visible.length)container.append(textNode("div","notice",articles.length?"Žádné články neodpovídají filtrům.":"Články se zatím nepodařilo načíst. Automatický sběr bude spuštěn při nejbližší plánované aktualizaci."));
+ el("more").hidden=visible.length<=limit;
+ el("status").textContent=(articles.length?articles.length+" uložených článků · "+visible.length+" odpovídá filtrům":"Zatím bez načtených článků")+(updated?" · Poslední aktualizace: "+dateString(updated):"");
+}
+for(const id of ["search","category","source"])el(id).addEventListener(id==="search"?"input":"change",()=>{limit=30;render()});
+el("more").addEventListener("click",()=>{limit+=30;render()});
+fetch("./articles.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw Error("Soubor s články zatím není dostupný");return r.json()}).then(data=>{articles=Array.isArray(data.articles)?data.articles:[];updated=data.updated||"";fillSelect("category",articles.map(x=>x.category));fillSelect("source",articles.map(x=>x.source));render()}).catch(()=>{render();el("status").textContent="Datový soubor zatím není dostupný. Sběr článků proběhne při nejbližší plánované aktualizaci."});
+</script>
+</body></html>
