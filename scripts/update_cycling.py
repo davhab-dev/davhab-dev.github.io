@@ -28,6 +28,11 @@ FEEDS = [
     ("BikeRadar MTB", "https://feeds.purplemanager.com/193c804a-a673-47bd-b09b-11baf4822a17/bikeradar-mtb-feed", "EN", "MTB"),
     ("BikeRadar Gravel", "https://feeds.purplemanager.com/193c804a-a673-47bd-b09b-11baf4822a17/bikeradar-gravel-feed", "EN", "Gravel"),
 ]
+HTML_SOURCES = [
+    ("MTBIKER.cz", "https://www.mtbiker.cz/clanky", "MTB", "mtbiker"),
+    ("RoadCycling.cz", "https://www.roadcycling.cz/archiv", "Závody", "roadcycling"),
+    ("CykloRepublic.cz", "https://cyklorepublic.cz/", "Cyklistika", "cyklorepublic"),
+]
 TAGS = [
     ("Gravel", ("gravel", "bikepacking", "gravelisty")),
     ("MTB", ("mountain bike", "mountain biking", "xc ", "cross-country", "downhill", "enduro", "horských kol", "bikery")),
@@ -228,6 +233,100 @@ def fetch_mtbs_homepage():
             break
     return result
 
+
+def listing_date(text):
+    """Datum z výpisu; pouze když je skutečně přítomné."""
+    today = dt.datetime.now(ZoneInfo("Europe/Prague")).date()
+    relative = re.search(r"\b(předevčírem|před\s+\d+\s+(?:dny|dnem|hodinami|hodinou|týdnem)|dnes|včera)\b", text.lower())
+    if relative:
+        label = relative.group(1)
+        if label == "dnes" or "hodin" in label:
+            return today.isoformat()
+        if label == "včera":
+            return (today - dt.timedelta(days=1)).isoformat()
+        if label == "předevčírem":
+            return (today - dt.timedelta(days=2)).isoformat()
+        if "týdnem" in label:
+            return (today - dt.timedelta(days=7)).isoformat()
+        days = re.search(r"\d+", label)
+        if days:
+            return (today - dt.timedelta(days=int(days.group()))).isoformat()
+    return homepage_date(text)
+
+def valid_listing_url(url, mode):
+    parts = urllib.parse.urlsplit(url)
+    host, path = (parts.hostname or "").lower(), parts.path
+    if mode == "mtbiker":
+        return host in ("mtbiker.cz", "www.mtbiker.cz") and bool(re.fullmatch(r"/clanky/\d+/[^/]+\.html", path))
+    if mode == "roadcycling":
+        return host in ("roadcycling.cz", "www.roadcycling.cz") and path.startswith("/clanek/") and len(path) > 10
+    if mode == "cyklorepublic":
+        return host in ("cyklorepublic.cz", "www.cyklorepublic.cz") and bool(re.fullmatch(r"/clanky/[^/]+/[^/]+", path))
+    if mode == "ivelo":
+        return host in ("ivelo.cz", "www.ivelo.cz") and bool(re.fullmatch(r"/[a-z0-9-]{15,}/", path))
+    return False
+
+class ListingParser(HTMLParser):
+    """Extrahuje pouze skutečné odkazy na články, nikoli sekce a navigaci."""
+    def __init__(self, base, mode):
+        super().__init__(convert_charrefs=True)
+        self.base = base
+        self.mode = mode
+        self.heading_depth = 0
+        self.anchor = None
+        self.entries = []
+    def handle_starttag(self, tag, attrs):
+        if tag in ("h2", "h3", "h4"):
+            self.heading_depth += 1
+        if tag == "a" and self.anchor is None:
+            href = dict(attrs).get("href", "")
+            url = urllib.parse.urljoin(self.base, href)
+            if valid_listing_url(url, self.mode):
+                self.anchor = [url, [], bool(self.heading_depth)]
+    def handle_data(self, data):
+        if self.anchor:
+            self.anchor[1].append(data)
+        elif self.entries:
+            # Datum bývá v kartě až za titulkem. Nezachováváme text článku.
+            if len(self.entries[-1][3]) < 450:
+                self.entries[-1][3].append(data)
+    def handle_endtag(self, tag):
+        if tag == "a" and self.anchor:
+            url, chunks, heading = self.anchor
+            title = clean(" ".join(chunks))
+            if 18 <= len(title) <= 230:
+                self.entries.append([url, title, heading, []])
+            self.anchor = None
+        if tag in ("h2", "h3", "h4"):
+            self.heading_depth = max(0, self.heading_depth - 1)
+
+def fetch_html_listing(name, base, fallback, mode):
+    req = urllib.request.Request(
+        base,
+        headers={"User-Agent": "Mozilla/5.0 (compatible; DAVHAB-CyklistickyPrehled/1.2; +https://davhab.com/cyklisticky-prehled/)",
+                 "Accept": "text/html,application/xhtml+xml"}
+    )
+    with urllib.request.urlopen(req, timeout=22) as response:
+        raw = response.read(2_000_000)
+        charset = response.headers.get_content_charset() or "utf-8"
+    parser = ListingParser(base, mode)
+    parser.feed(raw.decode(charset, errors="replace"))
+    result, seen = [], set()
+    for url, title, heading, details in parser.entries:
+        if mode == "ivelo" and not heading:
+            continue
+        if url in seen or title.lower().startswith(("více ", "další ", "přidat ")):
+            continue
+        if mode == "mtbiker" and re.search(r"\b(jak na běh|běžeck|běh:|lezení|ferraty)\b", title.lower()):
+            continue
+        seen.add(url)
+        date_value = listing_date(" ".join(details))
+        result.append({"title": title, "summary": "", "url": url, "source": name,
+                       "lang": "CS", "category": category(title, "", fallback), "published": date_value})
+        if len(result) >= 45:
+            break
+    return result
+
 def main():
     existing=[]
     if DEST.exists():
@@ -255,6 +354,16 @@ def main():
                     print(f"CHYBA {name} (záložní metoda)", fallback_exc)
             errors.append(f"{name}: {exc}")
             print("CHYBA",name,exc)
+    for name, url, fallback, mode in HTML_SOURCES:
+        try:
+            items = fetch_html_listing(name, url, fallback, mode)
+            if not items:
+                raise ValueError("nenalezeny odkazy na články")
+            fresh.extend(items)
+            print(name, len(items))
+        except Exception as exc:
+            errors.append(f"{name}: {exc}")
+            print("CHYBA", name, exc)
     if not fresh:
         if existing:
             print("Žádný zdroj nedostupný; ponechávám existující data.")
