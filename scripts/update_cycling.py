@@ -10,6 +10,7 @@ import urllib.request
 import urllib.parse
 import xml.etree.ElementTree as ET
 from html.parser import HTMLParser
+from zoneinfo import ZoneInfo
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 DEST = ROOT / "cyklisticky-prehled" / "articles.json"
@@ -107,10 +108,97 @@ class ArticleLinkParser(HTMLParser):
         self.depth -= 1
         if self.depth == 0:
             url, parts = self.current
-            title = clean("".join(parts))
-            if 22 <= len(title) <= 240:
-                self.links.append((url, title))
+            raw_title = clean("".join(parts))
+            # Karta nekdy obsahuje i autora, datum a perex; oddelime je od titulku.
+            title = re.split(r"\s+(?:Dnes|Včera|\d{1,2}\.\d{1,2}\.)", raw_title, maxsplit=1)[0]
+            if 18 <= len(title) <= 240:
+                self.links.append((url, title, raw_title))
             self.current = None
+
+def homepage_date(text):
+    """Vrať skutečné datum uvedené v kartě, jinak neznámé datum."""
+    today = dt.datetime.now(ZoneInfo("Europe/Prague")).date()
+    if re.search(r"\bDnes\b", text):
+        day = today
+    elif re.search(r"\bVčera\b", text):
+        day = today - dt.timedelta(days=1)
+    else:
+        match = re.search(r"(?<!\d)(\d{1,2})\.\s*(\d{1,2})\.(?:\s*(\d{4}))?", text)
+        if not match:
+            return ""
+        try:
+            day = dt.date(int(match.group(3) or today.year), int(match.group(2)), int(match.group(1)))
+            if match.group(3) is None and day > today:
+                day = dt.date(today.year - 1, day.month, day.day)
+        except ValueError:
+            return ""
+    return day.isoformat()
+
+class CyklHeadlineParser(HTMLParser):
+    """Titulky na Cykl.cz jsou ve značkách h2; datum leží pod titulkem."""
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.in_heading = False
+        self.link = None
+        self.parts = []
+        self.current = None
+        self.items = []
+    def handle_starttag(self, tag, attrs):
+        if tag == "h2":
+            if self.current:
+                self.items.append(self.current)
+            self.current = {"url": "", "title": "", "details": []}
+            self.in_heading = True
+        if tag == "a" and self.in_heading:
+            href = dict(attrs).get("href", "")
+            url = urllib.parse.urljoin("https://cykl.cz/", href)
+            parsed = urllib.parse.urlsplit(url)
+            if parsed.hostname in ("cykl.cz", "www.cykl.cz") and parsed.path.strip("/"):
+                self.link = url
+                self.parts = []
+    def handle_data(self, data):
+        if self.link is not None:
+            self.parts.append(data)
+        elif self.current is not None and not self.in_heading:
+            self.current["details"].append(data)
+    def handle_endtag(self, tag):
+        if tag == "a" and self.link is not None:
+            if self.current is not None:
+                self.current["url"] = self.link
+                self.current["title"] = clean("".join(self.parts))
+            self.link = None
+        if tag == "h2":
+            self.in_heading = False
+    def close(self):
+        super().close()
+        if self.current:
+            self.items.append(self.current)
+
+def fetch_cykl_homepage():
+    req = urllib.request.Request(
+        "https://cykl.cz/",
+        headers={"User-Agent": "Mozilla/5.0 (compatible; DAVHAB-CyklistickyPrehled/1.1; +https://davhab.com/cyklisticky-prehled/)",
+                 "Accept": "text/html,application/xhtml+xml"}
+    )
+    with urllib.request.urlopen(req, timeout=22) as response:
+        raw = response.read(1_500_000)
+        charset = response.headers.get_content_charset() or "utf-8"
+    parser = CyklHeadlineParser()
+    parser.feed(raw.decode(charset, errors="replace"))
+    parser.close()
+    result = []
+    seen = set()
+    for item in parser.items:
+        title, url = item["title"], item["url"]
+        if not (15 <= len(title) <= 240) or not url or url in seen:
+            continue
+        seen.add(url)
+        result.append({"title": title, "summary": "", "url": url, "source": "Cykl.cz",
+                       "lang": "CS", "category": category(title, "", "Cyklistika"),
+                       "published": homepage_date(" ".join(item["details"]))})
+        if len(result) >= 40:
+            break
+    return result
 
 def fetch_mtbs_homepage():
     """Rezervní zdroj, pokud RSS MTBS neodpoví. Datum nevymýšlíme."""
@@ -126,12 +214,12 @@ def fetch_mtbs_homepage():
     parser.feed(raw.decode(charset, errors="replace"))
     seen = set()
     result = []
-    for url, title in parser.links:
+    for url, title, card_text in parser.links:
         if url in seen:
             continue
         seen.add(url)
         result.append({"title": title, "summary": "", "url": url, "source": "MTBS.cz",
-                       "lang": "CS", "category": category(title, "", "MTB"), "published": ""})
+                       "lang": "CS", "category": category(title, "", "MTB"), "published": homepage_date(card_text)})
         if len(result) >= 30:
             break
     return result
@@ -150,15 +238,15 @@ def main():
             fresh.extend(items)
             print(name, len(items))
         except Exception as exc:
-            if name == "MTBS.cz":
+            if name in ("MTBS.cz", "Cykl.cz"):
                 try:
-                    items = fetch_mtbs_homepage()
+                    items = fetch_mtbs_homepage() if name == "MTBS.cz" else fetch_cykl_homepage()
                     if items:
                         fresh.extend(items)
-                        print("MTBS.cz: nouzové načtení titulů z webu:", len(items))
+                        print(f"{name}: nouzové načtení titulů z webu:", len(items))
                         continue
                 except Exception as fallback_exc:
-                    print("CHYBA MTBS.cz (záložní metoda)", fallback_exc)
+                    print(f"CHYBA {name} (záložní metoda)", fallback_exc)
             errors.append(f"{name}: {exc}")
             print("CHYBA",name,exc)
     if not fresh:
