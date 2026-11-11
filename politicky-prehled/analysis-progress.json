@@ -3,10 +3,6 @@
   "current": null,
   "queue": [
     [
-      "https://www.irozhlas.cz/zpravy-domov/martina-putu-mohl-v-cele-libereckeho-kraje-vystridat-jan-svitak-ze-starostu-pro_2611111023_tkp",
-      "Martina Půtu by mohl v čele Libereckého kraje vystřídat Jan Sviták ze Starostů pro Liberecký kraj"
-    ],
-    [
       "https://www.idnes.cz/zpravy/domaci/rozpocet-vybor-poslanecka-snemovna-schillerova-pikora-dluh-schodek.A261110_210656_domaci_ikro",
       "Výbor posuzuje jednotlivé kapitoly návrhu rozpočtu, řeší i sektorové daně"
     ],
@@ -144,7 +140,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-11T10:03:49.913689+00:00",
+  "heartbeat": "2026-11-11T10:03:55.397499+00:00",
   "cycle": {
     "started_at": "2026-11-11T10:00:06.858337+00:00",
     "initial_pending": 37,
@@ -156,6 +152,10 @@
       [
         "https://www.idnes.cz/zpravy/domaci/praha-sobe-koalice-praha-stan-spolu-hlavacek-portlik.A261110_162725_domaci_dyn",
         "Hlavní město povede STAN, SPOLU a Praha sobě. Dopravu má Scheinherr, finance Portlík"
+      ],
+      [
+        "https://www.irozhlas.cz/zpravy-domov/martina-putu-mohl-v-cele-libereckeho-kraje-vystridat-jan-svitak-ze-starostu-pro_2611111023_tkp",
+        "Martina Půtu by mohl v čele Libereckého kraje vystřídat Jan Sviták ze Starostů pro Liberecký kraj"
       ]
     ],
     "deferred": [],
