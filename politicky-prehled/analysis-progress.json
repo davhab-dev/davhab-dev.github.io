@@ -1,17 +1,7 @@
 {
   "active": true,
-  "current": {
-    "key": [
-      "https://www.ceskenoviny.cz/zpravy/cesko-by-mohlo-dodat-ukrajine-16-letounu-skyfox/2900335",
-      "Česko by mohlo dodat Ukrajině 16 letounů Skyfox"
-    ],
-    "started_at": "2026-11-11T18:57:05.841507+00:00"
-  },
+  "current": null,
   "queue": [
-    [
-      "https://www.ceskenoviny.cz/zpravy/cesko-by-mohlo-dodat-ukrajine-16-letounu-skyfox/2900335",
-      "Česko by mohlo dodat Ukrajině 16 letounů Skyfox"
-    ],
     [
       "https://www.irozhlas.cz/zpravy-domov/novy-rok-novy-hejtman-v-libereckem-kraji-konci-puta-jeho-misto-ma-pripadnout_2611111940_aha",
       "Nový rok, nový hejtman. V libereckém kraji končí Půta, jeho místo má připadnout Janu Svitákovi"
@@ -158,17 +148,23 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-11T18:57:05.841507+00:00",
+  "heartbeat": "2026-11-11T18:57:44.021041+00:00",
   "cycle": {
     "started_at": "2026-11-11T18:56:37.103903+00:00",
     "initial_pending": 37,
-    "completed": [],
+    "completed": [
+      [
+        "https://www.ceskenoviny.cz/zpravy/cesko-by-mohlo-dodat-ukrajine-16-letounu-skyfox/2900335",
+        "Česko by mohlo dodat Ukrajině 16 letounů Skyfox"
+      ]
+    ],
     "deferred": [],
     "status": "running"
   },
   "samples_seconds": [
     51.274763,
     64.639258,
-    36.089687
+    36.089687,
+    38.179534
   ]
 }
