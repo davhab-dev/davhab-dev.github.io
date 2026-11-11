@@ -3,10 +3,6 @@
   "current": null,
   "queue": [
     [
-      "https://ct24.ceskatelevize.cz/clanek/svet/fsb-hlasi-zatceni-dvou-udajnych-polskych-agentu-varsava-informaci-overuje-379501",
-      "FSB hlásí zatčení dvou údajných polských agentů, Varšava mluví o provokaci"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/svet/migracni-vlna-na-kanarskych-ostrovech-vyvolava-protesty-spanelska-vlada-celi-kritice-379496",
       "Migrační vlna na Kanárských ostrovech vyvolává protesty. Španělská vláda čelí kritice"
     ],
@@ -100,7 +96,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-11T10:07:32.358398+00:00",
+  "heartbeat": "2026-11-11T10:07:38.058343+00:00",
   "cycle": {
     "started_at": "2026-11-11T10:00:06.858337+00:00",
     "initial_pending": 37,
@@ -156,6 +152,10 @@
       [
         "https://ct24.ceskatelevize.cz/clanek/domaci/pavla-rozladila-neucast-ceskych-vojaku-na-cviceni-v-polsku-379503",
         "Pavla rozladila neúčast českých vojáků na cvičení v Polsku"
+      ],
+      [
+        "https://ct24.ceskatelevize.cz/clanek/svet/fsb-hlasi-zatceni-dvou-udajnych-polskych-agentu-varsava-informaci-overuje-379501",
+        "FSB hlásí zatčení dvou údajných polských agentů, Varšava mluví o provokaci"
       ]
     ],
     "deferred": [],

@@ -165,8 +165,10 @@
       "category": "svet",
       "published_at": "2026-11-11T07:39:10+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/fsb-hlasi-zatceni-dvou-udajnych-polskych-agentu-varsava-informaci-overuje-379501",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Zadržení i údajné napojení na polské služby oznamuje ruská FSB; článek nepředkládá nezávisle ověřené důkazy špionáže. Polská strana označuje oznámení za provokaci a dezinformaci. Nelze proto vydávat identitu zadržených jako agentů za prokázaný fakt jen na základě ruského tvrzení.\n\nPřípad může zvýšit diplomatické napětí a vyvolat požadavky na informace o totožnosti a postavení zadržených. Zveřejnění v polský státní svátek má zřejmou komunikační citlivost, samo ale neprokazuje účel celé operace. Rozhodující budou ověřitelné informace o zadržení, formální vyrozumění a případný přístup polských úřadů, nikoli opakování stejného prohlášení v dalších médiích.",
+      "importance_kind": "analysis",
+      "analysis_source": "ČT24",
+      "analysis_url": "https://ct24.ceskatelevize.cz/clanek/svet/fsb-hlasi-zatceni-dvou-udajnych-polskych-agentu-varsava-informaci-overuje-379501"
     },
     {
       "title": "Migrační vlna na Kanárských ostrovech vyvolává protesty. Španělská vláda čelí kritice",
