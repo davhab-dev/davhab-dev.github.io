@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T15:56:09.095127+00:00",
+  "updated": "2026-11-11T16:59:48.997262+00:00",
   "articles": [
     {
       "title": "Superprestige Niel: Cameron Mason soloes to first win of the season and biggest victory of his career",
@@ -99,6 +99,15 @@
       "lang": "CS",
       "category": "Závody",
       "published": "2026-11-11T08:00:00+00:00"
+    },
+    {
+      "title": "Kauza Schreiber nekončí! Lucembursko žádá evropské zlato zpět, závodnice kritizuje předsedu jury",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/kauza-schreiber-nekonci-lucembursko-zada-evropske-zlato-zpet-zavodnice-kritizuje-predsedu-jury/kategorie/cyklokros-mistrovstvi-evropy",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "Závody",
+      "published": "2026-11-11"
     },
     {
       "title": "Lynskey úspěšně bojuje o přežití. V posledních měsících hlásí kladné hospodářské výsledky",
@@ -704,15 +713,6 @@
       "published": "2026-11-07"
     },
     {
-      "title": "Mistrovství Evropy v cyklokrosu - Zeddam 2026",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/mistrovstvi-evropy-v-cyklokrosu-zeddam-2026/kategorie/technika",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": "2026-11-07"
-    },
-    {
       "title": "Cyklokrosové naděje v akci: Juniorka Rothbauerová měla na dohled evropskou medaili, Bažant (U23) dojel s pádem sedmý",
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/cyklokrosove-nadeje-v-akci-juniorka-rothbauerova-mela-na-dohled-evropskou-medaili-bazant-u23-dojel-s-padem-sedmy",
@@ -735,6 +735,15 @@
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/vyhrat-flandry-bude-tezsi-nez-roubaix-uvedomuje-si-van-aert-laka-ho-i-domaci-mistrovstvi-sveta-v-cyklokrosu",
       "source": "RoadCycling.cz",
+      "lang": "CS",
+      "category": "Závody",
+      "published": "2026-11-07"
+    },
+    {
+      "title": "Mistrovství Evropy v cyklokrosu - Zeddam 2026",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/mistrovstvi-evropy-v-cyklokrosu-zeddam-2026/kategorie/technika",
+      "source": "MTBS.cz",
       "lang": "CS",
       "category": "Závody",
       "published": "2026-11-07"
@@ -1521,15 +1530,6 @@
       "lang": "EN",
       "category": "Technika",
       "published": "2026-10-28T10:00:00+00:00"
-    },
-    {
-      "title": "Jak na bikepacking: Jak bojovat s vlastní hlavou?",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132008/jak-na-bikepacking-jak-bojovat-s-vlastni-hlavou.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "Gravel",
-      "published": "2026-10-28"
     },
     {
       "title": "Team TotalEnergies trades Cube for Pardus as another Chinese brand joins pro cycling peloton",
@@ -2780,6 +2780,15 @@
       "source": "MTBS.cz",
       "lang": "CS",
       "category": "Závody",
+      "published": ""
+    },
+    {
+      "title": "Zjisti, jaký potřebuješ olej nebo vosk - já se ptám a ty odpovídáš",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132090/zjisti-jaky-potrebujes-olej-nebo-vosk-ja-se-ptam-a-ty-odpovidas.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "MTB",
       "published": ""
     },
     {
