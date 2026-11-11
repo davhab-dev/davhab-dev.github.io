@@ -35,10 +35,6 @@
       "ONLINE: Po útoku dronů hořelo v ruském přístavu Usť-Luga, patří k největším pro vývoz ropy"
     ],
     [
-      "https://zpravy.aktualne.cz/zahranici/priznejme-si-to-putin-neni-izolovany-rika-politik-ktery-mu-zavolal/r~aaa298990a4e771b4698968c3c2392f8/",
-      "„Přiznejme si to: Putin není izolovaný.“ Politik popsal telefonát, za který to schytal"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/domaci/odvolani-namestci-protesty-i-spor-o-dph-co-se-deje-okolo-spravy-krnapu-379418",
       "Odvolaní náměstci, protesty i spor o DPH. Co se děje okolo Správy KRNAPu?"
     ],
@@ -64,7 +60,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-11T10:08:23.245953+00:00",
+  "heartbeat": "2026-11-11T10:08:28.881149+00:00",
   "cycle": {
     "started_at": "2026-11-11T10:00:06.858337+00:00",
     "initial_pending": 37,
@@ -156,6 +152,10 @@
       [
         "https://zpravy.aktualne.cz/zahranici/pochvalil-ho-trump-podrzela-snemovna-republikani-zablokovali-snahu-o-hegsethovo-odvolani/r~aaa29e80ca3fcbfb069c01704095c033/",
         "Pochválil ho Trump, podržela sněmovna. Republikáni zablokovali snahu o Hegsethovo odvolání"
+      ],
+      [
+        "https://zpravy.aktualne.cz/zahranici/priznejme-si-to-putin-neni-izolovany-rika-politik-ktery-mu-zavolal/r~aaa298990a4e771b4698968c3c2392f8/",
+        "„Přiznejme si to: Putin není izolovaný.“ Politik popsal telefonát, za který to schytal"
       ]
     ],
     "deferred": [],
