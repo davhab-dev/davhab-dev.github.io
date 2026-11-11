@@ -7,10 +7,6 @@
       "R5M: Babiš a Fico se setkali ve Slovenské národní galerii | Začala mírová jednání mezi Ukrajinou a Ruskem | Prahu povede kromě STAN a Spolu i Praha sobě"
     ],
     [
-      "https://zpravy.aktualne.cz/zahranici/pochvalil-ho-trump-podrzela-snemovna-republikani-zablokovali-snahu-o-hegsethovo-odvolani/r~aaa29e80ca3fcbfb069c01704095c033/",
-      "Pochválil ho Trump, podržela sněmovna. Republikáni zablokovali snahu o Hegsethovo odvolání"
-    ],
-    [
       "https://www.denik.cz/evropa/babis-a-fico-se-ohradili-vuci-vyzve-merze-k-dalsi-financni-podpore-ukrajiny/",
       "Babiš a Fico se ohradili vůči výzvě Merze k další finanční podpoře Ukrajiny"
     ],
@@ -68,7 +64,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-11T10:08:17.441098+00:00",
+  "heartbeat": "2026-11-11T10:08:23.245953+00:00",
   "cycle": {
     "started_at": "2026-11-11T10:00:06.858337+00:00",
     "initial_pending": 37,
@@ -156,6 +152,10 @@
       [
         "https://www.irozhlas.cz/zpravy-svet/ruska-tajna-sluzba-tvrdi-ze-zadrzela-dva-polske-agenty-vini-je-ze-spionaze-v_2611110729_mst",
         "Ruská tajná služba tvrdí, že zadržela dva polské agenty. Viní je ze špionáže v Kaliningradské oblasti"
+      ],
+      [
+        "https://zpravy.aktualne.cz/zahranici/pochvalil-ho-trump-podrzela-snemovna-republikani-zablokovali-snahu-o-hegsethovo-odvolani/r~aaa29e80ca3fcbfb069c01704095c033/",
+        "Pochválil ho Trump, podržela sněmovna. Republikáni zablokovali snahu o Hegsethovo odvolání"
       ]
     ],
     "deferred": [],
