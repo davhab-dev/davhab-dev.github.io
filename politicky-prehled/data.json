@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-11-11T04:08:30.420701+00:00",
+  "updated_at": "2026-11-11T05:12:18.503048+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Odvolaní náměstci, protesty i spor o DPH. Co se děje okolo Správy KRNAPu?",
+      "summary": "Odvolání dvou náměstků Správy Krkonošského národního parku (KRNAPu) jejím ředitelem Petrem Moravcem vyvolávají pochybnosti u části veřejnosti i zaměstnanců parku. Reakcí byly protesty před ministerstvem…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-11T05:00:00+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/odvolani-namestci-protesty-i-spor-o-dph-co-se-deje-okolo-spravy-krnapu-379418",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Elone, přijeď vyrábět létající auta do Krasnodaru. Putinovy babičky zvou Muska do Ruska",
+      "summary": "Skupina ruských důchodkyň z hnutí Putinovy oddíly natočila v Krasnodaru video, ve kterém zve Elona Muska, aby se přestěhoval na jih Ruska a vyráběl tam…",
+      "source": "CNN Prima NEWS",
+      "category": "svet",
+      "published_at": "2026-11-11T05:45:05+01:00",
+      "url": "https://cnn.iprima.cz/elone-prijed-vyrabet-letajici-auta-do-krasnodaru-putinovy-babicky-zvou-muska-do-ruska-526746",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Babiš zažil nezvyklé: opozice mu kvůli kritizovanému Motoristovi lichotila. Něco za to chtěla",
+      "summary": "Slyšet nějakého opozičního poslance, jak lichotí premiéru Andreji Babišovi, je věc vskutku výjimečná. Přesto k ní koncem minulého týdne v Poslanecké sněmovně došlo. Hlavním cílem…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-11T05:30:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/babis-zazil-nezvykle-opozice-mu-kvuli-kritizovanemu-motoristovi-lichotila-neco-za-to-chtela/r~aaa29b189de65fab45dddafc08669c4f/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Dronový útok způsobil požár v ruském přístavu Usť-Luga, uvedl gubernátor",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-11T04:55:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/dronovy-utok-zpusobil-pozar-v-ruskem-pristavu-ust-luga-uvedl-gubernator/2900340",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Bude Letná referendem o vládě? Vít Rakušan odpoví dnes v debatě na Deník.cz",
       "summary": "Deník.cz pokračuje v pravidelných debatách s předními českými politiky. Dnes bude Kateřina Perknerová v pořadu 15 minut rozmlouvat s předsedou STAN Vítem Rakušanem. Zeptáme se,…",
@@ -23,6 +63,16 @@
       "importance_kind": "analysis",
       "analysis_source": "ČT24 / ČTK",
       "analysis_url": "https://ct24.ceskatelevize.cz/clanek/svet/republikani-ve-snemovne-reprezentantu-zablokovali-snahu-o-odvolani-hegsetha-379497"
+    },
+    {
+      "title": "Havlíček jednal se šéfem Lvovské oblasti o těžbě plynu a zdravotnictví",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-11T01:05:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/havlicek-jednal-se-sefem-lvovske-oblasti-o-tezbe-plynu-a-zdravotnictvi/2900335",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
     },
     {
       "title": "Pavel bude jednat s Babišem mimo jiné o jmenování předsedy ÚOHS",
@@ -155,18 +205,6 @@
       "analysis_url": "https://ct24.ceskatelevize.cz/clanek/svet/spanelska-vlada-zada-vysetreni-udajnych-pripadu-sexualniho-zneuzivani-deti-na-tiktoku-379436"
     },
     {
-      "title": "Lidé ve Slavětíně půjdou k volbám znovu, hlasování prohlásil soud za neplatné",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-10T21:08:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/lide-ve-slavetine-pujdou-k-volbam-znovu-hlasovani-prohlasil-soud-za-neplatne/2900284",
-      "importance": "Soud ve Slavětíně nařídil opakovat hlasování kvůli volebním letákům vloženým do obálek s hlasovacími lístky. Kandidátní listiny zůstávají platné. Voliči tedy mají znovu rozhodnout mezi registrovanými kandidáty.\n\nStarosta přisuzuje vložení letáků doručovatelce; jde o jeho vysvětlení. Rozhodnutí samo neurčuje vítěze opakovaného hlasování. Další posun ukáže vyhlášení termínu a nový výsledek. Použitý podklad termín neuvádí.",
-      "importance_kind": "analysis",
-      "analysis_source": "iROZHLAS",
-      "analysis_url": "https://www.irozhlas.cz/zpravy-domov/hlasovani-ve-slavetine-na-lounsku-je-neplatne-komunalni-volby-se-budou-opakovat_2611101800_lbl"
-    },
-    {
       "title": "Zemřela jedna z hrdinek francouzského válečného odboje. Zavzpomínal i Macron",
       "summary": "Ve věku 104 let zemřela jedna z hrdinek francouzského odboje z druhé světové války Solange Alexandreová. Poté, co působila jako spojka odboje, založila společně se…",
       "source": "iDNES.cz",
@@ -189,18 +227,6 @@
       "importance_kind": "analysis",
       "analysis_source": "ČT24",
       "analysis_url": "https://ct24.ceskatelevize.cz/clanek/svet/rusky-utok-na-centrum-humanitarni-pomoci-v-obci-komysuvacha-ma-pres-padesat-obeti-379346"
-    },
-    {
-      "title": "Krakovský střelec, který zabil devět lidí, se zajímal o Breivika, řekl ministr",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-10T20:52:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/krakovsky-strelec-ktery-zabil-devet-lidi-se-zajimal-o-breivika-rekl-ministr/2900278",
-      "importance": "Polské úřady po smrti pachatele pokračují ve zkoumání jeho kontaktů, zbraní a motivace. Ministr spravedlnosti spojuje nálezy s krajní pravicí, zatímco citovaný prokurátor hovoří obecněji o extremistických ideologiích. Článek tak nedokládá uzavřený závěr o politickém motivu. Smrt střelce podle podkladu vylučuje jeho obžalobu, nikoli další objasňování události.\n\nTusk požaduje revizi pravidel pro zbraně a přísnější kontrolu chování na internetu, ale konkrétní změnu pravidel zpráva neoznamuje. Pro držitele zbraní ani provozovatele služeb z této výzvy zatím nelze odvozovat novou povinnost. Další posun ukážou výsledky forenzních analýz a případný přesný návrh změn, který bude možné posoudit podle rozsahu a účinnosti.",
-      "importance_kind": "analysis",
-      "analysis_source": "ČTK / České noviny",
-      "analysis_url": "https://www.ceskenoviny.cz/zpravy/krakovsky-strelec-ktery-zabil-devet-lidi-se-zajimal-o-breivika-rekl-ministr/2900278"
     },
     {
       "title": "Babiš v „pikošce\" spojil Vrbětice a Vondru. „Neberte si ho do pusy,“ zuřil Kupka",
@@ -263,30 +289,6 @@
       "analysis_url": "https://www.novinky.cz/clanek/zahranicni-evropa-ve-veku-104-let-zemrela-jedna-z-hrdinek-francouzskeho-odboje-ze-druhe-sv-valky-40607940"
     },
     {
-      "title": "Babiš s Ficem se pustili do německého ultimáta kvůli Ukrajině. Padl i nevybíravý výraz",
-      "summary": "Robert Fico odmítá, aby Slovensko přispělo na další půjčku Ukrajině, a německého kancléře Friedricha Merze obvinil z vydírání. Jeho český protějšek Andrej Babiš (ANO) volil…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-10T18:22:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/no-nepokakame-se-fico-a-babis-se-pustili-do-nemeckeho-ultimata-o-pujcce-ukrajine/r~aaa2948f200ae8120712d92ce507cc77/",
-      "importance": "Fico odmítl slovenskou účast na další půjčce Ukrajině, zatímco Babiš se k nové půjčce podle ČTK jednoznačně nevyjádřil. Český premiér odmítl především spojování ukrajinského financování s víceletým rozpočtem EU. Označení německého postupu za vydírání je Ficovo hodnocení, nikoli právní závěr.\n\nPro členské státy zůstává otevřené, jak zajistit slíbených 45 miliard eur pro ukrajinský rozpočet na příští rok a kdo ponese náklady. Dřívější výjimka ze záruk sama neurčuje podmínky nové pomoci. Posun bude patrný z dohody o zdroji financování a závazcích zemí; slovní spor s Merzem ještě neznamená skutečné zablokování rozpočtu.",
-      "importance_kind": "analysis",
-      "analysis_source": "ČTK / České noviny",
-      "analysis_url": "https://www.ceskenoviny.cz/zpravy/babis-a-fico-se-ohradili-vuci-vyzve-merze-k-financni-podpore-ukrajiny/2899954"
-    },
-    {
-      "title": "Starostové řekli, s kým budou vládnout Praze. Piráti jsou ze hry venku",
-      "summary": "Hnutí STAN, které vyhrálo pražské komunální volby, chce sestavit koalici se Spolu (ODS, TOP 09) a s Prahou sobě. V úterý to na základě dosavadních…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-10T18:15:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/stan-si-v-praze-vybral-koalicni-partnery-chce-vladnout-se-spolu-a-prahou-sobe/r~aaa29d1cf5e3bd4abec35af450b3c355/",
-      "importance": "Pražský zastupitelský klub STAN zvolil pro další jednání Spolu a Prahu sobě. Tato trojice má 47 ze 65 mandátů. Pokud dohodu přijmou také zbývající dva kluby, může nové vedení města zvolit bez hlasů Pirátů, kteří se na dosavadní radě podíleli.\n\nPro obyvatele Prahy je důležité zejména obsazení dopravy a městského majetku. Podle dosavadních jednání mají obě oblasti připadnout Praze sobě. Rozdělení mají strany upřesnit 11. listopadu. Samotnou radu má zastupitelstvo volit po obnovení ustavující schůze 19. listopadu.",
-      "importance_kind": "analysis",
-      "analysis_source": "Aktuálně.cz",
-      "analysis_url": "https://zpravy.aktualne.cz/domaci/stan-si-v-praze-vybral-koalicni-partnery-chce-vladnout-se-spolu-a-prahou-sobe/r~aaa29d1cf5e3bd4abec35af450b3c355/"
-    },
-    {
       "title": "EU varuje před dalšími kyberútoky. Ohroženy mohou být i domácnosti",
       "summary": "Po kybernetickém útoku na chladicí zařízení v evropských supermarketech by dalším terčem mohly být domácí spotřebiče, varoval v únoru podle agentury AFP šéf Agentury EU…",
       "source": "Deník",
@@ -311,28 +313,14 @@
       "analysis_url": "https://www.ceskenoviny.cz/zpravy/2899856"
     },
     {
-      "title": "Studenti vysokých škol napříč Českem vyjádřili podporu ČT a ČRo",
-      "summary": "Demonstranti z řad vysokoškoláků v úterý akcemi v několika českých městech projevili podporu České televizi a Českému rozhlasu a také kultuře. Vládou navrhované zrušení televizních…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-10T16:19:59+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/studenti-vysokych-skol-demonstruji-za-verejnopravni-media-379487",
-      "importance": "Studentské protesty požadují stažení návrhu rušícího poplatky ČT a ČRo a otevření odborné debaty. Samotné demonstrace návrh nezastavily: Babiš podle článku stažení odmítá, připouští však jednání o podobě předlohy. Obavy studentů z politického ovlivňování médií je proto třeba odlišit od již prokázaného dopadu dosud projednávané změny.\n\nPro diváky, posluchače a zaměstnance médií bude rozhodující výsledný způsob financování a záruky jeho předvídatelnosti. Konkrétní posun ukážou změny textu návrhu a další parlamentní hlasování. Požadavky na podporu školství, kultury či odvolání některých představitelů rozšiřují protest, ale zpráva nedokládá, že by vláda některému z těchto požadavků již vyhověla.",
-      "importance_kind": "analysis",
-      "analysis_source": "ČT24",
-      "analysis_url": "https://ct24.ceskatelevize.cz/clanek/domaci/studenti-vysokych-skol-demonstruji-za-verejnopravni-media-379487"
-    },
-    {
-      "title": "Havlíček uvedl, že na Ukrajině bude jednat také o dodávkách letadel Skyfox",
-      "summary": "Součástí nadcházejících rozhovorů s ukrajinskými protějšky budou také možné dodávky letadel Skyfox, řekl v úterý cestou na Ukrajinu novinářům český ministr průmyslu a obchodu Karel…",
+      "title": "Média nedáme! Studenti vyšli do ulic, Klempíře vyzvali k demisi",
+      "summary": "Studenti vysokých škol na náměstí Republiky v Praze demonstrují za nezávislost médií veřejné služby a kultury. Ministra kultury Otu Klempíře (za Motoristy) vyzvali k demisi…",
       "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-10T17:17:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/havlicek-uvedl-ze-na-ukrajine-bude-jednat-take-o-dodavkach-letadel-skyfox/r~aaa29101e96d42e2a71e637319974a64/",
-      "importance": "Zařazení letadel Skyfox na program rozhovorů dává českému výrobci možnost zjistit, jakou dodávku ukrajinská strana skutečně potřebuje. Z oznámení schůzky zatím výrobce nemůže vycházet při plánování výroby a ukrajinská strana při plánování převzetí strojů.\n\nRozdíl by přinesla dohoda o počtu letadel, úhradě a termínu předání. Právě tyto údaje by ukázaly, zda jednání směřují k zakázce a jak dlouho by její uskutečnění trvalo. Ministr oznámil téma rozhovorů, nikoli sjednané podmínky.",
-      "importance_kind": "analysis",
-      "analysis_source": "Aktuálně.cz",
-      "analysis_url": "https://zpravy.aktualne.cz/zahranici/havlicek-uvedl-ze-na-ukrajine-bude-jednat-take-o-dodavkach-letadel-skyfox/r~aaa29101e96d42e2a71e637319974a64/"
+      "category": "domaci",
+      "published_at": "2026-11-10T14:41:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/dalsi-protest-na-podporu-verejnopravnich-medii-studenti-se-sesli-v-dejvicich/r~aaa296cde50467ee1fe703b06d5d9061/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
     }
   ],
   "unavailable_sources": [],
@@ -353,7 +341,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 19,
+      "candidates": 17,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -363,7 +351,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 27,
+      "candidates": 29,
       "selected": 5,
       "free_articles_checked": 7
     },
@@ -373,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -393,9 +381,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
-      "selected": 5,
-      "free_articles_checked": 6
+      "candidates": 5,
+      "selected": 4,
+      "free_articles_checked": 4
     },
     {
       "name": "Deník",
@@ -403,9 +391,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 18,
+      "candidates": 19,
       "selected": 5,
-      "free_articles_checked": 6
+      "free_articles_checked": 5
     },
     {
       "name": "iDNES.cz",
@@ -413,9 +401,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 17,
       "selected": 5,
-      "free_articles_checked": 7
+      "free_articles_checked": 6
     },
     {
       "name": "CNN Prima NEWS",
@@ -423,9 +411,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
-      "selected": 3,
-      "free_articles_checked": 3
+      "candidates": 17,
+      "selected": 4,
+      "free_articles_checked": 4
     },
     {
       "name": "E15",
@@ -433,7 +421,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
+      "candidates": 8,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -453,7 +441,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -463,7 +451,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 8,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -483,7 +471,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -493,7 +481,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 22,
+      "candidates": 21,
       "selected": 0,
       "free_articles_checked": 0
     }
