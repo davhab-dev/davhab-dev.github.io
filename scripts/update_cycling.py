@@ -9,11 +9,15 @@ import re
 import urllib.request
 import urllib.parse
 import xml.etree.ElementTree as ET
+from html.parser import HTMLParser
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 DEST = ROOT / "cyklisticky-prehled" / "articles.json"
 FEEDS = [
-    ("NaKole.cz", "https://www.nakole.cz/rss/clanek/", "CS", "Cyklistika"),
+    # Nakole odkazuje na HTTP RSS; HTTPS nekdy vraci 403.
+    ("NaKole.cz", "http://www.nakole.cz/rss/clanek/", "CS", "Cyklistika"),
+    ("MTBS.cz", "https://mtbs.cz/rss_06.mtbs", "CS", "MTB"),
+    ("Cykl.cz", "https://cykl.cz/feed/", "CS", "Technika"),
     ("Cyclingnews", "https://www.cyclingnews.com/feeds.xml", "EN", "Závody"),
     ("BikeRadar", "https://feeds.purplemanager.com/193c804a-a673-47bd-b09b-11baf4822a17/bikeradar-news", "EN", "Technika"),
     ("BikeRadar MTB", "https://feeds.purplemanager.com/193c804a-a673-47bd-b09b-11baf4822a17/bikeradar-mtb-feed", "EN", "MTB"),
@@ -74,6 +78,64 @@ def fetch(name, url, lang, fallback):
         result.append({"title":title[:240], "summary":summary[:220], "url":link, "source":name, "lang":lang, "category":category(title,summary,fallback), "published":date(pub)})
     return result
 
+
+class ArticleLinkParser(HTMLParser):
+    """Nouzové načtení pouze titulků a odkazů ze stránky MTBS.cz."""
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.current = None
+        self.depth = 0
+        self.links = []
+    def handle_starttag(self, tag, attrs):
+        if self.current is not None:
+            self.depth += 1
+            return
+        if tag != "a":
+            return
+        href = dict(attrs).get("href", "")
+        url = urllib.parse.urljoin("https://mtbs.cz/", href)
+        parsed = urllib.parse.urlsplit(url)
+        if parsed.hostname in ("mtbs.cz", "www.mtbs.cz") and parsed.path.startswith("/clanek/"):
+            self.current = [url, []]
+            self.depth = 1
+    def handle_data(self, data):
+        if self.current is not None:
+            self.current[1].append(data)
+    def handle_endtag(self, tag):
+        if self.current is None:
+            return
+        self.depth -= 1
+        if self.depth == 0:
+            url, parts = self.current
+            title = clean("".join(parts))
+            if 22 <= len(title) <= 240:
+                self.links.append((url, title))
+            self.current = None
+
+def fetch_mtbs_homepage():
+    """Rezervní zdroj, pokud RSS MTBS neodpoví. Datum nevymýšlíme."""
+    req = urllib.request.Request(
+        "https://mtbs.cz/",
+        headers={"User-Agent": "Mozilla/5.0 (compatible; DAVHAB-CyklistickyPrehled/1.1; +https://davhab.com/cyklisticky-prehled/)",
+                 "Accept": "text/html,application/xhtml+xml"}
+    )
+    with urllib.request.urlopen(req, timeout=22) as response:
+        raw = response.read(1_500_000)
+        charset = response.headers.get_content_charset() or "utf-8"
+    parser = ArticleLinkParser()
+    parser.feed(raw.decode(charset, errors="replace"))
+    seen = set()
+    result = []
+    for url, title in parser.links:
+        if url in seen:
+            continue
+        seen.add(url)
+        result.append({"title": title, "summary": "", "url": url, "source": "MTBS.cz",
+                       "lang": "CS", "category": category(title, "", "MTB"), "published": ""})
+        if len(result) >= 30:
+            break
+    return result
+
 def main():
     existing=[]
     if DEST.exists():
@@ -88,6 +150,15 @@ def main():
             fresh.extend(items)
             print(name, len(items))
         except Exception as exc:
+            if name == "MTBS.cz":
+                try:
+                    items = fetch_mtbs_homepage()
+                    if items:
+                        fresh.extend(items)
+                        print("MTBS.cz: nouzové načtení titulů z webu:", len(items))
+                        continue
+                except Exception as fallback_exc:
+                    print("CHYBA MTBS.cz (záložní metoda)", fallback_exc)
             errors.append(f"{name}: {exc}")
             print("CHYBA",name,exc)
     if not fresh:
