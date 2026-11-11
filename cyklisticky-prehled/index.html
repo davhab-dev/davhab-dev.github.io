@@ -56,7 +56,7 @@ footer{border-color:#cfe5d5}
 "use strict";
 const el=id=>document.getElementById(id);
 let articles=[],limit=30,updated="";
-const dateString=s=>{if(!s)return "Datum neuvedeno";const d=new Date(s);return isNaN(d)?"Datum neuvedeno":new Intl.DateTimeFormat("cs-CZ",{dateStyle:"medium",timeStyle:"short",timeZone:"Europe/Prague"}).format(d)};
+const dateString=s=>{if(!s)return "Datum neuvedeno";const d=new Date(s);if(isNaN(d))return "Datum neuvedeno";return new Intl.DateTimeFormat("cs-CZ",/^\d{4}-\d{2}-\d{2}$/.test(s)?{dateStyle:"medium",timeZone:"UTC"}:{dateStyle:"medium",timeStyle:"short",timeZone:"Europe/Prague"}).format(d)};
 function textNode(tag,cls,value){const n=document.createElement(tag);if(cls)n.className=cls;n.textContent=value;return n}
 function fillSelect(id,values){const select=el(id);for(const value of [...new Set(values)].filter(Boolean).sort((a,b)=>a.localeCompare(b,"cs"))){const opt=document.createElement("option");opt.value=value;opt.textContent=value;select.appendChild(opt)}}
 function translatedLink(url){return "https://www.google.com/url?sa=U&url="+encodeURIComponent("https://translate.google.com/translate?sl=auto&tl=cs&u="+encodeURIComponent(url))}
