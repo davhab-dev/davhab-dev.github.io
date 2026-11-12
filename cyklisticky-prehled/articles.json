@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T18:39:59.497405+00:00",
+  "updated": "2026-11-12T19:43:00.317228+00:00",
   "articles": [
     {
       "title": "Record $800,000 prize purse in 2027 'continues to elevate the standard' for Life Time Grand Prix series and events with Unbound, Leadville and Big Sugar each boosting payouts",
@@ -182,6 +182,15 @@
       "published": "2026-11-12"
     },
     {
+      "title": "Virtuální cyklistickou výzvu Indoor Classics pokřtili polský silniční šampion Kwiatkowski, oblíbený herec Adamczyk i fotbalový šutér Koller, který se těší na 32palcový gravel",
+      "summary": "",
+      "url": "https://www.roadcycling.cz/clanek/virtualni-cyklistickou-vyzvu-indoor-classics-pokrtili-polsky-silnicni-sampion-kwiatkowski-oblibeny-herec-adamczyk-i-fotbalovy-suter-koller-ktery-se-tesi-na-32palcovy-gravel",
+      "source": "RoadCycling.cz",
+      "lang": "CS",
+      "category": "Gravel",
+      "published": "2026-11-12"
+    },
+    {
       "title": "Z proslulého hlubokého bláta Jaarmarktcrossu vylovili Mason a Bakker první vítězství v Superprestige. Boroš dojel šestnáctý",
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/z-prosluleho-hlubokeho-blata-jaarmarktcrossu-vylovili-mason-a-bakker-prvni-vitezstvi-v-superprestige-boros-dojel-sestnacty",
@@ -197,6 +206,15 @@
       "source": "RoadCycling.cz",
       "lang": "CS",
       "category": "Technika",
+      "published": "2026-11-12"
+    },
+    {
+      "title": "Canyon představil limitku Spectral:ON CF LTD. 1 500 W, 150 Nm a 20,8 kilogramu",
+      "summary": "",
+      "url": "https://cyklorepublic.cz/clanky/01a1d128-f836-703d-b4b0-7b6cb31d9525/canyon-predstavil-limitku-spectralon-cf-ltd-1-500-w-150-nm-a-208-kilogramu",
+      "source": "CykloRepublic.cz",
+      "lang": "CS",
+      "category": "Cyklistika",
       "published": "2026-11-12"
     },
     {
@@ -965,15 +983,6 @@
       "published": "2026-11-07"
     },
     {
-      "title": "Rozhodčí změnili výsledek závěrečného spurtu. Evropský cyklokrosový titul má Brand, Schreiber zbyly oči pro pláč, pro medaili nepřišla. Výborná Zemanová dojela sedmá",
-      "summary": "",
-      "url": "https://www.roadcycling.cz/clanek/rozhodci-zmenili-vysledek-zaverecneho-spurtu-evropsky-cyklokrosovy-titul-ma-brand-schreiber-zbyly-oci-pro-plac-pro-medaili-neprisla-vyborna-zemanova-dojela-sedma",
-      "source": "RoadCycling.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": "2026-11-07"
-    },
-    {
       "title": "„Připravili mě o největší okamžik kariéry.“ Schreiber po verdiktu jury neskrývala slzy ani vztek",
       "summary": "",
       "url": "https://mtbs.cz/clanek/pripravili-me-o-nejvetsi-okamzik-kariery-schreiber-po-verdiktu-jury-neskryvala-slzy-ani-vztek/kategorie/cyklokros-mistrovstvi-evropy",
@@ -1701,15 +1710,6 @@
       "lang": "CS",
       "category": "Gravel",
       "published": "2026-10-29T06:28:03+00:00"
-    },
-    {
-      "title": "Srdce vašeho elektrokola pod drobnohledem: Jak vytěžit z baterie Bosch maximum a jezdit bez rizika?",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132029/srdce-vaseho-elektrokola-pod-drobnohledem-jak-vytezit-z-baterie-bosch-maximum-a-jezdit-bez-rizika.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "Technika",
-      "published": "2026-10-29"
     },
     {
       "title": "Pedersen a další dánští sportovci žalují HBO. Žádají milionové odškodné",
@@ -2603,15 +2603,6 @@
       "published": "2026-08-30"
     },
     {
-      "title": "Van der Poel na MS vynechá short track. Soustředí se na boj o titul v cross country",
-      "summary": "",
-      "url": "https://cyklorepublic.cz/clanky/01a041b5-ffd8-704c-a5a8-5cc6f42226e9/van-der-poel-na-ms-vynecha-short-track-soustredi-se-na-boj-o-titul-v-cross-country",
-      "source": "CykloRepublic.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
-      "published": "2026-08-27"
-    },
-    {
       "title": "Hvězda formule 1 míří do Hlinska. Bottas pojede Světovou sérii v gravelu",
       "summary": "",
       "url": "https://cyklorepublic.cz/clanky/019f92a9-307c-7063-8ff0-8dd05b5d31da/hvezda-formule-1-miri-do-hlinska-bottas-pojede-svetovou-serii-v-gravelu",
@@ -3008,6 +2999,15 @@
       "published": ""
     },
     {
+      "title": "Pouze 150 kusů na světě - limitovaná verze Canyon Spectral:ON CF LTD přináší výkon 1 500 W",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132119/pouze-150-kusu-na-svete-limitovana-verze-canyon-spectralon-cf-ltd-prinasi-vykon-1-500-w.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": ""
+    },
+    {
       "title": "Zjisti, jaký potřebuješ olej nebo vosk - já se ptám a ty odpovídáš",
       "summary": "",
       "url": "https://www.mtbiker.cz/clanky/132090/zjisti-jaky-potrebujes-olej-nebo-vosk-ja-se-ptam-a-ty-odpovidas.html",
@@ -3023,6 +3023,15 @@
       "source": "MTBIKER.cz",
       "lang": "CS",
       "category": "Gravel",
+      "published": ""
+    },
+    {
+      "title": "Rozhodčí změnili výsledek závěrečného spurtu. Evropský cyklokrosový titul má Brand, Schreiber zbyly oči pro pláč, pro medaili nepřišla. Výborná Zemanová dojela sedmá",
+      "summary": "",
+      "url": "https://www.roadcycling.cz/clanek/rozhodci-zmenili-vysledek-zaverecneho-spurtu-evropsky-cyklokrosovy-titul-ma-brand-schreiber-zbyly-oci-pro-plac-pro-medaili-neprisla-vyborna-zemanova-dojela-sedma",
+      "source": "RoadCycling.cz",
+      "lang": "CS",
+      "category": "Závody",
       "published": ""
     },
     {
