@@ -189,10 +189,10 @@
       "category": "domaci",
       "published_at": "2026-11-12T10:15:00+01:00",
       "url": "https://www.irozhlas.cz/zpravy-domov/kryry-na-lounsku-maji-noveho-starostu-mesto-povede-petr-ulke-z-uskupeni-spolecna_2611121015_elv",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:43:02.223769+00:00",
-      "analysis_estimated_at": "2026-11-12T11:42:23.499604+00:00"
+      "importance": "Ulke získal sedm ze třinácti hlasů, tedy těsnou většinu odpovídající popsané koalici. Pro schvalování dalších kroků tak bude důležitá její soudržnost a u sporných projektů i podpora dalších zastupitelů. Nový starosta chce prověřit smlouvy rozestavěného komunitního centra, zatím však stavbu nezastavuje. To rozlišuje kontrolu hospodárnosti od okamžitého rušení závazků: teprve znalost smluv, rozpracovanosti a případných nákladů změn umožní posoudit, která varianta je pro město výhodná.\n\nSenior taxi a výtahy v domě pro seniory i na úřadě míří na konkrétní překážky v dostupnosti služeb pro méně pohyblivé obyvatele. Politický slib ale potřebuje provozní pravidla, financování a termíny; u dopravy například určení oprávněných cest a dostupné kapacity. Dvě neuvolněné místostarostky zachovávají počet funkcí kritizovaný předchozí opozicí, článek však neuvádí celkové náklady vedení. Pro věcné hodnocení je proto vhodnější sledovat rozdělení práce a rozpočet než vyvozovat úsporu či plýtvání jen z počtu postů.",
+      "importance_kind": "analysis",
+      "analysis_source": "iROZHLAS / Český rozhlas",
+      "analysis_url": "https://www.irozhlas.cz/zpravy-domov/kryry-na-lounsku-maji-noveho-starostu-mesto-povede-petr-ulke-z-uskupeni-spolecna_2611121015_elv"
     },
     {
       "title": "Ruční sčítání volebních hlasů je otrocká práce, tvrdí karvinský tajemník Nogol. Navrhuje využívat skenery",
@@ -203,8 +203,8 @@
       "url": "https://www.irozhlas.cz/zpravy-domov/rucni-scitani-volebnich-hlasu-je-otrocka-prace-tvrdi-karvinsky-tajemnik-nogol_2611121010_elv",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:43:40.947934+00:00",
-      "analysis_estimated_at": "2026-11-12T11:42:23.499604+00:00"
+      "analysis_eta_at": "2026-11-12T11:43:38.753973+00:00",
+      "analysis_estimated_at": "2026-11-12T11:43:00.302124+00:00"
     },
     {
       "title": "Novým primátorem Zlína je lídr hnutí Zlín 21 Vančura",
@@ -215,8 +215,8 @@
       "url": "https://www.ceskenoviny.cz/zpravy/novym-primatorem-zlina-je-lidr-hnuti-zlin-21-vancura/2900812",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:44:19.672099+00:00",
-      "analysis_estimated_at": "2026-11-12T11:42:23.499604+00:00"
+      "analysis_eta_at": "2026-11-12T11:44:17.205823+00:00",
+      "analysis_estimated_at": "2026-11-12T11:43:00.302124+00:00"
     },
     {
       "title": "EU v pondělí přijme další sankce proti Rusku, zaměří se na rafinerie a flotilu",
@@ -227,8 +227,8 @@
       "url": "https://www.ceskenoviny.cz/zpravy/eu-v-pondeli-prijme-dalsi-sankce-proti-rusku-zameri-se-na-rafinerie-a-flotilu/2900980",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:44:58.396264+00:00",
-      "analysis_estimated_at": "2026-11-12T11:42:23.499604+00:00"
+      "analysis_eta_at": "2026-11-12T11:44:55.657672+00:00",
+      "analysis_estimated_at": "2026-11-12T11:43:00.302124+00:00"
     },
     {
       "title": "Ruské útoky mají oběti v Kyjevě, Chersonu či Záporožské oblasti",
@@ -239,8 +239,8 @@
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/ruske-utoky-maji-obeti-v-kyjeve-a-chersonu-379543",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:45:37.120429+00:00",
-      "analysis_estimated_at": "2026-11-12T11:42:23.499604+00:00"
+      "analysis_eta_at": "2026-11-12T11:45:34.109522+00:00",
+      "analysis_estimated_at": "2026-11-12T11:43:00.302124+00:00"
     },
     {
       "title": "Egypt měsíce tajně posílá vojáky a stíhačky Saúdům, píše MEE",
@@ -251,8 +251,8 @@
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/egypt-mesice-tajne-posila-vojaky-a-stihacky-saudum-pise-mee-379541",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:46:15.844594+00:00",
-      "analysis_estimated_at": "2026-11-12T11:42:23.499604+00:00"
+      "analysis_eta_at": "2026-11-12T11:46:12.561371+00:00",
+      "analysis_estimated_at": "2026-11-12T11:43:00.302124+00:00"
     },
     {
       "title": "Masivní výbuchy zastavily v Hormuzu dva supertankery, tvrdí íránské gardy",
@@ -263,8 +263,8 @@
       "url": "https://www.ceskenoviny.cz/zpravy/masivni-vybuchy-zastavily-v-hormuzu-dva-supertankery-tvrdi-iranske-gardy/2900965",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:46:54.568759+00:00",
-      "analysis_estimated_at": "2026-11-12T11:42:23.499604+00:00"
+      "analysis_eta_at": "2026-11-12T11:46:51.013221+00:00",
+      "analysis_estimated_at": "2026-11-12T11:43:00.302124+00:00"
     },
     {
       "title": "Starostou Prahy 8 byl zvolen Hřebík z hnutí STAN. V opozici končí vítěz voleb, to se nelíbí části obyvatel",
@@ -275,8 +275,8 @@
       "url": "https://www.irozhlas.cz/zpravy-domov/starostou-prahy-8-byl-zvolen-hrebik-z-hnuti-stan-v-opozici-konci-vitez-voleb-se_2611120845_aha",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:47:33.292924+00:00",
-      "analysis_estimated_at": "2026-11-12T11:42:23.499604+00:00"
+      "analysis_eta_at": "2026-11-12T11:47:29.465070+00:00",
+      "analysis_estimated_at": "2026-11-12T11:43:00.302124+00:00"
     },
     {
       "title": "Koaliční smlouvu ve Zlíně podepsaly STAN, Zlín 21 a trojblok menších uskupení. ANO míří do opozice",
@@ -287,8 +287,8 @@
       "url": "https://www.irozhlas.cz/zpravy-domov/koalicni-smlouvu-ve-zline-podepsaly-stan-zlin-21-a-trojblok-mensich-uskupeni-ano_2611120833_elv",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:48:12.017089+00:00",
-      "analysis_estimated_at": "2026-11-12T11:42:23.499604+00:00"
+      "analysis_eta_at": "2026-11-12T11:48:07.916920+00:00",
+      "analysis_estimated_at": "2026-11-12T11:43:00.302124+00:00"
     },
     {
       "title": "Poprvé od občanské války. Senátorem za Mississippi bude černoch Scott Colom",
@@ -299,8 +299,8 @@
       "url": "https://www.denik.cz/svet/usa-volby-senat-mississippi-scott-colom/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:48:50.741254+00:00",
-      "analysis_estimated_at": "2026-11-12T11:42:23.499604+00:00"
+      "analysis_eta_at": "2026-11-12T11:48:46.368769+00:00",
+      "analysis_estimated_at": "2026-11-12T11:43:00.302124+00:00"
     },
     {
       "title": "R5M: Šéfovi ÚOHS Mlsnovi pozastavili bezpečnostní prověrku | Plaga chce převrat v jídelnách bez debaty s odborníky | Ukrajinci a Rusové v Abú Dhabí dojednali jen výměnu vězňů",
@@ -311,8 +311,8 @@
       "url": "https://denikn.cz/newsletter/2254365/sefovi-uohs-mlsnovi-pozastavili-bezpecnostni-proverku-plaga-chce-prevrat-v-jidelnach-bez-debaty-s-odborniky-ukrajinci-a-rusove-v-abu-dhabi-dojednali-jen-vymenu-veznu/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:49:29.465419+00:00",
-      "analysis_estimated_at": "2026-11-12T11:42:23.499604+00:00"
+      "analysis_eta_at": "2026-11-12T11:49:24.820619+00:00",
+      "analysis_estimated_at": "2026-11-12T11:43:00.302124+00:00"
     },
     {
       "title": "Vzdušný prostor pobaltských zemí dlouhodobě narušují drony",
@@ -323,8 +323,8 @@
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/vzdusny-prostor-pobaltskych-zemi-dlouhodobe-narusuji-drony-379527",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:50:08.189584+00:00",
-      "analysis_estimated_at": "2026-11-12T11:42:23.499604+00:00"
+      "analysis_eta_at": "2026-11-12T11:50:03.272468+00:00",
+      "analysis_estimated_at": "2026-11-12T11:43:00.302124+00:00"
     },
     {
       "title": "Mississippi bude mít prvního černošského senátora od občanské války. Colom vítězí v baště republikánů",
@@ -335,8 +335,8 @@
       "url": "https://www.irozhlas.cz/zpravy-svet/mississippi-bude-mit-prvniho-cernosskeho-senatora-od-obcanske-valky-colom-vitezi_2611120647_bva",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:50:46.913749+00:00",
-      "analysis_estimated_at": "2026-11-12T11:42:23.499604+00:00"
+      "analysis_eta_at": "2026-11-12T11:50:41.724318+00:00",
+      "analysis_estimated_at": "2026-11-12T11:43:00.302124+00:00"
     },
     {
       "title": "Celostátní referendum? Polarizace společnosti, říká expert k návrhu vlády",
@@ -347,8 +347,8 @@
       "url": "https://www.denik.cz/cesko/cesko-celostatni-referendum-vlada-navrh-schvaleni/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:51:25.637914+00:00",
-      "analysis_estimated_at": "2026-11-12T11:42:23.499604+00:00"
+      "analysis_eta_at": "2026-11-12T11:51:20.176167+00:00",
+      "analysis_estimated_at": "2026-11-12T11:43:00.302124+00:00"
     },
     {
       "title": "Orbánův bratr je ve vazbě. Hrozí mu až deset let vězení",
@@ -359,8 +359,8 @@
       "url": "https://www.denik.cz/evropa/orbanuv-bratr-je-ve-vazbe-hrozi-mu-az-deset-let-vezeni/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:52:04.362079+00:00",
-      "analysis_estimated_at": "2026-11-12T11:42:23.499604+00:00"
+      "analysis_eta_at": "2026-11-12T11:51:58.628017+00:00",
+      "analysis_estimated_at": "2026-11-12T11:43:00.302124+00:00"
     }
   ],
   "unavailable_sources": [],
