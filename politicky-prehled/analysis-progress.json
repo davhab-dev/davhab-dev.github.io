@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://www.ceskenoviny.cz/zpravy/novym-primatorem-zlina-je-lidr-hnuti-zlin-21-vancura/2900812",
+      "Novým primátorem Zlína je lídr hnutí Zlín 21 Vančura"
+    ],
+    "started_at": "2026-11-12T11:43:53.565068+00:00"
+  },
   "queue": [
     [
       "https://www.ceskenoviny.cz/zpravy/novym-primatorem-zlina-je-lidr-hnuti-zlin-21-vancura/2900812",
@@ -56,7 +62,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:43:44.190278+00:00",
+  "heartbeat": "2026-11-12T11:43:53.565068+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
