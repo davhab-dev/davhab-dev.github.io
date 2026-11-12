@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://zpravy.aktualne.cz/zahranici/ukrajina-se-znovu-potyka-s-omezenim-satelitniho-systemu-starshield-uvedl-zelenskyj/r~aaa2988cf3a1ec2868538aa3e574fa1a/",
+      "Ukrajina opět čelí systematickému omezení Muskových satelitů, zlobí se Zelenskyj"
+    ],
+    "started_at": "2026-11-12T11:39:15.407545+00:00"
+  },
   "queue": [
     [
       "https://zpravy.aktualne.cz/zahranici/ukrajina-se-znovu-potyka-s-omezenim-satelitniho-systemu-starshield-uvedl-zelenskyj/r~aaa2988cf3a1ec2868538aa3e574fa1a/",
@@ -80,7 +86,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:39:06.273874+00:00",
+  "heartbeat": "2026-11-12T11:39:15.407545+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
