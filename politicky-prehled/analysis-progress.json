@@ -3,8 +3,40 @@
   "current": null,
   "queue": [
     [
+      "https://www.idnes.cz/zpravy/zahranicni/nemecko-armada-e-shop-bundeswehr-pistorius.A261112_145924_zahranicni_jhr",
+      "Gumová kachnička se samopalem. Bundeswehr spustil vlastní e-shop"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/medialni-vyzkumnice-vekova-omezeni-na-socialnich-sitich-jen-uci-deti-lhat-379554",
+      "Mediální výzkumnice: Věková omezení na sociálních sítích jen učí děti lhát"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/vladimir-putin-rand-corporation-nato-analyza-kreml.A261112_094421_zahranicni_aya",
+      "Putin v lednu umře, ruské cíle zůstanou. Scénář počítá s příměřím i válkou v Pobaltí"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/kushner-s-witkoffem-jsou-v-moskve-po-schuzce-s-putinem-odleti-za-zelenskym.A261112_114559_zahranicni_kha",
+      "Kushner s Witkoffem přijeli za Putinem. Navrhl humanitární misi v Kosťantynivce"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/zaskocil-za-schillerovou-v-jame-lvove-opozice-uvarila-urednika-na-zdaneni-bank/r~aaa29b53b6113b0a56c123a7a2c60226/",
+      "Zaskočil za Schillerovou v jámě lvové. Opozice „uvařila“ úředníka na zdanění bank"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/americane-favorizuji-ctyri-muze-za-trumpova-nastupce-jednickou-je-rubio/r~aaa29cc94b4ef19709f84782938a26e7/",
+      "Američané favorizují čtyři muže za Trumpova nástupce. Jedničkou je Rubio"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/plaga-testy-by-mohly-predchazet-podavani-prihlasek-na-stredni-skoly-od-jara-2029-379553",
+      "Plaga: Testy by mohly předcházet podávání přihlášek na střední školy od jara 2029"
+    ],
+    [
       "https://zpravy.aktualne.cz/zahranici/putin-predlozil-americanum-novy-navrh-chce-zopakovat-scenar-ktery-uz-jednou-vysel/r~aaa29cbc89468cf56a662e1f768e1ddc/",
-      "Putin předložil Američanům nový návrh. Chce zopakovat scénář, který už jednou vyšel"
+      "Putin navrhl Američanům zopakovat úspěšný scénář. Evropě vyslal nové varování"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/babis-zelenskyj-meloniova-tusk-evropa-mir-rusko.A261112_115922_domaci_chtl",
+      "S Ruskem by mohla jednat Meloniová či Tusk, chce Babiš. Potká se se Zelenským"
     ],
     [
       "https://www.denik.cz/evropa/italie-maily-hrozby-bomby/",
@@ -19,20 +51,20 @@
       "Primátorem Mostu se znovu stal Marek Hrvol z vítězného hnutí ProMOST"
     ],
     [
+      "https://www.ceskenoviny.cz/zpravy/sefove-parlamentu-zemi-v4-podporili-odklad-systemu-ets2-a-rozsirovani-eu/2901152",
+      "Šéfové parlamentů zemí V4 podpořili odklad systému ETS2 a rozšiřování EU"
+    ],
+    [
       "https://www.ceskenoviny.cz/zpravy/pavel-17-listopadu-zamiri-k-pamatniku-do-cinoherniho-klubu-a-nd/2901145",
       "Pavel 17. listopadu zamíří k památníku, do Činoherního klubu a ND"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/tass-putin-navrhnul-humanitarni-misi-v-ukrajinske-kostantynivce/2900950",
-      "TASS: Putin navrhnul humanitární misi v ukrajinské Kosťantynivce"
+      "https://www.ceskenoviny.cz/zpravy/putin-navrhnul-humanitarni-misi-v-ukrajinske-kostantynivce-pise-tass/2900950",
+      "Putin navrhnul humanitární misi v ukrajinské Kosťantynivce, píše TASS"
     ],
     [
       "https://www.idnes.cz/zpravy/domaci/robert-plaga-ano-ministr-skolstvi-stravovani-skolni-jidelna.A261112_130546_domaci_aya",
       "Plaga: Vyhlášku o školním stravování řeší ministerstvo zdravotnictví, obavy nemám"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/kushner-s-witkoffem-jsou-v-moskve-po-schuzce-s-putinem-odleti-za-zelenskym.A261112_114559_zahranicni_kha",
-      "Kushner s Witkoffem přijeli za Putinem. Navrhl humanitární misi v Kosťantynivce"
     ],
     [
       "https://www.denik.cz/evropa/zadne-svetlo-voda-ani-teplo-ukrajinci-jsou-bez-proudu-az-dvacet-hodin-denne/",
@@ -47,20 +79,8 @@
       "Plaga: Návrh vyhlášky o školním stravování vyjde z požadavků MZd"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/rusko-petrohrad-atentat-ukrajina-valka.A261112_090909_zahranicni_dtt",
-      "V Petrohradě vyletělo do povětří auto s ruským plukovníkem"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/babis-zelenskyj-meloniova-tusk-evropa-mir-rusko.A261112_115922_domaci_chtl",
-      "S Ruskem by mohla jednat Meloniová či Tusk, chce Babiš. Potká se se Zelenským"
-    ],
-    [
       "https://zpravy.aktualne.cz/zahranici/at-za-evropu-s-ruskem-mluvi-meloniova-zada-babis-vyslovil-i-jina-jmena/r~aaa291d2364f0b1a3fd151482edd7971/",
       "Ať za Evropu s Ruskem mluví Meloniová, žádá Babiš. Vyslovil i jiná jména"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/spokojenost-cechu-s-fungovanim-demokracie-rok-po-volbach-do-snemovny-klesla.A261112_121634_domaci_pluh",
-      "Spokojenost Čechů s demokracií klesla, kritičtí jsou hlavně voliči opozice"
     ],
     [
       "https://zpravy.aktualne.cz/zahranici/priserne-osklive-meli-by-to-zbourat-trumpova-megastavba-uz-prerusta-i-bily-dum/r~aaa29f8ecbdffe12f3ac25d857123795/",
@@ -73,24 +93,16 @@
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/ukrajina-se-opet-potyka-s-omezovanim-satelitniho-systemu-starshield-rekl-zelenskyj-379545",
       "Ukrajina se opět potýká s omezováním satelitního systému Starshield, řekl Zelenskyj"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/s-ruskem-by-meli-mluvit-meloniova-tusk-nebo-costa-mini-babis/2898234",
-      "S Ruskem by měli mluvit Meloniová, Tusk, nebo Costa, míní Babiš"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/ruske-utoky-maji-obeti-v-kyjeve-a-chersonu-379543",
-      "Rusko zabíjelo v Kyjevě či Chersonu, Ukrajina oznámila zásah největší ruské rafinerie"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 20,
+    "initial_pending": 23,
     "completed": [],
     "deferred": [],
-    "remaining": 20
+    "remaining": 23
   },
   "samples_seconds": [
     51.274763,

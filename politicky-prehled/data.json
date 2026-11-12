@@ -1,14 +1,94 @@
 {
-  "updated_at": "2026-11-12T13:21:39.416785+00:00",
+  "updated_at": "2026-11-12T15:02:14.587895+00:00",
   "window_hours": 24,
   "articles": [
     {
-      "title": "Putin předložil Američanům nový návrh. Chce zopakovat scénář, který už jednou vyšel",
-      "summary": "Ruský prezident Vladimir Putin při čtvrtečním setkání s americkými vyslanci Stevem Witkoffem a Jaredem Kushnerem v Moskvě navrhl uspořádat humanitární misi v ukrajinské Kosťantynivce. Podobný…",
+      "title": "Gumová kachnička se samopalem. Bundeswehr spustil vlastní e-shop",
+      "summary": "Německá armáda spustila vlastní internetový obchod, ve kterém si zájemci mohou koupit oblečení, nářadí či termohrnky s logem Bundeswehru, ale třeba i gumovou kachničku v…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-12T14:42:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/nemecko-armada-e-shop-bundeswehr-pistorius.A261112_145924_zahranicni_jhr",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Mediální výzkumnice: Věková omezení na sociálních sítích jen učí děti lhát",
+      "summary": "Návrh Evropské komise zakázat sociální sítě dětem mladším třinácti let a vyžadovat věk alespoň patnáct let pro založení vlastního účtu čelí v Estonsku odporu.",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-12T14:21:50+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/medialni-vyzkumnice-vekova-omezeni-na-socialnich-sitich-jen-uci-deti-lhat-379554",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Putin v lednu umře, ruské cíle zůstanou. Scénář počítá s příměřím i válkou v Pobaltí",
+      "summary": "Americký think-tank RAND Corporation představil hypotetický scénář, podle kterého by smrt ruského prezidenta v následujících letech mohla odstartovat řadu událostí. Analýza vychází z úmrtí Vladimira…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-12T14:06:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/vladimir-putin-rand-corporation-nato-analyza-kreml.A261112_094421_zahranicni_aya",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Kushner s Witkoffem přijeli za Putinem. Navrhl humanitární misi v Kosťantynivce",
+      "summary": "Ruský prezident Vladimir Putin při čtvrtečním setkání s americkými zmocněnci Stevem Witkoffem a Jaredem Kushnerem v Moskvě navrhl zorganizovat humanitární misi týkající se ukrajinského města…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-12T14:03:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/kushner-s-witkoffem-jsou-v-moskve-po-schuzce-s-putinem-odleti-za-zelenskym.A261112_114559_zahranicni_kha",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Zaskočil za Schillerovou v jámě lvové. Opozice „uvařila“ úředníka na zdanění bank",
+      "summary": "Zmatky okolo zavedení dalších sektorových daní se projevily na posledním rozpočtovém výboru. Ten se měl věnovat vládou již schválené mimořádné dani na rafinerie. Jenže poslance…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-12T14:56:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/zaskocil-za-schillerovou-v-jame-lvove-opozice-uvarila-urednika-na-zdaneni-bank/r~aaa29b53b6113b0a56c123a7a2c60226/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Američané favorizují čtyři muže za Trumpova nástupce. Jedničkou je Rubio",
+      "summary": "Američtí voliči se přiklánějí ke čtyřem možným kandidátům na prezidenta ve volbách v roce 2028. Za Republikánskou stranu je to ministr zahraničí Marco Rubio a…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-12T14:52:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/americane-favorizuji-ctyri-muze-za-trumpova-nastupce-jednickou-je-rubio/r~aaa29cc94b4ef19709f84782938a26e7/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Plaga: Testy by mohly předcházet podávání přihlášek na střední školy od jara 2029",
+      "summary": "Přijímací zkoušky na střední školy by se mohly změnit od jara roku 2029. Žáci devátých tříd by si mohli podat nově až pět přihlášek. Zároveň…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-12T13:22:52+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/plaga-testy-by-mohly-predchazet-podavani-prihlasek-na-stredni-skoly-od-jara-2029-379553",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Putin navrhl Američanům zopakovat úspěšný scénář. Evropě vyslal nové varování",
+      "summary": "Ruský prezident Vladimir Putin při čtvrtečním setkání s americkými vyslanci Stevem Witkoffem a Jaredem Kushnerem v Moskvě navrhl uspořádat v ukrajinské Kosťantynivce humanitární misi po…",
       "source": "Aktuálně.cz",
       "category": "svet",
       "published_at": "2026-11-12T14:09:00+01:00",
       "url": "https://zpravy.aktualne.cz/zahranici/putin-predlozil-americanum-novy-navrh-chce-zopakovat-scenar-ktery-uz-jednou-vysel/r~aaa29cbc89468cf56a662e1f768e1ddc/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "S Ruskem by mohla jednat Meloniová či Tusk, chce Babiš. Potká se se Zelenským",
+      "summary": "Od našeho zpravodaje v Dublinu – Premiér Andrej Babiš (ANO) se ve čtvrtek v Irsku setká s ukrajinským prezidentem Volodymyrem Zelenským. Na schůzce budou řešit…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-12T13:07:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/babis-zelenskyj-meloniova-tusk-evropa-mir-rusko.A261112_115922_domaci_chtl",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -43,6 +123,16 @@
       "importance_kind": "pending"
     },
     {
+      "title": "Šéfové parlamentů zemí V4 podpořili odklad systému ETS2 a rozšiřování EU",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-12T13:49:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/sefove-parlamentu-zemi-v4-podporili-odklad-systemu-ets2-a-rozsirovani-eu/2901152",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
       "title": "Pavel 17. listopadu zamíří k památníku, do Činoherního klubu a ND",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -53,12 +143,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "TASS: Putin navrhnul humanitární misi v ukrajinské Kosťantynivce",
+      "title": "Putin navrhnul humanitární misi v ukrajinské Kosťantynivce, píše TASS",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
       "category": "svet",
       "published_at": "2026-11-12T13:39:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/tass-putin-navrhnul-humanitarni-misi-v-ukrajinske-kostantynivce/2900950",
+      "url": "https://www.ceskenoviny.cz/zpravy/putin-navrhnul-humanitarni-misi-v-ukrajinske-kostantynivce-pise-tass/2900950",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -69,16 +159,6 @@
       "category": "domaci",
       "published_at": "2026-11-12T12:39:00+00:00",
       "url": "https://www.idnes.cz/zpravy/domaci/robert-plaga-ano-ministr-skolstvi-stravovani-skolni-jidelna.A261112_130546_domaci_aya",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Kushner s Witkoffem přijeli za Putinem. Navrhl humanitární misi v Kosťantynivce",
-      "summary": "Zmocněnci amerického prezidenta Steve Witkoff a Jared Kushner přijeli do Kremlu na jednání s ruským prezidentem Vladimirem Putinem. Ten při setkání navrhl humanitární misi týkající…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-12T12:39:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/kushner-s-witkoffem-jsou-v-moskve-po-schuzce-s-putinem-odleti-za-zelenskym.A261112_114559_zahranicni_kha",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -113,42 +193,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "V Petrohradě vyletělo do povětří auto s ruským plukovníkem",
-      "summary": "Ruský vojenský důstojník zahynul poté, co pod jeho vozidlem v Petrohradu explodovalo výbušné zařízení. Z jeho nastražení je podezřelý jednatřicetiletý obyvatel města, který mezitím uprchnul…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-12T11:52:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/rusko-petrohrad-atentat-ukrajina-valka.A261112_090909_zahranicni_dtt",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "S Ruskem by mohla jednat Meloniová či Tusk, chce Babiš. Potká se se Zelenským",
-      "summary": "Od našeho zpravodaje v Dublinu – Premiér Andrej Babiš (ANO) se ve čtvrtek v Irsku setká s ukrajinským prezidentem Volodymyrem Zelenským. Na schůzce budou řešit…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-12T11:52:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/babis-zelenskyj-meloniova-tusk-evropa-mir-rusko.A261112_115922_domaci_chtl",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Ať za Evropu s Ruskem mluví Meloniová, žádá Babiš. Vyslovil i jiná jména",
       "summary": "Český premiér Andrej Babiš si jako evropské představitele pro mírová jednání s Ruskem dokáže představit italskou premiérku Giorgiu Meloniovou, premiéry Polska a Británie Donalda Tuska…",
       "source": "Aktuálně.cz",
       "category": "svet",
       "published_at": "2026-11-12T12:43:00+01:00",
       "url": "https://zpravy.aktualne.cz/zahranici/at-za-evropu-s-ruskem-mluvi-meloniova-zada-babis-vyslovil-i-jina-jmena/r~aaa291d2364f0b1a3fd151482edd7971/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Spokojenost Čechů s demokracií klesla, kritičtí jsou hlavně voliči opozice",
-      "summary": "Spokojenost veřejnosti v Česku s fungováním demokracie za poslední rok mírně klesla. V září vyjádřilo spokojenost 43 procent občanů, zhruba před rokem to bylo 47…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-12T11:42:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/spokojenost-cechu-s-fungovanim-demokracie-rok-po-volbach-do-snemovny-klesla.A261112_121634_domaci_pluh",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -171,42 +221,6 @@
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/hegsethova-delegace-si-vyslouzila-napomenuti-na-arlingtonskem-narodnim-hrbitove-379552",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
-    },
-    {
-      "title": "Vítězství jen naoko. Rusové falšují dobytí měst pomocí AI, vojáci mizí v trávě",
-      "summary": "Ruští vojáci a prováleční blogeři šíří videa vytvořená pomocí umělé inteligence, aby předstírali postup na ukrajinském území, které má Kyjev stále pod kontrolou. Podle amerického…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-12T11:23:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-valka-umela-inteligence-falesna-videa.A261112_112406_zahranicni_dtt",
-      "importance": "Zpráva iDNES přebírá zjištění ISW a skupiny Conflict Intelligence Team o zřejmě upravených záběrech. Samotné vyvěšení vlajky na videu proto nestačí jako důkaz trvalého ovládnutí obce: rozhodující je ověření místa, času a návaznosti na další nezávislé záběry. Popisované deformace či mizení postav jsou důvodem ke kontrole konkrétních nahrávek, nikoli důkazem, že jsou podvržená všechna ruská videa. Uvedené forenzní závěry zde přisuzujeme citovaným analytikům; sami původní nahrávky neověřujeme.\n\nDopad může být dvojí. Navenek mohou předstírané územní zisky posilovat představu nevyhnutelné porážky Ukrajiny a tlak na ústupky při jednáních. Uvnitř armády by nadsazená hlášení mohla vést k rozkazům vycházejícím z chybné polohy fronty. To druhé článek opírá o zdroje Financial Times, nejde o veřejně doložený obsah konkrétních rozkazů. Pro posouzení skutečného vývoje je proto podstatné sledovat nezávisle potvrzené změny kontroly území; závěr o centrálně řízené výrobě těchto videí citovaný analytik ISW naopak nedělá.",
-      "importance_kind": "analysis",
-      "analysis_source": "iDNES.cz",
-      "analysis_url": "https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-valka-umela-inteligence-falesna-videa.A261112_112406_zahranicni_dtt"
-    },
-    {
-      "title": "Vláda hazarduje s naší obranyschopností, zlobí se hnutí STAN",
-      "summary": "Starostové se po jednání stínové vlády ostře opřeli do politiky současného vládního kabinetu. Jedním z hlavních témat byla obranná politika. Předseda hnutí STAN Vít Rakušan…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-12T11:20:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/stan-kritika-obranne-politiky-vlady-andreje-babise-i-zruseni-stravovaci-vyhlasky.A261112_105310_domaci_jira",
-      "importance": "Tisková konference STAN spojuje obranu, školní stravování a sociální dávky do kritiky vládních priorit. Hodnocení, že kabinet ohrožuje obranyschopnost nebo jedná pod vlivem SPD, je stanoviskem opozice; článek nepřináší podrobnou reakci vlády ani rozpočtový rozpis. Praktickým jádrem obranného sporu je termín modernizace a účast na společném výcviku. Odklad nákupů může prodlužovat provoz starší techniky, vynechané cvičení zase omezuje jednu příležitost ověřit součinnost. Z jediné neúčasti však nelze určit celkovou připravenost armády.\n\nU jídelen je podstatné, jaká pravidla případně nahradí rušenou úpravu a zda zachovají možnosti dietního stravování. Školy a jejich zřizovatelé potřebují předvídatelné požadavky pro nákupy i organizaci provozu; samotná politická kritika ještě neříká, co se konkrétní jídelně změní. Podobně tvrzení STAN o několikaměsíčních výpadcích superdávky vyžaduje porovnání se skutečnými lhůtami a počty nevyřízených žádostí. Pokud se takové zpoždění potvrdí u domácností bez rezerv, problém je v okamžité schopnosti platit nájem, i když nárok na dávku trvá. Rozhodující budou doložené termíny nápravy a vládní vysvětlení, nikoli pouze vzájemná obvinění.",
-      "importance_kind": "analysis",
-      "analysis_source": "iDNES.cz",
-      "analysis_url": "https://www.idnes.cz/zpravy/domaci/stan-kritika-obranne-politiky-vlady-andreje-babise-i-zruseni-stravovaci-vyhlasky.A261112_105310_domaci_jira"
-    },
-    {
-      "title": "Revoluce v přijímačkách na střední se blíží. Ministr oznámil datum změny",
-      "summary": "Přijímací zkoušky na střední školy by se mohly změnit od jara roku 2029. Žáci devátých tříd by si mohli podat nově až pět přihlášek. Zároveň…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-12T12:08:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/revoluce-v-prijimackach-na-stredni-se-blizi-ministr-oznamil-datum-zmeny/r~aaa290541774990ed14a70aaba3908b2/",
-      "importance": "Plaga oznámil záměr, aby deváťáci od jara 2029 nejprve znali výsledek jednotného testu a teprve potom podávali až pět přihlášek. Pro rodiny by to omezilo rozhodování naslepo: výsledek lze porovnat s náročností oborů a mezi volby zařadit i dosažitelnější variantu. Pět voleb však samo nepřidá místa na žádaných školách. Pokud kraje nezmění nabídku tam, kde poptávka převyšuje kapacitu, část uchazečů se ani s lépe informovaným výběrem na preferovaný obor nedostane.\n\nNejde ještě o hotová pravidla pro nejbližší přijímací řízení: ministr chce návrh předložit do konce roku a změnu vztahuje k devátým třídám, nikoli k víceletým gymnáziím. Důležitá bude konečná podoba harmonogramu a váha případných školních zkoušek; jejich posílení by mohlo vrátit nejistotu, kterou předřazení jednotného testu snižuje. Pro současné uchazeče je bezprostřednější avizovaná příprava Cermatu s výukovými videi a březnovým testem nanečisto. Její přínos bude záviset i na tom, zda se k ní dostanou žáci bez placeného doučování.",
-      "importance_kind": "analysis",
-      "analysis_source": "Aktuálně.cz / ČTK",
-      "analysis_url": "https://zpravy.aktualne.cz/domaci/revoluce-v-prijimackach-na-stredni-se-blizi-ministr-oznamil-datum-zmeny/r~aaa290541774990ed14a70aaba3908b2/"
     },
     {
       "title": "Drama při státní návštěvě. Před Macronem a Pellegrinim se zhroutili dva gardisté",
@@ -267,26 +281,6 @@
       "analysis_url": "https://ct24.ceskatelevize.cz/clanek/domaci/skopecek-ma-sektorovou-dan-za-ekonomicke-zlo-paril-by-u-bank-hledal-jinou-cestu-379537"
     },
     {
-      "title": "S Ruskem by měli mluvit Meloniová, Tusk, nebo Costa, míní Babiš",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-12T10:18:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/s-ruskem-by-meli-mluvit-meloniova-tusk-nebo-costa-mini-babis/2898234",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Rusko zabíjelo v Kyjevě či Chersonu, Ukrajina oznámila zásah největší ruské rafinerie",
-      "summary": "Ruský dronový útok na Kyjev zabil ženu a několik dalších lidí zranil, informovaly ve čtvrtek tamní úřady. Moskva na Kyjev udeřila také balistickými raketami. Na…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-12T08:29:12+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/ruske-utoky-maji-obeti-v-kyjeve-a-chersonu-379543",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Poprvé od občanské války. Senátorem za Mississippi bude černoch Scott Colom",
       "summary": "Demokratický kandidát Scott Colom podle projekce stanice CNN porazil v těsném souboji republikánskou senátorku Cindy Hydeovou-Smythovou a získal tak křeslo v americkém Senátu za stát…",
       "source": "Deník",
@@ -309,18 +303,6 @@
       "importance_kind": "analysis",
       "analysis_source": "Deník N – volně dostupný newsletter",
       "analysis_url": "https://denikn.cz/newsletter/2254365/sefovi-uohs-mlsnovi-pozastavili-bezpecnostni-proverku-plaga-chce-prevrat-v-jidelnach-bez-debaty-s-odborniky-ukrajinci-a-rusove-v-abu-dhabi-dojednali-jen-vymenu-veznu/"
-    },
-    {
-      "title": "Celostátní referendum? Polarizace společnosti, říká expert k návrhu vlády",
-      "summary": "Proč vláda prosazuje celostátní referendum, o čem by lidé (ne)mohli hlasovat a jaké jsou šance na jeho schválení? Návrh ústavního zákona, který kabinet poslal do…",
-      "source": "Deník",
-      "category": "domaci",
-      "published_at": "2026-11-12T05:30:00+01:00",
-      "url": "https://www.denik.cz/cesko/cesko-celostatni-referendum-vlada-navrh-schvaleni/",
-      "importance": "Vládní návrh by umožnil občanskou iniciativu s 300 tisíci podpisy, ale výsledek by byl závazný jen při souběhu většiny hlasujících a podpory alespoň 35 procent všech oprávněných voličů. To je jiná podmínka než pouhá minimální účast: při těsně rozděleném hlasování by bylo potřeba mobilizovat podstatně více lidí. Nižší podpora by podle článku vedla jen ke konzultativnímu výsledku. Občané proto potřebují předem srozumitelně vědět, zda hlasování skutečně zaváže instituce, a jak se konkrétní odpověď promítne do následných rozhodnutí.\n\nVýluky týkající se rozpočtu, bezpečnosti či členství v EU a NATO omezují rozsah nástroje, ale samy neřeší obtížnost převodu obecné odpovědi do praxe. Kyselova výhrada k jaderné energetice ukazuje, že odpověď ano či ne nenahradí plán financování a náhradních kapacit; jeho varování před polarizací je odborným hodnocením možného rizika. Návrh navíc zatím není platným právem. Koalice podle článku disponuje 107 poslanci a potřebuje nejméně 120 i souhlas požadované většiny Senátu. Bez dohody s opozicí tedy nelze slíbit termín, kdy by občané tento mechanismus mohli využít.",
-      "importance_kind": "analysis",
-      "analysis_source": "Deník.cz",
-      "analysis_url": "https://www.denik.cz/cesko/cesko-celostatni-referendum-vlada-navrh-schvaleni/"
     }
   ],
   "unavailable_sources": [],
@@ -331,8 +313,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 19,
-      "selected": 5,
+      "candidates": 18,
+      "selected": 6,
       "free_articles_checked": 6
     },
     {
@@ -341,7 +323,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -351,7 +333,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 21,
+      "candidates": 22,
       "selected": 7,
       "free_articles_checked": 8
     },
@@ -361,7 +343,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 9,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -371,7 +353,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
+      "candidates": 8,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -381,9 +363,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
-      "selected": 5,
-      "free_articles_checked": 5
+      "candidates": 9,
+      "selected": 6,
+      "free_articles_checked": 6
     },
     {
       "name": "Deník",
@@ -391,9 +373,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
-      "selected": 5,
-      "free_articles_checked": 6
+      "candidates": 11,
+      "selected": 4,
+      "free_articles_checked": 5
     },
     {
       "name": "iDNES.cz",
@@ -401,9 +383,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
-      "selected": 7,
-      "free_articles_checked": 7
+      "candidates": 10,
+      "selected": 5,
+      "free_articles_checked": 5
     },
     {
       "name": "CNN Prima NEWS",
@@ -431,7 +413,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 16,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -441,7 +423,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 9,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -461,7 +443,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 6,
+      "candidates": 3,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -471,7 +453,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -481,7 +463,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     }
