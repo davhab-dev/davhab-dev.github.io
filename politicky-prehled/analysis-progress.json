@@ -1,17 +1,7 @@
 {
   "active": true,
-  "current": {
-    "key": [
-      "https://www.irozhlas.cz/zpravy-domov/nestrasme-kraje-ze-prijdou-o-penize-za-odber-vody-zni-z-ano-lidovci-babis-utoci_2611112348_jkd",
-      "Nestrašme kraje, že přijdou o peníze za odběr vody, zní z ANO. Lidovci: Babiš útočí na rozpočty"
-    ],
-    "started_at": "2026-11-12T00:40:44.501982+00:00"
-  },
+  "current": null,
   "queue": [
-    [
-      "https://www.irozhlas.cz/zpravy-domov/nestrasme-kraje-ze-prijdou-o-penize-za-odber-vody-zni-z-ano-lidovci-babis-utoci_2611112348_jkd",
-      "Nestrašme kraje, že přijdou o peníze za odběr vody, zní z ANO. Lidovci: Babiš útočí na rozpočty"
-    ],
     [
       "https://www.irozhlas.cz/zpravy-domov/nemec-vlada-dela-chybu-vyvolava-protivlnu-prichazi-o-ty-kteri-byli-zcasti_2611112322_cen",
       "Němec: Vláda dělá chybu, vyvolává protivlnu. Přichází o ty, kteří byli zčásti ochotní být loajální"
@@ -130,11 +120,16 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T00:40:44.501982+00:00",
+  "heartbeat": "2026-11-12T00:41:27.428245+00:00",
   "cycle": {
     "started_at": "2026-11-12T00:40:14.642740+00:00",
     "initial_pending": 30,
-    "completed": [],
+    "completed": [
+      [
+        "https://www.irozhlas.cz/zpravy-domov/nestrasme-kraje-ze-prijdou-o-penize-za-odber-vody-zni-z-ano-lidovci-babis-utoci_2611112348_jkd",
+        "Nestrašme kraje, že přijdou o peníze za odběr vody, zní z ANO. Lidovci: Babiš útočí na rozpočty"
+      ]
+    ],
     "deferred": [],
     "status": "running"
   },
@@ -146,6 +141,7 @@
     44.482277,
     42.574111,
     35.470277,
-    33.40254
+    33.40254,
+    42.926263
   ]
 }
