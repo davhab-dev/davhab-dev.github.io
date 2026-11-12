@@ -1,17 +1,7 @@
 {
   "active": true,
-  "current": {
-    "key": [
-      "https://www.irozhlas.cz/zpravy-svet/babis-jede-do-izraele-narychlo-navsteva-prichazi-v-dobe-kdy-maji-izraelci-jine_2611120010_ntu",
-      "Babiš jede do Izraele narychlo. Návštěva přichází v době, kdy mají Izraelci jiné starosti, říká Tureček"
-    ],
-    "started_at": "2026-11-12T00:11:43.585578+00:00"
-  },
+  "current": null,
   "queue": [
-    [
-      "https://www.irozhlas.cz/zpravy-svet/babis-jede-do-izraele-narychlo-navsteva-prichazi-v-dobe-kdy-maji-izraelci-jine_2611120010_ntu",
-      "Babiš jede do Izraele narychlo. Návštěva přichází v době, kdy mají Izraelci jiné starosti, říká Tureček"
-    ],
     [
       "https://www.irozhlas.cz/zpravy-domov/nestrasme-kraje-ze-prijdou-o-penize-za-odber-vody-zni-z-ano-lidovci-babis-utoci_2611112348_jkd",
       "Nestrašme kraje, že přijdou o peníze za odběr vody, zní z ANO. Lidovci: Babiš útočí na rozpočty"
@@ -134,7 +124,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T00:11:43.585578+00:00",
+  "heartbeat": "2026-11-12T00:12:16.988118+00:00",
   "cycle": {
     "started_at": "2026-11-12T00:10:12.676534+00:00",
     "initial_pending": 32,
@@ -142,6 +132,10 @@
       [
         "https://www.idnes.cz/zpravy/zahranicni/scott-colom-vyhral-v-mississippi-bude-prvnim-cernosskym-senatorem-od-valky.A261112_004235_zahranicni_air",
         "Scott Colom vyhrál v Mississippi, bude prvním černošským senátorem od války"
+      ],
+      [
+        "https://www.irozhlas.cz/zpravy-svet/babis-jede-do-izraele-narychlo-navsteva-prichazi-v-dobe-kdy-maji-izraelci-jine_2611120010_ntu",
+        "Babiš jede do Izraele narychlo. Návštěva přichází v době, kdy mají Izraelci jiné starosti, říká Tureček"
       ]
     ],
     "deferred": [],
@@ -154,6 +148,7 @@
     38.179534,
     44.482277,
     42.574111,
-    35.470277
+    35.470277,
+    33.40254
   ]
 }
