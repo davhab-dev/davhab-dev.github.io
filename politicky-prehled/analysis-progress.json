@@ -1,17 +1,7 @@
 {
   "active": true,
-  "current": {
-    "key": [
-      "https://www.irozhlas.cz/zpravy-domov/koalicni-smlouvu-ve-zline-podepsaly-stan-zlin-21-a-trojblok-mensich-uskupeni-ano_2611120833_elv",
-      "Koaliční smlouvu ve Zlíně podepsaly STAN, Zlín 21 a trojblok menších uskupení. ANO míří do opozice"
-    ],
-    "started_at": "2026-11-12T11:48:21.079767+00:00"
-  },
+  "current": null,
   "queue": [
-    [
-      "https://www.irozhlas.cz/zpravy-domov/koalicni-smlouvu-ve-zline-podepsaly-stan-zlin-21-a-trojblok-mensich-uskupeni-ano_2611120833_elv",
-      "Koaliční smlouvu ve Zlíně podepsaly STAN, Zlín 21 a trojblok menších uskupení. ANO míří do opozice"
-    ],
     [
       "https://www.denik.cz/svet/usa-volby-senat-mississippi-scott-colom/",
       "Poprvé od občanské války. Senátorem za Mississippi bude černoch Scott Colom"
@@ -38,7 +28,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:48:21.079767+00:00",
+  "heartbeat": "2026-11-12T11:49:00.490055+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
@@ -134,6 +124,10 @@
       [
         "https://www.irozhlas.cz/zpravy-domov/starostou-prahy-8-byl-zvolen-hrebik-z-hnuti-stan-v-opozici-konci-vitez-voleb-se_2611120845_aha",
         "Starostou Prahy 8 byl zvolen Hřebík z hnutí STAN. V opozici končí vítěz voleb, to se nelíbí části obyvatel"
+      ],
+      [
+        "https://www.irozhlas.cz/zpravy-domov/koalicni-smlouvu-ve-zline-podepsaly-stan-zlin-21-a-trojblok-mensich-uskupeni-ano_2611120833_elv",
+        "Koaliční smlouvu ve Zlíně podepsaly STAN, Zlín 21 a trojblok menších uskupení. ANO míří do opozice"
       ]
     ],
     "deferred": [],
@@ -174,6 +168,7 @@
     36.295972,
     39.309695,
     34.946289,
-    35.549302
+    35.549302,
+    39.410288
   ]
 }
