@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://www.ceskenoviny.cz/zpravy/-babis-by-rad-aby-za-evropu-s-ruskem-mluvili-meloniova-tusk-nebo-costa/2898234",
+      "Babiš by rád, aby za Evropu s Ruskem mluvili Meloniová, Tusk, nebo Costa"
+    ],
+    "started_at": "2026-11-12T11:41:36.696353+00:00"
+  },
   "queue": [
     [
       "https://www.ceskenoviny.cz/zpravy/-babis-by-rad-aby-za-evropu-s-ruskem-mluvili-meloniova-tusk-nebo-costa/2898234",
@@ -68,7 +74,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:41:28.339855+00:00",
+  "heartbeat": "2026-11-12T11:41:36.696353+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
