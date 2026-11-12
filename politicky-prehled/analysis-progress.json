@@ -1,5 +1,5 @@
 {
-  "active": false,
+  "active": true,
   "current": null,
   "queue": [
     [
@@ -124,24 +124,13 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T00:12:34.728899+00:00",
+  "heartbeat": "2026-11-12T00:40:14.642740+00:00",
   "cycle": {
-    "started_at": "2026-11-12T00:10:12.676534+00:00",
-    "initial_pending": 32,
-    "completed": [
-      [
-        "https://www.idnes.cz/zpravy/zahranicni/scott-colom-vyhral-v-mississippi-bude-prvnim-cernosskym-senatorem-od-valky.A261112_004235_zahranicni_air",
-        "Scott Colom vyhrál v Mississippi, bude prvním černošským senátorem od války"
-      ],
-      [
-        "https://www.irozhlas.cz/zpravy-svet/babis-jede-do-izraele-narychlo-navsteva-prichazi-v-dobe-kdy-maji-izraelci-jine_2611120010_ntu",
-        "Babiš jede do Izraele narychlo. Návštěva přichází v době, kdy mají Izraelci jiné starosti, říká Tureček"
-      ]
-    ],
+    "started_at": "2026-11-12T00:40:14.642740+00:00",
+    "initial_pending": 30,
+    "completed": [],
     "deferred": [],
-    "status": "incomplete",
-    "finished_at": "2026-11-12T00:12:34.728899+00:00",
-    "remaining": 30
+    "status": "running"
   },
   "samples_seconds": [
     51.274763,
