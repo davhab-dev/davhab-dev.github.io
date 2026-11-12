@@ -297,10 +297,10 @@
       "category": "svet",
       "published_at": "2026-11-12T07:47:53+01:00",
       "url": "https://www.denik.cz/svet/usa-volby-senat-mississippi-scott-colom/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:49:47.002644+00:00",
-      "analysis_estimated_at": "2026-11-12T11:49:09.152430+00:00"
+      "importance": "Colomovo vítězství mění stranické zastoupení státu, v němž zpráva očekávala obhajobu republikánské senátorky. Ta výsledek uznala, což snižuje nejistotu ohledně jejího politického postoje k předání mandátu. Výsledek má vedle stranického významu i význam reprezentace černošských obyvatel Mississippi. Nelze však z jediného souboje přesně určit, kolik voličů rozhodla ekonomická nespokojenost a kolik osobnost kandidáta; článek popisuje tyto faktory, nepředkládá podrobnou analýzu hlasování.\n\nPodle zprávy už demokraté získali většinu v obou komorách Kongresu, takže tento mandát není sám o sobě okamžikem vzniku většiny. Může ale rozšířit prostor pro prosazování stranické agendy a omezit závislost na jednotlivých senátorech. Konečnou velikost převahy článek ještě nechává otevřenou kvůli Aljašce. Pro Trumpovu administrativu to znamená politicky obtížnější vyjednávání o legislativě a financování; neznamená to automatické přijetí všech demokratických návrhů. Konkrétní dopad se ukáže podle konečného složení komor a jejich prvních rozhodnutí.",
+      "importance_kind": "analysis",
+      "analysis_source": "Deník.cz",
+      "analysis_url": "https://www.denik.cz/svet/usa-volby-senat-mississippi-scott-colom/"
     },
     {
       "title": "R5M: Šéfovi ÚOHS Mlsnovi pozastavili bezpečnostní prověrku | Plaga chce převrat v jídelnách bez debaty s odborníky | Ukrajinci a Rusové v Abú Dhabí dojednali jen výměnu vězňů",
@@ -311,8 +311,8 @@
       "url": "https://denikn.cz/newsletter/2254365/sefovi-uohs-mlsnovi-pozastavili-bezpecnostni-proverku-plaga-chce-prevrat-v-jidelnach-bez-debaty-s-odborniky-ukrajinci-a-rusove-v-abu-dhabi-dojednali-jen-vymenu-veznu/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:50:24.852858+00:00",
-      "analysis_estimated_at": "2026-11-12T11:49:09.152430+00:00"
+      "analysis_eta_at": "2026-11-12T11:50:26.189981+00:00",
+      "analysis_estimated_at": "2026-11-12T11:49:48.271863+00:00"
     },
     {
       "title": "Vzdušný prostor pobaltských zemí dlouhodobě narušují drony",
@@ -323,8 +323,8 @@
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/vzdusny-prostor-pobaltskych-zemi-dlouhodobe-narusuji-drony-379527",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:51:02.703072+00:00",
-      "analysis_estimated_at": "2026-11-12T11:49:09.152430+00:00"
+      "analysis_eta_at": "2026-11-12T11:51:04.108099+00:00",
+      "analysis_estimated_at": "2026-11-12T11:49:48.271863+00:00"
     },
     {
       "title": "Mississippi bude mít prvního černošského senátora od občanské války. Colom vítězí v baště republikánů",
@@ -335,8 +335,8 @@
       "url": "https://www.irozhlas.cz/zpravy-svet/mississippi-bude-mit-prvniho-cernosskeho-senatora-od-obcanske-valky-colom-vitezi_2611120647_bva",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:51:40.553286+00:00",
-      "analysis_estimated_at": "2026-11-12T11:49:09.152430+00:00"
+      "analysis_eta_at": "2026-11-12T11:51:42.026217+00:00",
+      "analysis_estimated_at": "2026-11-12T11:49:48.271863+00:00"
     },
     {
       "title": "Celostátní referendum? Polarizace společnosti, říká expert k návrhu vlády",
@@ -347,8 +347,8 @@
       "url": "https://www.denik.cz/cesko/cesko-celostatni-referendum-vlada-navrh-schvaleni/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:52:18.403500+00:00",
-      "analysis_estimated_at": "2026-11-12T11:49:09.152430+00:00"
+      "analysis_eta_at": "2026-11-12T11:52:19.944335+00:00",
+      "analysis_estimated_at": "2026-11-12T11:49:48.271863+00:00"
     },
     {
       "title": "Orbánův bratr je ve vazbě. Hrozí mu až deset let vězení",
@@ -359,8 +359,8 @@
       "url": "https://www.denik.cz/evropa/orbanuv-bratr-je-ve-vazbe-hrozi-mu-az-deset-let-vezeni/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:52:56.253714+00:00",
-      "analysis_estimated_at": "2026-11-12T11:49:09.152430+00:00"
+      "analysis_eta_at": "2026-11-12T11:52:57.862453+00:00",
+      "analysis_estimated_at": "2026-11-12T11:49:48.271863+00:00"
     }
   ],
   "unavailable_sources": [],

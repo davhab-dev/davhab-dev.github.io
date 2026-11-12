@@ -1,17 +1,7 @@
 {
   "active": true,
-  "current": {
-    "key": [
-      "https://www.denik.cz/svet/usa-volby-senat-mississippi-scott-colom/",
-      "Poprvé od občanské války. Senátorem za Mississippi bude černoch Scott Colom"
-    ],
-    "started_at": "2026-11-12T11:49:09.152430+00:00"
-  },
+  "current": null,
   "queue": [
-    [
-      "https://www.denik.cz/svet/usa-volby-senat-mississippi-scott-colom/",
-      "Poprvé od občanské války. Senátorem za Mississippi bude černoch Scott Colom"
-    ],
     [
       "https://denikn.cz/newsletter/2254365/sefovi-uohs-mlsnovi-pozastavili-bezpecnostni-proverku-plaga-chce-prevrat-v-jidelnach-bez-debaty-s-odborniky-ukrajinci-a-rusove-v-abu-dhabi-dojednali-jen-vymenu-veznu/",
       "R5M: Šéfovi ÚOHS Mlsnovi pozastavili bezpečnostní prověrku | Plaga chce převrat v jídelnách bez debaty s odborníky | Ukrajinci a Rusové v Abú Dhabí dojednali jen výměnu vězňů"
@@ -34,7 +24,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:49:09.152430+00:00",
+  "heartbeat": "2026-11-12T11:49:48.271863+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
@@ -134,6 +124,10 @@
       [
         "https://www.irozhlas.cz/zpravy-domov/koalicni-smlouvu-ve-zline-podepsaly-stan-zlin-21-a-trojblok-mensich-uskupeni-ano_2611120833_elv",
         "Koaliční smlouvu ve Zlíně podepsaly STAN, Zlín 21 a trojblok menších uskupení. ANO míří do opozice"
+      ],
+      [
+        "https://www.denik.cz/svet/usa-volby-senat-mississippi-scott-colom/",
+        "Poprvé od občanské války. Senátorem za Mississippi bude černoch Scott Colom"
       ]
     ],
     "deferred": [],
@@ -175,6 +169,7 @@
     39.309695,
     34.946289,
     35.549302,
-    39.410288
+    39.410288,
+    39.119433
   ]
 }
