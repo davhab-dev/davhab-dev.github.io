@@ -1,6 +1,12 @@
 {
-  "active": false,
-  "current": null,
+  "active": true,
+  "current": {
+    "key": [
+      "https://www.irozhlas.cz/zpravy-domov/nemec-vlada-dela-chybu-vyvolava-protivlnu-prichazi-o-ty-kteri-byli-zcasti_2611112322_cen",
+      "Němec: Vláda dělá chybu, vyvolává protivlnu. Přichází o ty, kteří byli zčásti ochotní být loajální"
+    ],
+    "started_at": "2026-11-12T00:42:03.391181+00:00"
+  },
   "queue": [
     [
       "https://www.irozhlas.cz/zpravy-domov/nemec-vlada-dela-chybu-vyvolava-protivlnu-prichazi-o-ty-kteri-byli-zcasti_2611112322_cen",
@@ -120,20 +126,13 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T00:41:45.816657+00:00",
+  "heartbeat": "2026-11-12T00:42:03.391181+00:00",
   "cycle": {
-    "started_at": "2026-11-12T00:40:14.642740+00:00",
-    "initial_pending": 30,
-    "completed": [
-      [
-        "https://www.irozhlas.cz/zpravy-domov/nestrasme-kraje-ze-prijdou-o-penize-za-odber-vody-zni-z-ano-lidovci-babis-utoci_2611112348_jkd",
-        "Nestrašme kraje, že přijdou o peníze za odběr vody, zní z ANO. Lidovci: Babiš útočí na rozpočty"
-      ]
-    ],
+    "started_at": "2026-11-12T00:42:03.294454+00:00",
+    "initial_pending": 29,
+    "completed": [],
     "deferred": [],
-    "status": "incomplete",
-    "finished_at": "2026-11-12T00:41:45.816657+00:00",
-    "remaining": 29
+    "status": "running"
   },
   "samples_seconds": [
     51.274763,
