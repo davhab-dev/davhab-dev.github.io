@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://www.denik.cz/evropa/macron-pellegrini-gardiste-vojaci-straz-omdleli-video/",
+      "Drama při státní návštěvě. Před Macronem a Pellegrinim se zhroutili dva gardisté"
+    ],
+    "started_at": "2026-11-12T11:34:39.105567+00:00"
+  },
   "queue": [
     [
       "https://www.denik.cz/evropa/macron-pellegrini-gardiste-vojaci-straz-omdleli-video/",
@@ -104,7 +110,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:34:30.944260+00:00",
+  "heartbeat": "2026-11-12T11:34:39.105567+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
