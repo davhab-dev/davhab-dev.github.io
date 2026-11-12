@@ -225,10 +225,10 @@
       "category": "svet",
       "published_at": "2026-11-12T09:53:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/eu-v-pondeli-prijme-dalsi-sankce-proti-rusku-zameri-se-na-rafinerie-a-flotilu/2900980",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:45:15.707097+00:00",
-      "analysis_estimated_at": "2026-11-12T11:44:37.658271+00:00"
+      "importance": "Pondělní opatření mají podle komisařky rozšířit seznam konkrétních osob a firem spojených s rafineriemi a stínovou flotilou; připravovaný 22. sektorový balíček je samostatný krok. Ani jedno nelze před rozhodnutím ministrů a zveřejněním konečného znění považovat za již účinnou změnu. Zaměření na přepravu ropy a finanční prostředníky má ztížit cestu, kterou se vývozní příjmy dostávají do ruské ekonomiky. Pro evropské dopravce, banky a obchodníky bude rozhodující přesná identita zapsaných subjektů a rozsah zákazů.\n\nPočet položek na seznamu sám neměří účinnost. Jestliže obchod převezme jiná společnost nebo loď a sankce se neprosadí vůči prostředníkům, může být skutečný zásah do příjmů menší, než naznačuje rozsah balíčku. Debata v Evropském parlamentu proto oprávněně odděluje nové zákazy od vymáhání stávajících a kontroly vývozu součástek. Komisařčin údaj o ztrátě přes bilion eur je její odhad dopadu, nikoli v článku nezávisle doložený účetní výsledek. Pro hodnocení bude podstatný vývoj příjmů z vývozu, nákladů obcházení a doložených případů porušování sankcí.",
+      "importance_kind": "analysis",
+      "analysis_source": "České noviny / ČTK",
+      "analysis_url": "https://www.ceskenoviny.cz/zpravy/eu-v-pondeli-prijme-dalsi-sankce-proti-rusku-zameri-se-na-rafinerie-a-flotilu/2900980"
     },
     {
       "title": "Ruské útoky mají oběti v Kyjevě, Chersonu či Záporožské oblasti",
@@ -239,8 +239,8 @@
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/ruske-utoky-maji-obeti-v-kyjeve-a-chersonu-379543",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:45:53.755923+00:00",
-      "analysis_estimated_at": "2026-11-12T11:44:37.658271+00:00"
+      "analysis_eta_at": "2026-11-12T11:45:51.146277+00:00",
+      "analysis_estimated_at": "2026-11-12T11:45:13.228159+00:00"
     },
     {
       "title": "Egypt měsíce tajně posílá vojáky a stíhačky Saúdům, píše MEE",
@@ -251,8 +251,8 @@
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/egypt-mesice-tajne-posila-vojaky-a-stihacky-saudum-pise-mee-379541",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:46:31.804749+00:00",
-      "analysis_estimated_at": "2026-11-12T11:44:37.658271+00:00"
+      "analysis_eta_at": "2026-11-12T11:46:29.064395+00:00",
+      "analysis_estimated_at": "2026-11-12T11:45:13.228159+00:00"
     },
     {
       "title": "Masivní výbuchy zastavily v Hormuzu dva supertankery, tvrdí íránské gardy",
@@ -263,8 +263,8 @@
       "url": "https://www.ceskenoviny.cz/zpravy/masivni-vybuchy-zastavily-v-hormuzu-dva-supertankery-tvrdi-iranske-gardy/2900965",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:47:09.853575+00:00",
-      "analysis_estimated_at": "2026-11-12T11:44:37.658271+00:00"
+      "analysis_eta_at": "2026-11-12T11:47:06.982513+00:00",
+      "analysis_estimated_at": "2026-11-12T11:45:13.228159+00:00"
     },
     {
       "title": "Starostou Prahy 8 byl zvolen Hřebík z hnutí STAN. V opozici končí vítěz voleb, to se nelíbí části obyvatel",
@@ -275,8 +275,8 @@
       "url": "https://www.irozhlas.cz/zpravy-domov/starostou-prahy-8-byl-zvolen-hrebik-z-hnuti-stan-v-opozici-konci-vitez-voleb-se_2611120845_aha",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:47:47.902401+00:00",
-      "analysis_estimated_at": "2026-11-12T11:44:37.658271+00:00"
+      "analysis_eta_at": "2026-11-12T11:47:44.900631+00:00",
+      "analysis_estimated_at": "2026-11-12T11:45:13.228159+00:00"
     },
     {
       "title": "Koaliční smlouvu ve Zlíně podepsaly STAN, Zlín 21 a trojblok menších uskupení. ANO míří do opozice",
@@ -287,8 +287,8 @@
       "url": "https://www.irozhlas.cz/zpravy-domov/koalicni-smlouvu-ve-zline-podepsaly-stan-zlin-21-a-trojblok-mensich-uskupeni-ano_2611120833_elv",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:48:25.951227+00:00",
-      "analysis_estimated_at": "2026-11-12T11:44:37.658271+00:00"
+      "analysis_eta_at": "2026-11-12T11:48:22.818749+00:00",
+      "analysis_estimated_at": "2026-11-12T11:45:13.228159+00:00"
     },
     {
       "title": "Poprvé od občanské války. Senátorem za Mississippi bude černoch Scott Colom",
@@ -299,8 +299,8 @@
       "url": "https://www.denik.cz/svet/usa-volby-senat-mississippi-scott-colom/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:49:04.000053+00:00",
-      "analysis_estimated_at": "2026-11-12T11:44:37.658271+00:00"
+      "analysis_eta_at": "2026-11-12T11:49:00.736867+00:00",
+      "analysis_estimated_at": "2026-11-12T11:45:13.228159+00:00"
     },
     {
       "title": "R5M: Šéfovi ÚOHS Mlsnovi pozastavili bezpečnostní prověrku | Plaga chce převrat v jídelnách bez debaty s odborníky | Ukrajinci a Rusové v Abú Dhabí dojednali jen výměnu vězňů",
@@ -311,8 +311,8 @@
       "url": "https://denikn.cz/newsletter/2254365/sefovi-uohs-mlsnovi-pozastavili-bezpecnostni-proverku-plaga-chce-prevrat-v-jidelnach-bez-debaty-s-odborniky-ukrajinci-a-rusove-v-abu-dhabi-dojednali-jen-vymenu-veznu/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:49:42.048879+00:00",
-      "analysis_estimated_at": "2026-11-12T11:44:37.658271+00:00"
+      "analysis_eta_at": "2026-11-12T11:49:38.654985+00:00",
+      "analysis_estimated_at": "2026-11-12T11:45:13.228159+00:00"
     },
     {
       "title": "Vzdušný prostor pobaltských zemí dlouhodobě narušují drony",
@@ -323,8 +323,8 @@
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/vzdusny-prostor-pobaltskych-zemi-dlouhodobe-narusuji-drony-379527",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:50:20.097705+00:00",
-      "analysis_estimated_at": "2026-11-12T11:44:37.658271+00:00"
+      "analysis_eta_at": "2026-11-12T11:50:16.573103+00:00",
+      "analysis_estimated_at": "2026-11-12T11:45:13.228159+00:00"
     },
     {
       "title": "Mississippi bude mít prvního černošského senátora od občanské války. Colom vítězí v baště republikánů",
@@ -335,8 +335,8 @@
       "url": "https://www.irozhlas.cz/zpravy-svet/mississippi-bude-mit-prvniho-cernosskeho-senatora-od-obcanske-valky-colom-vitezi_2611120647_bva",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:50:58.146531+00:00",
-      "analysis_estimated_at": "2026-11-12T11:44:37.658271+00:00"
+      "analysis_eta_at": "2026-11-12T11:50:54.491221+00:00",
+      "analysis_estimated_at": "2026-11-12T11:45:13.228159+00:00"
     },
     {
       "title": "Celostátní referendum? Polarizace společnosti, říká expert k návrhu vlády",
@@ -347,8 +347,8 @@
       "url": "https://www.denik.cz/cesko/cesko-celostatni-referendum-vlada-navrh-schvaleni/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:51:36.195357+00:00",
-      "analysis_estimated_at": "2026-11-12T11:44:37.658271+00:00"
+      "analysis_eta_at": "2026-11-12T11:51:32.409339+00:00",
+      "analysis_estimated_at": "2026-11-12T11:45:13.228159+00:00"
     },
     {
       "title": "Orbánův bratr je ve vazbě. Hrozí mu až deset let vězení",
@@ -359,8 +359,8 @@
       "url": "https://www.denik.cz/evropa/orbanuv-bratr-je-ve-vazbe-hrozi-mu-az-deset-let-vezeni/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:52:14.244183+00:00",
-      "analysis_estimated_at": "2026-11-12T11:44:37.658271+00:00"
+      "analysis_eta_at": "2026-11-12T11:52:10.327457+00:00",
+      "analysis_estimated_at": "2026-11-12T11:45:13.228159+00:00"
     }
   ],
   "unavailable_sources": [],
