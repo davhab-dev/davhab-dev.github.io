@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://zpravy.aktualne.cz/domaci/revoluce-v-prijimackach-na-stredni-se-blizi-ministr-oznamil-datum-zmeny/r~aaa290541774990ed14a70aaba3908b2/",
+      "Revoluce v přijímačkách na střední se blíží. Ministr oznámil datum změny"
+    ],
+    "started_at": "2026-11-12T11:33:06.586935+00:00"
+  },
   "queue": [
     [
       "https://zpravy.aktualne.cz/domaci/revoluce-v-prijimackach-na-stredni-se-blizi-ministr-oznamil-datum-zmeny/r~aaa290541774990ed14a70aaba3908b2/",
@@ -112,7 +118,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:32:58.064837+00:00",
+  "heartbeat": "2026-11-12T11:33:06.586935+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
