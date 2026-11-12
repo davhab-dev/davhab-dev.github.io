@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://www.ceskenoviny.cz/zpravy/primatorkou-havirova-je-opet-iveta-koci-palkovska-z-hnuti-ano/2901012",
+      "Primátorkou Havířova je opět Iveta Kočí Palkovská z hnutí ANO"
+    ],
+    "started_at": "2026-11-12T11:37:41.242387+00:00"
+  },
   "queue": [
     [
       "https://www.ceskenoviny.cz/zpravy/primatorkou-havirova-je-opet-iveta-koci-palkovska-z-hnuti-ano/2901012",
@@ -88,7 +94,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:37:33.234119+00:00",
+  "heartbeat": "2026-11-12T11:37:41.242387+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
