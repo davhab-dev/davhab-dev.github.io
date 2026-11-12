@@ -3,6 +3,14 @@
   "current": null,
   "queue": [
     [
+      "https://cnn.iprima.cz/evropa-bude-u-mirovych-jednani-s-ruskem-oznamili-to-trumpuv-vyslanec-a-zelenskyj-527072",
+      "Evropa bude u mírových jednání s Ruskem. Oznámili to Trumpův zeť a Zelenskyj"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/kushner-se-zelenskym-evropane-budou-u-jednani-o-miru-s-ruskem.A261112_231539_zahranicni_air",
+      "Kushner se Zelenským: Evropané budou u jednání o míru s Ruskem"
+    ],
+    [
       "https://zpravy.aktualne.cz/zahranici/pocet-obeti-uterni-hromadne-nehody-na-dalnici-v-bulharsku-vzrostl-na-12/r~aaa29d2d50c95e235daa6de5608bc8ac/",
       "Počet obětí úterní hromadné nehody na dálnici v Bulharsku vzrostl na 12"
     ],
@@ -115,10 +123,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 27,
+    "initial_pending": 29,
     "completed": [],
     "deferred": [],
-    "remaining": 27
+    "remaining": 29
   },
   "samples_seconds": [
     51.274763,

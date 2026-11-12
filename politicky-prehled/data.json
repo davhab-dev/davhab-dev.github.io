@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-11-12T21:53:26.553909+00:00",
+  "updated_at": "2026-11-12T22:54:02.098937+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Evropa bude u mírových jednání s Ruskem. Oznámili to Trumpův zeť a Zelenskyj",
+      "summary": "Evropští zástupci budou u vyjednávání o míru mezi Ruskem a Ukrajinou. Po dnešním setkání v Dublinu to uvedli ukrajinský prezident Volodymyr Zelenskyj a zvláštní americký…",
+      "source": "CNN Prima NEWS",
+      "category": "svet",
+      "published_at": "2026-11-12T23:31:05+01:00",
+      "url": "https://cnn.iprima.cz/evropa-bude-u-mirovych-jednani-s-ruskem-oznamili-to-trumpuv-vyslanec-a-zelenskyj-527072",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Kushner se Zelenským: Evropané budou u jednání o míru s Ruskem",
+      "summary": "Evropští zástupci se zapojí do vyjednávání o míru mezi Ruskem a Ukrajinou, oznámili po dnešním setkání v Dublinu ukrajinský prezident Volodymyr Zelenskyj a zvláštní americký…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-12T22:31:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/kushner-se-zelenskym-evropane-budou-u-jednani-o-miru-s-ruskem.A261112_231539_zahranicni_air",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Počet obětí úterní hromadné nehody na dálnici v Bulharsku vzrostl na 12",
       "summary": "V nemocnici v bulharském Slivenu ve čtvrtek zemřel muž, který tam byl převezen po úterní hromadné dopravní nehodě. Celkový počet obětí tak vzrostl na 12,…",
@@ -295,18 +315,6 @@
       "importance_kind": "analysis",
       "analysis_source": "Deník.cz",
       "analysis_url": "https://www.denik.cz/evropa/macron-pellegrini-gardiste-vojaci-straz-omdleli-video/"
-    },
-    {
-      "title": "Primátorkou Havířova je opět Iveta Kočí Palkovská z hnutí ANO",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-12T10:49:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/primatorkou-havirova-je-opet-iveta-koci-palkovska-z-hnuti-ano/2901012",
-      "importance": "Volba Kočí Palkovské dává Havířovu vedení opřené o koalici s 25 ze 43 mandátů. Vítězné Havířov sobě se 13 křesly zůstává v opozici, protože samotné první místo nestačí k většině pro volbu primátora a prosazení rozpočtu. Pokračování dosavadního koaličního půdorysu znamená spíše personální a programovou kontinuitu než výměnu celého vedení. Konkrétní odpovědnost je už rozdělená: finance, investice, školství i komunální služby mají určené náměstky, vůči nimž lze hodnotit plnění závazků.\n\nSoudní oprava hlasů přesunula jeden mandát od ANO k Hnutí pro Havířov, nezměnila však součet koaliční většiny. Ukazuje přesto praktický význam kontroly sčítání: chyba u jednotlivých kandidátů ovlivnila složení zastupitelstva. Po předchozím odvolání primátora Baránka, kterého článek uvádí jako obviněného v bytové kauze, bude zvlášť důležité sledovat průhlednost nakládání s městským majetkem a výsledky kontrol. Obvinění není odsouzením; pro nové vedení však představuje důvod doložit funkčnost interního auditu, který si primátorka bere do gesce.",
-      "importance_kind": "analysis",
-      "analysis_source": "České noviny / ČTK",
-      "analysis_url": "https://www.ceskenoviny.cz/zpravy/primatorkou-havirova-je-opet-iveta-koci-palkovska-z-hnuti-ano/2901012"
     }
   ],
   "unavailable_sources": [],
@@ -327,7 +335,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 19,
+      "candidates": 20,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -337,8 +345,8 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 14,
-      "selected": 6,
+      "candidates": 15,
+      "selected": 5,
       "free_articles_checked": 8
     },
     {
@@ -357,7 +365,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -388,8 +396,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 15,
-      "selected": 5,
-      "free_articles_checked": 5
+      "selected": 6,
+      "free_articles_checked": 6
     },
     {
       "name": "CNN Prima NEWS",
@@ -397,9 +405,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
-      "selected": 2,
-      "free_articles_checked": 2
+      "candidates": 12,
+      "selected": 3,
+      "free_articles_checked": 3
     },
     {
       "name": "E15",
@@ -467,7 +475,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 18,
+      "candidates": 17,
       "selected": 0,
       "free_articles_checked": 0
     }
