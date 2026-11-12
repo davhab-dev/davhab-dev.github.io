@@ -1,17 +1,7 @@
 {
   "active": true,
-  "current": {
-    "key": [
-      "https://www.irozhlas.cz/zpravy-svet/usa-nerozlisuji-mezi-agresorem-a-napadenym-pritom-maji-paky-na-kyjev-i-moskvu_2611121108_bva",
-      "USA nerozlišují mezi agresorem a napadeným. Přitom mají páky na Kyjev i Moskvu, tvrdí analytik Bříza"
-    ],
-    "started_at": "2026-11-12T11:35:19.090891+00:00"
-  },
+  "current": null,
   "queue": [
-    [
-      "https://www.irozhlas.cz/zpravy-svet/usa-nerozlisuji-mezi-agresorem-a-napadenym-pritom-maji-paky-na-kyjev-i-moskvu_2611121108_bva",
-      "USA nerozlišují mezi agresorem a napadeným. Přitom mají páky na Kyjev i Moskvu, tvrdí analytik Bříza"
-    ],
     [
       "https://www.idnes.cz/zpravy/domaci/mexican-cesko-soud-souhlas-s-vydanim-do-usa-kriminalita-drogy.A261112_105351_domaci_aoc",
       "Mexičan zadržený v Česku souhlasil s vydáním do USA, stíhají ho za drogy"
@@ -106,7 +96,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:35:19.090891+00:00",
+  "heartbeat": "2026-11-12T11:35:59.926935+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
@@ -134,6 +124,10 @@
       [
         "https://www.denik.cz/evropa/macron-pellegrini-gardiste-vojaci-straz-omdleli-video/",
         "Drama při státní návštěvě. Před Macronem a Pellegrinim se zhroutili dva gardisté"
+      ],
+      [
+        "https://www.irozhlas.cz/zpravy-svet/usa-nerozlisuji-mezi-agresorem-a-napadenym-pritom-maji-paky-na-kyjev-i-moskvu_2611121108_bva",
+        "USA nerozlišují mezi agresorem a napadeným. Přitom mají páky na Kyjev i Moskvu, tvrdí analytik Bříza"
       ]
     ],
     "deferred": [],
@@ -157,6 +151,7 @@
     33.997483,
     42.572669,
     33.98251,
-    30.397476
+    30.397476,
+    40.836044
   ]
 }
