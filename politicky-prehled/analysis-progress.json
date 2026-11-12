@@ -1,17 +1,7 @@
 {
   "active": true,
-  "current": {
-    "key": [
-      "https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-valka-umela-inteligence-falesna-videa.A261112_112406_zahranicni_dtt",
-      "Vítězství jen naoko. Rusové falšují dobytí měst pomocí AI, vojáci mizí v trávě"
-    ],
-    "started_at": "2026-11-12T11:29:06.321283+00:00"
-  },
+  "current": null,
   "queue": [
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-valka-umela-inteligence-falesna-videa.A261112_112406_zahranicni_dtt",
-      "Vítězství jen naoko. Rusové falšují dobytí měst pomocí AI, vojáci mizí v trávě"
-    ],
     [
       "https://www.idnes.cz/zpravy/domaci/stan-kritika-obranne-politiky-vlady-andreje-babise-i-zruseni-stravovaci-vyhlasky.A261112_105310_domaci_jira",
       "Vláda hazarduje s naší obranyschopností, zlobí se hnutí STAN"
@@ -130,11 +120,16 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:29:06.321283+00:00",
+  "heartbeat": "2026-11-12T11:31:19.633427+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
-    "completed": [],
+    "completed": [
+      [
+        "https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-valka-umela-inteligence-falesna-videa.A261112_112406_zahranicni_dtt",
+        "Vítězství jen naoko. Rusové falšují dobytí měst pomocí AI, vojáci mizí v trávě"
+      ]
+    ],
     "deferred": [],
     "status": "running"
   },
@@ -150,6 +145,7 @@
     42.926263,
     41.922229,
     36.127599,
-    40.97949
+    40.97949,
+    133.312144
   ]
 }
