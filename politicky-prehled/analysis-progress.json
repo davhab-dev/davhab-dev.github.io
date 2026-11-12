@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-valka-umela-inteligence-falesna-videa.A261112_112406_zahranicni_dtt",
+      "Vítězství jen naoko. Rusové falšují dobytí měst pomocí AI, vojáci mizí v trávě"
+    ],
+    "started_at": "2026-11-12T11:29:06.321283+00:00"
+  },
   "queue": [
     [
       "https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-valka-umela-inteligence-falesna-videa.A261112_112406_zahranicni_dtt",
@@ -124,7 +130,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:28:35.008670+00:00",
+  "heartbeat": "2026-11-12T11:29:06.321283+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
