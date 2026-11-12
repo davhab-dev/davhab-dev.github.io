@@ -1,17 +1,7 @@
 {
   "active": true,
-  "current": {
-    "key": [
-      "https://www.idnes.cz/zpravy/zahranicni/scott-colom-vyhral-v-mississippi-bude-prvnim-cernosskym-senatorem-od-valky.A261112_004235_zahranicni_air",
-      "Scott Colom vyhrál v Mississippi, bude prvním černošským senátorem od války"
-    ],
-    "started_at": "2026-11-12T00:10:49.838983+00:00"
-  },
+  "current": null,
   "queue": [
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/scott-colom-vyhral-v-mississippi-bude-prvnim-cernosskym-senatorem-od-valky.A261112_004235_zahranicni_air",
-      "Scott Colom vyhrál v Mississippi, bude prvním černošským senátorem od války"
-    ],
     [
       "https://www.irozhlas.cz/zpravy-svet/babis-jede-do-izraele-narychlo-navsteva-prichazi-v-dobe-kdy-maji-izraelci-jine_2611120010_ntu",
       "Babiš jede do Izraele narychlo. Návštěva přichází v době, kdy mají Izraelci jiné starosti, říká Tureček"
@@ -138,11 +128,16 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T00:10:49.838983+00:00",
+  "heartbeat": "2026-11-12T00:11:25.309260+00:00",
   "cycle": {
     "started_at": "2026-11-12T00:10:12.676534+00:00",
     "initial_pending": 32,
-    "completed": [],
+    "completed": [
+      [
+        "https://www.idnes.cz/zpravy/zahranicni/scott-colom-vyhral-v-mississippi-bude-prvnim-cernosskym-senatorem-od-valky.A261112_004235_zahranicni_air",
+        "Scott Colom vyhrál v Mississippi, bude prvním černošským senátorem od války"
+      ]
+    ],
     "deferred": [],
     "status": "running"
   },
@@ -152,6 +147,7 @@
     36.089687,
     38.179534,
     44.482277,
-    42.574111
+    42.574111,
+    35.470277
   ]
 }
