@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://ct24.ceskatelevize.cz/clanek/svet/vzdusny-prostor-pobaltskych-zemi-dlouhodobe-narusuji-drony-379527",
+      "Vzdušný prostor pobaltských zemí dlouhodobě narušují drony"
+    ],
+    "started_at": "2026-11-12T11:50:58.937908+00:00"
+  },
   "queue": [
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/vzdusny-prostor-pobaltskych-zemi-dlouhodobe-narusuji-drony-379527",
@@ -20,7 +26,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:50:50.169909+00:00",
+  "heartbeat": "2026-11-12T11:50:58.937908+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
