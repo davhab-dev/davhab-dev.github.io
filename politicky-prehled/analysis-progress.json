@@ -1,17 +1,7 @@
 {
   "active": true,
-  "current": {
-    "key": [
-      "https://www.irozhlas.cz/zpravy-domov/starostou-prahy-8-byl-zvolen-hrebik-z-hnuti-stan-v-opozici-konci-vitez-voleb-se_2611120845_aha",
-      "Starostou Prahy 8 byl zvolen Hřebík z hnutí STAN. V opozici končí vítěz voleb, to se nelíbí části obyvatel"
-    ],
-    "started_at": "2026-11-12T11:47:37.600545+00:00"
-  },
+  "current": null,
   "queue": [
-    [
-      "https://www.irozhlas.cz/zpravy-domov/starostou-prahy-8-byl-zvolen-hrebik-z-hnuti-stan-v-opozici-konci-vitez-voleb-se_2611120845_aha",
-      "Starostou Prahy 8 byl zvolen Hřebík z hnutí STAN. V opozici končí vítěz voleb, to se nelíbí části obyvatel"
-    ],
     [
       "https://www.irozhlas.cz/zpravy-domov/koalicni-smlouvu-ve-zline-podepsaly-stan-zlin-21-a-trojblok-mensich-uskupeni-ano_2611120833_elv",
       "Koaliční smlouvu ve Zlíně podepsaly STAN, Zlín 21 a trojblok menších uskupení. ANO míří do opozice"
@@ -42,7 +32,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:47:37.600545+00:00",
+  "heartbeat": "2026-11-12T11:48:13.149847+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
@@ -134,6 +124,10 @@
       [
         "https://www.ceskenoviny.cz/zpravy/masivni-vybuchy-zastavily-v-hormuzu-dva-supertankery-tvrdi-iranske-gardy/2900965",
         "Masivní výbuchy zastavily v Hormuzu dva supertankery, tvrdí íránské gardy"
+      ],
+      [
+        "https://www.irozhlas.cz/zpravy-domov/starostou-prahy-8-byl-zvolen-hrebik-z-hnuti-stan-v-opozici-konci-vitez-voleb-se_2611120845_aha",
+        "Starostou Prahy 8 byl zvolen Hřebík z hnutí STAN. V opozici končí vítěz voleb, to se nelíbí části obyvatel"
       ]
     ],
     "deferred": [],
@@ -173,6 +167,7 @@
     35.569888,
     36.295972,
     39.309695,
-    34.946289
+    34.946289,
+    35.549302
   ]
 }
