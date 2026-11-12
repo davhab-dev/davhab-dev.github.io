@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-12T13:23:03.739324+00:00",
+  "updated": "2026-11-12T14:29:18.268480+00:00",
   "articles": [
+    {
+      "title": "MET Manta 3 review: The all-conquering helmet of the UAE team has finally launched, but just how good is it really?",
+      "summary": "Lighter, better vented, and faster. Two of those are most true when travelling at pro race speeds",
+      "url": "https://www.cyclingnews.com/cycling-kit-accessories/helmets/met-manta-3-review/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Technika",
+      "published": "2026-11-12T14:00:00+00:00"
+    },
+    {
+      "title": "Mathieu van der Poel's coach and father still in the dark over cyclo-cross participation this winter",
+      "summary": "'This is the ideal winter to skip it' says Dutch off-road coach Gerben De Knegt",
+      "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/mathieu-van-der-poels-coach-and-father-still-in-the-dark-over-cyclo-cross-participation-this-winter/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-12T13:32:24+00:00"
+    },
     {
       "title": "“We've been asked many times whether we would make an ebike” – J.Laverack adds Mahle X20 motor to a selection of its titanium framesets",
       "summary": "Only 22 ebikes to be made across the brand’s road, gravel, urban and MTB framesets",
@@ -98,6 +116,15 @@
       "source": "RoadCycling.cz",
       "lang": "CS",
       "category": "Technika",
+      "published": "2026-11-12"
+    },
+    {
+      "title": "Pogačarovo vítězné kolo se vydražilo téměř za milion korun. Pomůže americkým olympionikům",
+      "summary": "",
+      "url": "https://cyklorepublic.cz/clanky/01a1cffb-ef01-728f-ba1b-3a3699fd126b/pogacarovo-vitezne-kolo-se-vydrazilo-temer-za-milion-korun-pomuze-americkym-olympionikum",
+      "source": "CykloRepublic.cz",
+      "lang": "CS",
+      "category": "Cyklistika",
       "published": "2026-11-12"
     },
     {
@@ -591,15 +618,6 @@
       "summary": "",
       "url": "https://mtbs.cz/clanek/znacku-ghost-na-posledni-chvili-kupuje-novy-majitel-haibiku-a-winory/kategorie/servis",
       "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-11-09"
-    },
-    {
-      "title": "Vrstvení jako základ – jak se obléct na podzim",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132080/vrstveni-jako-zaklad-jak-se-oblect-na-podzim.html",
-      "source": "MTBIKER.cz",
       "lang": "CS",
       "category": "MTB",
       "published": "2026-11-09"
@@ -1838,15 +1856,6 @@
       "published": "2026-10-25"
     },
     {
-      "title": "Nejdražší start Tour v historii? Britský Grand Départ má stát 65 milionů liber",
-      "summary": "",
-      "url": "https://cyklorepublic.cz/clanky/01a17377-2108-72d4-a7c7-f8bef746b3cc/nejdrazsi-start-tour-v-historii-britsky-grand-depart-ma-stat-65-milionu-liber",
-      "source": "CykloRepublic.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
-      "published": "2026-10-25"
-    },
-    {
       "title": "🏕️ Husky Sawaj Ultra 2 recenze: 14 let a 500+ nocí s ultralehkým stanem na cyklocesty od Alp po Island",
       "summary": "Dnes se s Vámi podělím o dlouhodobou zkušenost se stanem Husky Sawaj Ultra 2. A když píšu dlouhodobou, myslím tím opravdu dlouhodobou. Tento stan jsme si pořídili už v roce 2012 a jeho premiéra se odehrála na cyklotrase ",
       "url": "https://cyklocestovatel.cz/husky-sawaj-ultra-2/",
@@ -2924,6 +2933,15 @@
       "source": "MTBIKER.cz",
       "lang": "CS",
       "category": "Gravel",
+      "published": ""
+    },
+    {
+      "title": "Vrstvení jako základ – jak se obléct na podzim",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132080/vrstveni-jako-zaklad-jak-se-oblect-na-podzim.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "MTB",
       "published": ""
     },
     {
