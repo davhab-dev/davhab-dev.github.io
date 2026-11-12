@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://www.irozhlas.cz/zpravy-svet/usa-nerozlisuji-mezi-agresorem-a-napadenym-pritom-maji-paky-na-kyjev-i-moskvu_2611121108_bva",
+      "USA nerozlišují mezi agresorem a napadeným. Přitom mají páky na Kyjev i Moskvu, tvrdí analytik Bříza"
+    ],
+    "started_at": "2026-11-12T11:35:19.090891+00:00"
+  },
   "queue": [
     [
       "https://www.irozhlas.cz/zpravy-svet/usa-nerozlisuji-mezi-agresorem-a-napadenym-pritom-maji-paky-na-kyjev-i-moskvu_2611121108_bva",
@@ -100,7 +106,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:35:09.503043+00:00",
+  "heartbeat": "2026-11-12T11:35:19.090891+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
