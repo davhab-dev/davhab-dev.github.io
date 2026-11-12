@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://www.ceskenoviny.cz/zpravy/americti-vyjednavaci-witkoff-a-kushner-prileteli-do-moskvy-za-putinem/2900950",
+      "Američtí vyjednavači Witkoff a Kushner přiletěli do Moskvy za Putinem"
+    ],
+    "started_at": "2026-11-12T11:33:56.961750+00:00"
+  },
   "queue": [
     [
       "https://www.ceskenoviny.cz/zpravy/americti-vyjednavaci-witkoff-a-kushner-prileteli-do-moskvy-za-putinem/2900950",
@@ -108,7 +114,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:33:49.159604+00:00",
+  "heartbeat": "2026-11-12T11:33:56.961750+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
