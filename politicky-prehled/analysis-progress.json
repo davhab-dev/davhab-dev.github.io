@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://ct24.ceskatelevize.cz/clanek/svet/v-srbsku-stale-neni-jasno-kdo-bude-premierem-379539",
+      "V Srbsku stále není jasno, kdo bude premiérem"
+    ],
+    "started_at": "2026-11-12T11:38:28.355756+00:00"
+  },
   "queue": [
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/v-srbsku-stale-neni-jasno-kdo-bude-premierem-379539",
@@ -84,7 +90,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:38:20.278097+00:00",
+  "heartbeat": "2026-11-12T11:38:28.355756+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
