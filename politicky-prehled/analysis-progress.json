@@ -1,17 +1,7 @@
 {
   "active": true,
-  "current": {
-    "key": [
-      "https://www.idnes.cz/zpravy/zahranicni/nejdriv-jeden-a-vzapeti-druhy-pred-macronem-a-pellegrinim-zkolabovali-vojaci.A261112_093737_zahranicni_kha",
-      "Nejdřív jeden a vzápětí druhý. Před Macronem a Pellegrinim zkolabovali vojáci"
-    ],
-    "started_at": "2026-11-12T11:40:08.946425+00:00"
-  },
+  "current": null,
   "queue": [
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/nejdriv-jeden-a-vzapeti-druhy-pred-macronem-a-pellegrinim-zkolabovali-vojaci.A261112_093737_zahranicni_kha",
-      "Nejdřív jeden a vzápětí druhý. Před Macronem a Pellegrinim zkolabovali vojáci"
-    ],
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/skopecek-ma-sektorovou-dan-za-ekonomicke-zlo-paril-by-u-bank-hledal-jinou-cestu-379537",
       "Skopeček má sektorovou daň za ekonomické zlo. Pařil by u bank hledal jinou cestu"
@@ -82,7 +72,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:40:08.946425+00:00",
+  "heartbeat": "2026-11-12T11:40:42.807853+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
@@ -134,6 +124,10 @@
       [
         "https://zpravy.aktualne.cz/zahranici/ukrajina-se-znovu-potyka-s-omezenim-satelitniho-systemu-starshield-uvedl-zelenskyj/r~aaa2988cf3a1ec2868538aa3e574fa1a/",
         "Ukrajina opět čelí systematickému omezení Muskových satelitů, zlobí se Zelenskyj"
+      ],
+      [
+        "https://www.idnes.cz/zpravy/zahranicni/nejdriv-jeden-a-vzapeti-druhy-pred-macronem-a-pellegrinim-zkolabovali-vojaci.A261112_093737_zahranicni_kha",
+        "Nejdřív jeden a vzápětí druhý. Před Macronem a Pellegrinim zkolabovali vojáci"
       ]
     ],
     "deferred": [],
@@ -163,6 +157,7 @@
     39.637299,
     39.03571,
     37.918118,
-    45.983214
+    45.983214,
+    33.861428
   ]
 }
