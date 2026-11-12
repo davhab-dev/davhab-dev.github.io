@@ -1,34 +1,70 @@
 {
-  "active": false,
+  "active": true,
   "current": null,
   "queue": [
     [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/koalicni-smlouvu-ve-zline-podepsaly-stan-zlin-21-a-trojblok-379531",
-      "Koaliční smlouvu ve Zlíně podepsaly STAN, Zlín 21 a trojblok"
+      "https://www.idnes.cz/zpravy/zahranicni/scott-colom-vyhral-v-mississippi-bude-prvnim-cernosskym-senatorem-od-valky.A261112_004235_zahranicni_air",
+      "Scott Colom vyhrál v Mississippi, bude prvním černošským senátorem od války"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/cesko-by-mohlo-dodat-ukrajine-16-letounu-skyfox-uvedl-havlicek-379530",
-      "Havlíček: Česko by mohlo dodat Ukrajině 16 letounů Skyfox. Čtyři už byly potvrzeny"
+      "https://www.irozhlas.cz/zpravy-svet/babis-jede-do-izraele-narychlo-navsteva-prichazi-v-dobe-kdy-maji-izraelci-jine_2611120010_ntu",
+      "Babiš jede do Izraele narychlo. Návštěva přichází v době, kdy mají Izraelci jiné starosti, říká Tureček"
+    ],
+    [
+      "https://www.irozhlas.cz/zpravy-domov/nestrasme-kraje-ze-prijdou-o-penize-za-odber-vody-zni-z-ano-lidovci-babis-utoci_2611112348_jkd",
+      "Nestrašme kraje, že přijdou o peníze za odběr vody, zní z ANO. Lidovci: Babiš útočí na rozpočty"
+    ],
+    [
+      "https://www.irozhlas.cz/zpravy-domov/nemec-vlada-dela-chybu-vyvolava-protivlnu-prichazi-o-ty-kteri-byli-zcasti_2611112322_cen",
+      "Němec: Vláda dělá chybu, vyvolává protivlnu. Přichází o ty, kteří byli zčásti ochotní být loajální"
+    ],
+    [
+      "https://www.irozhlas.cz/zpravy-domov/kupka-se-dnesniho-boje-nehodi-problemem-ods-je-ze-po-fialovi-neprisel-rafan_2611112249_ntu",
+      "Kupka se dnešního boje nehodí. Problémem ODS je, že po Fialovi nepřišel ‚rafan‘, soudí Dolejší"
+    ],
+    [
+      "https://www.irozhlas.cz/zpravy-domov/zmena-pro-skolni-jidelny-zdrava-strava-je-klicova-rika-valek-stastny-zbytecne_2611112234_jar",
+      "Změna pro školní jídelny? Zdravá strava je klíčová, říká Válek. Šťastný: Zbytečné, většina vaří kvalitně"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/hegseth-ministr-obrany-usa-nevhidne-chovani-na-hrbitove-napomenul-ho-vojak.A261111_215639_zahranicni_jira",
+      "Hegseth se s doprovodem hlasitě smál u hrobu neznámého vojína. Seřval je voják"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/spanelsko-generalni-stavka-demonstrace-po-cele-zemi.A261111_110814_zahranicni_ikul",
+      "Španělsko ochromila dva týdny před volbami první generální stávka za 14 let"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/ukrajina-zelenskyj-mir-by-mohl-nastat-letos-zalezi-ale-na-pristupu-usa-vuci-rusku.A261111_213154_zahranicni_jira",
+      "Jednání o míru mohou přinést výsledky letos. Záleží ale na USA, míní Zelenskyj"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/trumpova-vlada-propustila-reditele-hlasu-ameriky-nelegalne-rozhodl-soud-379534",
+      "Trumpova vláda propustila ředitele Hlasu Ameriky nelegálně, rozhodl soud"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/financovani-verejnopravnich-medii-v-cesku-musi-byt-udrzitelne-rekl-eurokomisar-379533",
+      "Financování veřejnoprávních médií v Česku musí být udržitelné, řekl eurokomisař"
+    ],
+    [
+      "https://www.irozhlas.cz/zpravy-svet/americane-nejsou-zabetonovani-ve-svych-taborech-demokratum-pomohli-i-trumpovi_2611112113_ntu",
+      "‚Američané nejsou zabetonovaní ve svých táborech.‘ Demokratům pomohli i Trumpovi voliči"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/cesko-by-podle-havlicka-mohlo-dodat-ukrajine-16-letounu-skyfox/r~aaa29d0ba54af6a55481cdf59306a220/",
+      "Česko by podle Havlíčka mohlo dodat Ukrajině 16 letounů Skyfox"
     ],
     [
       "https://www.denik.cz/evropa/orbanuv-bratr-je-ve-vazbe-hrozi-mu-az-deset-let-vezeni/",
       "Orbánův bratr je ve vazbě. Hrozí mu až deset let vězení"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/madarsky-soud-poslal-orbanova-bratra-do-vazby.A261111_195802_zahranicni_meli",
-      "Bratr bojovníka proti migraci Orbána je ve vazbě. Pašoval do země Vietnamce"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/kdybych-vedel-o-sve-rakovine-nekandidoval-bych-priznal-biden.A261111_201143_zahranicni_meli",
-      "Kdybych věděl o své rakovině, neusiloval bych o druhý mandát, lituje Biden"
+      "https://www.ceskenoviny.cz/zpravy/koalicni-smlouvu-ve-zline-podepsaly-stan-zlin-21-a-trojblok/2900812",
+      "Koaliční smlouvu ve Zlíně podepsaly STAN, Zlín 21 a trojblok"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/zemedelci-celi-vysokym-nakladum-i-tlakum-na-ochranu-zivotniho-prostredi-379526",
       "Zemědělci čelí vysokým nákladům i tlakům na ochranu životního prostředí"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/ukrajina-havlicek-navsteva-delegace-smyhal.A261111_132545_domaci_aoc",
-      "Havlíček se v Kyjevě sešel s premiérem. Česko nejspíš dodá 16 letounů"
     ],
     [
       "https://zpravy.aktualne.cz/domaci/prehledne-co-ceka-prahu-pod-novymi-pany-zdrazeni-nejen-mhd-i-megaprojekt/r~aaa29ecd0ee6b316faead01f39ee5664/",
@@ -39,24 +75,12 @@
       "Maďarský soud poslal Orbánova bratra do vazby"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/polsko-hybridni-valka-ukrajina-rusko-belorusko.A261111_182153_zahranicni_rtn",
-      "Oslava banderovců na památnících v Polsku. Objednávka opět vede na východ"
-    ],
-    [
       "https://cnn.iprima.cz/predseda-uohs-mlsna-prisel-o-proverku-presto-zvazuje-ze-se-bude-o-funkci-znovu-uchazet-526935",
       "Předseda ÚOHS Mlsna přišel o prověrku. Přesto zvažuje, že se bude o funkci znovu ucházet"
     ],
     [
-      "https://www.irozhlas.cz/zpravy-domov/novy-rok-novy-hejtman-v-libereckem-kraji-konci-puta-jeho-misto-ma-pripadnout_2611111940_aha",
-      "Nový rok, nový hejtman. V libereckém kraji končí Půta, jeho místo má připadnout Janu Svitákovi"
-    ],
-    [
       "https://cnn.iprima.cz/orbanuv-bratr-je-ve-vazbe-soud-ho-tam-poslal-i-s-pritelkyni-526931",
       "Orbánův bratr je ve vazbě. Maďarský soud ho tam poslal i s přítelkyní"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/o-neucasti-vojaku-na-cviceni-v-polsku-vlada-nejednala-je-to-v-kompetenci-armady-a-zuny-rekl-babis.A261111_184403_domaci_remy",
-      "To Zůna, vláda o tom nejednala, řekl Babiš k české absenci na cvičení v Polsku"
     ],
     [
       "https://zpravy.aktualne.cz/domaci/cesko-ma-zajem-zapojit-se-do-druheho-kola-obrannych-pujcek-safe-rekl-babis/r~aaa29b425407ac85ff2ee5c32ad3a54f/",
@@ -75,24 +99,8 @@
       "Stávkující trvají na poplatcích, ale šéf ČT se už smiřuje s novou realitou"
     ],
     [
-      "https://www.irozhlas.cz/zpravy-domov/cesko-chybelo-na-cviceni-v-polsku-nemame-ambici-vysilat-vojaky-mimo-uzemi-nato_2611111801_ntu",
-      "Česko chybí na cvičení v Polsku. ‚Nemáme ambici vysílat vojáky mimo území NATO,‘ uvedl Okamura"
-    ],
-    [
-      "https://zpravy.aktualne.cz/domaci/vetsi-prostor-a-odpovednost-pro-jidelny-vyhlasky-o-skolnim-stravovani-budou-jen-doporucenim/r~aaa29024e63b38d84ffcf625aab30313/",
-      "Větší prostor a odpovědnost pro jídelny. Vyhlášky o školním stravování budou jen doporučením"
-    ],
-    [
       "https://cnn.iprima.cz/babis-o-neucasti-armady-na-cviceni-v-polsku-na-vlade-nepadlo-ani-slovo-je-to-vec-obrany-526924",
       "Babiš popřel Okamuru. O neúčasti armády na cvičení v Polsku na vládě nepadlo ani slovo"
-    ],
-    [
-      "https://cnn.iprima.cz/iran-pohrozil-udery-na-zakladny-v-evrope-reagovat-chce-na-pripadny-utok-usa-526922",
-      "Írán hrozí údery na americké základny v Evropě. Chce tak reagovat na případný útok USA"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/ukrajina-nam-dala-to-nejcennejsi-co-si-nelze-koupit-cas-rika-briza-379514",
-      "„Ukrajina nám dala to nejcennější, co si nelze koupit – čas,“ říká Bříza"
     ],
     [
       "https://zpravy.aktualne.cz/zahranici/v-polsku-je-panem-polak-varsava-praska-ve-svech-pochod-nacionalistu-vede-prezident/r~aaa29e596f17a2a7917a097588ec95ad/",
@@ -111,14 +119,6 @@
       "Sektorové daně? Vládní nápady se mění jako počasí v dubnu, řekl Rakušan"
     ],
     [
-      "https://www.irozhlas.cz/zpravy-domov/s-touhle-vladou-ne-pirati-ve-snemovne-nepodpori-celostatni-referendum-vadi-jim_2611111600_ako",
-      "‚S touhle vládou ne.‘ Piráti ve Sněmovně nepodpoří celostátní referendum, vadí jim dezinformace"
-    ],
-    [
-      "https://www.irozhlas.cz/zpravy-svet/tisice-skol-v-italii-a-britanii-dostaly-vyhruzky-bombou-policie-hrozby_2611111552_ntu",
-      "Tisíce škol v Itálii a Británii dostaly výhrůžky bombou. Policie hrozby nepovažuje za věrohodné"
-    ],
-    [
       "https://www.denik.cz/cesko/vit-rakusan-kritika-chovani-sevcik-okamura-snemovna/",
       "Menopauza, urážky, hádky. Rakušan kritizoval poměry ve sněmovně, Ševčík se brání"
     ],
@@ -132,24 +132,13 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-11T20:13:30.122177+00:00",
+  "heartbeat": "2026-11-12T00:10:12.676534+00:00",
   "cycle": {
-    "started_at": "2026-11-11T20:10:44.474185+00:00",
-    "initial_pending": 34,
-    "completed": [
-      [
-        "https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-mir-jednani-vyjednavac-medinskij.A261111_184904_zahranicni_rtn",
-        "Vrátí se nám každý centimetr. Ukrajina je prasklý vřed, soudí ruský šéfvyjednavač"
-      ],
-      [
-        "https://www.irozhlas.cz/zpravy-domov/sport-me-naucil-ze-zadny-uspech-neni-dilem-jednotlivce-primatorem-opavy-je_2611112035_med",
-        "‚Sport mě naučil, že žádný úspěch není dílem jednotlivce.‘ Primátorem Opavy je bývalý basketbalista"
-      ]
-    ],
+    "started_at": "2026-11-12T00:10:12.676534+00:00",
+    "initial_pending": 32,
+    "completed": [],
     "deferred": [],
-    "status": "incomplete",
-    "finished_at": "2026-11-11T20:13:30.122177+00:00",
-    "remaining": 32
+    "status": "running"
   },
   "samples_seconds": [
     51.274763,
