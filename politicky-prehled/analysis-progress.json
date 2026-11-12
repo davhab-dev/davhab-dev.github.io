@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://www.idnes.cz/zpravy/zahranicni/nejdriv-jeden-a-vzapeti-druhy-pred-macronem-a-pellegrinim-zkolabovali-vojaci.A261112_093737_zahranicni_kha",
+      "Nejdřív jeden a vzápětí druhý. Před Macronem a Pellegrinim zkolabovali vojáci"
+    ],
+    "started_at": "2026-11-12T11:40:08.946425+00:00"
+  },
   "queue": [
     [
       "https://www.idnes.cz/zpravy/zahranicni/nejdriv-jeden-a-vzapeti-druhy-pred-macronem-a-pellegrinim-zkolabovali-vojaci.A261112_093737_zahranicni_kha",
@@ -76,7 +82,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:40:01.390759+00:00",
+  "heartbeat": "2026-11-12T11:40:08.946425+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
