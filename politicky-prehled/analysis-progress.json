@@ -1,135 +1,136 @@
 {
-  "active": false,
+  "active": true,
   "current": null,
   "queue": [
     [
-      "https://zpravy.aktualne.cz/domaci/macinkovy-muzatky-dobyvaji-ameriku-pise-o-nich-uz-i-new-york-times/r~aaa29b8ac14b9f4f0772b859a77f29ec/",
-      "Macinkovy „mužatky“ dobývají Ameriku. Píše o nich už i New York Times"
+      "https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-valka-umela-inteligence-falesna-videa.A261112_112406_zahranicni_dtt",
+      "Vítězství jen naoko. Rusové falšují dobytí měst pomocí AI, vojáci mizí v trávě"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/svet/francie-hleda-macronova-nastupce-pruzkumum-dominuji-politicke-okraje-379444",
-      "Francie hledá Macronova nástupce, průzkumům dominují politické okraje"
+      "https://www.idnes.cz/zpravy/domaci/stan-kritika-obranne-politiky-vlady-andreje-babise-i-zruseni-stravovaci-vyhlasky.A261112_105310_domaci_jira",
+      "Vláda hazarduje s naší obranyschopností, zlobí se hnutí STAN"
     ],
     [
-      "https://www.irozhlas.cz/zpravy-domov/vinu-neciti-penize-nevratili-co-meli-pekari-zamlcet-v-kauze-babisovych-toastu-za_2611120600_jkd",
-      "Vinu necítí, peníze nevrátili. Co měli pekaři zamlčet v kauze Babišových toastů za 100 milionů?"
+      "https://www.idnes.cz/zpravy/zahranicni/kushner-s-witkoffem-jsou-v-moskve-po-schuzce-s-putinem-odleti-za-zelenskym.A261112_114559_zahranicni_kha",
+      "Kushner s Witkoffem jsou v Moskvě, po schůzce s Putinem odletí za Zelenským"
     ],
     [
-      "https://www.irozhlas.cz/zpravy-domov/cim-starsi-tim-kritictejsi-cesi-nejsou-spokojeni-s-fungovanim-demokracie-od_2611120600_mst",
-      "Čím starší, tím kritičtější. Češi nejsou spokojeni s fungováním demokracie, od loňska se stav zhoršil"
+      "https://zpravy.aktualne.cz/domaci/revoluce-v-prijimackach-na-stredni-se-blizi-ministr-oznamil-datum-zmeny/r~aaa290541774990ed14a70aaba3908b2/",
+      "Revoluce v přijímačkách na střední se blíží. Ministr oznámil datum změny"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/americti-vyjednavaci-witkoff-a-kushner-prileteli-do-moskvy-za-putinem/2900950",
+      "Američtí vyjednavači Witkoff a Kushner přiletěli do Moskvy za Putinem"
+    ],
+    [
+      "https://www.denik.cz/evropa/macron-pellegrini-gardiste-vojaci-straz-omdleli-video/",
+      "Drama při státní návštěvě. Před Macronem a Pellegrinim se zhroutili dva gardisté"
+    ],
+    [
+      "https://www.irozhlas.cz/zpravy-svet/usa-nerozlisuji-mezi-agresorem-a-napadenym-pritom-maji-paky-na-kyjev-i-moskvu_2611121108_bva",
+      "USA nerozlišují mezi agresorem a napadeným. Přitom mají páky na Kyjev i Moskvu, tvrdí analytik Bříza"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/mexican-cesko-soud-souhlas-s-vydanim-do-usa-kriminalita-drogy.A261112_105351_domaci_aoc",
+      "Mexičan zadržený v Česku souhlasil s vydáním do USA, stíhají ho za drogy"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/ukrajina-se-opet-potyka-s-omezenim-systemu-starshield-oznamil-zelenskyj.A261112_103734_zahranicni_bro",
+      "Ukrajina se opět potýká s omezením systému Starshield, oznámil Zelenskyj"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/primatorkou-havirova-je-opet-iveta-koci-palkovska-z-hnuti-ano/2901012",
+      "Primátorkou Havířova je opět Iveta Kočí Palkovská z hnutí ANO"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/v-srbsku-stale-neni-jasno-kdo-bude-premierem-379539",
+      "V Srbsku stále není jasno, kdo bude premiérem"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/ukrajina-se-znovu-potyka-s-omezenim-satelitniho-systemu-starshield-uvedl-zelenskyj/r~aaa2988cf3a1ec2868538aa3e574fa1a/",
+      "Ukrajina opět čelí systematickému omezení Muskových satelitů, zlobí se Zelenskyj"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/nejdriv-jeden-a-vzapeti-druhy-pred-macronem-a-pellegrinim-zkolabovali-vojaci.A261112_093737_zahranicni_kha",
+      "Nejdřív jeden a vzápětí druhý. Před Macronem a Pellegrinim zkolabovali vojáci"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/skopecek-ma-sektorovou-dan-za-ekonomicke-zlo-paril-by-u-bank-hledal-jinou-cestu-379537",
+      "Skopeček má sektorovou daň za ekonomické zlo. Pařil by u bank hledal jinou cestu"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/-babis-by-rad-aby-za-evropu-s-ruskem-mluvili-meloniova-tusk-nebo-costa/2898234",
+      "Babiš by rád, aby za Evropu s Ruskem mluvili Meloniová, Tusk, nebo Costa"
+    ],
+    [
+      "https://www.irozhlas.cz/zpravy-domov/kryry-na-lounsku-maji-noveho-starostu-mesto-povede-petr-ulke-z-uskupeni-spolecna_2611121015_elv",
+      "Kryry na Lounsku mají nového starostu. Město povede Petr Ulke z uskupení Společná budoucnost"
+    ],
+    [
+      "https://www.irozhlas.cz/zpravy-domov/rucni-scitani-volebnich-hlasu-je-otrocka-prace-tvrdi-karvinsky-tajemnik-nogol_2611121010_elv",
+      "Ruční sčítání volebních hlasů je otrocká práce, tvrdí karvinský tajemník Nogol. Navrhuje využívat skenery"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/novym-primatorem-zlina-je-lidr-hnuti-zlin-21-vancura/2900812",
+      "Novým primátorem Zlína je lídr hnutí Zlín 21 Vančura"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/eu-v-pondeli-prijme-dalsi-sankce-proti-rusku-zameri-se-na-rafinerie-a-flotilu/2900980",
+      "EU v pondělí přijme další sankce proti Rusku, zaměří se na rafinerie a flotilu"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/ruske-utoky-maji-obeti-v-kyjeve-a-chersonu-379543",
+      "Ruské útoky mají oběti v Kyjevě, Chersonu či Záporožské oblasti"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/egypt-mesice-tajne-posila-vojaky-a-stihacky-saudum-pise-mee-379541",
+      "Egypt měsíce tajně posílá vojáky a stíhačky Saúdům, píše MEE"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/masivni-vybuchy-zastavily-v-hormuzu-dva-supertankery-tvrdi-iranske-gardy/2900965",
+      "Masivní výbuchy zastavily v Hormuzu dva supertankery, tvrdí íránské gardy"
+    ],
+    [
+      "https://www.irozhlas.cz/zpravy-domov/starostou-prahy-8-byl-zvolen-hrebik-z-hnuti-stan-v-opozici-konci-vitez-voleb-se_2611120845_aha",
+      "Starostou Prahy 8 byl zvolen Hřebík z hnutí STAN. V opozici končí vítěz voleb, to se nelíbí části obyvatel"
+    ],
+    [
+      "https://www.irozhlas.cz/zpravy-domov/koalicni-smlouvu-ve-zline-podepsaly-stan-zlin-21-a-trojblok-mensich-uskupeni-ano_2611120833_elv",
+      "Koaliční smlouvu ve Zlíně podepsaly STAN, Zlín 21 a trojblok menších uskupení. ANO míří do opozice"
+    ],
+    [
+      "https://www.denik.cz/svet/usa-volby-senat-mississippi-scott-colom/",
+      "Poprvé od občanské války. Senátorem za Mississippi bude černoch Scott Colom"
+    ],
+    [
+      "https://denikn.cz/newsletter/2254365/sefovi-uohs-mlsnovi-pozastavili-bezpecnostni-proverku-plaga-chce-prevrat-v-jidelnach-bez-debaty-s-odborniky-ukrajinci-a-rusove-v-abu-dhabi-dojednali-jen-vymenu-veznu/",
+      "R5M: Šéfovi ÚOHS Mlsnovi pozastavili bezpečnostní prověrku | Plaga chce převrat v jídelnách bez debaty s odborníky | Ukrajinci a Rusové v Abú Dhabí dojednali jen výměnu vězňů"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/vzdusny-prostor-pobaltskych-zemi-dlouhodobe-narusuji-drony-379527",
+      "Vzdušný prostor pobaltských zemí dlouhodobě narušují drony"
+    ],
+    [
+      "https://www.irozhlas.cz/zpravy-svet/mississippi-bude-mit-prvniho-cernosskeho-senatora-od-obcanske-valky-colom-vitezi_2611120647_bva",
+      "Mississippi bude mít prvního černošského senátora od občanské války. Colom vítězí v baště republikánů"
     ],
     [
       "https://www.denik.cz/cesko/cesko-celostatni-referendum-vlada-navrh-schvaleni/",
       "Celostátní referendum? Polarizace společnosti, říká expert k návrhu vlády"
     ],
     [
-      "https://www.irozhlas.cz/zpravy-domov/pamatka-nesmi-chcipnout-starosta-na-karvinsku-zachranuje-petaosmdesatimetrovou_2611120526_brz",
-      "‚Památka nesmí chcípnout‘. Starosta na Karvinsku zachraňuje pětaosmdesátimetrovou důlní věž"
-    ],
-    [
-      "https://www.irozhlas.cz/zpravy-domov/inkasoval-desitky-milionu-diky-putinovu-zbrojarovi-pise-soud-o-rusovi-ktery-uz_2611120500_hrk",
-      "Inkasoval desítky milionů díky Putinovu zbrojařovi, píše soud o Rusovi, který už nesmí vkročit do Česka"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/ukrajinci-jsou-podle-svych-slov-na-zimu-pripraveni.A261111_173713_zahranicni_jira",
-      "Teplé oblečení, dřevo na topení a vařiče. Zimu přežijeme, míní sebevědomí Ukrajinci"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/hegseth-ministr-obrany-usa-nevhidne-chovani-na-hrbitove-napomenul-ho-vojak.A261111_215639_zahranicni_jira",
-      "Hegseth se s doprovodem hlasitě smál u hrobu neznámého vojína. Seřval je voják"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/trumpova-vlada-propustila-reditele-hlasu-ameriky-nelegalne-rozhodl-soud-379534",
-      "Trumpova vláda propustila ředitele Hlasu Ameriky nelegálně, rozhodl soud"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/financovani-verejnopravnich-medii-v-cesku-musi-byt-udrzitelne-rekl-eurokomisar-379533",
-      "Financování veřejnoprávních médií v Česku musí být udržitelné, řekl eurokomisař"
-    ],
-    [
-      "https://zpravy.aktualne.cz/domaci/cesko-by-podle-havlicka-mohlo-dodat-ukrajine-16-letounu-skyfox/r~aaa29d0ba54af6a55481cdf59306a220/",
-      "Česko by podle Havlíčka mohlo dodat Ukrajině 16 letounů Skyfox"
-    ],
-    [
       "https://www.denik.cz/evropa/orbanuv-bratr-je-ve-vazbe-hrozi-mu-az-deset-let-vezeni/",
       "Orbánův bratr je ve vazbě. Hrozí mu až deset let vězení"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/koalicni-smlouvu-ve-zline-podepsaly-stan-zlin-21-a-trojblok/2900812",
-      "Koaliční smlouvu ve Zlíně podepsaly STAN, Zlín 21 a trojblok"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/zemedelci-celi-vysokym-nakladum-i-tlakum-na-ochranu-zivotniho-prostredi-379526",
-      "Zemědělci čelí vysokým nákladům i tlakům na ochranu životního prostředí"
-    ],
-    [
-      "https://zpravy.aktualne.cz/domaci/prehledne-co-ceka-prahu-pod-novymi-pany-zdrazeni-nejen-mhd-i-megaprojekt/r~aaa29ecd0ee6b316faead01f39ee5664/",
-      "Přehledně: Co čeká Prahu pod novými pány. Zdražení nejen MHD i megaprojekt"
-    ],
-    [
-      "https://cnn.iprima.cz/predseda-uohs-mlsna-prisel-o-proverku-presto-zvazuje-ze-se-bude-o-funkci-znovu-uchazet-526935",
-      "Předseda ÚOHS Mlsna přišel o prověrku. Přesto zvažuje, že se bude o funkci znovu ucházet"
-    ],
-    [
-      "https://cnn.iprima.cz/orbanuv-bratr-je-ve-vazbe-soud-ho-tam-poslal-i-s-pritelkyni-526931",
-      "Orbánův bratr je ve vazbě. Maďarský soud ho tam poslal i s přítelkyní"
-    ],
-    [
-      "https://zpravy.aktualne.cz/domaci/cesko-ma-zajem-zapojit-se-do-druheho-kola-obrannych-pujcek-safe-rekl-babis/r~aaa29b425407ac85ff2ee5c32ad3a54f/",
-      "Česko má zájem zapojit se do druhého kola obranných půjček SAFE, řekl Babiš"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/ukrajinske-drony-opet-utocily-na-sibiri-nejspise-na-nejvetsi-rafinerii/2900340",
-      "Ukrajinské drony opět útočily na Sibiři, nejspíše na největší rafinérii"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/v-krnap-panuje-nejistota-odbory-zustavaji-ve-stavkove-pohotovosti/2897217",
-      "V KRNAP panuje nejistota, odbory zůstávají ve stávkové pohotovosti"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/madarsky-soud-poslal-orbanova-bratra-a-jeho-pritelkyni-do-vazby/2899470",
-      "Maďarský soud poslal Orbánova bratra a jeho přítelkyni do vazby"
-    ],
-    [
-      "https://cnn.iprima.cz/babis-o-neucasti-armady-na-cviceni-v-polsku-na-vlade-nepadlo-ani-slovo-je-to-vec-obrany-526924",
-      "Babiš popřel Okamuru. O neúčasti armády na cvičení v Polsku na vládě nepadlo ani slovo"
-    ],
-    [
-      "https://zpravy.aktualne.cz/zahranici/v-polsku-je-panem-polak-varsava-praska-ve-svech-pochod-nacionalistu-vede-prezident/r~aaa29e596f17a2a7917a097588ec95ad/",
-      "V Polsku je pánem Polák. Varšava praskala ve švech, pochod nacionalistů vedl prezident"
-    ],
-    [
-      "https://www.denik.cz/cesko/andrej-babis-17-listopad-narodni-trida-vit-rakusan/",
-      "Premiér by na Národní chybět neměl, není to chlapské ani státnické, říká Rakušan"
-    ],
-    [
-      "https://www.denik.cz/cesko/sektorove-dane-vlada-vit-rakusan-debata/",
-      "Sektorové daně? Vládní nápady se mění jako počasí v dubnu, řekl Rakušan"
-    ],
-    [
-      "https://www.denik.cz/cesko/vit-rakusan-kritika-chovani-sevcik-okamura-snemovna/",
-      "Menopauza, urážky, hádky. Rakušan kritizoval poměry ve sněmovně, Ševčík se brání"
-    ],
-    [
-      "https://www.respekt.cz/informacni-servis/zelenskyj-evropa-si-musi-vybrat-kdo-ji-bude-zastupovat-na-jednanich-s-ruskem-2026-11-11-00-16",
-      "Zelenskyj: Evropa si musí vybrat, kdo ji bude zastupovat na jednáních s Ruskem"
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T05:53:12.809916+00:00",
+  "heartbeat": "2026-11-12T11:28:35.008670+00:00",
   "cycle": {
-    "started_at": "2026-11-12T05:51:45.815829+00:00",
-    "initial_pending": 29,
-    "completed": [
-      [
-        "https://www.idnes.cz/zpravy/zahranicni/scott-colom-porazil-hydeovou-smythovou-je-prvnim-cernosskym-senatorem-v-mississippi-od-obcanske-valk.A261112_004235_zahranicni_air",
-        "Po týdnu sečteno. Scott Colom je prvním černošským senátorem v Mississippi od občanské války"
-      ]
-    ],
+    "started_at": "2026-11-12T11:28:35.008670+00:00",
+    "initial_pending": 30,
+    "completed": [],
     "deferred": [],
-    "status": "incomplete",
-    "finished_at": "2026-11-12T05:53:12.809916+00:00",
-    "remaining": 28
+    "status": "running"
   },
   "samples_seconds": [
     51.274763,
