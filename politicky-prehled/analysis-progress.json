@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://www.denik.cz/evropa/orbanuv-bratr-je-ve-vazbe-hrozi-mu-az-deset-let-vezeni/",
+      "Orbánův bratr je ve vazbě. Hrozí mu až deset let vězení"
+    ],
+    "started_at": "2026-11-12T11:53:15.330853+00:00"
+  },
   "queue": [
     [
       "https://www.denik.cz/evropa/orbanuv-bratr-je-ve-vazbe-hrozi-mu-az-deset-let-vezeni/",
@@ -8,7 +14,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:53:05.760497+00:00",
+  "heartbeat": "2026-11-12T11:53:15.330853+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
