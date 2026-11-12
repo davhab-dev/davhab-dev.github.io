@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T12:36:51.556843+00:00",
+  "updated": "2026-11-12T13:22:08.332627+00:00",
   "articles": [
     {
       "title": "“We've been asked many times whether we would make an ebike” – J.Laverack adds Mahle X20 motor to a selection of its titanium framesets",
@@ -65,18 +65,18 @@
       "published": "2026-11-12T09:00:00+00:00"
     },
     {
-      "title": "Wolf Tooth Locked-In Bar Ends – Koncovky řídítek, které ovládly světové DH",
+      "title": "Nová limitka Canyon Spectral:ON CF LTD: 150 kusů, 150 Nm a pouhých 20,8 kg",
       "summary": "",
-      "url": "https://mtbs.cz/clanek/wolf-tooth-locked-in-bar-ends-koncovky-riditek-ktere-ovladly-svetove-dh/kategorie/tech-news",
+      "url": "https://mtbs.cz/clanek/canyon-spectral-on-cf-ltd-150-kusu-150-nm-a-pouhych-20-8-kg-nova-limitka-ukazuje-silu-avinoxu/kategorie/tech-news",
       "source": "MTBS.cz",
       "lang": "CS",
       "category": "MTB",
       "published": "2026-11-12"
     },
     {
-      "title": "Nová limitka Canyon Spectral:ON CF LTD: 150 kusů, 150 Nm a pouhých 20,8 kg",
+      "title": "Wolf Tooth Locked-In Bar Ends – Koncovky řídítek, které ovládly světové DH",
       "summary": "",
-      "url": "https://mtbs.cz/clanek/canyon-spectral-on-cf-ltd-150-kusu-150-nm-a-pouhych-20-8-kg-nova-limitka-ukazuje-silu-avinoxu/kategorie/tech-news",
+      "url": "https://mtbs.cz/clanek/wolf-tooth-locked-in-bar-ends-koncovky-riditek-ktere-ovladly-svetove-dh/kategorie/tech-news",
       "source": "MTBS.cz",
       "lang": "CS",
       "category": "MTB",
@@ -596,15 +596,6 @@
       "published": "2026-11-09"
     },
     {
-      "title": "Vrstvení jako základ – jak se obléct na podzim",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132080/vrstveni-jako-zaklad-jak-se-oblect-na-podzim.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-11-09"
-    },
-    {
       "title": "Ridley a čtyři čeští nováčci jsou hlavními změnami ATT Investments pro rok 2027. Nejen o tom jsme si povídali s Adrianem Banaszekem",
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/ridley-a-ctyri-cesti-novacci-jsou-hlavnimi-zmenami-att-investments-pro-rok-2027-nejen-o-tom-jsme-si-povidali-s-adrianem-banaszekem",
@@ -722,15 +713,6 @@
       "published": "2026-11-08"
     },
     {
-      "title": "Fotogalerie: Mistrovství Evropy v cyklokrosu - Zeddam 2026 - sobota",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/fotogalerie-mistrovstvi-evropy-v-cyklokrosu-zeddam-2026-sobota/kategorie/zavody",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": "2026-11-08"
-    },
-    {
       "title": "Druhý evropský titul, druhá výhra ve druhém cyklokrosovém startu pro Nyse. Belgičané obsadili všechny stupně v Nizozemsku. Boroš dojel po smolném pádu třináctý",
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/druhy-evropsky-titul-druha-vyhra-ve-druhem-cyklokrosovem-startu-pro-nyse-belgicane-obsadili-vsechny-stupne-v-nizozemsku-boros-dojel-po-smolnem-padu-trinacty",
@@ -744,6 +726,15 @@
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/sourozenci-bukovsti-padali-na-medaili-nedosahli-ale-vybojovali-desitku-nad-cyklokrosovym-svetem-visi-evropska-zaloba-schreiber…",
       "source": "RoadCycling.cz",
+      "lang": "CS",
+      "category": "Závody",
+      "published": "2026-11-08"
+    },
+    {
+      "title": "Fotogalerie: Mistrovství Evropy v cyklokrosu - Zeddam 2026 - sobota",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/fotogalerie-mistrovstvi-evropy-v-cyklokrosu-zeddam-2026-sobota/kategorie/zavody",
+      "source": "MTBS.cz",
       "lang": "CS",
       "category": "Závody",
       "published": "2026-11-08"
@@ -2135,6 +2126,15 @@
       "published": "2026-10-16T09:15:05+00:00"
     },
     {
+      "title": "Bosch dává bikerům větší kontrolu nad motorem. Nově si nastaví trakci pro každý režim zvlášť",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/bosch-dava-bikerum-vetsi-kontrolu-nad-motorem-nove-si-nastavi-trakci-pro-kazdy-rezim-zvlast/kategorie/servis",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-10-16"
+    },
+    {
       "title": "New Moots County Line shows all-road bikes aren't dead",
       "summary": "The new County Line is designed to be at home on tarmac, but capable of much more",
       "url": "https://www.bikeradar.com/news/2027-moots-county-line",
@@ -2915,6 +2915,15 @@
       "source": "MTBIKER.cz",
       "lang": "CS",
       "category": "Gravel",
+      "published": ""
+    },
+    {
+      "title": "Vrstvení jako základ – jak se obléct na podzim",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132080/vrstveni-jako-zaklad-jak-se-oblect-na-podzim.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "MTB",
       "published": ""
     },
     {
