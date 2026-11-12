@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://www.ceskenoviny.cz/zpravy/masivni-vybuchy-zastavily-v-hormuzu-dva-supertankery-tvrdi-iranske-gardy/2900965",
+      "Masivní výbuchy zastavily v Hormuzu dva supertankery, tvrdí íránské gardy"
+    ],
+    "started_at": "2026-11-12T11:46:54.027669+00:00"
+  },
   "queue": [
     [
       "https://www.ceskenoviny.cz/zpravy/masivni-vybuchy-zastavily-v-hormuzu-dva-supertankery-tvrdi-iranske-gardy/2900965",
@@ -40,7 +46,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:46:45.843903+00:00",
+  "heartbeat": "2026-11-12T11:46:54.027669+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
