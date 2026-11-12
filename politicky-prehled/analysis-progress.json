@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://www.idnes.cz/zpravy/zahranicni/ukrajina-se-opet-potyka-s-omezenim-systemu-starshield-oznamil-zelenskyj.A261112_103734_zahranicni_bro",
+      "Ukrajina se opět potýká s omezením systému Starshield, oznámil Zelenskyj"
+    ],
+    "started_at": "2026-11-12T11:36:53.596820+00:00"
+  },
   "queue": [
     [
       "https://www.idnes.cz/zpravy/zahranicni/ukrajina-se-opet-potyka-s-omezenim-systemu-starshield-oznamil-zelenskyj.A261112_103734_zahranicni_bro",
@@ -92,7 +98,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:36:41.596812+00:00",
+  "heartbeat": "2026-11-12T11:36:53.596820+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
