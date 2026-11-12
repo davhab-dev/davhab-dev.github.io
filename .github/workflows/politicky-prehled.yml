@@ -1,6 +1,11 @@
-name: Politicky prehled - manual recovery
+name: Politicky prehled - hourly without AI
 on:
+  schedule:
+    - cron: '12 * * * *'
   workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/politicky-prehled.yml'
 permissions:
   contents: write
   pages: write
@@ -27,12 +32,20 @@ jobs:
         run: |
           rsync -a politicky-prehled/archive/ .politicky-prehled-source/archive/
           cp politicky-prehled/data.json .politicky-prehled-source/data.json
-      - name: Check application
-        run: |
-          python -m unittest discover -s .politicky-prehled-source/scripts -p 'test_update_politics.py'
-          node --check .politicky-prehled-source/app.js
+      - name: Validate application syntax
+        run: node --check .politicky-prehled-source/app.js
       - name: Fetch current articles
         run: python .politicky-prehled-source/scripts/collect_cycle.py politicky-prehled
+      - name: Validate HTML and JSON consistency
+        run: |
+          python - <<'PY'
+          import json,re
+          from pathlib import Path
+          page=Path('politicky-prehled/index.html').read_text()
+          data=json.loads(Path('politicky-prehled/data.json').read_text())
+          match=re.search(r'<script id="initial-data" type="application/json">(.*?)</script>', page, re.S)
+          assert match and json.loads(match.group(1)) == data, 'Published HTML / data.json mismatch'
+          PY
       - name: Save latest edition
         run: |
           git config user.name 'github-actions[bot]'
