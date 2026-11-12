@@ -333,10 +333,10 @@
       "category": "svet",
       "published_at": "2026-11-12T06:47:00+01:00",
       "url": "https://www.irozhlas.cz/zpravy-svet/mississippi-bude-mit-prvniho-cernosskeho-senatora-od-obcanske-valky-colom-vitezi_2611120647_bva",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:52:22.963922+00:00",
-      "analysis_estimated_at": "2026-11-12T11:51:45.045804+00:00"
+      "importance": "Zpráva vychází z volební projekce CNN a z uznání porážky dosavadní senátorkou. Tyto informace podporují závěr o Colomově vítězství, projekce však není totéž co úřední dokončení výsledků. Politicky jde o zisk demokratů v tradičně republikánském státě a o významnou změnu zastoupení jeho černošských obyvatel. Výsledek ukazuje, že ani dlouhodobá stranická převaha nezaručuje obhajobu mandátu; sám ale nedokládá, že se Mississippi natrvalo změnilo v demokratickou baštu.\n\nPro fungování Kongresu je důležitá velikost konečné většiny, kterou článek ještě neuzavírá kvůli nerozhodnutému souboji na Aljašce. Protože demokraté podle zprávy většinu získali již dříve, Mississippi ji posiluje, nevytváří ji jako jediný rozhodující mandát. Větší prostor může usnadnit společný postup při legislativě a dohledu nad administrativou, ale rozdíly mezi demokratickými senátory nezmizí. Pro voliče budou podstatné konkrétní výsledky Colomovy práce a reakce na ekonomické problémy, které v kampani zdůrazňoval, ne pouze symbolika vítězství.",
+      "importance_kind": "analysis",
+      "analysis_source": "iROZHLAS / ČTK",
+      "analysis_url": "https://www.irozhlas.cz/zpravy-svet/mississippi-bude-mit-prvniho-cernosskeho-senatora-od-obcanske-valky-colom-vitezi_2611120647_bva"
     },
     {
       "title": "Celostátní referendum? Polarizace společnosti, říká expert k návrhu vlády",
@@ -347,8 +347,8 @@
       "url": "https://www.denik.cz/cesko/cesko-celostatni-referendum-vlada-navrh-schvaleni/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:53:00.882040+00:00",
-      "analysis_estimated_at": "2026-11-12T11:51:45.045804+00:00"
+      "analysis_eta_at": "2026-11-12T11:52:56.971075+00:00",
+      "analysis_estimated_at": "2026-11-12T11:52:19.120861+00:00"
     },
     {
       "title": "Orbánův bratr je ve vazbě. Hrozí mu až deset let vězení",
@@ -359,8 +359,8 @@
       "url": "https://www.denik.cz/evropa/orbanuv-bratr-je-ve-vazbe-hrozi-mu-az-deset-let-vezeni/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:53:38.800158+00:00",
-      "analysis_estimated_at": "2026-11-12T11:51:45.045804+00:00"
+      "analysis_eta_at": "2026-11-12T11:53:34.821289+00:00",
+      "analysis_estimated_at": "2026-11-12T11:52:19.120861+00:00"
     }
   ],
   "unavailable_sources": [],
