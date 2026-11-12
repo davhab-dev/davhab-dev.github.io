@@ -1,14 +1,84 @@
 {
-  "updated_at": "2026-11-12T16:09:17.414819+00:00",
+  "updated_at": "2026-11-12T17:14:11.416244+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Izrael zakázal vstup na své území francouzskému politikovi Mélenchonovi.",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-12T18:02:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/izrael-zakazal-vstup-na-sve-uzemi-francouzskemu-politikovi-melenchonovi/2901321",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "S Ruskem by mohla jednat Meloniová či Tusk, chce Babiš. Potkal se se Zelenským",
+      "summary": "Od našeho zpravodaje v Dublinu – Premiér Andrej Babiš (ANO) se ve čtvrtek v Irsku setkal s ukrajinským prezidentem Volodymyrem Zelenským. Na schůzce měli řešit…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-12T16:57:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/babis-zelenskyj-meloniova-tusk-evropa-mir-rusko.A261112_115922_domaci_chtl",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Kushner s Witkoffem přijeli za Putinem. K dalšímu jednání se má připojit i Evropa",
+      "summary": "Ruský prezident Vladimir Putin při čtvrtečním setkání s americkými zmocněnci Stevem Witkoffem a Jaredem Kushnerem v Moskvě navrhl zorganizovat humanitární misi týkající se ukrajinského města…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-12T16:48:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/kushner-s-witkoffem-jsou-v-moskve-po-schuzce-s-putinem-odleti-za-zelenskym.A261112_114559_zahranicni_kha",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Ve 100 letech zemřel Josef Turek, český veterán z bojů o Dunkerque",
       "summary": "Ve věku 100 let ve čtvrtek zemřel válečný veterán a plukovník ve výslužbě Josef Turek, poslední v Česku žijící československý voják, který se za druhé…",
       "source": "iDNES.cz",
       "category": "domaci",
-      "published_at": "2026-11-12T16:06:00+00:00",
+      "published_at": "2026-11-12T16:37:00+00:00",
       "url": "https://www.idnes.cz/zpravy/domaci/josef-turek-umrti-valecny-veteran.A261112_165240_domaci_aoc",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Evropské země se připojí k dalšímu jednání o Ukrajině, řekl Witkoff",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-12T17:36:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/evropske-zeme-se-pripoji-k-dalsimu-jednani-o-ukrajine-rekl-witkoff-/2900950",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Evropská námořní aliance proti ruské hrozbě. Míří na mrazivou oblast",
+      "summary": "Deset severoevropských zemí prohlubuje spolupráci svých námořnictev. Společným cílem zemí v čele s Velkou Británií je čelit ruským ponorkám a hrozbám v severním Atlantiku, Baltském…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-12T17:28:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/evropa-spojuje-sva-lodstva-proti-ruske-hrozbe-boji-se-ovladnuti-arktidy/r~aaa2971ae999a8e1290c7779b207913c/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Celoroční provoz obchodů je zvrhlost, míní Středula. Diktovat nechceme, řekl Nacher",
+      "summary": "K problematice otevírací doby o státních svátcích svolal ve Sněmovně debatu bývalý lídr lidovců Marek Výborný. KDU-ČSL by ráda v tyto dny obchody plošně uzavřela,…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-12T16:25:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/kdu-csl-oteviraci-doba-obchodu-o-statnich-svatcich.A261112_090721_domaci_jira",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Zemřel Josef Turek, československý válečný veterán z bojů u Dunkerku",
+      "summary": "Ve věku sto let zemřel válečný veterán a plukovník ve výslužbě Josef Turek, poslední v Česku pobývající československý voják, který se za druhé světové války…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-12T16:19:08+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/zemrel-josef-turek-ceskoslovensky-valecny-veteran-z-boju-u-dunkerku-379565",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -19,18 +89,22 @@
       "category": "svet",
       "published_at": "2026-11-12T16:52:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/vedeni-eu-ujistilo-zelenskeho-o-dalsi-podpore-napadene-ukrajiny-/2898234",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Společné prohlášení Costy a von der Leyenové potvrzuje politický závazek pokračovat v podpoře, nikoli ještě schválenou částku pro rok 2027. O finančních potřebách má Evropská rada jednat 26. a 27. listopadu na základě návrhu Komise. Pro Ukrajinu je předvídatelnost financování důležitá pro plánování obrany i veřejných služeb; samotné ujištění však nenahrazuje dohodu o zdrojích a podmínkách pomoci.\n\nPříprava 500 generátorů představuje konkrétnější zimní pomoc: může omezit dopady výpadků na vybrané provozy, ale není náhradou celé poškozené energetické soustavy. Důležitá bude skutečná dodávka, rozmístění a zajištění provozu. Diplomatická účast EU má zatím také jasný limit: přítomnost v Abú Zabí neznamenala přímé místo u jednacího stolu. Další vývoj je proto třeba hodnotit podle financovaných a uskutečněných kroků i skutečného zapojení Evropy, nikoli jen podle optimistického označení rozhovorů.",
+      "importance_kind": "analysis",
+      "analysis_source": "České noviny / ČTK",
+      "analysis_url": "https://www.ceskenoviny.cz/zpravy/vedeni-eu-ujistilo-zelenskeho-o-dalsi-podpore-napadene-ukrajiny-/2898234"
     },
     {
-      "title": "Letnou to neskončí, vzkázal Minář vládě. Představil program nedělní demonstrace",
-      "summary": "Spolek Milion chvilek pro demokracii ve čtvrtek představil program na nadcházející demonstraci na pražské Letenské pláni. Protest se bude konat proti změnám financování veřejnoprávních médií.…",
+      "title": "Mexičan zadržený v Česku souhlasil s vydáním do USA, stíhají ho za drogy",
+      "summary": "Jeden ze zadržených Mexičanů, které USA stíhají za drogovou a teroristickou kriminalitu, dnes před pražským městským soudem souhlasil se svým vydáním do Spojených států. Nyní…",
       "source": "iDNES.cz",
       "category": "domaci",
-      "published_at": "2026-11-12T15:36:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/milion-chvilek-pro-demokracii-demonstrace-letna-4-36-protest.A261112_150231_domaci_linh",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "published_at": "2026-11-12T15:37:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/mexican-cesko-soud-souhlas-s-vydanim-do-usa-kriminalita-drogy.A261112_105351_domaci_aoc",
+      "importance": "Souhlas zadrženého mění především postup vydání: podle citovaného státního zastupitelství soud převedl předběžnou vazbu na vydávací a v tomto zjednodušeném řízení už nerozhoduje ministr spravedlnosti. Následuje příprava fyzického předání do USA. Nejde o český rozsudek o vině ani o přiznání k popsanému obchodování; souhlas s vydáním sám takový závěr neumožňuje. Podezření z výměny zbraní za drogy i spojení s kartelem je nutné dále uvádět jako tvrzení vyšetřovatelů a citovaných zdrojů.\n\nPřípad ukazuje, že podezření na mezinárodní obchod může vést k trestnímu řízení v jiné zemi, i když k zadržení dojde v Česku. Pro dalšího zadrženého přitom článek popisuje odlišný postup: soudní zasedání je plánováno na 26. listopadu a případné povolení ministra zůstává samostatným krokem. Rozdíl plyne ze souhlasu s vydáním, nelze tedy automaticky předpokládat stejný termín nebo výsledek u všech čtyř osob. Další ověřitelnou událostí bude skutečné předání a následný vývoj amerického řízení; hrozící trest není uloženým trestem.",
+      "importance_kind": "analysis",
+      "analysis_source": "iDNES.cz",
+      "analysis_url": "https://www.idnes.cz/zpravy/domaci/mexican-cesko-soud-souhlas-s-vydanim-do-usa-kriminalita-drogy.A261112_105351_domaci_aoc"
     },
     {
       "title": "Ředitelka SZÚ pochybuje, zda budou školní jídelny dodržovat nezávazná doporučení",
@@ -39,26 +113,6 @@
       "category": "domaci",
       "published_at": "2026-11-12T15:31:30+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/reditelka-szu-pochybuje-zda-budou-skolni-jidelny-dodrzovat-nezavazna-doporuceni-379560",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Kushner s Witkoffem přijeli za Putinem. Navrhl humanitární misi v Kosťantynivce",
-      "summary": "Ruský prezident Vladimir Putin při čtvrtečním setkání s americkými zmocněnci Stevem Witkoffem a Jaredem Kushnerem v Moskvě navrhl zorganizovat humanitární misi týkající se ukrajinského města…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-12T15:08:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/kushner-s-witkoffem-jsou-v-moskve-po-schuzce-s-putinem-odleti-za-zelenskym.A261112_114559_zahranicni_kha",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Účast 17. listopadu slíbil, teď Klempíř váhá. Za Motoristy na Národní dorazí Barták",
-      "summary": "Z vládních Motoristů zamíří 17. listopadu k památníku na Národní třídě místopředseda Poslanecké sněmovny Jiří Barták. Uvedl to mluvčí strany Lukáš Koutník. Sám Oto Klempíř…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-12T15:04:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/z-motoristu-zamiri-na-narodni-tridu-bartak-klempir-zvazuje.A261112_154400_domaci_sahu",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -103,16 +157,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Putin navrhl Američanům zopakovat úspěšný scénář. Evropě vyslal nové varování",
-      "summary": "Ruský prezident Vladimir Putin při čtvrtečním setkání s americkými vyslanci Stevem Witkoffem a Jaredem Kushnerem v Moskvě navrhl uspořádat v ukrajinské Kosťantynivce humanitární misi po…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-12T14:09:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/putin-predlozil-americanum-novy-navrh-chce-zopakovat-scenar-ktery-uz-jednou-vysel/r~aaa29cbc89468cf56a662e1f768e1ddc/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Vlny výhrůžek pokračují. Maily o bombách dostaly tisíce italských škol",
       "summary": "Nejméně 1800 škol v Itálii ve čtvrtek dostalo e-maily hrozící bombou, některé z nich kvůli tomu byly evakuovány, informoval podle místních médií úřad premiérky Giorgii…",
       "source": "Deník",
@@ -143,16 +187,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Šéfové parlamentů zemí V4 podpořili odklad systému ETS2 a rozšiřování EU",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-12T13:49:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/sefove-parlamentu-zemi-v4-podporili-odklad-systemu-ets2-a-rozsirovani-eu/2901152",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Pavel 17. listopadu zamíří k památníku, do Činoherního klubu a ND",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -163,42 +197,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Putin navrhnul humanitární misi v ukrajinské Kosťantynivce, píše TASS",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-12T13:39:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/putin-navrhnul-humanitarni-misi-v-ukrajinske-kostantynivce-pise-tass/2900950",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Žádné světlo, voda ani teplo. Ukrajinci jsou bez proudu až dvacet hodin denně",
       "summary": "Ruské útoky na energetickou infrastrukturu připravují Ukrajince o elektřinu, vodu i vytápění. Výpadky zasahují celou zemi, včetně hlavního města, kde některé domácnosti zůstávají bez proudu…",
       "source": "Deník",
       "category": "svet",
       "published_at": "2026-11-12T13:02:30+01:00",
       "url": "https://www.denik.cz/evropa/zadne-svetlo-voda-ani-teplo-ukrajinci-jsou-bez-proudu-az-dvacet-hodin-denne/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Hasiči nezvládají výměnu sirén. Metnarův resort přiznal, že má „velký problém“",
-      "summary": "Po Česku je rozmístěno několik tisíc sirén, které mají v případě krizové situace nejen varovat, ale i hlásit základní informace. K tomu ale musí celý…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-12T13:00:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/hasici-nezvladaji-vymenu-siren-metnaruv-resort-priznal-ze-ma-velky-problem/r~aaa2906ab4dbbf9dd6d7f793b91ddd6a/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Plaga: Návrh vyhlášky o školním stravování vyjde z požadavků MZd",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-12T12:55:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/plaga-navrh-vyhlasky-o-skolnim-stravovani-vyjde-z-pozadavku-mzd/2901106",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -257,40 +261,6 @@
       "importance_kind": "analysis",
       "analysis_source": "ČT24",
       "analysis_url": "https://ct24.ceskatelevize.cz/clanek/svet/v-srbsku-stale-neni-jasno-kdo-bude-premierem-379539"
-    },
-    {
-      "title": "Ukrajina se opět potýká s omezováním satelitního systému Starshield, řekl Zelenskyj",
-      "summary": "Ukrajinská armáda se už několik dní opět potýká se systematickým omezováním satelitního systému Starshield, upozornil ve čtvrtek ukrajinský prezident Volodymyr Zelenskyj. Zásadně to komplikuje zachycování…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-12T09:42:22+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/ukrajina-se-opet-potyka-s-omezovanim-satelitniho-systemu-starshield-rekl-zelenskyj-379545",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Skopeček má sektorovou daň za ekonomické zlo. Pařil by u bank hledal jinou cestu",
-      "summary": "Vláda vážně zvažuje zavedení sektorových daní pro banky nebo zbrojařské a energetické společnosti, potvrdil ve středu premiér Andrej Babiš (ANO). Vynést by to prý mělo…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-12T09:22:51+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/skopecek-ma-sektorovou-dan-za-ekonomicke-zlo-paril-by-u-bank-hledal-jinou-cestu-379537",
-      "importance": "Debata se týká zvažovaného příjmu pro rozpočet, nikoli již schválené daně. Rozdíl mezi zdaněním mimořádného zisku a procentem z bankovních aktiv je zásadní: první se váže na výsledek hospodaření, druhé na velikost vymezené rozvahy, a může proto dopadat i na banku se slabším ziskem. Bez sazby, základu a výjimek nelze ověřit premiérův odhad nižších desítek miliard ani rozdělení nákladů mezi banky, energetiku a zbrojní firmy. Stejně tak zatím nelze určit dopad na konkrétní bankovní produkt.\n\nPro domácnosti a firmy bude důležité, zda zdaněné společnosti část nákladu promítnou do cen a poplatků, omezí investice nebo jej ponesou akcionáři. Takový přenos není automatický: záleží na konkurenci, smlouvách i konstrukci opatření. Skopečkova preference investičních pobídek a Pařilova kritika bank představují odlišné politické přístupy, samy však neprokazují účinek navržené daně. Pokud má příjem pomoci snížit schodek v roce 2028, bude třeba porovnat realistický výnos po reakcích firem s tím, zda opatření poskytuje stabilní příjem, nebo jen jednorázově zakrývá rozpočtový problém.",
-      "importance_kind": "analysis",
-      "analysis_source": "ČT24",
-      "analysis_url": "https://ct24.ceskatelevize.cz/clanek/domaci/skopecek-ma-sektorovou-dan-za-ekonomicke-zlo-paril-by-u-bank-hledal-jinou-cestu-379537"
-    },
-    {
-      "title": "R5M: Šéfovi ÚOHS Mlsnovi pozastavili bezpečnostní prověrku | Plaga chce převrat v jídelnách bez debaty s odborníky | Ukrajinci a Rusové v Abú Dhabí dojednali jen výměnu vězňů",
-      "summary": "",
-      "source": "Deník N",
-      "category": "domaci",
-      "published_at": "2026-11-12T06:15:21+00:00",
-      "url": "https://denikn.cz/newsletter/2254365/sefovi-uohs-mlsnovi-pozastavili-bezpecnostni-proverku-plaga-chce-prevrat-v-jidelnach-bez-debaty-s-odborniky-ukrajinci-a-rusove-v-abu-dhabi-dojednali-jen-vymenu-veznu/",
-      "importance": "Ztráta Mlsnovy prověrky zvyšuje tlak na transparentní výběr vedení ÚOHS, sama ale podle newsletteru neznamená zákonnou překážku výkonu funkce. Mlsna nepravomocné odebrání potvrdil také ČTK a chce se bránit. Z neveřejných důvodů bezpečnostního řízení nelze dovozovat konkrétní provinění. Rozhodující bude průběh přezkumu a veřejně vysvětlená kritéria výběru předsedy, který ovlivňuje dohled nad soutěží a zakázkami.\n\nU školního stravování přesun od závazných pravidel k rozhodování jednotlivých jídelen zvětšuje prostor pro místní řešení, ale také rozdíly mezi školami. Nutriční terapeut citovaný newsletterem upozorňuje, že kvalitní provozy mohou standard udržet, zatímco jiné ztratí motivaci ke zlepšení. Obejití odborného projednání by omezilo možnost tyto dopady zachytit před změnou; důležitá bude konečná podoba pravidel a odpovědnost zřizovatelů.\n\nDohoda o výměně zajatců je samostatným humanitárním výsledkem, nikoli dohodou o území nebo bezpečnostních zárukách. U popsané výměny tisíce lidí na každé straně je třeba sledovat skutečné uskutečnění. Pokračující rozdíly v požadavcích ukazují, proč politické přísliby dalšího jednání zatím nezaručují zastavení bojů.",
-      "importance_kind": "analysis",
-      "analysis_source": "Deník N – volně dostupný newsletter",
-      "analysis_url": "https://denikn.cz/newsletter/2254365/sefovi-uohs-mlsnovi-pozastavili-bezpecnostni-proverku-plaga-chce-prevrat-v-jidelnach-bez-debaty-s-odborniky-ukrajinci-a-rusove-v-abu-dhabi-dojednali-jen-vymenu-veznu/"
     }
   ],
   "unavailable_sources": [],
@@ -302,8 +272,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 18,
-      "selected": 7,
-      "free_articles_checked": 7
+      "selected": 6,
+      "free_articles_checked": 6
     },
     {
       "name": "iROZHLAS",
@@ -311,7 +281,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 19,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -321,8 +291,8 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 20,
-      "selected": 8,
+      "candidates": 19,
+      "selected": 7,
       "free_articles_checked": 8
     },
     {
@@ -331,7 +301,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -351,8 +321,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
-      "selected": 4,
+      "candidates": 9,
+      "selected": 3,
       "free_articles_checked": 4
     },
     {
@@ -371,9 +341,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
-      "selected": 4,
-      "free_articles_checked": 4
+      "candidates": 13,
+      "selected": 5,
+      "free_articles_checked": 5
     },
     {
       "name": "CNN Prima NEWS",
@@ -381,9 +351,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 11,
       "selected": 0,
-      "free_articles_checked": 0
+      "free_articles_checked": 1
     },
     {
       "name": "E15",
@@ -411,9 +381,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
-      "selected": 1,
-      "free_articles_checked": 1
+      "candidates": 11,
+      "selected": 0,
+      "free_articles_checked": 0
     },
     {
       "name": "Respekt",
@@ -421,7 +391,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 1,
+      "candidates": 0,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -431,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 3,
+      "candidates": 0,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -441,7 +411,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -451,7 +421,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     }
