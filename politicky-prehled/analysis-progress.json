@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://www.denik.cz/cesko/cesko-celostatni-referendum-vlada-navrh-schvaleni/",
+      "Celostátní referendum? Polarizace společnosti, říká expert k návrhu vlády"
+    ],
+    "started_at": "2026-11-12T11:52:28.804352+00:00"
+  },
   "queue": [
     [
       "https://www.denik.cz/cesko/cesko-celostatni-referendum-vlada-navrh-schvaleni/",
@@ -12,7 +18,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:52:19.120861+00:00",
+  "heartbeat": "2026-11-12T11:52:28.804352+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
