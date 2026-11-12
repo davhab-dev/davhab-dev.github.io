@@ -3,6 +3,22 @@
   "current": null,
   "queue": [
     [
+      "https://ct24.ceskatelevize.cz/clanek/svet/rusti-sportovci-nesmi-do-finska-a-norska-dokud-neskonci-valka-379570",
+      "Ruští sportovci nesmí do Finska a Norska, dokud neskončí válka"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/evropsky-summit-v-dublinu-podporil-ukrajinu-rekl-irsky-premier.A261112_203834_zahranicni_sahu",
+      "Summit jasně podpořil Ukrajinu, řekl irský premiér. Evropa odhalila priority pro mír"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-chce-zprisnit-prodej-kratomu-odbornici-varuji-pred-rozsirenim-cerneho-trhu-379564",
+      "Vláda chce zpřísnit prodej kratomu. Odborníci varují před rozšířením černého trhu"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/dalsi-citelna-rana-pro-ruske-namornictvo-ukrajina-zasahla-u-goglandu-lod-za-miliardy/r~aaa29ce6016a8fc09a4928ffb6047139/",
+      "Další citelná rána pro ruské námořnictvo: Ukrajina zasáhla u Goglandu loď za miliardy"
+    ],
+    [
       "https://ct24.ceskatelevize.cz/clanek/svet/usa-se-prou-s-cinou-o-podobe-summitu-trump-si-putin-konat-se-ma-v-sen-cenu-379562",
       "USA se přou s Čínou o podobě summitu Trump–Si–Putin, konat se má v Šen-čenu"
     ],
@@ -43,6 +59,10 @@
       "U dalšího jednání o Ukrajině budou i Evropané. Po setkání s Putinem to oznámil Witkoff"
     ],
     [
+      "https://www.denik.cz/svet/na-tyto-plaze-se-turiste-jen-tak-nepodivaji-u-pobrezi-se-objevily-ropne-skvrny/",
+      "Na tyto pláže se turisté jen tak nepodívají. U pobřeží se objevily ropné skvrny"
+    ],
+    [
       "https://www.ceskenoviny.cz/zpravy/evropske-zeme-se-pripoji-k-dalsimu-jednani-o-ukrajine-rekl-witkoff-/2900950",
       "Evropské země se připojí k dalšímu jednání o Ukrajině, řekl Witkoff"
     ],
@@ -59,20 +79,12 @@
       "Zemřel veterán Josef Turek. Za druhé světové války se zúčastnil bojů u Dunkerque"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/evropsky-summit-v-dublinu-jasne-podporil-ukrajinu-rekl-irsky-premier-/2898234",
-      "Evropský summit v Dublinu jasně podpořil Ukrajinu, řekl irský premiér"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/domaci/reditelka-szu-pochybuje-zda-budou-skolni-jidelny-dodrzovat-nezavazna-doporuceni-379560",
       "Ředitelka SZÚ pochybuje, zda budou školní jídelny dodržovat nezávazná doporučení"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/medialni-vyzkumnice-vekova-omezeni-na-socialnich-sitich-jen-uci-deti-lhat-379554",
       "Mediální výzkumnice: Věková omezení na sociálních sítích jen učí děti lhát"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/plaga-testy-by-mohly-predchazet-podavani-prihlasek-na-stredni-skoly-od-jara-2029-379553",
-      "Plaga: Testy by mohly předcházet podávání přihlášek na střední školy od jara 2029"
     ],
     [
       "https://www.denik.cz/evropa/italie-maily-hrozby-bomby/",
@@ -91,10 +103,6 @@
       "Žádné světlo, voda ani teplo. Ukrajinci jsou bez proudu až dvacet hodin denně"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/svet/hegsethova-delegace-si-vyslouzila-napomenuti-na-arlingtonskem-narodnim-hrbitove-379552",
-      "Hegsethova delegace si vysloužila napomenutí na Arlingtonském národním hřbitově"
-    ],
-    [
       "https://www.denik.cz/cesko/andrej-babis-evropsky-vyjednavac-valka-na-ukrajine-navrhy/",
       "Babiš by rád, aby za Evropu s Ruskem mluvili Meloniová, Tusk, nebo Costa"
     ]
@@ -103,10 +111,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 24,
+    "initial_pending": 26,
     "completed": [],
     "deferred": [],
-    "remaining": 24
+    "remaining": 26
   },
   "samples_seconds": [
     51.274763,

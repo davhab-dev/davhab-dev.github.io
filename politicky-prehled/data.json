@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-11-12T19:59:57.179613+00:00",
+  "updated_at": "2026-11-12T20:56:18.995077+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Ruští sportovci nesmí do Finska a Norska, dokud neskončí válka",
+      "summary": "Ruští sportovci se nebudou moci účastnit akcí ve Finsku a v Norsku, dokud neskončí válka na Ukrajině. Rozhodly o tom ve čtvrtek vlády obou zemí.",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-12T20:46:39+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusti-sportovci-nesmi-do-finska-a-norska-dokud-neskonci-valka-379570",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Summit jasně podpořil Ukrajinu, řekl irský premiér. Evropa odhalila priority pro mír",
+      "summary": "Čtvrteční summit Evropského politického společenství (EPC) v Dublinu jasně podpořil Ruskem napadenou Ukrajinu a také ukázal zájem úzce spolupracovat při ochraně proti hybridním hrozbám a…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-12T20:03:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/evropsky-summit-v-dublinu-podporil-ukrajinu-rekl-irsky-premier.A261112_203834_zahranicni_sahu",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Vláda chce zpřísnit prodej kratomu. Odborníci varují před rozšířením černého trhu",
+      "summary": "Rok od zavedení pravidel pro prodej kratomu připravuje vláda další zpřísnění. Látku by si nově mohli koupit pouze lidé starší 21 let, internetový prodej by…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-12T20:00:00+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-chce-zprisnit-prodej-kratomu-odbornici-varuji-pred-rozsirenim-cerneho-trhu-379564",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Další citelná rána pro ruské námořnictvo: Ukrajina zasáhla u Goglandu loď za miliardy",
+      "summary": "Ukrajina zasáhla v Baltském moři ruskou raketovou korvetu Naro-Fominsk, jednu z pouhých 12 lodí třídy Bujan-M. Její hodnota se odhaduje na 70 až 130 milionů…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-12T20:55:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/dalsi-citelna-rana-pro-ruske-namornictvo-ukrajina-zasahla-u-goglandu-lod-za-miliardy/r~aaa29ce6016a8fc09a4928ffb6047139/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "USA se přou s Čínou o podobě summitu Trump–Si–Putin, konat se má v Šen-čenu",
       "summary": "Spojené státy odmítají čínský požadavek na přísně připravený summit lídrů USA, Číny a Ruska. Peking podle listu The Wall Street Journal požaduje verzi s minimálním…",
@@ -103,6 +143,16 @@
       "importance_kind": "pending"
     },
     {
+      "title": "Na tyto pláže se turisté jen tak nepodívají. U pobřeží se objevily ropné skvrny",
+      "summary": "Spojené arabské emiráty uzavřely další pláž kvůli ropné skvrně, tentokrát na východním pobřeží u Ománského zálivu. Země se stále potýká s následky rozsáhlého úniku ropy…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-12T18:04:00+01:00",
+      "url": "https://www.denik.cz/svet/na-tyto-plaze-se-turiste-jen-tak-nepodivaji-u-pobrezi-se-objevily-ropne-skvrny/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
       "title": "Evropské země se připojí k dalšímu jednání o Ukrajině, řekl Witkoff",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -143,16 +193,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Evropský summit v Dublinu jasně podpořil Ukrajinu, řekl irský premiér",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-12T16:52:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/evropsky-summit-v-dublinu-jasne-podporil-ukrajinu-rekl-irsky-premier-/2898234",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Ředitelka SZÚ pochybuje, zda budou školní jídelny dodržovat nezávazná doporučení",
       "summary": "Ředitelka Státního zdravotního ústavu (SZÚ) Barbora Macková má pochybnosti, zda budou školní jídelny dodržovat nezávazná doporučení, pokud nebudou přímo součástí vyhlášky. Ministerstva školství a zdravotnictví…",
       "source": "ČT24",
@@ -169,16 +209,6 @@
       "category": "svet",
       "published_at": "2026-11-12T14:21:50+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/medialni-vyzkumnice-vekova-omezeni-na-socialnich-sitich-jen-uci-deti-lhat-379554",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Plaga: Testy by mohly předcházet podávání přihlášek na střední školy od jara 2029",
-      "summary": "Přijímací zkoušky na střední školy by se mohly změnit od jara roku 2029. Žáci devátých tříd by si mohli podat nově až pět přihlášek. Zároveň…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-12T13:22:52+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/plaga-testy-by-mohly-predchazet-podavani-prihlasek-na-stredni-skoly-od-jara-2029-379553",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -235,16 +265,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Hegsethova delegace si vysloužila napomenutí na Arlingtonském národním hřbitově",
-      "summary": "Ministr obrany USA Pete Hegseth se 11. listopadu během oslav Dne veteránů spolu s manželkou a asistenty vypravil na Arlingtonský národní hřbitov ve Virginii, aby…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-12T11:37:46+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/hegsethova-delegace-si-vyslouzila-napomenuti-na-arlingtonskem-narodnim-hrbitove-379552",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Babiš by rád, aby za Evropu s Ruskem mluvili Meloniová, Tusk, nebo Costa",
       "summary": "Český premiér Andrej Babiš si jako evropské představitele pro mírová jednání s Ruskem dokáže představit italskou premiérku Giorgiu Meloniovou, premiéry Polska a Británie Donalda Tuska…",
       "source": "Deník",
@@ -297,7 +317,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 21,
+      "candidates": 19,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -308,7 +328,7 @@
       "feeds_total": 2,
       "status": "ok",
       "candidates": 14,
-      "selected": 7,
+      "selected": 6,
       "free_articles_checked": 8
     },
     {
@@ -317,7 +337,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -337,9 +357,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
-      "selected": 3,
-      "free_articles_checked": 4
+      "candidates": 9,
+      "selected": 4,
+      "free_articles_checked": 5
     },
     {
       "name": "Deník",
@@ -348,8 +368,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 9,
-      "selected": 4,
-      "free_articles_checked": 4
+      "selected": 5,
+      "free_articles_checked": 5
     },
     {
       "name": "iDNES.cz",
@@ -357,8 +377,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
-      "selected": 4,
+      "candidates": 16,
+      "selected": 5,
       "free_articles_checked": 5
     },
     {
@@ -367,7 +387,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 12,
       "selected": 2,
       "free_articles_checked": 2
     },
@@ -437,7 +457,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 18,
       "selected": 0,
       "free_articles_checked": 0
     }
