@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://www.idnes.cz/zpravy/domaci/stan-kritika-obranne-politiky-vlady-andreje-babise-i-zruseni-stravovaci-vyhlasky.A261112_105310_domaci_jira",
+      "Vláda hazarduje s naší obranyschopností, zlobí se hnutí STAN"
+    ],
+    "started_at": "2026-11-12T11:31:36.866691+00:00"
+  },
   "queue": [
     [
       "https://www.idnes.cz/zpravy/domaci/stan-kritika-obranne-politiky-vlady-andreje-babise-i-zruseni-stravovaci-vyhlasky.A261112_105310_domaci_jira",
@@ -120,7 +126,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:31:19.633427+00:00",
+  "heartbeat": "2026-11-12T11:31:36.866691+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
