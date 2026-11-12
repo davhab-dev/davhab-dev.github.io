@@ -1,20 +1,9 @@
 {
   "active": true,
-  "current": {
-    "key": [
-      "https://www.denik.cz/evropa/orbanuv-bratr-je-ve-vazbe-hrozi-mu-az-deset-let-vezeni/",
-      "Orbánův bratr je ve vazbě. Hrozí mu až deset let vězení"
-    ],
-    "started_at": "2026-11-12T11:53:15.330853+00:00"
-  },
-  "queue": [
-    [
-      "https://www.denik.cz/evropa/orbanuv-bratr-je-ve-vazbe-hrozi-mu-az-deset-let-vezeni/",
-      "Orbánův bratr je ve vazbě. Hrozí mu až deset let vězení"
-    ]
-  ],
+  "current": null,
+  "queue": [],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:53:15.330853+00:00",
+  "heartbeat": "2026-11-12T11:54:06.630340+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
@@ -134,6 +123,10 @@
       [
         "https://www.denik.cz/cesko/cesko-celostatni-referendum-vlada-navrh-schvaleni/",
         "Celostátní referendum? Polarizace společnosti, říká expert k návrhu vlády"
+      ],
+      [
+        "https://www.denik.cz/evropa/orbanuv-bratr-je-ve-vazbe-hrozi-mu-az-deset-let-vezeni/",
+        "Orbánův bratr je ve vazbě. Hrozí mu až deset let vězení"
       ]
     ],
     "deferred": [],
@@ -180,6 +173,7 @@
     53.572738,
     37.687576,
     34.075057,
-    36.956145
+    36.956145,
+    51.299487
   ]
 }
