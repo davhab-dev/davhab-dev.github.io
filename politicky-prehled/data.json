@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-12T20:56:18.995077+00:00",
+  "updated_at": "2026-11-12T21:53:26.553909+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Počet obětí úterní hromadné nehody na dálnici v Bulharsku vzrostl na 12",
+      "summary": "V nemocnici v bulharském Slivenu ve čtvrtek zemřel muž, který tam byl převezen po úterní hromadné dopravní nehodě. Celkový počet obětí tak vzrostl na 12,…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-12T21:59:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/pocet-obeti-uterni-hromadne-nehody-na-dalnici-v-bulharsku-vzrostl-na-12/r~aaa29d2d50c95e235daa6de5608bc8ac/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Ruští sportovci nesmí do Finska a Norska, dokud neskončí válka",
       "summary": "Ruští sportovci se nebudou moci účastnit akcí ve Finsku a v Norsku, dokud neskončí válka na Ukrajině. Rozhodly o tom ve čtvrtek vlády obou zemí.",
@@ -347,7 +357,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -358,8 +368,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 9,
-      "selected": 4,
-      "free_articles_checked": 5
+      "selected": 5,
+      "free_articles_checked": 6
     },
     {
       "name": "Deník",
@@ -377,7 +387,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 15,
       "selected": 5,
       "free_articles_checked": 5
     },
@@ -387,7 +397,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 11,
       "selected": 2,
       "free_articles_checked": 2
     },

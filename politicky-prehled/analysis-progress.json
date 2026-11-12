@@ -3,6 +3,10 @@
   "current": null,
   "queue": [
     [
+      "https://zpravy.aktualne.cz/zahranici/pocet-obeti-uterni-hromadne-nehody-na-dalnici-v-bulharsku-vzrostl-na-12/r~aaa29d2d50c95e235daa6de5608bc8ac/",
+      "Počet obětí úterní hromadné nehody na dálnici v Bulharsku vzrostl na 12"
+    ],
+    [
       "https://ct24.ceskatelevize.cz/clanek/svet/rusti-sportovci-nesmi-do-finska-a-norska-dokud-neskonci-valka-379570",
       "Ruští sportovci nesmí do Finska a Norska, dokud neskončí válka"
     ],
@@ -111,10 +115,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 26,
+    "initial_pending": 27,
     "completed": [],
     "deferred": [],
-    "remaining": 26
+    "remaining": 27
   },
   "samples_seconds": [
     51.274763,
