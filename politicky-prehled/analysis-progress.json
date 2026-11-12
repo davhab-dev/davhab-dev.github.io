@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://www.irozhlas.cz/zpravy-svet/babis-jede-do-izraele-narychlo-navsteva-prichazi-v-dobe-kdy-maji-izraelci-jine_2611120010_ntu",
+      "Babiš jede do Izraele narychlo. Návštěva přichází v době, kdy mají Izraelci jiné starosti, říká Tureček"
+    ],
+    "started_at": "2026-11-12T00:11:43.585578+00:00"
+  },
   "queue": [
     [
       "https://www.irozhlas.cz/zpravy-svet/babis-jede-do-izraele-narychlo-navsteva-prichazi-v-dobe-kdy-maji-izraelci-jine_2611120010_ntu",
@@ -128,7 +134,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T00:11:25.309260+00:00",
+  "heartbeat": "2026-11-12T00:11:43.585578+00:00",
   "cycle": {
     "started_at": "2026-11-12T00:10:12.676534+00:00",
     "initial_pending": 32,
