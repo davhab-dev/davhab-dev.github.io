@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T05:34:02.471800+00:00",
+  "updated_at": "2026-11-12T05:50:26.648204+00:00",
   "window_hours": 24,
   "articles": [
     {
@@ -22,7 +22,9 @@
       "published_at": "2026-11-12T05:21:00+00:00",
       "url": "https://www.idnes.cz/zpravy/zahranicni/scott-colom-porazil-hydeovou-smythovou-je-prvnim-cernosskym-senatorem-v-mississippi-od-obcanske-valk.A261112_004235_zahranicni_air",
       "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T05:52:27.738058+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
     },
     {
       "title": "Macinkovy „mužatky“ dobývají Ameriku. Píše o nich už i New York Times",
@@ -32,7 +34,9 @@
       "published_at": "2026-11-12T06:16:00+01:00",
       "url": "https://zpravy.aktualne.cz/domaci/macinkovy-muzatky-dobyvaji-ameriku-pise-o-nich-uz-i-new-york-times/r~aaa29b8ac14b9f4f0772b859a77f29ec/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T05:53:09.660287+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
     },
     {
       "title": "Francie hledá Macronova nástupce, průzkumům dominují politické okraje",
@@ -42,17 +46,9 @@
       "published_at": "2026-11-12T05:00:00+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/francie-hleda-macronova-nastupce-pruzkumum-dominuji-politicke-okraje-379444",
       "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Čím starší, tím kritičtější. Češi nejsou spokojeni s fungováním demokracie, od loňska se stav zhoršil",
-      "summary": "Spokojenost Čechů s fungováním demokracie za poslední rok mírně klesla, zůstává ale nad předvolební úrovní z roku 2024. Vyplývá to z dat analytického ústavu STEM,…",
-      "source": "iROZHLAS",
-      "category": "domaci",
-      "published_at": "2026-11-12T06:00:00+01:00",
-      "url": "https://www.irozhlas.cz/zpravy-domov/cim-starsi-tim-kritictejsi-cesi-nejsou-spokojeni-s-fungovanim-demokracie-od_2611120600_mst",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T05:53:51.582516+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
     },
     {
       "title": "Vinu necítí, peníze nevrátili. Co měli pekaři zamlčet v kauze Babišových toastů za 100 milionů?",
@@ -62,7 +58,21 @@
       "published_at": "2026-11-12T06:00:00+01:00",
       "url": "https://www.irozhlas.cz/zpravy-domov/vinu-neciti-penize-nevratili-co-meli-pekari-zamlcet-v-kauze-babisovych-toastu-za_2611120600_jkd",
       "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T05:54:33.504745+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
+    },
+    {
+      "title": "Čím starší, tím kritičtější. Češi nejsou spokojeni s fungováním demokracie, od loňska se stav zhoršil",
+      "summary": "Spokojenost Čechů s fungováním demokracie za poslední rok mírně klesla, zůstává ale nad předvolební úrovní z roku 2024. Vyplývá to z dat analytického ústavu STEM,…",
+      "source": "iROZHLAS",
+      "category": "domaci",
+      "published_at": "2026-11-12T06:00:00+01:00",
+      "url": "https://www.irozhlas.cz/zpravy-domov/cim-starsi-tim-kritictejsi-cesi-nejsou-spokojeni-s-fungovanim-demokracie-od_2611120600_mst",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T05:55:15.426974+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
     },
     {
       "title": "Celostátní referendum? Polarizace společnosti, říká expert k návrhu vlády",
@@ -72,7 +82,9 @@
       "published_at": "2026-11-12T05:30:00+01:00",
       "url": "https://www.denik.cz/cesko/cesko-celostatni-referendum-vlada-navrh-schvaleni/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T05:55:57.349203+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
     },
     {
       "title": "‚Památka nesmí chcípnout‘. Starosta na Karvinsku zachraňuje pětaosmdesátimetrovou důlní věž",
@@ -82,7 +94,9 @@
       "published_at": "2026-11-12T05:26:00+01:00",
       "url": "https://www.irozhlas.cz/zpravy-domov/pamatka-nesmi-chcipnout-starosta-na-karvinsku-zachranuje-petaosmdesatimetrovou_2611120526_brz",
       "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T05:56:39.271432+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
     },
     {
       "title": "Inkasoval desítky milionů díky Putinovu zbrojařovi, píše soud o Rusovi, který už nesmí vkročit do Česka",
@@ -92,7 +106,9 @@
       "published_at": "2026-11-12T05:00:00+01:00",
       "url": "https://www.irozhlas.cz/zpravy-domov/inkasoval-desitky-milionu-diky-putinovu-zbrojarovi-pise-soud-o-rusovi-ktery-uz_2611120500_hrk",
       "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T05:57:21.193661+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
     },
     {
       "title": "Teplé oblečení, dřevo na topení a vařiče. Zimu přežijeme, míní sebevědomí Ukrajinci",
@@ -102,7 +118,9 @@
       "published_at": "2026-11-12T04:00:00+00:00",
       "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajinci-jsou-podle-svych-slov-na-zimu-pripraveni.A261111_173713_zahranicni_jira",
       "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T05:58:03.115890+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
     },
     {
       "title": "Babiš jede do Izraele narychlo. Návštěva přichází v době, kdy mají Izraelci jiné starosti, říká Tureček",
@@ -124,7 +142,9 @@
       "published_at": "2026-11-11T21:29:00+00:00",
       "url": "https://www.idnes.cz/zpravy/zahranicni/hegseth-ministr-obrany-usa-nevhidne-chovani-na-hrbitove-napomenul-ho-vojak.A261111_215639_zahranicni_jira",
       "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T05:58:45.038119+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
     },
     {
       "title": "Trumpova vláda propustila ředitele Hlasu Ameriky nelegálně, rozhodl soud",
@@ -134,7 +154,9 @@
       "published_at": "2026-11-11T20:37:01+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/trumpova-vlada-propustila-reditele-hlasu-ameriky-nelegalne-rozhodl-soud-379534",
       "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T05:59:26.960348+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
     },
     {
       "title": "Financování veřejnoprávních médií v Česku musí být udržitelné, řekl eurokomisař",
@@ -144,7 +166,9 @@
       "published_at": "2026-11-11T20:19:46+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/financovani-verejnopravnich-medii-v-cesku-musi-byt-udrzitelne-rekl-eurokomisar-379533",
       "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T06:00:08.882577+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
     },
     {
       "title": "Česko by podle Havlíčka mohlo dodat Ukrajině 16 letounů Skyfox",
@@ -154,7 +178,9 @@
       "published_at": "2026-11-11T21:05:00+01:00",
       "url": "https://zpravy.aktualne.cz/domaci/cesko-by-podle-havlicka-mohlo-dodat-ukrajine-16-letounu-skyfox/r~aaa29d0ba54af6a55481cdf59306a220/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T06:00:50.804806+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
     },
     {
       "title": "Orbánův bratr je ve vazbě. Hrozí mu až deset let vězení",
@@ -164,7 +190,9 @@
       "published_at": "2026-11-11T20:20:45+01:00",
       "url": "https://www.denik.cz/evropa/orbanuv-bratr-je-ve-vazbe-hrozi-mu-az-deset-let-vezeni/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T06:01:32.727035+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
     },
     {
       "title": "Koaliční smlouvu ve Zlíně podepsaly STAN, Zlín 21 a trojblok",
@@ -174,7 +202,9 @@
       "published_at": "2026-11-11T20:20:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/koalicni-smlouvu-ve-zline-podepsaly-stan-zlin-21-a-trojblok/2900812",
       "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T06:02:14.649264+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
     },
     {
       "title": "Zemědělci čelí vysokým nákladům i tlakům na ochranu životního prostředí",
@@ -184,7 +214,9 @@
       "published_at": "2026-11-11T19:13:11+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/zemedelci-celi-vysokym-nakladum-i-tlakum-na-ochranu-zivotniho-prostredi-379526",
       "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T06:02:56.571493+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
     },
     {
       "title": "Přehledně: Co čeká Prahu pod novými pány. Zdražení nejen MHD i megaprojekt",
@@ -194,7 +226,9 @@
       "published_at": "2026-11-11T20:00:00+01:00",
       "url": "https://zpravy.aktualne.cz/domaci/prehledne-co-ceka-prahu-pod-novymi-pany-zdrazeni-nejen-mhd-i-megaprojekt/r~aaa29ecd0ee6b316faead01f39ee5664/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T06:03:38.493722+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
     },
     {
       "title": "Předseda ÚOHS Mlsna přišel o prověrku. Přesto zvažuje, že se bude o funkci znovu ucházet",
@@ -204,7 +238,9 @@
       "published_at": "2026-11-11T19:50:24+01:00",
       "url": "https://cnn.iprima.cz/predseda-uohs-mlsna-prisel-o-proverku-presto-zvazuje-ze-se-bude-o-funkci-znovu-uchazet-526935",
       "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T06:04:20.415951+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
     },
     {
       "title": "Orbánův bratr je ve vazbě. Maďarský soud ho tam poslal i s přítelkyní",
@@ -214,7 +250,9 @@
       "published_at": "2026-11-11T19:19:49+01:00",
       "url": "https://cnn.iprima.cz/orbanuv-bratr-je-ve-vazbe-soud-ho-tam-poslal-i-s-pritelkyni-526931",
       "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T06:05:02.338180+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
     },
     {
       "title": "Česko má zájem zapojit se do druhého kola obranných půjček SAFE, řekl Babiš",
@@ -224,7 +262,9 @@
       "published_at": "2026-11-11T18:50:00+01:00",
       "url": "https://zpravy.aktualne.cz/domaci/cesko-ma-zajem-zapojit-se-do-druheho-kola-obrannych-pujcek-safe-rekl-babis/r~aaa29b425407ac85ff2ee5c32ad3a54f/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T06:05:44.260409+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
     },
     {
       "title": "Ukrajinské drony opět útočily na Sibiři, nejspíše na největší rafinérii",
@@ -234,7 +274,9 @@
       "published_at": "2026-11-11T18:49:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/ukrajinske-drony-opet-utocily-na-sibiri-nejspise-na-nejvetsi-rafinerii/2900340",
       "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T06:06:26.182638+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
     },
     {
       "title": "V KRNAP panuje nejistota, odbory zůstávají ve stávkové pohotovosti",
@@ -244,7 +286,9 @@
       "published_at": "2026-11-11T18:39:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/v-krnap-panuje-nejistota-odbory-zustavaji-ve-stavkove-pohotovosti/2897217",
       "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T06:07:08.104867+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
     },
     {
       "title": "Maďarský soud poslal Orbánova bratra a jeho přítelkyni do vazby",
@@ -254,7 +298,9 @@
       "published_at": "2026-11-11T18:35:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/madarsky-soud-poslal-orbanova-bratra-a-jeho-pritelkyni-do-vazby/2899470",
       "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T06:07:50.027096+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
     },
     {
       "title": "Babiš popřel Okamuru. O neúčasti armády na cvičení v Polsku na vládě nepadlo ani slovo",
@@ -264,7 +310,9 @@
       "published_at": "2026-11-11T17:44:30+01:00",
       "url": "https://cnn.iprima.cz/babis-o-neucasti-armady-na-cviceni-v-polsku-na-vlade-nepadlo-ani-slovo-je-to-vec-obrany-526924",
       "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T06:08:31.949325+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
     },
     {
       "title": "V Polsku je pánem Polák. Varšava praskala ve švech, pochod nacionalistů vedl prezident",
@@ -274,7 +322,9 @@
       "published_at": "2026-11-11T17:29:00+01:00",
       "url": "https://zpravy.aktualne.cz/zahranici/v-polsku-je-panem-polak-varsava-praska-ve-svech-pochod-nacionalistu-vede-prezident/r~aaa29e596f17a2a7917a097588ec95ad/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T06:09:13.871554+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
     },
     {
       "title": "Premiér by na Národní chybět neměl, není to chlapské ani státnické, říká Rakušan",
@@ -284,7 +334,9 @@
       "published_at": "2026-11-11T16:20:58+01:00",
       "url": "https://www.denik.cz/cesko/andrej-babis-17-listopad-narodni-trida-vit-rakusan/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T06:09:55.793783+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
     },
     {
       "title": "Sektorové daně? Vládní nápady se mění jako počasí v dubnu, řekl Rakušan",
@@ -294,7 +346,9 @@
       "published_at": "2026-11-11T16:00:42+01:00",
       "url": "https://www.denik.cz/cesko/sektorove-dane-vlada-vit-rakusan-debata/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T06:10:37.716012+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
     },
     {
       "title": "Menopauza, urážky, hádky. Rakušan kritizoval poměry ve sněmovně, Ševčík se brání",
@@ -304,7 +358,9 @@
       "published_at": "2026-11-11T14:55:32+01:00",
       "url": "https://www.denik.cz/cesko/vit-rakusan-kritika-chovani-sevcik-okamura-snemovna/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T06:11:19.638241+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
     },
     {
       "title": "Zelenskyj: Evropa si musí vybrat, kdo ji bude zastupovat na jednáních s Ruskem",
@@ -314,7 +370,9 @@
       "published_at": "2026-11-11T06:00:00+00:00",
       "url": "https://www.respekt.cz/informacni-servis/zelenskyj-evropa-si-musi-vybrat-kdo-ji-bude-zastupovat-na-jednanich-s-ruskem-2026-11-11-00-16",
       "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance_kind": "pending",
+      "analysis_eta_at": "2026-11-12T06:12:01.560470+00:00",
+      "analysis_estimated_at": "2026-11-12T05:51:45.815829+00:00"
     }
   ],
   "unavailable_sources": [],
@@ -365,7 +423,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },

@@ -1,5 +1,5 @@
 {
-  "active": false,
+  "active": true,
   "current": null,
   "queue": [
     [
@@ -15,12 +15,12 @@
       "Francie hledá Macronova nástupce, průzkumům dominují politické okraje"
     ],
     [
-      "https://www.irozhlas.cz/zpravy-domov/cim-starsi-tim-kritictejsi-cesi-nejsou-spokojeni-s-fungovanim-demokracie-od_2611120600_mst",
-      "Čím starší, tím kritičtější. Češi nejsou spokojeni s fungováním demokracie, od loňska se stav zhoršil"
-    ],
-    [
       "https://www.irozhlas.cz/zpravy-domov/vinu-neciti-penize-nevratili-co-meli-pekari-zamlcet-v-kauze-babisovych-toastu-za_2611120600_jkd",
       "Vinu necítí, peníze nevrátili. Co měli pekaři zamlčet v kauze Babišových toastů za 100 milionů?"
+    ],
+    [
+      "https://www.irozhlas.cz/zpravy-domov/cim-starsi-tim-kritictejsi-cesi-nejsou-spokojeni-s-fungovanim-demokracie-od_2611120600_mst",
+      "Čím starší, tím kritičtější. Češi nejsou spokojeni s fungováním demokracie, od loňska se stav zhoršil"
     ],
     [
       "https://www.denik.cz/cesko/cesko-celostatni-referendum-vlada-navrh-schvaleni/",
@@ -120,20 +120,13 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T05:36:45.528715+00:00",
+  "heartbeat": "2026-11-12T05:51:45.815829+00:00",
   "cycle": {
-    "started_at": "2026-11-12T05:35:21.426127+00:00",
-    "initial_pending": 30,
-    "completed": [
-      [
-        "https://www.idnes.cz/zpravy/zahranicni/armenie-prisla-o-pravo-hlasovat-ve-vojenskem-paktu-vedenem-moskvou-uvedl-kreml.A261112_061242_zahranicni_pluh",
-        "Moskva zbavila Arménii práva hlasování ve společném vojenském paktu"
-      ]
-    ],
+    "started_at": "2026-11-12T05:51:45.815829+00:00",
+    "initial_pending": 29,
+    "completed": [],
     "deferred": [],
-    "status": "incomplete",
-    "finished_at": "2026-11-12T05:36:45.528715+00:00",
-    "remaining": 29
+    "status": "running"
   },
   "samples_seconds": [
     51.274763,
