@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T13:15:35.590691+00:00",
+  "updated_at": "2026-11-12T13:21:39.416785+00:00",
   "window_hours": 24,
   "articles": [
     {
@@ -9,6 +9,16 @@
       "category": "svet",
       "published_at": "2026-11-12T14:09:00+01:00",
       "url": "https://zpravy.aktualne.cz/zahranici/putin-predlozil-americanum-novy-navrh-chce-zopakovat-scenar-ktery-uz-jednou-vysel/r~aaa29cbc89468cf56a662e1f768e1ddc/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Vlny výhrůžek pokračují. Maily o bombách dostaly tisíce italských škol",
+      "summary": "Nejméně 1800 škol v Itálii ve čtvrtek dostalo e-maily hrozící bombou, některé z nich kvůli tomu byly evakuovány, informoval podle místních médií úřad premiérky Giorgii…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-12T14:06:24+01:00",
+      "url": "https://www.denik.cz/evropa/italie-maily-hrozby-bomby/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -381,9 +391,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
-      "selected": 4,
-      "free_articles_checked": 5
+      "candidates": 10,
+      "selected": 5,
+      "free_articles_checked": 6
     },
     {
       "name": "iDNES.cz",

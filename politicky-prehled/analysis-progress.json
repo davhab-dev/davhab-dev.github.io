@@ -7,6 +7,10 @@
       "Putin předložil Američanům nový návrh. Chce zopakovat scénář, který už jednou vyšel"
     ],
     [
+      "https://www.denik.cz/evropa/italie-maily-hrozby-bomby/",
+      "Vlny výhrůžek pokračují. Maily o bombách dostaly tisíce italských škol"
+    ],
+    [
       "https://www.ceskenoviny.cz/zpravy/v-italii-dostalo-e-maily-hrozici-bombou-na-1800-skol-nektere-byly-evakuovany/2900524",
       "V Itálii dostalo e-maily hrozící bombou na 1800 škol, některé byly evakuovány"
     ],
@@ -83,10 +87,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 19,
+    "initial_pending": 20,
     "completed": [],
     "deferred": [],
-    "remaining": 19
+    "remaining": 20
   },
   "samples_seconds": [
     51.274763,
