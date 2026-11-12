@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://www.idnes.cz/zpravy/zahranicni/scott-colom-porazil-hydeovou-smythovou-je-prvnim-cernosskym-senatorem-v-mississippi-od-obcanske-valk.A261112_004235_zahranicni_air",
+      "Po týdnu sečteno. Scott Colom je prvním černošským senátorem v Mississippi od občanské války"
+    ],
+    "started_at": "2026-11-12T05:52:16.312220+00:00"
+  },
   "queue": [
     [
       "https://www.idnes.cz/zpravy/zahranicni/scott-colom-porazil-hydeovou-smythovou-je-prvnim-cernosskym-senatorem-v-mississippi-od-obcanske-valk.A261112_004235_zahranicni_air",
@@ -120,7 +126,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T05:51:45.815829+00:00",
+  "heartbeat": "2026-11-12T05:52:16.312220+00:00",
   "cycle": {
     "started_at": "2026-11-12T05:51:45.815829+00:00",
     "initial_pending": 29,
