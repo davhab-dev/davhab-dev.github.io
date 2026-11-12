@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://www.idnes.cz/zpravy/zahranicni/kushner-s-witkoffem-jsou-v-moskve-po-schuzce-s-putinem-odleti-za-zelenskym.A261112_114559_zahranicni_kha",
+      "Kushner s Witkoffem jsou v Moskvě, po schůzce s Putinem odletí za Zelenským"
+    ],
+    "started_at": "2026-11-12T11:32:24.067354+00:00"
+  },
   "queue": [
     [
       "https://www.idnes.cz/zpravy/zahranicni/kushner-s-witkoffem-jsou-v-moskve-po-schuzce-s-putinem-odleti-za-zelenskym.A261112_114559_zahranicni_kha",
@@ -116,7 +122,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:32:15.590856+00:00",
+  "heartbeat": "2026-11-12T11:32:24.067354+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
