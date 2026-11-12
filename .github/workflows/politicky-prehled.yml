@@ -47,15 +47,23 @@ jobs:
           assert match and json.loads(match.group(1)) == data, 'Published HTML / data.json mismatch'
           PY
       - name: Save latest edition
+        id: save
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add politicky-prehled
-          git diff --cached --quiet && exit 0
+          if git diff --cached --quiet; then
+            echo 'Bez změn – publikace není nutná'
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
           git commit -m 'Obnov Politický přehled ze samostatného repozitáře'
           git pull --rebase origin main
           git push origin HEAD:main
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+      # GITHUB_TOKEN commits do not trigger Pages builds automatically.
       - name: Publish refreshed edition on GitHub Pages
+        if: steps.save.outputs.changed == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds"
