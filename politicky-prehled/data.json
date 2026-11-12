@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-12T22:54:02.098937+00:00",
+  "updated_at": "2026-11-12T23:51:09.768224+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Předsednictvo ODS bude hodnotit volby a řešit, co s klesajícími preferencemi",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-13T00:06:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/predsednictvo-ods-bude-hodnotit-volby-a-resit-co-s-klesajicimi-preferencemi/2901416",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Evropa bude u mírových jednání s Ruskem. Oznámili to Trumpův zeť a Zelenskyj",
       "summary": "Evropští zástupci budou u vyjednávání o míru mezi Ruskem a Ukrajinou. Po dnešním setkání v Dublinu to uvedli ukrajinský prezident Volodymyr Zelenskyj a zvláštní americký…",
@@ -119,16 +129,6 @@
       "category": "domaci",
       "published_at": "2026-11-12T18:38:00+00:00",
       "url": "https://www.idnes.cz/zpravy/domaci/havlicek-ochranci-prezident-cesta-ukrajina-bodyguardi-kolona.A261112_180855_domaci_sahu",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Paliva dál zlevňují. Konec vládních opatření může rozdíl smazat, varuje expert",
-      "summary": "Pohonné hmoty by podle analytiků měly nadále zlevňovat. Tempo poklesu cen ale zřejmě zpomalí. Nafta by se tak v příštích dnech měla přiblížit k hranici…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-12T18:20:00+00:00",
-      "url": "https://www.idnes.cz/ekonomika/domaci/analytici-pohonne-hmoty-budou-dal-zlevnovat-tempo-ale-zpomali.A261112_180707_eko-zahranicni_sahu",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -275,16 +275,6 @@
       "analysis_url": "https://www.ceskenoviny.cz/zpravy/sefove-parlamentu-zemi-v4-podporili-odklad-systemu-ets2-a-rozsirovani-eu/2901152"
     },
     {
-      "title": "Pavel 17. listopadu zamíří k památníku, do Činoherního klubu a ND",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-12T13:43:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/pavel-17-listopadu-zamiri-k-pamatniku-do-cinoherniho-klubu-a-nd/2901145",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Žádné světlo, voda ani teplo. Ukrajinci jsou bez proudu až dvacet hodin denně",
       "summary": "Ruské útoky na energetickou infrastrukturu připravují Ukrajince o elektřinu, vodu i vytápění. Výpadky zasahují celou zemi, včetně hlavního města, kde některé domácnosti zůstávají bez proudu…",
       "source": "Deník",
@@ -345,7 +335,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 16,
       "selected": 5,
       "free_articles_checked": 8
     },
@@ -395,9 +385,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
-      "selected": 6,
-      "free_articles_checked": 6
+      "candidates": 16,
+      "selected": 5,
+      "free_articles_checked": 5
     },
     {
       "name": "CNN Prima NEWS",
@@ -405,7 +395,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 13,
       "selected": 3,
       "free_articles_checked": 3
     },
@@ -465,7 +455,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 11,
       "selected": 0,
       "free_articles_checked": 0
     },

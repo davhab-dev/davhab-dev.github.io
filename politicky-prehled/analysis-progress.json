@@ -3,6 +3,10 @@
   "current": null,
   "queue": [
     [
+      "https://www.ceskenoviny.cz/zpravy/predsednictvo-ods-bude-hodnotit-volby-a-resit-co-s-klesajicimi-preferencemi/2901416",
+      "Předsednictvo ODS bude hodnotit volby a řešit, co s klesajícími preferencemi"
+    ],
+    [
       "https://cnn.iprima.cz/evropa-bude-u-mirovych-jednani-s-ruskem-oznamili-to-trumpuv-vyslanec-a-zelenskyj-527072",
       "Evropa bude u mírových jednání s Ruskem. Oznámili to Trumpův zeť a Zelenskyj"
     ],
@@ -49,10 +53,6 @@
     [
       "https://www.idnes.cz/zpravy/domaci/havlicek-ochranci-prezident-cesta-ukrajina-bodyguardi-kolona.A261112_180855_domaci_sahu",
       "Hlídali ho jako prezidenta. Kolem Havlíčka bylo na Ukrajině až 50 ochránců"
-    ],
-    [
-      "https://www.idnes.cz/ekonomika/domaci/analytici-pohonne-hmoty-budou-dal-zlevnovat-tempo-ale-zpomali.A261112_180707_eko-zahranicni_sahu",
-      "Paliva dál zlevňují. Konec vládních opatření může rozdíl smazat, varuje expert"
     ],
     [
       "https://zpravy.aktualne.cz/domaci/rebel-ods-narcis-tomasek-volici-nam-odchazi-ke-stan-kupkuv-vyzyvatel-by-se-nasel/r~aaa2932ae8dbbe49ae23915de8bdffcd/",
@@ -107,10 +107,6 @@
       "Primátorem Mostu se znovu stal Marek Hrvol z vítězného hnutí ProMOST"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/pavel-17-listopadu-zamiri-k-pamatniku-do-cinoherniho-klubu-a-nd/2901145",
-      "Pavel 17. listopadu zamíří k památníku, do Činoherního klubu a ND"
-    ],
-    [
       "https://www.denik.cz/evropa/zadne-svetlo-voda-ani-teplo-ukrajinci-jsou-bez-proudu-az-dvacet-hodin-denne/",
       "Žádné světlo, voda ani teplo. Ukrajinci jsou bez proudu až dvacet hodin denně"
     ],
@@ -123,10 +119,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 29,
+    "initial_pending": 28,
     "completed": [],
     "deferred": [],
-    "remaining": 29
+    "remaining": 28
   },
   "samples_seconds": [
     51.274763,
