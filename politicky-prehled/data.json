@@ -1,14 +1,64 @@
 {
-  "updated_at": "2026-11-12T15:02:14.587895+00:00",
+  "updated_at": "2026-11-12T16:09:17.414819+00:00",
   "window_hours": 24,
   "articles": [
     {
-      "title": "Gumová kachnička se samopalem. Bundeswehr spustil vlastní e-shop",
-      "summary": "Německá armáda spustila vlastní internetový obchod, ve kterém si zájemci mohou koupit oblečení, nářadí či termohrnky s logem Bundeswehru, ale třeba i gumovou kachničku v…",
+      "title": "Ve 100 letech zemřel Josef Turek, český veterán z bojů o Dunkerque",
+      "summary": "Ve věku 100 let ve čtvrtek zemřel válečný veterán a plukovník ve výslužbě Josef Turek, poslední v Česku žijící československý voják, který se za druhé…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-12T16:06:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/josef-turek-umrti-valecny-veteran.A261112_165240_domaci_aoc",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Vedení EU ujistilo Zelenského o další podpoře napadené Ukrajiny",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-12T16:52:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/vedeni-eu-ujistilo-zelenskeho-o-dalsi-podpore-napadene-ukrajiny-/2898234",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Letnou to neskončí, vzkázal Minář vládě. Představil program nedělní demonstrace",
+      "summary": "Spolek Milion chvilek pro demokracii ve čtvrtek představil program na nadcházející demonstraci na pražské Letenské pláni. Protest se bude konat proti změnám financování veřejnoprávních médií.…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-12T15:36:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/milion-chvilek-pro-demokracii-demonstrace-letna-4-36-protest.A261112_150231_domaci_linh",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Ředitelka SZÚ pochybuje, zda budou školní jídelny dodržovat nezávazná doporučení",
+      "summary": "Ředitelka Státního zdravotního ústavu (SZÚ) Barbora Macková má pochybnosti, zda budou školní jídelny dodržovat nezávazná doporučení, pokud nebudou přímo součástí vyhlášky. Ministerstva školství a zdravotnictví…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-12T15:31:30+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/reditelka-szu-pochybuje-zda-budou-skolni-jidelny-dodrzovat-nezavazna-doporuceni-379560",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Kushner s Witkoffem přijeli za Putinem. Navrhl humanitární misi v Kosťantynivce",
+      "summary": "Ruský prezident Vladimir Putin při čtvrtečním setkání s americkými zmocněnci Stevem Witkoffem a Jaredem Kushnerem v Moskvě navrhl zorganizovat humanitární misi týkající se ukrajinského města…",
       "source": "iDNES.cz",
       "category": "svet",
-      "published_at": "2026-11-12T14:42:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/nemecko-armada-e-shop-bundeswehr-pistorius.A261112_145924_zahranicni_jhr",
+      "published_at": "2026-11-12T15:08:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/kushner-s-witkoffem-jsou-v-moskve-po-schuzce-s-putinem-odleti-za-zelenskym.A261112_114559_zahranicni_kha",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Účast 17. listopadu slíbil, teď Klempíř váhá. Za Motoristy na Národní dorazí Barták",
+      "summary": "Z vládních Motoristů zamíří 17. listopadu k památníku na Národní třídě místopředseda Poslanecké sněmovny Jiří Barták. Uvedl to mluvčí strany Lukáš Koutník. Sám Oto Klempíř…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-12T15:04:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/z-motoristu-zamiri-na-narodni-tridu-bartak-klempir-zvazuje.A261112_154400_domaci_sahu",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -19,26 +69,6 @@
       "category": "svet",
       "published_at": "2026-11-12T14:21:50+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/medialni-vyzkumnice-vekova-omezeni-na-socialnich-sitich-jen-uci-deti-lhat-379554",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Putin v lednu umře, ruské cíle zůstanou. Scénář počítá s příměřím i válkou v Pobaltí",
-      "summary": "Americký think-tank RAND Corporation představil hypotetický scénář, podle kterého by smrt ruského prezidenta v následujících letech mohla odstartovat řadu událostí. Analýza vychází z úmrtí Vladimira…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-12T14:06:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/vladimir-putin-rand-corporation-nato-analyza-kreml.A261112_094421_zahranicni_aya",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Kushner s Witkoffem přijeli za Putinem. Navrhl humanitární misi v Kosťantynivce",
-      "summary": "Ruský prezident Vladimir Putin při čtvrtečním setkání s americkými zmocněnci Stevem Witkoffem a Jaredem Kushnerem v Moskvě navrhl zorganizovat humanitární misi týkající se ukrajinského města…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-12T14:03:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/kushner-s-witkoffem-jsou-v-moskve-po-schuzce-s-putinem-odleti-za-zelenskym.A261112_114559_zahranicni_kha",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -79,16 +109,6 @@
       "category": "svet",
       "published_at": "2026-11-12T14:09:00+01:00",
       "url": "https://zpravy.aktualne.cz/zahranici/putin-predlozil-americanum-novy-navrh-chce-zopakovat-scenar-ktery-uz-jednou-vysel/r~aaa29cbc89468cf56a662e1f768e1ddc/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "S Ruskem by mohla jednat Meloniová či Tusk, chce Babiš. Potká se se Zelenským",
-      "summary": "Od našeho zpravodaje v Dublinu – Premiér Andrej Babiš (ANO) se ve čtvrtek v Irsku setká s ukrajinským prezidentem Volodymyrem Zelenským. Na schůzce budou řešit…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-12T13:07:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/babis-zelenskyj-meloniova-tusk-evropa-mir-rusko.A261112_115922_domaci_chtl",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -153,16 +173,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Plaga: Vyhlášku o školním stravování řeší ministerstvo zdravotnictví, obavy nemám",
-      "summary": "Podoba návrhu vyhlášky o školním stravování bude plně záviset na požadavcích ministerstva zdravotnictví. Řekl to ministr školství Robert Plaga (za ANO) s tím, že výživové…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-12T12:39:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/robert-plaga-ano-ministr-skolstvi-stravovani-skolni-jidelna.A261112_130546_domaci_aya",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Žádné světlo, voda ani teplo. Ukrajinci jsou bez proudu až dvacet hodin denně",
       "summary": "Ruské útoky na energetickou infrastrukturu připravují Ukrajince o elektřinu, vodu i vytápění. Výpadky zasahují celou zemi, včetně hlavního města, kde některé domácnosti zůstávají bez proudu…",
       "source": "Deník",
@@ -193,32 +203,22 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Ať za Evropu s Ruskem mluví Meloniová, žádá Babiš. Vyslovil i jiná jména",
-      "summary": "Český premiér Andrej Babiš si jako evropské představitele pro mírová jednání s Ruskem dokáže představit italskou premiérku Giorgiu Meloniovou, premiéry Polska a Británie Donalda Tuska…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-12T12:43:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/at-za-evropu-s-ruskem-mluvi-meloniova-zada-babis-vyslovil-i-jina-jmena/r~aaa291d2364f0b1a3fd151482edd7971/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "„Příšerně ošklivé, měli by to zbourat.“ Trumpova megastavba už přerůstá i Bílý dům",
-      "summary": "Nový taneční sál, který nechává Donald Trump vybudovat v areálu Bílého domu, už svou velikostí převyšuje samotné historické prezidentské sídlo. Snímek rozestavěné budovy, který se…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-12T12:40:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/priserne-osklive-meli-by-to-zbourat-trumpova-megastavba-uz-prerusta-i-bily-dum/r~aaa29f8ecbdffe12f3ac25d857123795/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Hegsethova delegace si vysloužila napomenutí na Arlingtonském národním hřbitově",
       "summary": "Ministr obrany USA Pete Hegseth se 11. listopadu během oslav Dne veteránů spolu s manželkou a asistenty vypravil na Arlingtonský národní hřbitov ve Virginii, aby…",
       "source": "ČT24",
       "category": "svet",
       "published_at": "2026-11-12T11:37:46+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/hegsethova-delegace-si-vyslouzila-napomenuti-na-arlingtonskem-narodnim-hrbitove-379552",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Babiš by rád, aby za Evropu s Ruskem mluvili Meloniová, Tusk, nebo Costa",
+      "summary": "Český premiér Andrej Babiš si jako evropské představitele pro mírová jednání s Ruskem dokáže představit italskou premiérku Giorgiu Meloniovou, premiéry Polska a Británie Donalda Tuska…",
+      "source": "Deník",
+      "category": "domaci",
+      "published_at": "2026-11-12T12:23:37+01:00",
+      "url": "https://www.denik.cz/cesko/andrej-babis-evropsky-vyjednavac-valka-na-ukrajine-navrhy/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -281,18 +281,6 @@
       "analysis_url": "https://ct24.ceskatelevize.cz/clanek/domaci/skopecek-ma-sektorovou-dan-za-ekonomicke-zlo-paril-by-u-bank-hledal-jinou-cestu-379537"
     },
     {
-      "title": "Poprvé od občanské války. Senátorem za Mississippi bude černoch Scott Colom",
-      "summary": "Demokratický kandidát Scott Colom podle projekce stanice CNN porazil v těsném souboji republikánskou senátorku Cindy Hydeovou-Smythovou a získal tak křeslo v americkém Senátu za stát…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-12T07:47:53+01:00",
-      "url": "https://www.denik.cz/svet/usa-volby-senat-mississippi-scott-colom/",
-      "importance": "Colomovo vítězství mění stranické zastoupení státu, v němž zpráva očekávala obhajobu republikánské senátorky. Ta výsledek uznala, což snižuje nejistotu ohledně jejího politického postoje k předání mandátu. Výsledek má vedle stranického významu i význam reprezentace černošských obyvatel Mississippi. Nelze však z jediného souboje přesně určit, kolik voličů rozhodla ekonomická nespokojenost a kolik osobnost kandidáta; článek popisuje tyto faktory, nepředkládá podrobnou analýzu hlasování.\n\nPodle zprávy už demokraté získali většinu v obou komorách Kongresu, takže tento mandát není sám o sobě okamžikem vzniku většiny. Může ale rozšířit prostor pro prosazování stranické agendy a omezit závislost na jednotlivých senátorech. Konečnou velikost převahy článek ještě nechává otevřenou kvůli Aljašce. Pro Trumpovu administrativu to znamená politicky obtížnější vyjednávání o legislativě a financování; neznamená to automatické přijetí všech demokratických návrhů. Konkrétní dopad se ukáže podle konečného složení komor a jejich prvních rozhodnutí.",
-      "importance_kind": "analysis",
-      "analysis_source": "Deník.cz",
-      "analysis_url": "https://www.denik.cz/svet/usa-volby-senat-mississippi-scott-colom/"
-    },
-    {
       "title": "R5M: Šéfovi ÚOHS Mlsnovi pozastavili bezpečnostní prověrku | Plaga chce převrat v jídelnách bez debaty s odborníky | Ukrajinci a Rusové v Abú Dhabí dojednali jen výměnu vězňů",
       "summary": "",
       "source": "Deník N",
@@ -314,8 +302,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 18,
-      "selected": 6,
-      "free_articles_checked": 6
+      "selected": 7,
+      "free_articles_checked": 7
     },
     {
       "name": "iROZHLAS",
@@ -323,7 +311,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -333,8 +321,8 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 22,
-      "selected": 7,
+      "candidates": 20,
+      "selected": 8,
       "free_articles_checked": 8
     },
     {
@@ -363,9 +351,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
-      "selected": 6,
-      "free_articles_checked": 6
+      "candidates": 8,
+      "selected": 4,
+      "free_articles_checked": 4
     },
     {
       "name": "Deník",
@@ -373,9 +361,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 10,
       "selected": 4,
-      "free_articles_checked": 5
+      "free_articles_checked": 4
     },
     {
       "name": "iDNES.cz",
@@ -383,9 +371,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
-      "selected": 5,
-      "free_articles_checked": 5
+      "candidates": 12,
+      "selected": 4,
+      "free_articles_checked": 4
     },
     {
       "name": "CNN Prima NEWS",
@@ -403,7 +391,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 6,
+      "candidates": 5,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -453,7 +441,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -463,7 +451,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     }

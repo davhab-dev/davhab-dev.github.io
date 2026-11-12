@@ -3,20 +3,32 @@
   "current": null,
   "queue": [
     [
-      "https://www.idnes.cz/zpravy/zahranicni/nemecko-armada-e-shop-bundeswehr-pistorius.A261112_145924_zahranicni_jhr",
-      "Gumová kachnička se samopalem. Bundeswehr spustil vlastní e-shop"
+      "https://www.idnes.cz/zpravy/domaci/josef-turek-umrti-valecny-veteran.A261112_165240_domaci_aoc",
+      "Ve 100 letech zemřel Josef Turek, český veterán z bojů o Dunkerque"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/svet/medialni-vyzkumnice-vekova-omezeni-na-socialnich-sitich-jen-uci-deti-lhat-379554",
-      "Mediální výzkumnice: Věková omezení na sociálních sítích jen učí děti lhát"
+      "https://www.ceskenoviny.cz/zpravy/vedeni-eu-ujistilo-zelenskeho-o-dalsi-podpore-napadene-ukrajiny-/2898234",
+      "Vedení EU ujistilo Zelenského o další podpoře napadené Ukrajiny"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/vladimir-putin-rand-corporation-nato-analyza-kreml.A261112_094421_zahranicni_aya",
-      "Putin v lednu umře, ruské cíle zůstanou. Scénář počítá s příměřím i válkou v Pobaltí"
+      "https://www.idnes.cz/zpravy/domaci/milion-chvilek-pro-demokracii-demonstrace-letna-4-36-protest.A261112_150231_domaci_linh",
+      "Letnou to neskončí, vzkázal Minář vládě. Představil program nedělní demonstrace"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/reditelka-szu-pochybuje-zda-budou-skolni-jidelny-dodrzovat-nezavazna-doporuceni-379560",
+      "Ředitelka SZÚ pochybuje, zda budou školní jídelny dodržovat nezávazná doporučení"
     ],
     [
       "https://www.idnes.cz/zpravy/zahranicni/kushner-s-witkoffem-jsou-v-moskve-po-schuzce-s-putinem-odleti-za-zelenskym.A261112_114559_zahranicni_kha",
       "Kushner s Witkoffem přijeli za Putinem. Navrhl humanitární misi v Kosťantynivce"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/z-motoristu-zamiri-na-narodni-tridu-bartak-klempir-zvazuje.A261112_154400_domaci_sahu",
+      "Účast 17. listopadu slíbil, teď Klempíř váhá. Za Motoristy na Národní dorazí Barták"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/medialni-vyzkumnice-vekova-omezeni-na-socialnich-sitich-jen-uci-deti-lhat-379554",
+      "Mediální výzkumnice: Věková omezení na sociálních sítích jen učí děti lhát"
     ],
     [
       "https://zpravy.aktualne.cz/domaci/zaskocil-za-schillerovou-v-jame-lvove-opozice-uvarila-urednika-na-zdaneni-bank/r~aaa29b53b6113b0a56c123a7a2c60226/",
@@ -33,10 +45,6 @@
     [
       "https://zpravy.aktualne.cz/zahranici/putin-predlozil-americanum-novy-navrh-chce-zopakovat-scenar-ktery-uz-jednou-vysel/r~aaa29cbc89468cf56a662e1f768e1ddc/",
       "Putin navrhl Američanům zopakovat úspěšný scénář. Evropě vyslal nové varování"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/babis-zelenskyj-meloniova-tusk-evropa-mir-rusko.A261112_115922_domaci_chtl",
-      "S Ruskem by mohla jednat Meloniová či Tusk, chce Babiš. Potká se se Zelenským"
     ],
     [
       "https://www.denik.cz/evropa/italie-maily-hrozby-bomby/",
@@ -63,10 +71,6 @@
       "Putin navrhnul humanitární misi v ukrajinské Kosťantynivce, píše TASS"
     ],
     [
-      "https://www.idnes.cz/zpravy/domaci/robert-plaga-ano-ministr-skolstvi-stravovani-skolni-jidelna.A261112_130546_domaci_aya",
-      "Plaga: Vyhlášku o školním stravování řeší ministerstvo zdravotnictví, obavy nemám"
-    ],
-    [
       "https://www.denik.cz/evropa/zadne-svetlo-voda-ani-teplo-ukrajinci-jsou-bez-proudu-az-dvacet-hodin-denne/",
       "Žádné světlo, voda ani teplo. Ukrajinci jsou bez proudu až dvacet hodin denně"
     ],
@@ -79,16 +83,12 @@
       "Plaga: Návrh vyhlášky o školním stravování vyjde z požadavků MZd"
     ],
     [
-      "https://zpravy.aktualne.cz/zahranici/at-za-evropu-s-ruskem-mluvi-meloniova-zada-babis-vyslovil-i-jina-jmena/r~aaa291d2364f0b1a3fd151482edd7971/",
-      "Ať za Evropu s Ruskem mluví Meloniová, žádá Babiš. Vyslovil i jiná jména"
-    ],
-    [
-      "https://zpravy.aktualne.cz/zahranici/priserne-osklive-meli-by-to-zbourat-trumpova-megastavba-uz-prerusta-i-bily-dum/r~aaa29f8ecbdffe12f3ac25d857123795/",
-      "„Příšerně ošklivé, měli by to zbourat.“ Trumpova megastavba už přerůstá i Bílý dům"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/svet/hegsethova-delegace-si-vyslouzila-napomenuti-na-arlingtonskem-narodnim-hrbitove-379552",
       "Hegsethova delegace si vysloužila napomenutí na Arlingtonském národním hřbitově"
+    ],
+    [
+      "https://www.denik.cz/cesko/andrej-babis-evropsky-vyjednavac-valka-na-ukrajine-navrhy/",
+      "Babiš by rád, aby za Evropu s Ruskem mluvili Meloniová, Tusk, nebo Costa"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/ukrajina-se-opet-potyka-s-omezovanim-satelitniho-systemu-starshield-rekl-zelenskyj-379545",
