@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T07:24:07.108987+00:00",
+  "updated": "2026-11-12T08:41:21.338665+00:00",
   "articles": [
     {
       "title": "Classic British steel bike maker Temple Cycles set to close after 12 years in business",
@@ -126,6 +126,15 @@
       "lang": "CS",
       "category": "Závody",
       "published": "2026-11-11T08:00:00+00:00"
+    },
+    {
+      "title": "Garmin chrlí jednu novinku za druhou. Nové Edge, radar i spojení s Waze mění svět cyklistické elektroniky",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/garmin-chrli-jednu-novinku-za-druhou-nove-edge-radar-i-spojeni-s-waze-meni-svet-cyklisticke-elektroniky/kategorie/doplnky",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-11"
     },
     {
       "title": "Kauza Schreiber nekončí! Lucembursko žádá evropské zlato zpět, závodnice kritizuje předsedu jury",
@@ -749,15 +758,6 @@
       "published": "2026-11-07"
     },
     {
-      "title": "Tři Češi v top 7, evropský titul žen změnil majitelku až po dojezdu. ME v Zeddamu začalo dramaticky",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/tri-cesi-v-top-7-evropsky-titul-zen-zmenil-majitelku-az-po-dojezdu-me-v-zeddamu-zacalo-dramaticky/kategorie/cyklokros-mistrovstvi-evropy",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-11-07"
-    },
-    {
       "title": "Cyklokrosové naděje v akci: Juniorka Rothbauerová měla na dohled evropskou medaili, Bažant (U23) dojel s pádem sedmý",
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/cyklokrosove-nadeje-v-akci-juniorka-rothbauerova-mela-na-dohled-evropskou-medaili-bazant-u23-dojel-s-padem-sedmy",
@@ -782,6 +782,15 @@
       "source": "RoadCycling.cz",
       "lang": "CS",
       "category": "Závody",
+      "published": "2026-11-07"
+    },
+    {
+      "title": "Tři Češi v top 7, evropský titul žen změnil majitelku až po dojezdu. ME v Zeddamu začalo dramaticky",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/tri-cesi-v-top-7-evropsky-titul-zen-zmenil-majitelku-az-po-dojezdu-me-v-zeddamu-zacalo-dramaticky/kategorie/cyklokros-mistrovstvi-evropy",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
       "published": "2026-11-07"
     },
     {
