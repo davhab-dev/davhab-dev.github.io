@@ -1,17 +1,7 @@
 {
   "active": true,
-  "current": {
-    "key": [
-      "https://www.irozhlas.cz/zpravy-domov/nemec-vlada-dela-chybu-vyvolava-protivlnu-prichazi-o-ty-kteri-byli-zcasti_2611112322_cen",
-      "Němec: Vláda dělá chybu, vyvolává protivlnu. Přichází o ty, kteří byli zčásti ochotní být loajální"
-    ],
-    "started_at": "2026-11-12T00:42:03.391181+00:00"
-  },
+  "current": null,
   "queue": [
-    [
-      "https://www.irozhlas.cz/zpravy-domov/nemec-vlada-dela-chybu-vyvolava-protivlnu-prichazi-o-ty-kteri-byli-zcasti_2611112322_cen",
-      "Němec: Vláda dělá chybu, vyvolává protivlnu. Přichází o ty, kteří byli zčásti ochotní být loajální"
-    ],
     [
       "https://www.irozhlas.cz/zpravy-domov/kupka-se-dnesniho-boje-nehodi-problemem-ods-je-ze-po-fialovi-neprisel-rafan_2611112249_ntu",
       "Kupka se dnešního boje nehodí. Problémem ODS je, že po Fialovi nepřišel ‚rafan‘, soudí Dolejší"
@@ -126,11 +116,16 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T00:42:03.391181+00:00",
+  "heartbeat": "2026-11-12T00:42:45.313410+00:00",
   "cycle": {
     "started_at": "2026-11-12T00:42:03.294454+00:00",
     "initial_pending": 29,
-    "completed": [],
+    "completed": [
+      [
+        "https://www.irozhlas.cz/zpravy-domov/nemec-vlada-dela-chybu-vyvolava-protivlnu-prichazi-o-ty-kteri-byli-zcasti_2611112322_cen",
+        "Němec: Vláda dělá chybu, vyvolává protivlnu. Přichází o ty, kteří byli zčásti ochotní být loajální"
+      ]
+    ],
     "deferred": [],
     "status": "running"
   },
@@ -143,6 +138,7 @@
     42.574111,
     35.470277,
     33.40254,
-    42.926263
+    42.926263,
+    41.922229
   ]
 }
