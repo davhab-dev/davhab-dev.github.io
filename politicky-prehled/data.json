@@ -345,10 +345,10 @@
       "category": "domaci",
       "published_at": "2026-11-12T05:30:00+01:00",
       "url": "https://www.denik.cz/cesko/cesko-celostatni-referendum-vlada-navrh-schvaleni/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:53:06.654566+00:00",
-      "analysis_estimated_at": "2026-11-12T11:52:28.804352+00:00"
+      "importance": "Vládní návrh by umožnil občanskou iniciativu s 300 tisíci podpisy, ale výsledek by byl závazný jen při souběhu většiny hlasujících a podpory alespoň 35 procent všech oprávněných voličů. To je jiná podmínka než pouhá minimální účast: při těsně rozděleném hlasování by bylo potřeba mobilizovat podstatně více lidí. Nižší podpora by podle článku vedla jen ke konzultativnímu výsledku. Občané proto potřebují předem srozumitelně vědět, zda hlasování skutečně zaváže instituce, a jak se konkrétní odpověď promítne do následných rozhodnutí.\n\nVýluky týkající se rozpočtu, bezpečnosti či členství v EU a NATO omezují rozsah nástroje, ale samy neřeší obtížnost převodu obecné odpovědi do praxe. Kyselova výhrada k jaderné energetice ukazuje, že odpověď ano či ne nenahradí plán financování a náhradních kapacit; jeho varování před polarizací je odborným hodnocením možného rizika. Návrh navíc zatím není platným právem. Koalice podle článku disponuje 107 poslanci a potřebuje nejméně 120 i souhlas požadované většiny Senátu. Bez dohody s opozicí tedy nelze slíbit termín, kdy by občané tento mechanismus mohli využít.",
+      "importance_kind": "analysis",
+      "analysis_source": "Deník.cz",
+      "analysis_url": "https://www.denik.cz/cesko/cesko-celostatni-referendum-vlada-navrh-schvaleni/"
     },
     {
       "title": "Orbánův bratr je ve vazbě. Hrozí mu až deset let vězení",
@@ -359,8 +359,8 @@
       "url": "https://www.denik.cz/evropa/orbanuv-bratr-je-ve-vazbe-hrozi-mu-az-deset-let-vezeni/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:53:44.504780+00:00",
-      "analysis_estimated_at": "2026-11-12T11:52:28.804352+00:00"
+      "analysis_eta_at": "2026-11-12T11:53:43.542807+00:00",
+      "analysis_estimated_at": "2026-11-12T11:53:05.760497+00:00"
     }
   ],
   "unavailable_sources": [],
