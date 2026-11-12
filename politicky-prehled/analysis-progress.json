@@ -1,17 +1,7 @@
 {
   "active": true,
-  "current": {
-    "key": [
-      "https://www.ceskenoviny.cz/zpravy/primatorkou-havirova-je-opet-iveta-koci-palkovska-z-hnuti-ano/2901012",
-      "Primátorkou Havířova je opět Iveta Kočí Palkovská z hnutí ANO"
-    ],
-    "started_at": "2026-11-12T11:37:41.242387+00:00"
-  },
+  "current": null,
   "queue": [
-    [
-      "https://www.ceskenoviny.cz/zpravy/primatorkou-havirova-je-opet-iveta-koci-palkovska-z-hnuti-ano/2901012",
-      "Primátorkou Havířova je opět Iveta Kočí Palkovská z hnutí ANO"
-    ],
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/v-srbsku-stale-neni-jasno-kdo-bude-premierem-379539",
       "V Srbsku stále není jasno, kdo bude premiérem"
@@ -94,7 +84,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:37:41.242387+00:00",
+  "heartbeat": "2026-11-12T11:38:20.278097+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
@@ -134,6 +124,10 @@
       [
         "https://www.idnes.cz/zpravy/zahranicni/ukrajina-se-opet-potyka-s-omezenim-systemu-starshield-oznamil-zelenskyj.A261112_103734_zahranicni_bro",
         "Ukrajina se opět potýká s omezením systému Starshield, oznámil Zelenskyj"
+      ],
+      [
+        "https://www.ceskenoviny.cz/zpravy/primatorkou-havirova-je-opet-iveta-koci-palkovska-z-hnuti-ano/2901012",
+        "Primátorkou Havířova je opět Iveta Kočí Palkovská z hnutí ANO"
       ]
     ],
     "deferred": [],
@@ -160,6 +154,7 @@
     30.397476,
     40.836044,
     33.142506,
-    39.637299
+    39.637299,
+    39.03571
   ]
 }
