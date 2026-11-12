@@ -321,10 +321,10 @@
       "category": "svet",
       "published_at": "2026-11-12T06:00:00+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/vzdusny-prostor-pobaltskych-zemi-dlouhodobe-narusuji-drony-379527",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:51:36.986734+00:00",
-      "analysis_estimated_at": "2026-11-12T11:50:58.937908+00:00"
+      "importance": "Průlety neznámých dronů zatěžují ochranu vzdušného prostoru i tehdy, když není potvrzen útok. Vyslání stíhaček k jednomu z nich ukazuje potřebu rychle rozlišit hrozbu od zbloudilého prostředku a chránit civilní provoz. Zpráva ale neidentifikuje původ aktuálních dronů; připomínka dřívějších ruských i ukrajinských průletů nestačí k připsání této konkrétní události jedné straně. Rozhodující budou výsledky sledování či zkoumání případných trosek a shodná vyjádření dotčených států.\n\nPobaltské země kombinují různé druhy opatření: letecké zásahy, pozemní překážky a spojenecký výcvik. Každé řeší jiný problém, takže protitankové zábrany samy nezastaví drony a větší cvičící brigáda sama neobjasní jejich původ. Opakované incidenty zvyšují význam sdílení radarových informací a koordinovaného rozhodování napříč hranicemi. Článek připomíná loňskou estonskou aktivaci článku 4, nikoli nové oznámení takového kroku; není proto důvod z aktuálního krátkého hlášení vyvozovat rozhodnutí NATO o vojenské odvetě.",
+      "importance_kind": "analysis",
+      "analysis_source": "ČT24",
+      "analysis_url": "https://ct24.ceskatelevize.cz/clanek/svet/vzdusny-prostor-pobaltskych-zemi-dlouhodobe-narusuji-drony-379527"
     },
     {
       "title": "Mississippi bude mít prvního černošského senátora od občanské války. Colom vítězí v baště republikánů",
@@ -335,8 +335,8 @@
       "url": "https://www.irozhlas.cz/zpravy-svet/mississippi-bude-mit-prvniho-cernosskeho-senatora-od-obcanske-valky-colom-vitezi_2611120647_bva",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:52:15.035560+00:00",
-      "analysis_estimated_at": "2026-11-12T11:50:58.937908+00:00"
+      "analysis_eta_at": "2026-11-12T11:52:14.543602+00:00",
+      "analysis_estimated_at": "2026-11-12T11:51:36.625484+00:00"
     },
     {
       "title": "Celostátní referendum? Polarizace společnosti, říká expert k návrhu vlády",
@@ -347,8 +347,8 @@
       "url": "https://www.denik.cz/cesko/cesko-celostatni-referendum-vlada-navrh-schvaleni/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:52:53.084386+00:00",
-      "analysis_estimated_at": "2026-11-12T11:50:58.937908+00:00"
+      "analysis_eta_at": "2026-11-12T11:52:52.461720+00:00",
+      "analysis_estimated_at": "2026-11-12T11:51:36.625484+00:00"
     },
     {
       "title": "Orbánův bratr je ve vazbě. Hrozí mu až deset let vězení",
@@ -359,8 +359,8 @@
       "url": "https://www.denik.cz/evropa/orbanuv-bratr-je-ve-vazbe-hrozi-mu-az-deset-let-vezeni/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending",
-      "analysis_eta_at": "2026-11-12T11:53:31.133212+00:00",
-      "analysis_estimated_at": "2026-11-12T11:50:58.937908+00:00"
+      "analysis_eta_at": "2026-11-12T11:53:30.379838+00:00",
+      "analysis_estimated_at": "2026-11-12T11:51:36.625484+00:00"
     }
   ],
   "unavailable_sources": [],
