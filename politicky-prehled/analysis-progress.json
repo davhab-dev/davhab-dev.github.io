@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://www.irozhlas.cz/zpravy-domov/koalicni-smlouvu-ve-zline-podepsaly-stan-zlin-21-a-trojblok-mensich-uskupeni-ano_2611120833_elv",
+      "Koaliční smlouvu ve Zlíně podepsaly STAN, Zlín 21 a trojblok menších uskupení. ANO míří do opozice"
+    ],
+    "started_at": "2026-11-12T11:48:21.079767+00:00"
+  },
   "queue": [
     [
       "https://www.irozhlas.cz/zpravy-domov/koalicni-smlouvu-ve-zline-podepsaly-stan-zlin-21-a-trojblok-mensich-uskupeni-ano_2611120833_elv",
@@ -32,7 +38,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:48:13.149847+00:00",
+  "heartbeat": "2026-11-12T11:48:21.079767+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
