@@ -1,6 +1,33 @@
 {
-  "updated": "2026-11-12T16:49:57.165216+00:00",
+  "updated": "2026-11-12T17:42:56.917245+00:00",
   "articles": [
+    {
+      "title": "Van Rysel announces the new RCR-R Pro bike featuring its lightest ever frame",
+      "summary": "The RCR-R Pro has already won a monument this year under Paul Seixas",
+      "url": "https://www.cyclingnews.com/bikes/van-rysel-announces-the-new-rcr-r-pro-bike-featuring-its-lightest-ever-frame/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-12T17:00:00+00:00"
+    },
+    {
+      "title": "No paint, 40cm handlebar and the marks of a life well-lived – this is Paul Seixas’ prototype Van Rysel RCR-R2 Pro",
+      "summary": "This prototype-era RCR-R2 Pro signed off with a win at Il Lombardia",
+      "url": "https://www.bikeradar.com/features/pro-bike/paul-seixas-prototype-van-rysel-rcr-r2-pro",
+      "source": "BikeRadar",
+      "lang": "EN",
+      "category": "Technika",
+      "published": "2026-11-12T17:00:00+00:00"
+    },
+    {
+      "title": "The new Van Rysel RCR-R2 Pro is lighter, stiffer and more aerodynamic",
+      "summary": "Paul Seixas’ prototype race bike revealed",
+      "url": "https://www.bikeradar.com/news/van-rysel-rcr-r2-pro",
+      "source": "BikeRadar",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-12T17:00:00+00:00"
+    },
     {
       "title": "Gaia Realini heads for 'new adventure' with Picnic-PostNL, but can climber rejuvenate her career? – Analysis",
       "summary": "Dutch squad will hope 25-year-old Italian can rediscover her outstanding climbing form of 2023 and 2024 seasons",
@@ -663,6 +690,15 @@
       "summary": "",
       "url": "https://mtbs.cz/clanek/znacku-ghost-na-posledni-chvili-kupuje-novy-majitel-haibiku-a-winory/kategorie/servis",
       "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-09"
+    },
+    {
+      "title": "Vrstvení jako základ – jak se obléct na podzim",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132080/vrstveni-jako-zaklad-jak-se-oblect-na-podzim.html",
+      "source": "MTBIKER.cz",
       "lang": "CS",
       "category": "MTB",
       "published": "2026-11-09"
@@ -1658,15 +1694,6 @@
       "published": "2026-10-29T06:28:03+00:00"
     },
     {
-      "title": "Srdce vašeho elektrokola pod drobnohledem: Jak vytěžit z baterie Bosch maximum a jezdit bez rizika?",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132029/srdce-vaseho-elektrokola-pod-drobnohledem-jak-vytezit-z-baterie-bosch-maximum-a-jezdit-bez-rizika.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "Technika",
-      "published": "2026-10-29"
-    },
-    {
       "title": "Pedersen a další dánští sportovci žalují HBO. Žádají milionové odškodné",
       "summary": "",
       "url": "https://cyklorepublic.cz/clanky/01a18874-b625-72b9-bfd8-955713409303/pedersen-a-dalsi-dansti-sportovci-zaluji-hbo-zadaji-milionove-odskodne",
@@ -2075,7 +2102,7 @@
       "title": "Continental throws its weight behind 32in wheels as it teases XL Dubnital tyre",
       "summary": "German behemoth reveals super-sized Dubnitals are coming soon",
       "url": "https://www.bikeradar.com/news/32in-continental-dubnital-teased",
-      "source": "BikeRadar",
+      "source": "BikeRadar MTB",
       "lang": "EN",
       "category": "Technika",
       "published": "2026-10-19T12:01:15+00:00"
@@ -2963,6 +2990,15 @@
       "published": ""
     },
     {
+      "title": "Pouze 150 kusů na světě - limitovaná verze Canyon Spectral:ON CF LTD přináší výkon 1 500 W",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132119/pouze-150-kusu-na-svete-limitovana-verze-canyon-spectralon-cf-ltd-prinasi-vykon-1-500-w.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": ""
+    },
+    {
       "title": "Zjisti, jaký potřebuješ olej nebo vosk - já se ptám a ty odpovídáš",
       "summary": "",
       "url": "https://www.mtbiker.cz/clanky/132090/zjisti-jaky-potrebujes-olej-nebo-vosk-ja-se-ptam-a-ty-odpovidas.html",
@@ -2978,15 +3014,6 @@
       "source": "MTBIKER.cz",
       "lang": "CS",
       "category": "Gravel",
-      "published": ""
-    },
-    {
-      "title": "Vrstvení jako základ – jak se obléct na podzim",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132080/vrstveni-jako-zaklad-jak-se-oblect-na-podzim.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "MTB",
       "published": ""
     },
     {
