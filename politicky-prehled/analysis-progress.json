@@ -1,17 +1,7 @@
 {
   "active": true,
-  "current": {
-    "key": [
-      "https://www.irozhlas.cz/zpravy-domov/rucni-scitani-volebnich-hlasu-je-otrocka-prace-tvrdi-karvinsky-tajemnik-nogol_2611121010_elv",
-      "Ruční sčítání volebních hlasů je otrocká práce, tvrdí karvinský tajemník Nogol. Navrhuje využívat skenery"
-    ],
-    "started_at": "2026-11-12T11:43:08.581737+00:00"
-  },
+  "current": null,
   "queue": [
-    [
-      "https://www.irozhlas.cz/zpravy-domov/rucni-scitani-volebnich-hlasu-je-otrocka-prace-tvrdi-karvinsky-tajemnik-nogol_2611121010_elv",
-      "Ruční sčítání volebních hlasů je otrocká práce, tvrdí karvinský tajemník Nogol. Navrhuje využívat skenery"
-    ],
     [
       "https://www.ceskenoviny.cz/zpravy/novym-primatorem-zlina-je-lidr-hnuti-zlin-21-vancura/2900812",
       "Novým primátorem Zlína je lídr hnutí Zlín 21 Vančura"
@@ -66,7 +56,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:43:08.581737+00:00",
+  "heartbeat": "2026-11-12T11:43:44.190278+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
@@ -134,6 +124,10 @@
       [
         "https://www.irozhlas.cz/zpravy-domov/kryry-na-lounsku-maji-noveho-starostu-mesto-povede-petr-ulke-z-uskupeni-spolecna_2611121015_elv",
         "Kryry na Lounsku mají nového starostu. Město povede Petr Ulke z uskupení Společná budoucnost"
+      ],
+      [
+        "https://www.irozhlas.cz/zpravy-domov/rucni-scitani-volebnich-hlasu-je-otrocka-prace-tvrdi-karvinsky-tajemnik-nogol_2611121010_elv",
+        "Ruční sčítání volebních hlasů je otrocká práce, tvrdí karvinský tajemník Nogol. Navrhuje využívat skenery"
       ]
     ],
     "deferred": [],
@@ -167,6 +161,7 @@
     33.861428,
     35.934655,
     37.78231,
-    36.80252
+    36.80252,
+    35.608541
   ]
 }
