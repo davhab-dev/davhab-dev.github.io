@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://www.ceskenoviny.cz/zpravy/eu-v-pondeli-prijme-dalsi-sankce-proti-rusku-zameri-se-na-rafinerie-a-flotilu/2900980",
+      "EU v pondělí přijme další sankce proti Rusku, zaměří se na rafinerie a flotilu"
+    ],
+    "started_at": "2026-11-12T11:44:37.658271+00:00"
+  },
   "queue": [
     [
       "https://www.ceskenoviny.cz/zpravy/eu-v-pondeli-prijme-dalsi-sankce-proti-rusku-zameri-se-na-rafinerie-a-flotilu/2900980",
@@ -52,7 +58,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:44:28.594219+00:00",
+  "heartbeat": "2026-11-12T11:44:37.658271+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
