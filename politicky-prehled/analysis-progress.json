@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://ct24.ceskatelevize.cz/clanek/svet/egypt-mesice-tajne-posila-vojaky-a-stihacky-saudum-pise-mee-379541",
+      "Egypt měsíce tajně posílá vojáky a stíhačky Saúdům, píše MEE"
+    ],
+    "started_at": "2026-11-12T11:46:06.534208+00:00"
+  },
   "queue": [
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/egypt-mesice-tajne-posila-vojaky-a-stihacky-saudum-pise-mee-379541",
@@ -44,7 +50,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:45:58.172044+00:00",
+  "heartbeat": "2026-11-12T11:46:06.534208+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
