@@ -1,17 +1,7 @@
 {
   "active": true,
-  "current": {
-    "key": [
-      "https://www.idnes.cz/zpravy/zahranicni/armenie-prisla-o-pravo-hlasovat-ve-vojenskem-paktu-vedenem-moskvou-uvedl-kreml.A261112_061242_zahranicni_pluh",
-      "Moskva zbavila Arménii práva hlasování ve společném vojenském paktu"
-    ],
-    "started_at": "2026-11-12T05:35:50.833888+00:00"
-  },
+  "current": null,
   "queue": [
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/armenie-prisla-o-pravo-hlasovat-ve-vojenskem-paktu-vedenem-moskvou-uvedl-kreml.A261112_061242_zahranicni_pluh",
-      "Moskva zbavila Arménii práva hlasování ve společném vojenském paktu"
-    ],
     [
       "https://www.idnes.cz/zpravy/zahranicni/scott-colom-porazil-hydeovou-smythovou-je-prvnim-cernosskym-senatorem-v-mississippi-od-obcanske-valk.A261112_004235_zahranicni_air",
       "Po týdnu sečteno. Scott Colom je prvním černošským senátorem v Mississippi od občanské války"
@@ -130,11 +120,16 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T05:35:50.833888+00:00",
+  "heartbeat": "2026-11-12T05:36:26.961487+00:00",
   "cycle": {
     "started_at": "2026-11-12T05:35:21.426127+00:00",
     "initial_pending": 30,
-    "completed": [],
+    "completed": [
+      [
+        "https://www.idnes.cz/zpravy/zahranicni/armenie-prisla-o-pravo-hlasovat-ve-vojenskem-paktu-vedenem-moskvou-uvedl-kreml.A261112_061242_zahranicni_pluh",
+        "Moskva zbavila Arménii práva hlasování ve společném vojenském paktu"
+      ]
+    ],
     "deferred": [],
     "status": "running"
   },
@@ -148,6 +143,7 @@
     35.470277,
     33.40254,
     42.926263,
-    41.922229
+    41.922229,
+    36.127599
   ]
 }
