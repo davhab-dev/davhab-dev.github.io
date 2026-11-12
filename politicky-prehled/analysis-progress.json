@@ -1,17 +1,7 @@
 {
   "active": true,
-  "current": {
-    "key": [
-      "https://www.denik.cz/evropa/macron-pellegrini-gardiste-vojaci-straz-omdleli-video/",
-      "Drama při státní návštěvě. Před Macronem a Pellegrinim se zhroutili dva gardisté"
-    ],
-    "started_at": "2026-11-12T11:34:39.105567+00:00"
-  },
+  "current": null,
   "queue": [
-    [
-      "https://www.denik.cz/evropa/macron-pellegrini-gardiste-vojaci-straz-omdleli-video/",
-      "Drama při státní návštěvě. Před Macronem a Pellegrinim se zhroutili dva gardisté"
-    ],
     [
       "https://www.irozhlas.cz/zpravy-svet/usa-nerozlisuji-mezi-agresorem-a-napadenym-pritom-maji-paky-na-kyjev-i-moskvu_2611121108_bva",
       "USA nerozlišují mezi agresorem a napadeným. Přitom mají páky na Kyjev i Moskvu, tvrdí analytik Bříza"
@@ -110,7 +100,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:34:39.105567+00:00",
+  "heartbeat": "2026-11-12T11:35:09.503043+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
@@ -134,6 +124,10 @@
       [
         "https://www.ceskenoviny.cz/zpravy/americti-vyjednavaci-witkoff-a-kushner-prileteli-do-moskvy-za-putinem/2900950",
         "Američtí vyjednavači Witkoff a Kushner přiletěli do Moskvy za Putinem"
+      ],
+      [
+        "https://www.denik.cz/evropa/macron-pellegrini-gardiste-vojaci-straz-omdleli-video/",
+        "Drama při státní návštěvě. Před Macronem a Pellegrinim se zhroutili dva gardisté"
       ]
     ],
     "deferred": [],
@@ -156,6 +150,7 @@
     38.724165,
     33.997483,
     42.572669,
-    33.98251
+    33.98251,
+    30.397476
   ]
 }
