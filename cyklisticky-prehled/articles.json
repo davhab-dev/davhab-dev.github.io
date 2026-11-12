@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-12T14:29:18.268480+00:00",
+  "updated": "2026-11-12T15:46:36.479424+00:00",
   "articles": [
+    {
+      "title": "PHD chemistry and three types of sand – Inside the CeramicSpeed chain lubricant test labs",
+      "summary": "No standard testing exists for chain lubricants. We visit CeramicSpeed to see how they formulate their drivetrain products",
+      "url": "https://www.cyclingnews.com/cycling-tech-components/phd-chemistry-and-three-types-of-sand-inside-the-ceramicspeed-chain-lubricant-test-labs/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-12T15:20:00+00:00"
+    },
     {
       "title": "MET Manta 3 review: The all-conquering helmet of the UAE team has finally launched, but just how good is it really?",
       "summary": "Lighter, better vented, and faster. Two of those are most true when travelling at pro race speeds",
@@ -618,6 +627,15 @@
       "summary": "",
       "url": "https://mtbs.cz/clanek/znacku-ghost-na-posledni-chvili-kupuje-novy-majitel-haibiku-a-winory/kategorie/servis",
       "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-09"
+    },
+    {
+      "title": "Vrstvení jako základ – jak se obléct na podzim",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132080/vrstveni-jako-zaklad-jak-se-oblect-na-podzim.html",
+      "source": "MTBIKER.cz",
       "lang": "CS",
       "category": "MTB",
       "published": "2026-11-09"
@@ -1611,15 +1629,6 @@
       "lang": "CS",
       "category": "Gravel",
       "published": "2026-10-29T06:28:03+00:00"
-    },
-    {
-      "title": "Srdce vašeho elektrokola pod drobnohledem: Jak vytěžit z baterie Bosch maximum a jezdit bez rizika?",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132029/srdce-vaseho-elektrokola-pod-drobnohledem-jak-vytezit-z-baterie-bosch-maximum-a-jezdit-bez-rizika.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "Technika",
-      "published": "2026-10-29"
     },
     {
       "title": "Pedersen a další dánští sportovci žalují HBO. Žádají milionové odškodné",
@@ -2918,6 +2927,15 @@
       "published": ""
     },
     {
+      "title": "Pouze 150 kusů na světě - limitovaná verze Canyon Spectral:ON CF LTD přináší výkon 1 500 W",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132119/pouze-150-kusu-na-svete-limitovana-verze-canyon-spectralon-cf-ltd-prinasi-vykon-1-500-w.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": ""
+    },
+    {
       "title": "Zjisti, jaký potřebuješ olej nebo vosk - já se ptám a ty odpovídáš",
       "summary": "",
       "url": "https://www.mtbiker.cz/clanky/132090/zjisti-jaky-potrebujes-olej-nebo-vosk-ja-se-ptam-a-ty-odpovidas.html",
@@ -2933,15 +2951,6 @@
       "source": "MTBIKER.cz",
       "lang": "CS",
       "category": "Gravel",
-      "published": ""
-    },
-    {
-      "title": "Vrstvení jako základ – jak se obléct na podzim",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132080/vrstveni-jako-zaklad-jak-se-oblect-na-podzim.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "MTB",
       "published": ""
     },
     {
