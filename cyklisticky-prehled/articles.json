@@ -1,6 +1,51 @@
 {
-  "updated": "2026-11-12T10:39:58.467324+00:00",
+  "updated": "2026-11-12T12:36:51.556843+00:00",
   "articles": [
+    {
+      "title": "“We've been asked many times whether we would make an ebike” – J.Laverack adds Mahle X20 motor to a selection of its titanium framesets",
+      "summary": "Only 22 ebikes to be made across the brand’s road, gravel, urban and MTB framesets",
+      "url": "https://www.bikeradar.com/news/j-laverack-element-22",
+      "source": "BikeRadar",
+      "lang": "EN",
+      "category": "Gravel",
+      "published": "2026-11-12T12:12:26+00:00"
+    },
+    {
+      "title": "Denmark announced as host of 2027 UEC Road European Championships",
+      "summary": "European Championships return to Denmark a decade after Alexander Kristoff and Marianne Vos sprinted to glory",
+      "url": "https://www.cyclingnews.com/pro-cycling/racing/denmark-announced-as-host-of-2027-uec-road-european-championships/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-12T11:56:20+00:00"
+    },
+    {
+      "title": "'No serious damage' – Lucinda Brand escapes serious injury following her crash at the Niel Superprestige",
+      "summary": "World champion's participation in this weekend's races is not known",
+      "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/no-serious-damage-lucinda-brand-escapes-serious-injury-following-her-crash-at-the-niel-superprestige/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-12T10:59:17+00:00"
+    },
+    {
+      "title": "'I don't get often very emotional' – Tadej Pogačar highlights a teammate's Tour de France stage win as 'one of the best days of my career'",
+      "summary": "'It’s something very beautiful and I feel very privileged' Del Toro says of Pogačar's support",
+      "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/i-dont-get-often-very-emotional-tadej-pogacar-highlights-a-teammates-tour-de-france-stage-win-as-one-of-the-best-days-of-my-career/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-12T10:37:56+00:00"
+    },
+    {
+      "title": "New Winspace C6 offers endurance features in a performance frameset",
+      "summary": "Winspace claims its new bike has fast handling and comfort for longer rides",
+      "url": "https://www.bikeradar.com/news/2026-winspace-c6",
+      "source": "BikeRadar",
+      "lang": "EN",
+      "category": "Technika",
+      "published": "2026-11-12T10:31:47+00:00"
+    },
     {
       "title": "Rim brakes are a “guilty pleasure” – Pashley launches new Roadfinder SL Rim Brake Edition",
       "summary": "‘Retro-modern’ bike available as a frameset only",
@@ -35,6 +80,15 @@
       "source": "MTBS.cz",
       "lang": "CS",
       "category": "MTB",
+      "published": "2026-11-12"
+    },
+    {
+      "title": "Z proslulého hlubokého bláta Jaarmarktcrossu vylovili Mason a Bakker první vítězství v Superprestige. Boroš dojel šestnáctý",
+      "summary": "",
+      "url": "https://www.roadcycling.cz/clanek/z-prosluleho-hlubokeho-blata-jaarmarktcrossu-vylovili-mason-a-bakker-prvni-vitezstvi-v-superprestige-boros-dojel-sestnacty",
+      "source": "RoadCycling.cz",
+      "lang": "CS",
+      "category": "Závody",
       "published": "2026-11-12"
     },
     {
@@ -806,15 +860,6 @@
       "title": "Rozhodčí změnili výsledek závěrečného spurtu. Evropský cyklokrosový titul má Brand, Schreiber zbyly oči pro pláč, pro medaili nepřišla. Výborná Zemanová dojela sedmá",
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/rozhodci-zmenili-vysledek-zaverecneho-spurtu-evropsky-cyklokrosovy-titul-ma-brand-schreiber-zbyly-oci-pro-plac-pro-medaili-neprisla-vyborna-zemanova-dojela-sedma",
-      "source": "RoadCycling.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": "2026-11-07"
-    },
-    {
-      "title": "Vyhrát Flandry bude těžší než Roubaix, uvědomuje si Van Aert. Láká ho i domácí mistrovství světa v cyklokrosu",
-      "summary": "",
-      "url": "https://www.roadcycling.cz/clanek/vyhrat-flandry-bude-tezsi-nez-roubaix-uvedomuje-si-van-aert-laka-ho-i-domaci-mistrovstvi-sveta-v-cyklokrosu",
       "source": "RoadCycling.cz",
       "lang": "CS",
       "category": "Závody",
@@ -1994,7 +2039,7 @@
       "title": "Rim width explained for road bikes, mountain bikes and gravel bikes",
       "summary": "What is wheel rim width and why is it important?",
       "url": "https://www.bikeradar.com/advice/buyers-guides/rim-width-explained-for-road-bikes-mountain-bikes-and-gravel-bikes",
-      "source": "BikeRadar",
+      "source": "BikeRadar MTB",
       "lang": "EN",
       "category": "Gravel",
       "published": "2026-10-19T11:00:00+00:00"
@@ -2729,6 +2774,15 @@
       "published": "2025-09-21T12:38:41+00:00"
     },
     {
+      "title": "Mason překvapil v Nielu, mistryně světa a Evropy Brand odstoupila se zraněním",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/mason-prekvapil-v-nielu-mistryne-sveta-a-evropy-brand-odstoupila-se-zranenim/kategorie/bleskovky-zavody",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": ""
+    },
+    {
       "title": "ME cyklokros 2026 - výsledky neděle",
       "summary": "",
       "url": "https://mtbs.cz/clanek/me-cyklokros-2026-vysledky-nedele/kategorie/bleskovky-zavody",
@@ -2753,15 +2807,6 @@
       "source": "MTBS.cz",
       "lang": "CS",
       "category": "MTB",
-      "published": ""
-    },
-    {
-      "title": "Gravel Burn 2026: Beers dál vede, Jackson vyhrála sprint. Fišnar drží dres lídra i po pádu",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/gravel-burn-2026-beers-dal-vede-jackson-vyhrala-sprint-fisnar-drzi-dres-lidra-i-po-padu/kategorie/bleskovky-zavody",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Gravel",
       "published": ""
     },
     {
