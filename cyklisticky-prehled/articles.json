@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T02:56:13.067298+00:00",
+  "updated": "2026-11-12T03:58:27.536455+00:00",
   "articles": [
     {
       "title": "Classic British steel bike maker Temple Cycles set to close after 12 years in business",
@@ -483,6 +483,15 @@
       "summary": "",
       "url": "https://mtbs.cz/clanek/znacku-ghost-na-posledni-chvili-kupuje-novy-majitel-haibiku-a-winory/kategorie/servis",
       "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-09"
+    },
+    {
+      "title": "Vrstvení jako základ – jak se obléct na podzim",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132080/vrstveni-jako-zaklad-jak-se-oblect-na-podzim.html",
+      "source": "MTBIKER.cz",
       "lang": "CS",
       "category": "MTB",
       "published": "2026-11-09"
@@ -1557,15 +1566,6 @@
       "lang": "EN",
       "category": "Technika",
       "published": "2026-10-28T10:00:00+00:00"
-    },
-    {
-      "title": "Jak na bikepacking: Jak bojovat s vlastní hlavou?",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132008/jak-na-bikepacking-jak-bojovat-s-vlastni-hlavou.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "Gravel",
-      "published": "2026-10-28"
     },
     {
       "title": "Team TotalEnergies trades Cube for Pardus as another Chinese brand joins pro cycling peloton",
@@ -2819,21 +2819,21 @@
       "published": ""
     },
     {
+      "title": "Zjisti, jaký potřebuješ olej nebo vosk - já se ptám a ty odpovídáš",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132090/zjisti-jaky-potrebujes-olej-nebo-vosk-ja-se-ptam-a-ty-odpovidas.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": ""
+    },
+    {
       "title": "Gravel v Česku a v zahraničí: Dvě naprosto odlišné disciplíny",
       "summary": "",
       "url": "https://www.mtbiker.cz/clanky/132086/gravel-v-cesku-a-v-zahranici-dve-naprosto-odlisne-discipliny.html",
       "source": "MTBIKER.cz",
       "lang": "CS",
       "category": "Gravel",
-      "published": ""
-    },
-    {
-      "title": "Vrstvení jako základ – jak se obléct na podzim",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132080/vrstveni-jako-zaklad-jak-se-oblect-na-podzim.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "MTB",
       "published": ""
     },
     {
