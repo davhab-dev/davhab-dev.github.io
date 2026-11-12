@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://www.denik.cz/svet/usa-volby-senat-mississippi-scott-colom/",
+      "Poprvé od občanské války. Senátorem za Mississippi bude černoch Scott Colom"
+    ],
+    "started_at": "2026-11-12T11:49:09.152430+00:00"
+  },
   "queue": [
     [
       "https://www.denik.cz/svet/usa-volby-senat-mississippi-scott-colom/",
@@ -28,7 +34,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:49:00.490055+00:00",
+  "heartbeat": "2026-11-12T11:49:09.152430+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
