@@ -1,17 +1,7 @@
 {
   "active": true,
-  "current": {
-    "key": [
-      "https://www.ceskenoviny.cz/zpravy/-babis-by-rad-aby-za-evropu-s-ruskem-mluvili-meloniova-tusk-nebo-costa/2898234",
-      "Babiš by rád, aby za Evropu s Ruskem mluvili Meloniová, Tusk, nebo Costa"
-    ],
-    "started_at": "2026-11-12T11:41:36.696353+00:00"
-  },
+  "current": null,
   "queue": [
-    [
-      "https://www.ceskenoviny.cz/zpravy/-babis-by-rad-aby-za-evropu-s-ruskem-mluvili-meloniova-tusk-nebo-costa/2898234",
-      "Babiš by rád, aby za Evropu s Ruskem mluvili Meloniová, Tusk, nebo Costa"
-    ],
     [
       "https://www.irozhlas.cz/zpravy-domov/kryry-na-lounsku-maji-noveho-starostu-mesto-povede-petr-ulke-z-uskupeni-spolecna_2611121015_elv",
       "Kryry na Lounsku mají nového starostu. Město povede Petr Ulke z uskupení Společná budoucnost"
@@ -74,7 +64,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:41:36.696353+00:00",
+  "heartbeat": "2026-11-12T11:42:14.478663+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
@@ -134,6 +124,10 @@
       [
         "https://ct24.ceskatelevize.cz/clanek/domaci/skopecek-ma-sektorovou-dan-za-ekonomicke-zlo-paril-by-u-bank-hledal-jinou-cestu-379537",
         "Skopeček má sektorovou daň za ekonomické zlo. Pařil by u bank hledal jinou cestu"
+      ],
+      [
+        "https://www.ceskenoviny.cz/zpravy/-babis-by-rad-aby-za-evropu-s-ruskem-mluvili-meloniova-tusk-nebo-costa/2898234",
+        "Babiš by rád, aby za Evropu s Ruskem mluvili Meloniová, Tusk, nebo Costa"
       ]
     ],
     "deferred": [],
@@ -165,6 +159,7 @@
     37.918118,
     45.983214,
     33.861428,
-    35.934655
+    35.934655,
+    37.78231
   ]
 }
