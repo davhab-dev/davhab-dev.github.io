@@ -1,17 +1,7 @@
 {
   "active": true,
-  "current": {
-    "key": [
-      "https://zpravy.aktualne.cz/domaci/revoluce-v-prijimackach-na-stredni-se-blizi-ministr-oznamil-datum-zmeny/r~aaa290541774990ed14a70aaba3908b2/",
-      "Revoluce v přijímačkách na střední se blíží. Ministr oznámil datum změny"
-    ],
-    "started_at": "2026-11-12T11:33:06.586935+00:00"
-  },
+  "current": null,
   "queue": [
-    [
-      "https://zpravy.aktualne.cz/domaci/revoluce-v-prijimackach-na-stredni-se-blizi-ministr-oznamil-datum-zmeny/r~aaa290541774990ed14a70aaba3908b2/",
-      "Revoluce v přijímačkách na střední se blíží. Ministr oznámil datum změny"
-    ],
     [
       "https://www.ceskenoviny.cz/zpravy/americti-vyjednavaci-witkoff-a-kushner-prileteli-do-moskvy-za-putinem/2900950",
       "Američtí vyjednavači Witkoff a Kushner přiletěli do Moskvy za Putinem"
@@ -118,7 +108,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:33:06.586935+00:00",
+  "heartbeat": "2026-11-12T11:33:49.159604+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
@@ -134,6 +124,10 @@
       [
         "https://www.idnes.cz/zpravy/zahranicni/kushner-s-witkoffem-jsou-v-moskve-po-schuzce-s-putinem-odleti-za-zelenskym.A261112_114559_zahranicni_kha",
         "Kushner s Witkoffem jsou v Moskvě, po schůzce s Putinem odletí za Zelenským"
+      ],
+      [
+        "https://zpravy.aktualne.cz/domaci/revoluce-v-prijimackach-na-stredni-se-blizi-ministr-oznamil-datum-zmeny/r~aaa290541774990ed14a70aaba3908b2/",
+        "Revoluce v přijímačkách na střední se blíží. Ministr oznámil datum změny"
       ]
     ],
     "deferred": [],
@@ -154,6 +148,7 @@
     40.97949,
     133.312144,
     38.724165,
-    33.997483
+    33.997483,
+    42.572669
   ]
 }
