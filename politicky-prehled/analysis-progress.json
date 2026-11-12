@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://www.idnes.cz/zpravy/domaci/mexican-cesko-soud-souhlas-s-vydanim-do-usa-kriminalita-drogy.A261112_105351_domaci_aoc",
+      "Mexičan zadržený v Česku souhlasil s vydáním do USA, stíhají ho za drogy"
+    ],
+    "started_at": "2026-11-12T11:36:08.454306+00:00"
+  },
   "queue": [
     [
       "https://www.idnes.cz/zpravy/domaci/mexican-cesko-soud-souhlas-s-vydanim-do-usa-kriminalita-drogy.A261112_105351_domaci_aoc",
@@ -96,7 +102,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:35:59.926935+00:00",
+  "heartbeat": "2026-11-12T11:36:08.454306+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
