@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://denikn.cz/newsletter/2254365/sefovi-uohs-mlsnovi-pozastavili-bezpecnostni-proverku-plaga-chce-prevrat-v-jidelnach-bez-debaty-s-odborniky-ukrajinci-a-rusove-v-abu-dhabi-dojednali-jen-vymenu-veznu/",
+      "R5M: Šéfovi ÚOHS Mlsnovi pozastavili bezpečnostní prověrku | Plaga chce převrat v jídelnách bez debaty s odborníky | Ukrajinci a Rusové v Abú Dhabí dojednali jen výměnu vězňů"
+    ],
+    "started_at": "2026-11-12T11:49:56.597171+00:00"
+  },
   "queue": [
     [
       "https://denikn.cz/newsletter/2254365/sefovi-uohs-mlsnovi-pozastavili-bezpecnostni-proverku-plaga-chce-prevrat-v-jidelnach-bez-debaty-s-odborniky-ukrajinci-a-rusove-v-abu-dhabi-dojednali-jen-vymenu-veznu/",
@@ -24,7 +30,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:49:48.271863+00:00",
+  "heartbeat": "2026-11-12T11:49:56.597171+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
