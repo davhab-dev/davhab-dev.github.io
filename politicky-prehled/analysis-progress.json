@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/skopecek-ma-sektorovou-dan-za-ekonomicke-zlo-paril-by-u-bank-hledal-jinou-cestu-379537",
+      "Skopeček má sektorovou daň za ekonomické zlo. Pařil by u bank hledal jinou cestu"
+    ],
+    "started_at": "2026-11-12T11:40:52.405200+00:00"
+  },
   "queue": [
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/skopecek-ma-sektorovou-dan-za-ekonomicke-zlo-paril-by-u-bank-hledal-jinou-cestu-379537",
@@ -72,7 +78,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:40:42.807853+00:00",
+  "heartbeat": "2026-11-12T11:40:52.405200+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
