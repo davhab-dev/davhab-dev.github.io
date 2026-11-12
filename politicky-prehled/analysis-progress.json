@@ -1,17 +1,7 @@
 {
   "active": true,
-  "current": {
-    "key": [
-      "https://www.idnes.cz/zpravy/zahranicni/kushner-s-witkoffem-jsou-v-moskve-po-schuzce-s-putinem-odleti-za-zelenskym.A261112_114559_zahranicni_kha",
-      "Kushner s Witkoffem jsou v Moskvě, po schůzce s Putinem odletí za Zelenským"
-    ],
-    "started_at": "2026-11-12T11:32:24.067354+00:00"
-  },
+  "current": null,
   "queue": [
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/kushner-s-witkoffem-jsou-v-moskve-po-schuzce-s-putinem-odleti-za-zelenskym.A261112_114559_zahranicni_kha",
-      "Kushner s Witkoffem jsou v Moskvě, po schůzce s Putinem odletí za Zelenským"
-    ],
     [
       "https://zpravy.aktualne.cz/domaci/revoluce-v-prijimackach-na-stredni-se-blizi-ministr-oznamil-datum-zmeny/r~aaa290541774990ed14a70aaba3908b2/",
       "Revoluce v přijímačkách na střední se blíží. Ministr oznámil datum změny"
@@ -122,7 +112,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:32:24.067354+00:00",
+  "heartbeat": "2026-11-12T11:32:58.064837+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
@@ -134,6 +124,10 @@
       [
         "https://www.idnes.cz/zpravy/domaci/stan-kritika-obranne-politiky-vlady-andreje-babise-i-zruseni-stravovaci-vyhlasky.A261112_105310_domaci_jira",
         "Vláda hazarduje s naší obranyschopností, zlobí se hnutí STAN"
+      ],
+      [
+        "https://www.idnes.cz/zpravy/zahranicni/kushner-s-witkoffem-jsou-v-moskve-po-schuzce-s-putinem-odleti-za-zelenskym.A261112_114559_zahranicni_kha",
+        "Kushner s Witkoffem jsou v Moskvě, po schůzce s Putinem odletí za Zelenským"
       ]
     ],
     "deferred": [],
@@ -153,6 +147,7 @@
     36.127599,
     40.97949,
     133.312144,
-    38.724165
+    38.724165,
+    33.997483
   ]
 }
