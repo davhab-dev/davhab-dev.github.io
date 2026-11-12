@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://www.irozhlas.cz/zpravy-domov/nestrasme-kraje-ze-prijdou-o-penize-za-odber-vody-zni-z-ano-lidovci-babis-utoci_2611112348_jkd",
+      "Nestrašme kraje, že přijdou o peníze za odběr vody, zní z ANO. Lidovci: Babiš útočí na rozpočty"
+    ],
+    "started_at": "2026-11-12T00:40:44.501982+00:00"
+  },
   "queue": [
     [
       "https://www.irozhlas.cz/zpravy-domov/nestrasme-kraje-ze-prijdou-o-penize-za-odber-vody-zni-z-ano-lidovci-babis-utoci_2611112348_jkd",
@@ -124,7 +130,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T00:40:14.642740+00:00",
+  "heartbeat": "2026-11-12T00:40:44.501982+00:00",
   "cycle": {
     "started_at": "2026-11-12T00:40:14.642740+00:00",
     "initial_pending": 30,
