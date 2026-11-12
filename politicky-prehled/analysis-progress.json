@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://ct24.ceskatelevize.cz/clanek/svet/ruske-utoky-maji-obeti-v-kyjeve-a-chersonu-379543",
+      "Ruské útoky mají oběti v Kyjevě, Chersonu či Záporožské oblasti"
+    ],
+    "started_at": "2026-11-12T11:45:21.876072+00:00"
+  },
   "queue": [
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/ruske-utoky-maji-obeti-v-kyjeve-a-chersonu-379543",
@@ -48,7 +54,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:45:13.228159+00:00",
+  "heartbeat": "2026-11-12T11:45:21.876072+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
