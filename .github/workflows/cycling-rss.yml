@@ -10,6 +10,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+  pages: write
 concurrency:
   group: cycling-rss-update
   cancel-in-progress: false
