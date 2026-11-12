@@ -1,17 +1,7 @@
 {
   "active": true,
-  "current": {
-    "key": [
-      "https://www.ceskenoviny.cz/zpravy/masivni-vybuchy-zastavily-v-hormuzu-dva-supertankery-tvrdi-iranske-gardy/2900965",
-      "Masivní výbuchy zastavily v Hormuzu dva supertankery, tvrdí íránské gardy"
-    ],
-    "started_at": "2026-11-12T11:46:54.027669+00:00"
-  },
+  "current": null,
   "queue": [
-    [
-      "https://www.ceskenoviny.cz/zpravy/masivni-vybuchy-zastavily-v-hormuzu-dva-supertankery-tvrdi-iranske-gardy/2900965",
-      "Masivní výbuchy zastavily v Hormuzu dva supertankery, tvrdí íránské gardy"
-    ],
     [
       "https://www.irozhlas.cz/zpravy-domov/starostou-prahy-8-byl-zvolen-hrebik-z-hnuti-stan-v-opozici-konci-vitez-voleb-se_2611120845_aha",
       "Starostou Prahy 8 byl zvolen Hřebík z hnutí STAN. V opozici končí vítěz voleb, to se nelíbí části obyvatel"
@@ -46,7 +36,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:46:54.027669+00:00",
+  "heartbeat": "2026-11-12T11:47:28.973958+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
@@ -134,6 +124,10 @@
       [
         "https://ct24.ceskatelevize.cz/clanek/svet/egypt-mesice-tajne-posila-vojaky-a-stihacky-saudum-pise-mee-379541",
         "Egypt měsíce tajně posílá vojáky a stíhačky Saúdům, píše MEE"
+      ],
+      [
+        "https://www.ceskenoviny.cz/zpravy/masivni-vybuchy-zastavily-v-hormuzu-dva-supertankery-tvrdi-iranske-gardy/2900965",
+        "Masivní výbuchy zastavily v Hormuzu dva supertankery, tvrdí íránské gardy"
       ]
     ],
     "deferred": [],
@@ -172,6 +166,7 @@
     35.029151,
     35.569888,
     36.295972,
-    39.309695
+    39.309695,
+    34.946289
   ]
 }
