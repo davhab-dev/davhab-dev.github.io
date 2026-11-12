@@ -1,6 +1,12 @@
 {
   "active": true,
-  "current": null,
+  "current": {
+    "key": [
+      "https://www.idnes.cz/zpravy/zahranicni/armenie-prisla-o-pravo-hlasovat-ve-vojenskem-paktu-vedenem-moskvou-uvedl-kreml.A261112_061242_zahranicni_pluh",
+      "Moskva zbavila Arménii práva hlasování ve společném vojenském paktu"
+    ],
+    "started_at": "2026-11-12T05:35:50.833888+00:00"
+  },
   "queue": [
     [
       "https://www.idnes.cz/zpravy/zahranicni/armenie-prisla-o-pravo-hlasovat-ve-vojenskem-paktu-vedenem-moskvou-uvedl-kreml.A261112_061242_zahranicni_pluh",
@@ -124,7 +130,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T05:35:21.426127+00:00",
+  "heartbeat": "2026-11-12T05:35:50.833888+00:00",
   "cycle": {
     "started_at": "2026-11-12T05:35:21.426127+00:00",
     "initial_pending": 30,
