@@ -1,17 +1,7 @@
 {
   "active": true,
-  "current": {
-    "key": [
-      "https://ct24.ceskatelevize.cz/clanek/svet/egypt-mesice-tajne-posila-vojaky-a-stihacky-saudum-pise-mee-379541",
-      "Egypt měsíce tajně posílá vojáky a stíhačky Saúdům, píše MEE"
-    ],
-    "started_at": "2026-11-12T11:46:06.534208+00:00"
-  },
+  "current": null,
   "queue": [
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/egypt-mesice-tajne-posila-vojaky-a-stihacky-saudum-pise-mee-379541",
-      "Egypt měsíce tajně posílá vojáky a stíhačky Saúdům, píše MEE"
-    ],
     [
       "https://www.ceskenoviny.cz/zpravy/masivni-vybuchy-zastavily-v-hormuzu-dva-supertankery-tvrdi-iranske-gardy/2900965",
       "Masivní výbuchy zastavily v Hormuzu dva supertankery, tvrdí íránské gardy"
@@ -50,7 +40,7 @@
     ]
   ],
   "needs_sources": [],
-  "heartbeat": "2026-11-12T11:46:06.534208+00:00",
+  "heartbeat": "2026-11-12T11:46:45.843903+00:00",
   "cycle": {
     "started_at": "2026-11-12T11:28:35.008670+00:00",
     "initial_pending": 30,
@@ -134,6 +124,10 @@
       [
         "https://ct24.ceskatelevize.cz/clanek/svet/ruske-utoky-maji-obeti-v-kyjeve-a-chersonu-379543",
         "Ruské útoky mají oběti v Kyjevě, Chersonu či Záporožské oblasti"
+      ],
+      [
+        "https://ct24.ceskatelevize.cz/clanek/svet/egypt-mesice-tajne-posila-vojaky-a-stihacky-saudum-pise-mee-379541",
+        "Egypt měsíce tajně posílá vojáky a stíhačky Saúdům, píše MEE"
       ]
     ],
     "deferred": [],
@@ -171,6 +165,7 @@
     35.608541,
     35.029151,
     35.569888,
-    36.295972
+    36.295972,
+    39.309695
   ]
 }
