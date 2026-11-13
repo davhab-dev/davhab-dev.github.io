@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T06:07:25.428570+00:00",
+  "updated_at": "2026-11-13T07:25:26.515356+00:00",
   "window_hours": 24,
   "articles": [
     {
@@ -7,8 +7,58 @@
       "summary": "V pátek se mimořádně sejde Poslanecká sněmovna. Na programu má jediný bod, a to druhé čtení vládního návrhu na zavedení speciální daně pro rafinerie. Pokud…",
       "source": "iDNES.cz",
       "category": "domaci",
-      "published_at": "2026-11-13T06:00:00+00:00",
+      "published_at": "2026-11-13T07:16:00+00:00",
       "url": "https://www.idnes.cz/zpravy/domaci/schillerova-dan-pro-rafinerie-schuze-snemovny.A261112_205919_domaci_mul",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Soud zneplatnil zvolení kandidáta SNK zastupitelem Slatiňan, nahradí ho lidovec",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-13T08:14:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/soud-zneplatnil-zvoleni-kandidata-snk-zastupitelem-slatinan-nahradi-ho-lidovec/2901475",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Volební boj Pedra Sáncheze. Španělský premiér chce odvrátit porážku díky TikToku",
+      "summary": "Parlamentní volby do španělského parlamentu se blíží a vládnoucí socialisté v průzkumech zaostávají. Veřejnost vládu kritizuje za vlakové neštěstí v Toledu nebo za přetrvávající bytovou…",
+      "source": "CNN Prima NEWS",
+      "category": "svet",
+      "published_at": "2026-11-13T07:57:56+01:00",
+      "url": "https://cnn.iprima.cz/volebni-boj-pedra-sancheze-spanelsky-premier-vola-po-zakazu-tiktoku-527020",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Při ukrajinském útoku na Volgograd zemřeli čtyři lidé, oznámily úřady",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-13T07:42:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/pri-ukrajinskem-utoku-na-volgograd-zemreli-ctyri-lide-oznamily-urady/2901468",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Zaútočili jsme na americký radarový systém a zničili ho, oznámil Írán",
+      "summary": "Íránské revoluční gardy v pátek oznámily, že jejich jednotky zaútočily na americký radarový systém včasného varování v Bahrajnu a zničily ho. Bahrajn ani Spojené státy…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-13T07:27:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/zautocili-jsme-na-americky-radarovy-system-a-znicili-ho-oznamil-iran/r~aaa29abbe8b664b4b15cfeb726850c04/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "R5M: Co vše vláda hodlá změnit ve školních jídelnách | Šéf firmy Nvidia Huang po odhalení aféry rezignoval | Vicepremiér Havlíček navštívil Ukrajinu",
+      "summary": "",
+      "source": "Deník N",
+      "category": "domaci",
+      "published_at": "2026-11-13T06:09:10+00:00",
+      "url": "https://denikn.cz/newsletter/2255794/co-vse-vlada-hodla-zmenit-ve-skolnich-jidelnach-sef-firmy-nvidia-huang-po-odhaleni-afery-rezignoval-vicepremier-havlicek-navstivil-ukrajinu/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -63,7 +113,7 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Po zákazu nelegální těžby zlata v Guineji vypukly střety, zemřelo nejméně deset lidí",
+      "title": "Při zásahu proti nelegální těžbě zlata v Guineji vypukly střety, zemřelo nejméně deset lidí",
       "summary": "Nejméně deset lidí včetně pěti cizinců zahynulo při střetech mezi bezpečnostními složkami a těžaři zlata na severovýchodě Guineje. Dalších třináct lidí utrpělo zranění, informovala agentura…",
       "source": "ČT24",
       "category": "svet",
@@ -133,16 +183,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Počet obětí úterní hromadné nehody na dálnici v Bulharsku vzrostl na 12",
-      "summary": "V nemocnici v bulharském Slivenu ve čtvrtek zemřel muž, který tam byl převezen po úterní hromadné dopravní nehodě. Celkový počet obětí tak vzrostl na 12,…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-12T21:59:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/pocet-obeti-uterni-hromadne-nehody-na-dalnici-v-bulharsku-vzrostl-na-12/r~aaa29d2d50c95e235daa6de5608bc8ac/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Ruští sportovci nesmí do Finska a Norska, dokud neskončí válka",
       "summary": "Ruští sportovci se nebudou moci účastnit akcí ve Finsku a v Norsku, dokud neskončí válka na Ukrajině. Rozhodly o tom ve čtvrtek vlády obou zemí.",
       "source": "ČT24",
@@ -175,16 +215,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Další citelná rána pro ruské námořnictvo: Ukrajina zasáhla u Goglandu loď za miliardy",
-      "summary": "Ukrajina zasáhla v Baltském moři ruskou raketovou korvetu Naro-Fominsk, jednu z pouhých 12 lodí třídy Bujan-M. Její hodnota se odhaduje na 70 až 130 milionů…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-12T20:55:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/dalsi-citelna-rana-pro-ruske-namornictvo-ukrajina-zasahla-u-goglandu-lod-za-miliardy/r~aaa29ce6016a8fc09a4928ffb6047139/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "USA se přou s Čínou o podobě summitu Trump–Si–Putin, konat se má v Šen-čenu",
       "summary": "Spojené státy odmítají čínský požadavek na přísně připravený summit lídrů USA, Číny a Ruska. Peking podle listu The Wall Street Journal požaduje verzi s minimálním…",
       "source": "ČT24",
@@ -207,26 +237,6 @@
       "analysis_url": "https://ct24.ceskatelevize.cz/clanek/domaci/hejtmani-zadaji-po-vlade-zaruku-podilu-z-poplatku-za-podzemni-vodu-379569"
     },
     {
-      "title": "Rebel ODS Narcis Tomášek: Voliči nám odchází ke STAN. Kupkův vyzývatel by se našel",
-      "summary": "Klesající preference a nečitelnost ODS. To jsou podle náměstka děčínského primátora Narcise Tomáška (ODS) důvody ke svolání mimořádného kongresu občanských demokratů. V rozhovoru pro Aktuálně.cz…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-12T19:13:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/rebel-ods-narcis-tomasek-volici-nam-odchazi-ke-stan-kupkuv-vyzyvatel-by-se-nasel/r~aaa2932ae8dbbe49ae23915de8bdffcd/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Izrael zakázal vstup na své území francouzskému politikovi Mélenchonovi",
-      "summary": "Izrael ve čtvrtek zakázal vstup na své území francouzskému krajně levicovému politikovi a možnému prezidentskému kandidátovi Jeanu-Lucovi Mélenchonovi. Lídr strany Nepodrobená Francie (LFI) patří k…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-12T19:06:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/izrael-zakazal-vstup-na-sve-uzemi-francouzskemu-politikovi-melenchonovi/r~aaa29e473d67b038e76f3a514c7c31f7/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "U dalšího jednání o Ukrajině budou i Evropané. Po setkání s Putinem to oznámil Witkoff",
       "summary": "Evropské země se připojí k dalšímu jednání o možnostech ukončení ruské války proti Ukrajině, řekl ve čtvrtek podle agentury Interfax americký zmocněnec Steve Witkoff po…",
       "source": "CNN Prima NEWS",
@@ -243,6 +253,16 @@
       "category": "svet",
       "published_at": "2026-11-12T18:04:00+01:00",
       "url": "https://www.denik.cz/svet/na-tyto-plaze-se-turiste-jen-tak-nepodivaji-u-pobrezi-se-objevily-ropne-skvrny/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Izrael zakázal vstup na své území francouzskému politikovi Mélenchonovi",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-12T18:02:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/izrael-zakazal-vstup-na-sve-uzemi-francouzskemu-politikovi-melenchonovi/2901321",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -267,54 +287,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Zemřel veterán Josef Turek. Za druhé světové války se zúčastnil bojů u Dunkerque",
-      "summary": "Ve věku 100 let dnes zemřel válečný veterán a plukovník ve výslužbě Josef Turek. Byl posledním v Česku žijícím československým vojákem, který se za druhé…",
-      "source": "CNN Prima NEWS",
-      "category": "domaci",
-      "published_at": "2026-11-12T17:00:51+01:00",
-      "url": "https://cnn.iprima.cz/zemrel-josef-turek-527032",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Vlny výhrůžek pokračují. Maily o bombách dostaly tisíce italských škol",
       "summary": "Výhrůžky bombou zaslané elektronickou poštou ve čtvrtek v Itálii dostalo 3800 škol, což je zhruba poloviční množství ve srovnání se středou. Jen malé procento školních…",
       "source": "Deník",
       "category": "svet",
       "published_at": "2026-11-12T14:06:24+01:00",
       "url": "https://www.denik.cz/evropa/italie-maily-hrozby-bomby/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Primátorem Mostu se znovu stal Marek Hrvol z vítězného hnutí ProMOST",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-12T13:50:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/primatorem-mostu-se-znovu-stal-marek-hrvol-z-vitezneho-hnuti-promost/2894633",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Šéfové parlamentů zemí V4 podpořili odklad systému ETS2 a rozšiřování EU",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-12T13:49:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/sefove-parlamentu-zemi-v4-podporili-odklad-systemu-ets2-a-rozsirovani-eu/2901152",
-      "importance": "Deklarace předsedů parlamentů je politickým požadavkem na odklad ETS2 za rok 2030, nikoli rozhodnutím měnícím evropský harmonogram. Okamurův požadavek úplného zrušení jde ještě dál a nelze jej zaměnit za společnou dohodu všech účastníků. Pro české domácnosti a podniky je podstatná nejistota kolem budoucích nákladů na paliva pro dopravu a vytápění. Z tohoto jednání však nelze vyvozovat konkrétní úsporu ani doporučení odložit investice do úspornějšího provozu.\n\nShoda na části hospodářských témat současně neznamená jednotný bezpečnostní postoj V4. Vystrčil a polští představitelé upozorňovali na vztah konkurenceschopnosti k bezpečnosti a ruské agresi; absence tohoto tématu v deklaraci omezuje její výpověď o společné zahraniční politice. Podpora rozšiřování EU zase není přijetím konkrétní země ani zrušením vstupních podmínek. Dalším měřítkem vlivu schůzky budou konkrétní návrhy a podpora v evropských institucích, nikoli samotné vydání prohlášení.",
-      "importance_kind": "analysis",
-      "analysis_source": "České noviny / ČTK",
-      "analysis_url": "https://www.ceskenoviny.cz/zpravy/sefove-parlamentu-zemi-v4-podporili-odklad-systemu-ets2-a-rozsirovani-eu/2901152"
-    },
-    {
-      "title": "Žádné světlo, voda ani teplo. Ukrajinci jsou bez proudu až dvacet hodin denně",
-      "summary": "Ruské útoky na energetickou infrastrukturu připravují Ukrajince o elektřinu, vodu i vytápění. Výpadky zasahují celou zemi, včetně hlavního města, kde některé domácnosti zůstávají bez proudu…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-12T13:02:30+01:00",
-      "url": "https://www.denik.cz/evropa/zadne-svetlo-voda-ani-teplo-ukrajinci-jsou-bez-proudu-az-dvacet-hodin-denne/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     }
@@ -327,7 +305,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 13,
       "selected": 7,
       "free_articles_checked": 7
     },
@@ -337,7 +315,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 20,
+      "candidates": 18,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -347,8 +325,8 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 14,
-      "selected": 6,
+      "candidates": 16,
+      "selected": 7,
       "free_articles_checked": 8
     },
     {
@@ -357,7 +335,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
+      "candidates": 9,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -367,7 +345,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 11,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -377,9 +355,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 6,
-      "selected": 5,
-      "free_articles_checked": 5
+      "candidates": 2,
+      "selected": 2,
+      "free_articles_checked": 2
     },
     {
       "name": "Deník",
@@ -387,9 +365,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
-      "selected": 4,
-      "free_articles_checked": 4
+      "candidates": 7,
+      "selected": 3,
+      "free_articles_checked": 3
     },
     {
       "name": "iDNES.cz",
@@ -397,7 +375,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 18,
+      "candidates": 15,
       "selected": 6,
       "free_articles_checked": 6
     },
@@ -407,7 +385,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 12,
       "selected": 3,
       "free_articles_checked": 3
     },
@@ -438,8 +416,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 10,
-      "selected": 0,
-      "free_articles_checked": 0
+      "selected": 1,
+      "free_articles_checked": 1
     },
     {
       "name": "Respekt",
@@ -457,7 +435,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 7,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -477,7 +455,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     }
