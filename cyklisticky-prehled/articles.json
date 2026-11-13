@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T00:40:17.335690+00:00",
+  "updated": "2026-11-13T01:56:05.421235+00:00",
   "articles": [
     {
       "title": "Skládejte s Velem 8/2026",
@@ -584,15 +584,6 @@
       "source": "Cykl.cz",
       "lang": "CS",
       "category": "Technika",
-      "published": "2026-11-10"
-    },
-    {
-      "title": "Gravel v Česku a v zahraničí: Dvě naprosto odlišné disciplíny",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132086/gravel-v-cesku-a-v-zahranici-dve-naprosto-odlisne-discipliny.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "Gravel",
       "published": "2026-11-10"
     },
     {
@@ -1737,6 +1728,15 @@
       "lang": "CS",
       "category": "Gravel",
       "published": "2026-10-29T06:28:03+00:00"
+    },
+    {
+      "title": "Srdce vašeho elektrokola pod drobnohledem: Jak vytěžit z baterie Bosch maximum a jezdit bez rizika?",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132029/srdce-vaseho-elektrokola-pod-drobnohledem-jak-vytezit-z-baterie-bosch-maximum-a-jezdit-bez-rizika.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "Technika",
+      "published": "2026-10-29"
     },
     {
       "title": "Pedersen a další dánští sportovci žalují HBO. Žádají milionové odškodné",
@@ -3026,15 +3026,6 @@
       "published": ""
     },
     {
-      "title": "Pouze 150 kusů na světě - limitovaná verze Canyon Spectral:ON CF LTD přináší výkon 1 500 W",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132119/pouze-150-kusu-na-svete-limitovana-verze-canyon-spectralon-cf-ltd-prinasi-vykon-1-500-w.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": ""
-    },
-    {
       "title": "Zjisti, jaký potřebuješ olej nebo vosk - já se ptám a ty odpovídáš",
       "summary": "",
       "url": "https://www.mtbiker.cz/clanky/132090/zjisti-jaky-potrebujes-olej-nebo-vosk-ja-se-ptam-a-ty-odpovidas.html",
@@ -3044,18 +3035,18 @@
       "published": ""
     },
     {
-      "title": "Rozhodčí změnili výsledek závěrečného spurtu. Evropský cyklokrosový titul má Brand, Schreiber zbyly oči pro pláč, pro medaili nepřišla. Výborná Zemanová dojela sedmá",
+      "title": "Gravel v Česku a v zahraničí: Dvě naprosto odlišné disciplíny",
       "summary": "",
-      "url": "https://www.roadcycling.cz/clanek/rozhodci-zmenili-vysledek-zaverecneho-spurtu-evropsky-cyklokrosovy-titul-ma-brand-schreiber-zbyly-oci-pro-plac-pro-medaili-neprisla-vyborna-zemanova-dojela-sedma",
-      "source": "RoadCycling.cz",
+      "url": "https://www.mtbiker.cz/clanky/132086/gravel-v-cesku-a-v-zahranici-dve-naprosto-odlisne-discipliny.html",
+      "source": "MTBIKER.cz",
       "lang": "CS",
-      "category": "Závody",
+      "category": "Gravel",
       "published": ""
     },
     {
-      "title": "Pogačar kritizuje nedostatečnou bezpečnost v cyklistice. Závody jsou stále rychlejší, organizátoři ale zaostávají",
+      "title": "Rozhodčí změnili výsledek závěrečného spurtu. Evropský cyklokrosový titul má Brand, Schreiber zbyly oči pro pláč, pro medaili nepřišla. Výborná Zemanová dojela sedmá",
       "summary": "",
-      "url": "https://www.roadcycling.cz/clanek/pogacar-kritizuje-nedostatecnou-bezpecnost-v-cyklistice-zavody-jsou-stale-rychlejsi-organizatori-ale-zaostavaji",
+      "url": "https://www.roadcycling.cz/clanek/rozhodci-zmenili-vysledek-zaverecneho-spurtu-evropsky-cyklokrosovy-titul-ma-brand-schreiber-zbyly-oci-pro-plac-pro-medaili-neprisla-vyborna-zemanova-dojela-sedma",
       "source": "RoadCycling.cz",
       "lang": "CS",
       "category": "Závody",
