@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-11-13T22:51:39.131917+00:00",
+  "updated_at": "2026-11-13T23:47:43.236597+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Kolaps v USA: úřady vyhlásily celostátní zákaz letů, selhala komunikace",
+      "summary": "Americký Federální úřad pro letectví (FAA) vyhlásil celonárodní pozastavení letů s tím, že důvodem jsou mimořádné okolnosti a bezpečnostní důvody. Ministr dopravy Sean Duffy rozhodnutí…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-13T23:41:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/letecky-kolaps-v-usa-faa-vyhlasila-celostatni-stop-kvuli-selhani-radaru-a-komunikace.A261113_222559_zahranicni_remy",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Po střetu s tankerem se v USA částečně potopila výletní loď plná lidí",
+      "summary": "Tanker se v pátek v New Orleansu na jihu USA srazil s výletní lodí se 129 cestujícími na palubě. Loď se částečně potopila. Na řece…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-13T23:22:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/drama-v-usa-po-stretu-s-tankerem-se-castecne-potopila-vyletni-lod.A261113_221657_zahranicni_remy",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Rusko dováží z Irska důležitou surovinu pro výrobu zbraní. Dublin sankce odmítá",
       "summary": "Setkání evropských lídrů v Dublinu rámovala diskuse o pomoci Ukrajině. Irsko přitom dlouhodobě dodává oxid hlinitý do Ruska. Bílý prášek má široké použití a představuje…",
@@ -13,17 +33,17 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Kolaps v USA: úřady vyhlásily celostátní zákaz letů, selhaly radary a komunikace",
-      "summary": "Americké úřady oznámily celostátní zastavení odletů, ke kterému Federální úřad pro letectví (FAA) přistoupil z bezpečnostních důvodů a kvůli mimořádným okolnostem. Ministr dopravy USA Sean…",
-      "source": "iDNES.cz",
+      "title": "Do výletní lodi v New Orleansu narazil tanker, částečně se potopila",
+      "summary": "V americkém New Orleans se v pátek srazil tanker s výletní lodí, na jejíž palubě bylo 129 cestujících. Loď se po srážce částečně potopila, informuje…",
+      "source": "ČT24",
       "category": "svet",
-      "published_at": "2026-11-13T22:28:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/letecky-kolaps-v-usa-faa-vyhlasila-celostatni-stop-kvuli-selhani-radaru-a-komunikace.A261113_222559_zahranicni_remy",
+      "published_at": "2026-11-13T21:31:08+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/do-vyletni-lodi-v-new-orleans-narazil-tanker-castecne-se-potopila-379608",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
     {
-      "title": "V USA vyhlásily celonárodní pozastavení letů kvůli problémům s komunikací",
+      "title": "Kvůli výpadku komunikace se v USA zastavily odlety na všech letištích",
       "summary": "Americký Federální úřad pro letectví (FAA) v pátek kolem 22:00 SEČ pozastavil všechny odlety z amerických letišť kvůli problémům s komunikací, které zasáhly všechna oblastní…",
       "source": "ČT24",
       "category": "svet",
@@ -173,42 +193,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Bessent se přestěhoval do vojenského azylu. Kdo další musel opustit svůj domov",
-      "summary": "Americká vláda čelí nebývalé vlně bezpečnostních hrozeb. Ministr financí Scott Bessent oficiálně potvrdil, že se na doporučení vládní ochranné služby vystěhoval ze svého washingtonského sídla…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-13T17:04:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/vyhruzky-iranu-i-hrozba-doma-bessent-se-odstehoval-na-zakladnu-nasledoval-kolegy.A261113_174344_zahranicni_remy",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "USA ustoupily Rusku, kývly na debatu o „nové Jaltě”",
       "summary": "Rozhovory o cestě k ukončení ruské války na Ukrajině získaly tento týden nový rozměr. USA přistoupily na ruský požadavek, že se jejich součástí stane širší…",
       "source": "ČT24",
       "category": "svet",
       "published_at": "2026-11-13T17:00:00+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/usa-ustoupily-rusku-kyvly-na-debatu-o-nove-jalte-379598",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Poslanci ve druhém čtení schválili daň pro rafinerie. Lex Orlen, kritizuje opozice",
-      "summary": "V pátek se mimořádně sešla Poslanecká sněmovna. Na programu měla jediný bod, a to druhé čtení vládního návrhu na zavedení speciální daně pro rafinerie. Sněmovna…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-13T16:52:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/schillerova-dan-pro-rafinerie-schuze-snemovny.A261112_205919_domaci_mul",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Polsko v souvislosti s výpadkem Microsoftu varuje před závislostí na globálních korporacích",
-      "summary": "Polský ministr pro digitalizaci Krzysztof Gawkowski uvedl, že rozsáhlý výpadek služeb společnosti Microsoft, který zasáhl organizace ve více než sedmdesáti zemích světa, poukazuje na rizika…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-13T16:50:18+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/polsko-v-souvislosti-s-vypadkem-microsoftu-varuje-pred-zavislosti-na-globalnich-korporacich-379601",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -301,7 +291,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 18,
       "selected": 5,
       "free_articles_checked": 8
     },
@@ -331,7 +321,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -372,8 +362,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 14,
-      "selected": 6,
-      "free_articles_checked": 6
+      "selected": 5,
+      "free_articles_checked": 5
     },
     {
       "name": "CNN Prima NEWS",
@@ -441,7 +431,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
