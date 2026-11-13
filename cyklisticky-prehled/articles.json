@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-13T12:22:29.451801+00:00",
+  "updated": "2026-11-13T13:39:57.424840+00:00",
   "articles": [
+    {
+      "title": "'I was getting less and less enjoyment from modern cycling' – Julian Alaphilippe opens up for first time about retirement and knowing when to stop",
+      "summary": "French rider said he had 'had enough of the limelight' and is content with his decision to stop racing",
+      "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/i-was-getting-less-and-less-enjoyment-from-modern-cycling-julian-alaphilippe-opens-up-for-first-time-about-retirement-and-knowing-when-to-stop/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Technika",
+      "published": "2026-11-13T12:36:23+00:00"
+    },
     {
       "title": "'It's looking very promising' – Remco Evenepoel delivers first reaction to favourable Tour de France 2027 route",
       "summary": "'We need to make a strategy to arrive to those at those TTs as fresh as possible and really drop the hammer big time' says this year's runner-up",
@@ -38,12 +47,30 @@
       "published": "2026-11-13T09:39:20+00:00"
     },
     {
+      "title": "VYZKOUŠENO: MTB plášť Kenda K-Series Dagger XC",
+      "summary": "Novinka z produkce Kendy, která chrlí pneumatiky všeho druhu do světa již od roku 1962, cílí na univerzalitu a XC až ... The post VYZKOUŠENO: MTB plášť Kenda K-Series Dagger XC appeared first on iVELO .",
+      "url": "https://www.ivelo.cz/test-mtb-plast-kenda-k-series-dagger-xc/",
+      "source": "iVELO.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-13T08:55:11+00:00"
+    },
+    {
       "title": "Seriál Life Time Grand Prix dál navyšuje odměny. V roce 2027 rozdělí rekordních 800 tisíc dolarů!",
       "summary": "",
       "url": "https://mtbs.cz/clanek/serial-life-time-grand-prix-dal-navysuje-odmeny-v-roce-2027-rozdeli-rekordnich-800-tisic-dolaru/kategorie/xcm-ostatni-zavody",
       "source": "MTBS.cz",
       "lang": "CS",
       "category": "MTB",
+      "published": "2026-11-13"
+    },
+    {
+      "title": "Evenepoel chce v příštím roce podávat vyrovnanější výkony a získat oba tituly mistra světa. Trasa Tour de France se mu líbí",
+      "summary": "",
+      "url": "https://www.roadcycling.cz/clanek/evenepoel-chce-v-pristim-roce-podavat-vyrovnanejsi-vykony-a-ziskat-oba-tituly-mistra-sveta-trasa-tour-de-france-se-mu-libi",
+      "source": "RoadCycling.cz",
+      "lang": "CS",
+      "category": "Závody",
       "published": "2026-11-13"
     },
     {
@@ -938,15 +965,6 @@
       "published": "2026-11-08T06:53:24+00:00"
     },
     {
-      "title": "Druhý evropský titul, druhá výhra ve druhém cyklokrosovém startu pro Nyse. Belgičané obsadili všechny stupně v Nizozemsku. Boroš dojel po smolném pádu třináctý",
-      "summary": "",
-      "url": "https://www.roadcycling.cz/clanek/druhy-evropsky-titul-druha-vyhra-ve-druhem-cyklokrosovem-startu-pro-nyse-belgicane-obsadili-vsechny-stupne-v-nizozemsku-boros-dojel-po-smolnem-padu-trinacty",
-      "source": "RoadCycling.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": "2026-11-08"
-    },
-    {
       "title": "Bukovská při premiéře na ME v U23 čtvrtá, jen 8 sekund od medaile! Nys rozhodl o evropském titulu na 99 schodech",
       "summary": "",
       "url": "https://mtbs.cz/clanek/bukovska-pri-premiere-v-u23-ctvrta-nys-rozhodl-o-evropskem-titulu-na-99-schodech/kategorie/cyklokros-mistrovstvi-evropy",
@@ -1656,15 +1674,6 @@
       "lang": "EN",
       "category": "Technika",
       "published": "2026-10-31T07:00:00+00:00"
-    },
-    {
-      "title": "Jezdíš často? I pár milimetrů v nastavení kola může rozhodovat",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132042/jezdis-casto-i-par-milimetru-v-nastaveni-kola-muze-rozhodovat.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-10-31"
     },
     {
       "title": "Rouvy vs Zwift: how do two of the best indoor training apps compare?",
@@ -3077,6 +3086,15 @@
       "source": "MTBS.cz",
       "lang": "CS",
       "category": "Závody",
+      "published": ""
+    },
+    {
+      "title": "Novinky od Garminu: Edge 1060 s hlasovým ovládáním a trenažér Tacx Nēra, který se hýbe s vámi",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132120/novinky-od-garminu-edge-1060-s-hlasovym-ovladanim-a-trenazer-tacx-nera-ktery-se-hybe-s-vami.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "MTB",
       "published": ""
     },
     {
