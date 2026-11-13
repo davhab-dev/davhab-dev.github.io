@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-11-13T17:00:05.263713+00:00",
+  "updated_at": "2026-11-13T17:56:50.496279+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Bessent se přestěhoval do vojenského azylu. Kdo další musel opustit svůj domov",
+      "summary": "Americká vláda čelí nebývalé vlně bezpečnostních hrozeb. Ministr financí Scott Bessent oficiálně potvrdil, že se na doporučení vládní ochranné služby vystěhoval ze svého washingtonského sídla…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-13T17:04:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/vyhruzky-iranu-i-hrozba-doma-bessent-se-odstehoval-na-zakladnu-nasledoval-kolegy.A261113_174344_zahranicni_remy",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "USA ustoupily Rusku, kývly na debatu o „nové Jaltě”",
+      "summary": "Rozhovory o cestě k ukončení ruské války na Ukrajině získaly tento týden nový rozměr. USA přistoupily na ruský požadavek, že se jejich součástí stane širší…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-13T17:00:00+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/usa-ustoupily-rusku-kyvly-na-debatu-o-nove-jalte-379598",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Poslanci ve druhém čtení schválili daň pro rafinerie. Lex Orlen, kritizuje opozice",
+      "summary": "V pátek se mimořádně sešla Poslanecká sněmovna. Na programu měla jediný bod, a to druhé čtení vládního návrhu na zavedení speciální daně pro rafinerie. Sněmovna…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-13T16:52:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/schillerova-dan-pro-rafinerie-schuze-snemovny.A261112_205919_domaci_mul",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Polsko v souvislosti s výpadkem Microsoftu varuje před závislostí na globálních korporacích",
+      "summary": "Polský ministr pro digitalizaci Krzysztof Gawkowski uvedl, že rozsáhlý výpadek služeb společnosti Microsoft, který zasáhl organizace ve více než sedmdesáti zemích světa, poukazuje na rizika…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-13T16:50:18+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/polsko-v-souvislosti-s-vypadkem-microsoftu-varuje-pred-zavislosti-na-globalnich-korporacich-379601",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Šéf izraelského Mossadu jedná s Trumpovými lidmi o dalším postupu vůči Íránu",
       "summary": "Ředitel izraelské tajné služby Mossad Roman Gofman v pátek ve Washingtonu jedná s vysokými představiteli administrativy amerického prezidenta Donalda Trumpa o válce s Íránem. Napsal…",
@@ -39,8 +79,10 @@
       "category": "svet",
       "published_at": "2026-11-13T15:44:00+00:00",
       "url": "https://www.idnes.cz/zpravy/zahranicni/rodina-prohrane-volby-a-dusno-kolem-trumpa-proc-vance-brzdi-sve-prezidentske-ambice.A261113_161239_zahranicni_remy",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Vance podle článku veřejně připustil, že nemusí kandidovat, neoznámil však odstoupení z prezidentského souboje. Zprávy o prohlubujících se pochybnostech a napětí s Trumpem stojí zčásti na anonymních zdrojích CNN. Je proto předčasné označovat republikánskou nominaci za uvolněnou pro jiného kandidáta. Pokud by Vance kandidaturu odmítl, jeho podporovatelé a potenciální dárci by hledali jiného představitele, ale jejich hlasy by nepřipadly automaticky Rubiovi ani jiné jediné osobnosti.\n\nPrůzkum citovaný článkem rozlišuje ochotu kandidáta zvažovat od silného nadšení pro jeho kandidaturu. Tato čísla nelze zaměnit za předpověď výsledku primárek, zvlášť když kampaň ještě nezačala a mnoho voličů nemá favorita. Vanceovo spojení s Trumpovou administrativou mu může zajistit známost a podporu jejího jádra, současně jej vystavuje odpovědnosti za nepopulární politiku. Tvrzení poradce, že pokračující válka s Íránem znemožní vítězství jakéhokoli republikána, je politický odhad, nikoli prokázaná zákonitost. Rozhodující budou skutečné kandidatury, programové vymezení a další vývoj veřejné podpory.",
+      "importance_kind": "analysis",
+      "analysis_source": "iDNES.cz",
+      "analysis_url": "https://www.idnes.cz/zpravy/zahranicni/rodina-prohrane-volby-a-dusno-kolem-trumpa-proc-vance-brzdi-sve-prezidentske-ambice.A261113_161239_zahranicni_remy"
     },
     {
       "title": "Vzpomínky, oslavy i protesty. Akce zdarma k 17. listopadu v Praze či Brně",
@@ -93,52 +135,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Výměna Kupky? Znak zoufalství, stojíme za ním, zní z ODS. Strana mimořádně zasedá",
-      "summary": "Vedení ODS se v pátek mimořádně sejde na výjezdním zasedání. Řešit má pokles preferencí, výsledky voleb a budoucí plány. Strana, která v minulém období vedla…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-13T14:38:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/ods-martin-kupka-stinova-vlada-poslanci-duvera-vedeni.A261113_130343_domaci_dyn",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Ministr odvolal Radu Vinařského fondu. Opozice navrhuje změny v jeho fungování",
-      "summary": "Ministr zemědělství Martin Šebestyán odvolal všech jedenáct členů Rady Vinařského fondu. Stalo se tak kvůli zjištění Nejvyššího kontrolního úřadu (NKÚ), podle něhož fond opakovaně porušoval…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-13T14:10:00+00:00",
-      "url": "https://www.idnes.cz/ekonomika/domaci/sebestyan-rada-vinarskeho-fondu-zjisteni-nku.A261113_120950_ekonomika_rie",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Německo kvůli hybridním hrozbám rozšíří kompetence tajných služeb",
       "summary": "Němečtí poslanci schválili reformu zpravodajských služeb. V reakci na nové hybridní hrozby posiluje jejich pravomoci doma i v zahraničí. Spolková zpravodajská služba (BND) bude nově…",
       "source": "ČT24",
       "category": "svet",
       "published_at": "2026-11-13T14:07:51+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/nemecko-kvuli-hybridnim-hrozbam-rozsiri-kompetence-tajnych-sluzeb-379595",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Prosím, žádná překvapení, žádá Trumpa Merz. Nevidí důvod jednat s Rusy o Evropě",
-      "summary": "Německý kancléř Friedrich Merz v pátek vyzval amerického prezidenta Donalda Trumpa, aby příští týden v Číně nepřichystal během očekávaného hovoru s ruským vůdcem Vladimirem Putinem…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-13T14:06:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/merz-trump-putin-nemecko-rusko-ukrajina-evropa-diplomacie-hovor.A261113_143231_zahranicni_linh",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Slovenský exministr Taraba má dost podpisů na založení strany, píše Sme",
-      "summary": "Dřívější ministr životního prostředí a nyní poslanec Národní rady Slovenské republiky Tomáš Taraba získal potřebný počet podpisů k založení nové strany „Taraba – Rozvoj Slovenska“.…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-13T14:05:22+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/slovensky-exministr-taraba-ma-dost-podpisu-na-zalozeni-strany-pise-sme-379594",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -199,8 +201,10 @@
       "category": "domaci",
       "published_at": "2026-11-13T12:30:35+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-nezakaze-hokejistum-hrat-proti-rusum-rekl-stastny-379592",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Šťastného vyjádření ponechává rozhodnutí o případném bojkotu sportovním svazům. Hokejový svaz tak podle dosavadního postoje ministra nemůže počítat se státním zákazem jako argumentem, že zápas odmítl kvůli vnější právní překážce. Hadamczikovo varování před sankcemi a sestupem je stanoviskem svazu; článek nepřináší rozhodnutí mezinárodní federace o konkrétním českém případu. Pro hráče i svaz je proto zásadní vyjasnit pravidla a možné následky před okamžikem, kdy by měli odmítnout nastoupit.\n\nZákaz českým reprezentantům hrát proti Rusku je jiný nástroj než neudělení víz ruským hráčkám pro turnaj v Ostravě. Druhá možnost ovlivňuje vstup na české území, nikoli automaticky české zápasy v zahraničí. Podle článku ministerstvo zahraničí neplánuje vízovou výjimku, ale lednovou neúčast ministr zatím označuje za vysoce pravděpodobnou, nikoli definitivně uzavřenou. Jeho pochybnost o ústavnosti případného zákazu je rovněž politickým názorem, ne soudním nálezem. Další významný krok bude konkrétní výsledek jednání státu se svazem a stanovisko pořadatelů.",
+      "importance_kind": "analysis",
+      "analysis_source": "ČT24",
+      "analysis_url": "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-nezakaze-hokejistum-hrat-proti-rusum-rekl-stastny-379592"
     },
     {
       "title": "Vláda nepočítá se zákazem pro reprezentaci hrát proti Rusku",
@@ -243,32 +247,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Univerzita Karlova řeší kybernetický útok. Ten už šetří policie",
-      "summary": "Univerzita Karlova (UK) v posledních dnech řeší závažný kybernetický útok. Jedna z webových aplikací byla kompromitována, následně získal útočník neoprávněný přístup k údajům z centrálního…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-13T10:37:33+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/univerzita-karlova-resi-kyberneticky-utok-379584",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Babiš: Kyjev se zajímá o další letadla Skyfox a nabízí dronovou iniciativu",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
       "category": "svet",
       "published_at": "2026-11-13T11:27:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/babis-kyjev-se-zajima-o-dalsi-letadla-skyfox-a-nabizi-dronovou-iniciativu/2901564",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Návrat povinné vojenské služby podporuje 63 procent Čechů, 55 procent by zemi bránilo",
-      "summary": "Návrat povinné vojenské služby podporuje 63 procent Čechů, zatímco 55 procent vyjádřilo ochotu zemi bránit a pouze 24 procent považuje Českou republiku za připravenou na…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-13T10:22:16+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/navrat-povinne-vojenske-sluzbu-podporuje-63-procent-cechu-55-procent-by-zemi-branilo-379583",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -311,8 +295,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
-      "selected": 7,
+      "candidates": 17,
+      "selected": 6,
       "free_articles_checked": 7
     },
     {
@@ -331,7 +315,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 19,
+      "candidates": 18,
       "selected": 8,
       "free_articles_checked": 8
     },
@@ -341,7 +325,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -351,7 +335,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -382,8 +366,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 14,
-      "selected": 7,
-      "free_articles_checked": 7
+      "selected": 6,
+      "free_articles_checked": 6
     },
     {
       "name": "CNN Prima NEWS",
@@ -391,7 +375,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
+      "candidates": 8,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -451,7 +435,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
