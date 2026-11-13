@@ -3,6 +3,26 @@
   "current": null,
   "queue": [
     [
+      "https://www.idnes.cz/zpravy/domaci/babis-eu-irsko-dublin-rusko-vyjednavani.A261113_094110_domaci_chtl",
+      "Konečně dohoda, radoval se Babiš. Lídři EU v Dublinu vybrali tým vyjednavačů"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/soudy-zasahly-do-vysledku-komunalnich-voleb-v-21-obcich-379606",
+      "Soudy zasáhly do výsledků komunálních voleb v 21 obcích"
+    ],
+    [
+      "https://www.denik.cz/evropa/polsko-bude-pri-jednani-evropy-s-ruskem-hajit-zajmy-ceska/",
+      "Polsko bude při jednání Evropy s Ruskem hájit zájmy Česka"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/le-penova-je-pripravena-na-setkani-se-zelenskym-nejlepe-v-bruselu/r~aaa29c660252573dc237c02e1bf1e865/",
+      "Le Penová je připravena na setkání se Zelenským, nejlépe v Bruselu"
+    ],
+    [
+      "https://www.idnes.cz/ekonomika/zahranicni/afera-kolem-nvidie-otrasa-i-bilym-domem-trumpuv-ministr-celi-ostre-kritice.A261113_121100_eko-zahranicni_jla",
+      "Aféra kolem Nvidie otřásá i Bílým domem. Trumpův ministr čelí ostré kritice"
+    ],
+    [
       "https://zpravy.aktualne.cz/domaci/politicky-pruvan-na-narodni-tride-babis-nebude-jediny-kdo-nedorazi/r~aaa29a49ffce87be81f26bab4e672866/",
       "Politický průvan na Národní třídě. Babiš nebude jediný, kdo nedorazí"
     ],
@@ -59,14 +79,6 @@
       "„Raketové město“ část Íránců pobouřilo, Teherán ruší limity u střel"
     ],
     [
-      "https://www.idnes.cz/zpravy/domaci/vzpominky-oslavy-i-protesty-akce-zdarma-k-17-listopadu-v-praze-ci-brne.A261113_095941_domaci_row",
-      "Vzpomínky, oslavy i protesty. Akce zdarma k 17. listopadu v Praze či Brně"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/babis-eu-irsko-dublin-rusko-vyjednavani.A261113_094110_domaci_chtl",
-      "Babišův třetí den v Irsku. S lídry EU řešil, kdo má za Evropu jednat s Ruskem"
-    ],
-    [
       "https://www.denik.cz/svet/microsoft-vypadek-outlook-teams/",
       "Výpadek Microsoftu zasáhl celý svět. Jaká je příčina a kdy budou služby fungovat"
     ],
@@ -103,10 +115,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 24,
+    "initial_pending": 27,
     "completed": [],
     "deferred": [],
-    "remaining": 24
+    "remaining": 27
   },
   "samples_seconds": [
     51.274763,
