@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T08:12:34.690419+00:00",
+  "updated": "2026-11-13T09:24:25.470812+00:00",
   "articles": [
     {
       "title": "Roman Kreuziger Cycling Academy zahájil sezónu v Krkonoších se čtyřmi nováčky a vítězstvím Timoteje Michalíka v Dakaru na Olympiádě mládeže",
@@ -180,6 +180,15 @@
       "lang": "EN",
       "category": "Technika",
       "published": "2026-11-12T09:00:00+00:00"
+    },
+    {
+      "title": "TEST: Panaracer GravelKing ZX vs. X1 - každý chvilku tahá pilku",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/test-panaracer-gravelking-zx-rychlost-na-prvnim-miste-ale-pozor-na-mokro/kategorie/testy-recenze",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "Gravel",
+      "published": "2026-11-12"
     },
     {
       "title": "Strýcová, Koller, Štybar i Kwiatkowski závodili nad Prahou. Garmin Indoor Classics odstartovalo ve velkém stylu",
@@ -596,6 +605,15 @@
       "published": "2026-11-10"
     },
     {
+      "title": "Gravel v Česku a v zahraničí: Dvě naprosto odlišné disciplíny",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132086/gravel-v-cesku-a-v-zahranici-dve-naprosto-odlisne-discipliny.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "Gravel",
+      "published": "2026-11-10"
+    },
+    {
       "title": "Ostravský cyklokros naváže na Las Vegas. Světový pohár se pojede teprve podruhé pod světly, tady navíc v industriální kulise",
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/ostravsky-cyklokros-navaze-na-las-vegas-svetovy-pohar-se-pojede-teprve-podruhe-pod-svetly-tady-navic-v-industrialni-kulise",
@@ -740,15 +758,6 @@
       "published": "2026-11-09"
     },
     {
-      "title": "Značku Ghost na poslední chvíli kupuje nový majitel Haibiku a Winory",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/znacku-ghost-na-posledni-chvili-kupuje-novy-majitel-haibiku-a-winory/kategorie/servis",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-11-09"
-    },
-    {
       "title": "Vrstvení jako základ – jak se obléct na podzim",
       "summary": "",
       "url": "https://www.mtbiker.cz/clanky/132080/vrstveni-jako-zaklad-jak-se-oblect-na-podzim.html",
@@ -791,6 +800,15 @@
       "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Cyklistika",
+      "published": "2026-11-09"
+    },
+    {
+      "title": "Značku Ghost na poslední chvíli kupuje nový majitel Haibiku a Winory",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/znacku-ghost-na-posledni-chvili-kupuje-novy-majitel-haibiku-a-winory/kategorie/servis",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
       "published": "2026-11-09"
     },
     {
@@ -1593,15 +1611,6 @@
       "lang": "EN",
       "category": "Technika",
       "published": "2026-10-31T07:00:00+00:00"
-    },
-    {
-      "title": "Jezdíš často? I pár milimetrů v nastavení kola může rozhodovat",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132042/jezdis-casto-i-par-milimetru-v-nastaveni-kola-muze-rozhodovat.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-10-31"
     },
     {
       "title": "Rouvy vs Zwift: how do two of the best indoor training apps compare?",
@@ -2891,6 +2900,15 @@
       "published": "2025-09-21T12:38:41+00:00"
     },
     {
+      "title": "ZpravodajstvíSeriál Life Time Grand Prix dál navyšuje odměny. V roce 2027 rozdělí rekordních 800 tisíc dolarů!",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/serial-life-time-grand-prix-dal-navysuje-odmeny-v-roce-2027-rozdeli-rekordnich-800-tisic-dolaru/kategorie/xcm-ostatni-zavody",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": ""
+    },
+    {
       "title": "Mason překvapil v Nielu, mistryně světa a Evropy Brand odstoupila se zraněním",
       "summary": "",
       "url": "https://mtbs.cz/clanek/mason-prekvapil-v-nielu-mistryne-sveta-a-evropy-brand-odstoupila-se-zranenim/kategorie/bleskovky-zavody",
@@ -3017,6 +3035,15 @@
       "published": ""
     },
     {
+      "title": "Novinky od Garminu: Edge 1060 s hlasovým ovládáním a trenažér Tacx Nēra, který se hýbe s vámi",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132120/novinky-od-garminu-edge-1060-s-hlasovym-ovladanim-a-trenazer-tacx-nera-ktery-se-hybe-s-vami.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": ""
+    },
+    {
       "title": "Pouze 150 kusů na světě - limitovaná verze Canyon Spectral:ON CF LTD přináší výkon 1 500 W",
       "summary": "",
       "url": "https://www.mtbiker.cz/clanky/132119/pouze-150-kusu-na-svete-limitovana-verze-canyon-spectralon-cf-ltd-prinasi-vykon-1-500-w.html",
@@ -3032,15 +3059,6 @@
       "source": "MTBIKER.cz",
       "lang": "CS",
       "category": "MTB",
-      "published": ""
-    },
-    {
-      "title": "Gravel v Česku a v zahraničí: Dvě naprosto odlišné disciplíny",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132086/gravel-v-cesku-a-v-zahranici-dve-naprosto-odlisne-discipliny.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "Gravel",
       "published": ""
     },
     {
