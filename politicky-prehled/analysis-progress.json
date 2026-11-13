@@ -3,8 +3,24 @@
   "current": null,
   "queue": [
     [
+      "https://www.idnes.cz/zpravy/domaci/schillerova-dan-pro-rafinerie-schuze-snemovny.A261112_205919_domaci_mul",
+      "Poslanci budou na mimořádné schůzi hlasovat o speciální dani"
+    ],
+    [
+      "https://www.idnes.cz/ekonomika/zahranicni/evropska-unie-lng-zkapalneny-plyn-rusko-dovoz-plynu.A261113_062227_eko-zahranicni_aya",
+      "EU letos zvýšila dovoz ruského plynu. Putinovi za něj poslala 8,7 miliardy eur"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/iran-spojene-staty-bahrajn-persky-zaliv-hormuzsky-pruliv.A261113_060921_zahranicni_aya",
+      "Írán hlásí zničení amerického radaru v Bahrajnu. Washington to zatím nepotvrdil"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/zelenskyj-summit-dublin-babis-ukrajina.A261113_055318_domaci_aya",
+      "Zelenskyj se v Dublinu setkal s Babišem. Ocenil dodávku lokomotiv a další pomoc"
+    ],
+    [
       "https://www.idnes.cz/zpravy/zahranicni/kushner-se-zelenskym-evropane-budou-u-jednani-o-miru-s-ruskem.A261112_231539_zahranicni_air",
-      "Kushner se Zelenským: Evropané budou u jednání o míru s Ruskem"
+      "Evropané budou u jednání o míru s Ruskem, oznámili Kushner se Zelenským"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/-zelenskyj-v-dublinu-jednal-s-babisem-o-podpore-ukrajiny/2900531",
@@ -16,11 +32,7 @@
     ],
     [
       "https://zpravy.aktualne.cz/domaci/problemem-ods-neni-kupka-jeji-upadek-ma-hlubsi-priciny-a-zmeni-ho-jen-jedna-vec/r~aaa291678d6ffd15513d85ac61e2a1b3/",
-      "Problémem ODS není Kupka. Její úpadek má hlubší příčiny a změní ho jen jedna věc"
-    ],
-    [
-      "https://zpravy.aktualne.cz/zahranici/nemecka-armada-chysta-velke-zmeny-ministra-vydesil-skandal-se-zneuzivanim-vojacek/r~aaa290a933d0ec9d7d887bcb47efefe4/",
-      "Německá armáda chystá velké změny. Ministra vyděsil skandál se zneužíváním vojaček"
+      "Příčinou krize ODS není její šéf. Úpadek nastal z jiného důvodu a změní ho jen jedna věc"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/poslanci-se-sejdou-k-navrhu-na-zavedeni-mimoradne-dane-na-rafinerie-379573",
@@ -37,6 +49,10 @@
     [
       "https://cnn.iprima.cz/evropa-bude-u-mirovych-jednani-s-ruskem-oznamili-to-trumpuv-vyslanec-a-zelenskyj-527072",
       "Evropa bude u mírových jednání s Ruskem. Oznámili to Trumpův zeť a Zelenskyj"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/evropane-budou-u-mirovych-jednani-rekli-kushner-a-zelenskyj/2901408",
+      "Evropané budou u mírových jednání, řekli Kushner a Zelenskyj"
     ],
     [
       "https://zpravy.aktualne.cz/zahranici/pocet-obeti-uterni-hromadne-nehody-na-dalnici-v-bulharsku-vzrostl-na-12/r~aaa29d2d50c95e235daa6de5608bc8ac/",
@@ -57,18 +73,6 @@
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/usa-se-prou-s-cinou-o-podobe-summitu-trump-si-putin-konat-se-ma-v-sen-cenu-379562",
       "USA se přou s Čínou o podobě summitu Trump–Si–Putin, konat se má v Šen-čenu"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/predseda-asociace-kraju-radim-holis-brabec-netolicky-hejtmani.A261112_191843_domaci_linh",
-      "Asociaci krajů dál povede Radim Holiš. Hejtmani ho zvolili jednomyslně"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/reditelka-szu-ma-pochybnosti-zda-budou-jidelny-dodrzovat-nezavazna-doporuceni.A261112_144929_domaci_asus",
-      "Šéfku SZÚ udivily změny pro školní jídelny. Nemohu uvěřit, co se děje, kritizuje"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/havlicek-ochranci-prezident-cesta-ukrajina-bodyguardi-kolona.A261112_180855_domaci_sahu",
-      "Hlídali ho jako prezidenta. Kolem Havlíčka bylo na Ukrajině až 50 ochránců"
     ],
     [
       "https://zpravy.aktualne.cz/domaci/rebel-ods-narcis-tomasek-volici-nam-odchazi-ke-stan-kupkuv-vyzyvatel-by-se-nasel/r~aaa2932ae8dbbe49ae23915de8bdffcd/",
@@ -115,10 +119,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 27,
+    "initial_pending": 28,
     "completed": [],
     "deferred": [],
-    "remaining": 27
+    "remaining": 28
   },
   "samples_seconds": [
     51.274763,

@@ -1,9 +1,49 @@
 {
-  "updated_at": "2026-11-13T05:06:01.700692+00:00",
+  "updated_at": "2026-11-13T06:07:25.428570+00:00",
   "window_hours": 24,
   "articles": [
     {
-      "title": "Kushner se Zelenským: Evropané budou u jednání o míru s Ruskem",
+      "title": "Poslanci budou na mimořádné schůzi hlasovat o speciální dani",
+      "summary": "V pátek se mimořádně sejde Poslanecká sněmovna. Na programu má jediný bod, a to druhé čtení vládního návrhu na zavedení speciální daně pro rafinerie. Pokud…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-13T06:00:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/schillerova-dan-pro-rafinerie-schuze-snemovny.A261112_205919_domaci_mul",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "EU letos zvýšila dovoz ruského plynu. Putinovi za něj poslala 8,7 miliardy eur",
+      "summary": "Evropská unie dovezla od ledna do října ruský zkapalněný plyn z Arktidy za 8,7 miliardy eur, což je o 21 procent více než za celý…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-13T05:40:00+00:00",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/evropska-unie-lng-zkapalneny-plyn-rusko-dovoz-plynu.A261113_062227_eko-zahranicni_aya",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Írán hlásí zničení amerického radaru v Bahrajnu. Washington to zatím nepotvrdil",
+      "summary": "Íránské revoluční gardy v pátek oznámily, že jejich jednotky zaútočily na americký radarový systém včasného varování v Bahrajnu a zničily ho. Informovala o tom agentura…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-13T05:30:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/iran-spojene-staty-bahrajn-persky-zaliv-hormuzsky-pruliv.A261113_060921_zahranicni_aya",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Zelenskyj se v Dublinu setkal s Babišem. Ocenil dodávku lokomotiv a další pomoc",
+      "summary": "Ukrajinský prezident Volodymyr Zelenskyj se na summitu v Dublinu setkal s českým premiérem Andrejem Babišem. Jednali spolu o hospodářské spolupráci, evropské integraci Ukrajiny a možnostech…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-13T05:14:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/zelenskyj-summit-dublin-babis-ukrajina.A261113_055318_domaci_aya",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Evropané budou u jednání o míru s Ruskem, oznámili Kushner se Zelenským",
       "summary": "Evropští zástupci se zapojí do vyjednávání o míru mezi Ruskem a Ukrajinou, oznámili po dnešním setkání v Dublinu ukrajinský prezident Volodymyr Zelenskyj a zvláštní americký…",
       "source": "iDNES.cz",
       "category": "svet",
@@ -33,22 +73,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Problémem ODS není Kupka. Její úpadek má hlubší příčiny a změní ho jen jedna věc",
+      "title": "Příčinou krize ODS není její šéf. Úpadek nastal z jiného důvodu a změní ho jen jedna věc",
       "summary": "Podpora občanských demokratů v průzkumech už několik měsíců setrvale klesá, což logicky vyvolává pnutí uvnitř strany. V pátek to bude řešit vedení strany. Svízel ODS…",
       "source": "Aktuálně.cz",
       "category": "domaci",
       "published_at": "2026-11-13T05:30:00+01:00",
       "url": "https://zpravy.aktualne.cz/domaci/problemem-ods-neni-kupka-jeji-upadek-ma-hlubsi-priciny-a-zmeni-ho-jen-jedna-vec/r~aaa291678d6ffd15513d85ac61e2a1b3/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Německá armáda chystá velké změny. Ministra vyděsil skandál se zneužíváním vojaček",
-      "summary": "Berlín plánuje vybudovat nejsilnější armádu v Evropě a výrazně rozšířit také počet žen v uniformě. Právě v době, kdy se snaží přilákat nové rekruty, ale…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-13T05:30:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/nemecka-armada-chysta-velke-zmeny-ministra-vydesil-skandal-se-zneuzivanim-vojacek/r~aaa290a933d0ec9d7d887bcb47efefe4/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -89,6 +119,16 @@
       "category": "svet",
       "published_at": "2026-11-12T23:31:05+01:00",
       "url": "https://cnn.iprima.cz/evropa-bude-u-mirovych-jednani-s-ruskem-oznamili-to-trumpuv-vyslanec-a-zelenskyj-527072",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Evropané budou u mírových jednání, řekli Kushner a Zelenskyj",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-12T23:18:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/evropane-budou-u-mirovych-jednani-rekli-kushner-a-zelenskyj/2901408",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -165,36 +205,6 @@
       "importance_kind": "analysis",
       "analysis_source": "ČT24",
       "analysis_url": "https://ct24.ceskatelevize.cz/clanek/domaci/hejtmani-zadaji-po-vlade-zaruku-podilu-z-poplatku-za-podzemni-vodu-379569"
-    },
-    {
-      "title": "Asociaci krajů dál povede Radim Holiš. Hejtmani ho zvolili jednomyslně",
-      "summary": "Předsedou Asociace krajů České republiky zůstává hejtman Zlínského kraje Radim Holiš (ANO). Ve čtvrtek ho na další dvouleté období zvolili na zasedání asociace ve Velichovkách…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-12T19:18:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/predseda-asociace-kraju-radim-holis-brabec-netolicky-hejtmani.A261112_191843_domaci_linh",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Šéfku SZÚ udivily změny pro školní jídelny. Nemohu uvěřit, co se děje, kritizuje",
-      "summary": "Ředitelka Státního zdravotního ústavu (SZÚ) Barbora Macková má pochybnosti, zda budou školní jídelny dodržovat nezávazná doporučení, pokud nebudou přímo součástí vyhlášky. Obává se, že se…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-12T19:16:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/reditelka-szu-ma-pochybnosti-zda-budou-jidelny-dodrzovat-nezavazna-doporuceni.A261112_144929_domaci_asus",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Hlídali ho jako prezidenta. Kolem Havlíčka bylo na Ukrajině až 50 ochránců",
-      "summary": "Od našich zpravodajů v zahraničí – Ojedinělá nejen svou velikostí byla výprava vicepremiéra a ministra průmyslu Karla Havlíčka na Ukrajinu. Už před ní a během…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-12T18:38:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/havlicek-ochranci-prezident-cesta-ukrajina-bodyguardi-kolona.A261112_180855_domaci_sahu",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
     },
     {
       "title": "Rebel ODS Narcis Tomášek: Voliči nám odchází ke STAN. Kupkův vyzývatel by se našel",
@@ -327,7 +337,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 21,
+      "candidates": 20,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -338,7 +348,7 @@
       "feeds_total": 2,
       "status": "ok",
       "candidates": 14,
-      "selected": 5,
+      "selected": 6,
       "free_articles_checked": 8
     },
     {
@@ -357,7 +367,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -367,9 +377,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
-      "selected": 6,
-      "free_articles_checked": 6
+      "candidates": 6,
+      "selected": 5,
+      "free_articles_checked": 5
     },
     {
       "name": "Deník",
@@ -377,7 +387,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 8,
       "selected": 4,
       "free_articles_checked": 4
     },
@@ -387,9 +397,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
-      "selected": 5,
-      "free_articles_checked": 5
+      "candidates": 18,
+      "selected": 6,
+      "free_articles_checked": 6
     },
     {
       "name": "CNN Prima NEWS",
@@ -407,7 +417,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 3,
+      "candidates": 4,
       "selected": 0,
       "free_articles_checked": 0
     },
