@@ -1,14 +1,94 @@
 {
-  "updated_at": "2026-11-13T07:25:26.515356+00:00",
+  "updated_at": "2026-11-13T09:05:54.109643+00:00",
   "window_hours": 24,
   "articles": [
     {
-      "title": "Poslanci budou na mimořádné schůzi hlasovat o speciální dani",
-      "summary": "V pátek se mimořádně sejde Poslanecká sněmovna. Na programu má jediný bod, a to druhé čtení vládního návrhu na zavedení speciální daně pro rafinerie. Pokud…",
+      "title": "Demokraté hledají nové vedení Senátu USA. Stará garda čelí kritice",
+      "summary": "„Jsem přesvědčen, že v novém složení Senátu budu lídrem většiny,“ prohlásil demokratický senátorský lídr Chuck Schumer. Zvedly se proti němu však centristické i progresivní hlasy.…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-13T09:01:02+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/demokrate-hledaji-nove-vedeni-senatu-usa-stara-garda-celi-kritice-379558",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Většina Čechů podporuje návrat vojny, připravenosti státu na krizi ale nevěří",
+      "summary": "Návrat povinné vojenské služby podporuje 63 procent Čechů, zatímco pouze 24 procent považuje Českou republiku za připravenou na závažnou bezpečnostní krizi či válku. Vyplývá to…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-13T09:56:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/vetsina-cechu-podporuje-navrat-vojny-pripravenosti-statu-na-krizi-ale-neveri/r~aaa29357f01e7b89bb9782856c6ce7fe/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Poslanci projednávají mimořádnou daň pro rafinerie. Lex Orlen, kritizuje opozice",
+      "summary": "V pátek se mimořádně sešla Poslanecká sněmovna. Na programu má jediný bod, a to druhé čtení vládního návrhu na zavedení speciální daně pro rafinerie. Pokud…",
       "source": "iDNES.cz",
       "category": "domaci",
-      "published_at": "2026-11-13T07:16:00+00:00",
+      "published_at": "2026-11-13T08:52:00+00:00",
       "url": "https://www.idnes.cz/zpravy/domaci/schillerova-dan-pro-rafinerie-schuze-snemovny.A261112_205919_domaci_mul",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Jeden z největších útoků. Ukrajinci zasáhli rafinerii ve Volgogradu, změnili taktiku",
+      "summary": "Při dronovém náletu na jihu Volgogradu zemřeli čtyři zaměstnanci průmyslové zóny a další dva utrpěli zranění. Podle neoficiálních informací se terčem stala tamní rafinerie. Ruská…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-13T08:41:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/volgograd-ukrajina-valka-rusko-dronovy-utok-rafinerie.A261113_090554_zahranicni_aya",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Rusko a Ukrajina hlásí vzájemné útoky. Rafinerie ve Volgogradu hoří",
+      "summary": "Úřady v ruské Volgogradské oblasti tvrdí, že při dronovém náletu zemřeli čtyři zaměstnanci průmyslové zóny na jihu Volgogradu. Podle informací zpravodajského telegramového kanálu Exilenova+ byla…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-13T08:37:45+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-a-ukrajina-hlasi-vzajemne-utoky-rafinerie-ve-volgogradu-hori-379579",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Nová taktika Ukrajinců: masivně zaútočili na rafinérii Lukoilu ve Volgogradu",
+      "summary": "Při dronovém náletu zemřeli čtyři zaměstnanci průmyslové zóny na jihu Volgogradu, oznámily v pátek ráno podle agentury TASS úřady ve Volgogradské oblasti. Další dva utrpěli…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-13T09:35:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/nova-taktika-ukrajincu-masivne-zautocili-na-rafinerii-lukoilu-ve-volgogradu/r~aaa29524fe03373e3fe1b25b68f55d20/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Průzkum: Návrat povinné vojenské služby podporuje většina Čechů",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-13T09:30:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/pruzkum-navrat-povinne-vojenske-sluzby-podporuje-vetsina-cechu/2901498",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Ve Slatiňanech po přepočtu hlasů uspěl lidovec, soud zrušil zvolení kandidáta SNK",
+      "summary": "Pardubická pobočka krajského soudu v Hradci Králové prohlásila zvolení Zdeňka Kociána (SNK Evropští demokraté) zastupitelem Slatiňan na Chrudimsku za neplatné. Po přepočítání hlasů v jednom…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-13T09:16:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/ve-slatinanech-po-prepoctu-hlasu-uspel-lidovec-soud-zrusil-zvoleni-kandidata-snk/r~aaa29948aac2404431808745c6d9f0c7/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Změny v penzích od ledna: Kdo si polepší? Hlavní Juchelkův slib zatím chybí",
+      "summary": "Důchodci dostanou od ledna přidáno. A díky jednorázovému příspěvku velmi významně. Některé návrhy se sice ještě schvalují, vládní koalice ale hodlá legislativní proces stihnout, aby…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-13T08:29:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/zmeny-v-penzich-od-ledna-kdo-si-polepsi-hlavni-juchelkuv-slib-zatim-chybi/r~aaa297d2388bdb2e959fff17d0dfe622/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -74,7 +154,7 @@
     },
     {
       "title": "Írán hlásí zničení amerického radaru v Bahrajnu. Washington to zatím nepotvrdil",
-      "summary": "Íránské revoluční gardy v pátek oznámily, že jejich jednotky zaútočily na americký radarový systém včasného varování v Bahrajnu a zničily ho. Informovala o tom agentura…",
+      "summary": "Íránské revoluční gardy v pátek oznámily, že jejich jednotky zaútočily na americký radarový systém včasného varování v Bahrajnu a zničily ho. Bahrajn ani Spojené státy…",
       "source": "iDNES.cz",
       "category": "svet",
       "published_at": "2026-11-13T05:30:00+00:00",
@@ -123,18 +203,8 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Příčinou krize ODS není její šéf. Úpadek nastal z jiného důvodu a změní ho jen jedna věc",
-      "summary": "Podpora občanských demokratů v průzkumech už několik měsíců setrvale klesá, což logicky vyvolává pnutí uvnitř strany. V pátek to bude řešit vedení strany. Svízel ODS…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-13T05:30:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/problemem-ods-neni-kupka-jeji-upadek-ma-hlubsi-priciny-a-zmeni-ho-jen-jedna-vec/r~aaa291678d6ffd15513d85ac61e2a1b3/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Poslanci se sejdou k návrhu na zavedení mimořádné daně na rafinerie",
-      "summary": "Poslanci se v pátek sejdou ke druhému čtení vládního návrhu na zavedení mimořádné daně na rafinerie. Důvodem jejího uzákonění je podle vlády růst marží rafinerií…",
+      "title": "Poslanci mají na programu návrh na zavedení mimořádné daně na rafinerie",
+      "summary": "Poslanci se v pátek sešli ke druhému čtení vládního návrhu na zavedení mimořádné daně na rafinerie. Důvodem jejího uzákonění je podle vlády růst marží rafinerií…",
       "source": "ČT24",
       "category": "domaci",
       "published_at": "2026-11-13T03:42:00+00:00",
@@ -195,32 +265,12 @@
       "analysis_url": "https://ct24.ceskatelevize.cz/clanek/svet/rusti-sportovci-nesmi-do-finska-a-norska-dokud-neskonci-valka-379570"
     },
     {
-      "title": "Summit jasně podpořil Ukrajinu, řekl irský premiér. Evropa odhalila priority pro mír",
-      "summary": "Čtvrteční summit Evropského politického společenství (EPC) v Dublinu jasně podpořil Ruskem napadenou Ukrajinu a také ukázal zájem úzce spolupracovat při ochraně proti hybridním hrozbám a…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-12T20:03:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/evropsky-summit-v-dublinu-podporil-ukrajinu-rekl-irsky-premier.A261112_203834_zahranicni_sahu",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Vláda chce zpřísnit prodej kratomu. Odborníci varují před rozšířením černého trhu",
       "summary": "Rok od zavedení pravidel pro prodej kratomu připravuje vláda další zpřísnění. Látku by si nově mohli koupit pouze lidé starší 21 let, internetový prodej by…",
       "source": "ČT24",
       "category": "domaci",
       "published_at": "2026-11-12T20:00:00+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-chce-zprisnit-prodej-kratomu-odbornici-varuji-pred-rozsirenim-cerneho-trhu-379564",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "USA se přou s Čínou o podobě summitu Trump–Si–Putin, konat se má v Šen-čenu",
-      "summary": "Spojené státy odmítají čínský požadavek na přísně připravený summit lídrů USA, Číny a Ruska. Peking podle listu The Wall Street Journal požaduje verzi s minimálním…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-12T19:31:12+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/usa-se-prou-s-cinou-o-podobe-summitu-trump-si-putin-konat-se-ma-v-sen-cenu-379562",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -275,26 +325,6 @@
       "url": "https://www.ceskenoviny.cz/zpravy/evropske-zeme-se-pripoji-k-dalsimu-jednani-o-ukrajine-rekl-witkoff-/2900950",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
-    },
-    {
-      "title": "Zemřel Josef Turek, československý válečný veterán z bojů u Dunkerku",
-      "summary": "Ve věku sto let zemřel válečný veterán a plukovník ve výslužbě Josef Turek, poslední v Česku pobývající československý voják, který se za druhé světové války…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-12T16:19:08+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/zemrel-josef-turek-ceskoslovensky-valecny-veteran-z-boju-u-dunkerku-379565",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Vlny výhrůžek pokračují. Maily o bombách dostaly tisíce italských škol",
-      "summary": "Výhrůžky bombou zaslané elektronickou poštou ve čtvrtek v Itálii dostalo 3800 škol, což je zhruba poloviční množství ve srovnání se středou. Jen malé procento školních…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-12T14:06:24+01:00",
-      "url": "https://www.denik.cz/evropa/italie-maily-hrozby-bomby/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
     }
   ],
   "unavailable_sources": [],
@@ -305,9 +335,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 14,
       "selected": 7,
-      "free_articles_checked": 7
+      "free_articles_checked": 8
     },
     {
       "name": "iROZHLAS",
@@ -315,7 +345,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 18,
+      "candidates": 19,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -325,8 +355,8 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 16,
-      "selected": 7,
+      "candidates": 14,
+      "selected": 8,
       "free_articles_checked": 8
     },
     {
@@ -335,7 +365,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -355,9 +385,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 2,
-      "selected": 2,
-      "free_articles_checked": 2
+      "candidates": 5,
+      "selected": 5,
+      "free_articles_checked": 5
     },
     {
       "name": "Deník",
@@ -365,9 +395,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
-      "selected": 3,
-      "free_articles_checked": 3
+      "candidates": 6,
+      "selected": 2,
+      "free_articles_checked": 2
     },
     {
       "name": "iDNES.cz",
@@ -375,7 +405,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 14,
       "selected": 6,
       "free_articles_checked": 6
     },
@@ -385,7 +415,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 10,
       "selected": 3,
       "free_articles_checked": 3
     },
@@ -395,7 +425,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 4,
+      "candidates": 5,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -405,7 +435,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -445,7 +475,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     },
