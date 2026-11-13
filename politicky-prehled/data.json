@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-11-13T20:00:18.519231+00:00",
+  "updated_at": "2026-11-13T20:58:10.853075+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Rusové bránili ropný terminál, přitom sestřelili tři vlastní vrtulníky za miliardy",
+      "summary": "Rusko mohlo při obraně před ukrajinskými drony přijít o tři vrtulníky v hodnotě přibližně jedné miliardy korun. Podle ruských proválečných kanálů zahynulo při incidentu z…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-13T21:06:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/rusove-branili-ropny-terminal-pritom-sestrelili-tri-vlastni-vrtulniky-za-miliardy/r~aaa2930fd9a84bbb84de381226b2d035/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Polský prezident Nawrocki vetoval zákon o digitálních službách, mluví o cenzuře",
+      "summary": "Polský prezident Karol Nawrocki vetoval zákon, který měl do polského práva převést evropské nařízení o digitálních službách DSA (Digital Services Act). Zákon by umožnil blokovat…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-13T21:02:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/polsky-prezident-nawrocki-vetoval-zakon-o-digitalnich-sluzbach-mluvi-o-cenzure/r~aaa29aa3fd2a61f642aba4a18a7d5420/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Konečně dohoda, radoval se Babiš. Lídři EU v Dublinu vybrali tým vyjednavačů",
       "summary": "Od našeho zpravodaje v Dublinu – Premiér Andrej Babiš (ANO) v pátek ukončil svou třídenní cestu v Irsku. Na závěr neformálního summitu Evropské rady se…",
@@ -163,16 +183,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Šéf izraelského Mossadu jedná s Trumpovými lidmi o dalším postupu vůči Íránu",
-      "summary": "Ředitel izraelské tajné služby Mossad Roman Gofman v pátek ve Washingtonu jedná s vysokými představiteli administrativy amerického prezidenta Donalda Trumpa o válce s Íránem. Napsal…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-13T17:10:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/sef-izraelskeho-mossadu-jedna-s-trumpovymi-lidmi-o-dalsim-postupu-vuci-iranu/r~aaa293a675e4c92e215b0125574081a6/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Babiš bude v Izraeli jednat s Netanjahuem a Herzogem",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -323,7 +333,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -343,9 +353,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
-      "selected": 4,
-      "free_articles_checked": 4
+      "candidates": 9,
+      "selected": 5,
+      "free_articles_checked": 6
     },
     {
       "name": "Deník",
@@ -393,7 +403,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -433,7 +443,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },

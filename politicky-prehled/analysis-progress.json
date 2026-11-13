@@ -3,6 +3,14 @@
   "current": null,
   "queue": [
     [
+      "https://zpravy.aktualne.cz/zahranici/rusove-branili-ropny-terminal-pritom-sestrelili-tri-vlastni-vrtulniky-za-miliardy/r~aaa2930fd9a84bbb84de381226b2d035/",
+      "Rusové bránili ropný terminál, přitom sestřelili tři vlastní vrtulníky za miliardy"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/polsky-prezident-nawrocki-vetoval-zakon-o-digitalnich-sluzbach-mluvi-o-cenzure/r~aaa29aa3fd2a61f642aba4a18a7d5420/",
+      "Polský prezident Nawrocki vetoval zákon o digitálních službách, mluví o cenzuře"
+    ],
+    [
       "https://www.idnes.cz/zpravy/domaci/babis-eu-irsko-dublin-rusko-vyjednavani.A261113_094110_domaci_chtl",
       "Konečně dohoda, radoval se Babiš. Lídři EU v Dublinu vybrali tým vyjednavačů"
     ],
@@ -67,10 +75,6 @@
       "Polsko v souvislosti s výpadkem Microsoftu varuje před závislostí na globálních korporacích"
     ],
     [
-      "https://zpravy.aktualne.cz/zahranici/sef-izraelskeho-mossadu-jedna-s-trumpovymi-lidmi-o-dalsim-postupu-vuci-iranu/r~aaa293a675e4c92e215b0125574081a6/",
-      "Šéf izraelského Mossadu jedná s Trumpovými lidmi o dalším postupu vůči Íránu"
-    ],
-    [
       "https://www.ceskenoviny.cz/zpravy/babis-bude-v-izraeli-jednat-s-netanjahuem-a-herzogem/2900513",
       "Babiš bude v Izraeli jednat s Netanjahuem a Herzogem"
     ],
@@ -115,10 +119,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 27,
+    "initial_pending": 28,
     "completed": [],
     "deferred": [],
-    "remaining": 27
+    "remaining": 28
   },
   "samples_seconds": [
     51.274763,
