@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T01:16:29.864049+00:00",
+  "updated_at": "2026-11-13T02:54:55.062092+00:00",
   "window_hours": 24,
   "articles": [
     {
@@ -315,7 +315,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 15,
       "selected": 7,
       "free_articles_checked": 7
     },
@@ -335,7 +335,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 14,
       "selected": 5,
       "free_articles_checked": 8
     },
