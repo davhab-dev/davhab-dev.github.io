@@ -3,20 +3,48 @@
   "current": null,
   "queue": [
     [
+      "https://cnn.iprima.cz/v-cesku-konci-znamy-diskontni-retezec-tyka-se-to-vsech-prodejen-527113",
+      "Síť ruských obchodů v Česku končí. Je napojená na sankcionované miliardáře"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/v-moskve-vybuchlo-auto-s-byvaly-mluvcim-proruskeho-expremiera-ukrajiny.A261113_102751_zahranicni_bro",
+      "V Moskvě vybuchlo auto s bývalým mluvčím proruského expremiéra Ukrajiny"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/darek-pro-putina-letos-vybral-dosud-pres-385-mil-kc-vic-nez-za-cely-lonsky-rok/2901665",
+      "Dárek pro Putina letos vybral dosud přes 385 mil. Kč, víc než za celý loňský rok"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/v-moskve-explodovalo-auto-zraneni-utrpel-mluvci-ukrajinskeho-expremiera-azarova/2901663",
+      "V Moskvě explodovalo auto, zranění utrpěl mluvčí ukrajinského expremiéra Azarova"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-nezakaze-hokejistum-hrat-proti-rusum-rekl-stastny-379592",
+      "Vláda nezakáže hokejistům hrát proti Rusům, řekl Šťastný"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/tri-cesti-europoslanci-sporu-s-cinou-tchaj-wan-propagandu.A261113_125343_domaci_sahu",
+      "Výslechy i falešné citace. Čeští europoslanci se dostali do střetu s Čínou"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/schillerova-dan-pro-rafinerie-schuze-snemovny.A261112_205919_domaci_mul",
+      "Poslanci ve druhém čtení schválili daň pro rafinerie. Lex Orlen, kritizuje opozice"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/vlada-nepocita-se-zakazem-pro-reprezentaci-hrat-proti-rusku/2901636",
+      "Vláda nepočítá se zákazem pro reprezentaci hrát proti Rusku"
+    ],
+    [
       "https://zpravy.aktualne.cz/domaci/univerzita-karlova-celila-kybernetickemu-utoku-utocnik-ziskal-i-osobni-udaje/r~aaa29f204922bba252ceb129295af719/",
       "Univerzita Karlova čelila kybernetickému útoku. Útočník získal i osobní údaje"
     ],
     [
-      "https://www.idnes.cz/zpravy/domaci/schillerova-dan-pro-rafinerie-schuze-snemovny.A261112_205919_domaci_mul",
-      "Poslanci projednávají mimořádnou daň pro rafinerie. Lex Orlen, kritizuje opozice"
+      "https://www.ceskenoviny.cz/zpravy/tri-cesti-europoslanci-se-dostali-do-sporu-s-cinou-jde-o-tchaj-wan-i-propagandu/2901624",
+      "Tři čeští europoslanci se dostali do sporů s Čínou, jde o Tchaj-wan i propagandu"
     ],
     [
       "https://www.idnes.cz/zpravy/domaci/babis-eu-irsko-dublin-rusko-vyjednavani.A261113_094110_domaci_chtl",
       "Babišův třetí den v Irsku. S lídry EU řeší, kdo má za Evropu jednat s Ruskem"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/svobodni-pozvali-do-prahy-zastupce-krajni-pravice.A261113_091102_domaci_meli",
-      "Člen AfD i odsouzený politik. Svobodní pozvali do Prahy zástupce krajní pravice"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/sebestyan-odvolal-vsechny-cleny-rady-vinarskeho-fondu-kvuli-zjisteni-nku-379585",
@@ -24,7 +52,7 @@
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/univerzita-karlova-resi-kyberneticky-utok-379584",
-      "Univerzita Karlova řeší kybernetický útok"
+      "Univerzita Karlova řeší kybernetický útok. Ten už šetří policie"
     ],
     [
       "https://zpravy.aktualne.cz/domaci/top-09-vraci-do-hry-lustrace-maji-stale-sve-opodstatneni-tvrdi/r~aaa294acbdf5dfa00ceedea70d206491/",
@@ -35,16 +63,8 @@
       "Babiš: Kyjev se zajímá o další letadla Skyfox a nabízí dronovou iniciativu"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/trump-chce-svrhnout-vladu-na-kube-pred-koncem-sveho-funkcniho-obdobi.A261113_111329_zahranicni_bro",
-      "Trump chce svrhnout vládu na Kubě před koncem svého funkčního období"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/domaci/navrat-povinne-vojenske-sluzbu-podporuje-63-procent-cechu-55-procent-by-zemi-branilo-379583",
       "Návrat povinné vojenské služby podporuje 63 procent Čechů, 55 procent by zemi bránilo"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/eu-uz-vyjednavace-s-rusy-ma-opet-ale-narazi-na-nedotazenou-integraci.A261113_103849_zahranicni_bro",
-      "EU už vyjednavače s Rusy má. Opět ale naráží na nedotaženou integraci"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/top-09-navrhne-povinnost-lustracniho-osvedceni-pro-ministry-a-namestky/2901535",
@@ -59,16 +79,8 @@
       "Sbližování izraelského Likudu s rakouskou krajní pravicí vyvolává kritiku"
     ],
     [
-      "https://www.idnes.cz/zpravy/domaci/zelenskyj-summit-dublin-babis-ukrajina.A261113_055318_domaci_aya",
-      "Zelenskyj se v Dublinu setkal s Babišem. Ocenil dodávku lokomotiv a další pomoc"
-    ],
-    [
       "https://www.ceskenoviny.cz/zpravy/babis-se-pristi-ctvrtek-zucastni-jednani-koalice-ochotnych-v-berline/2901531",
       "Babiš se příští čtvrtek zúčastní jednání koalice ochotných v Berlíně"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/ods-pripravuje-reformy-mimoradny-sjezd-neni-tematem-uvedl-kupka/2901416",
-      "ODS připravuje reformy, mimořádný sjezd není tématem, uvedl Kupka"
     ],
     [
       "https://zpravy.aktualne.cz/zahranici/dalsi-exploze-v-moskve-tercem-politolog-mel-vazbu-na-proruskeho-prezidenta-janukovyce/r~aaa291fa8118c6df855e49b4c7115db8/",
@@ -79,14 +91,6 @@
       "V Moskvě vybuchlo auto bývalého mluvčího ukrajinského premiéra"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/politico-lidri-se-neshoduji-kdo-by-mel-eu-zastupovat-na-mirovych-jednanich/2898234",
-      "Politico: Lídři se neshodují, kdo by měl EU zastupovat na mírových jednáních"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/lang-vidi-sanci-na-mirova-jednani-o-ukrajine-putin-hraje-o-cas-namita-bartos-379571",
-      "Lang vidí šanci na mírová jednání o Ukrajině. Putin hraje o čas, namítá Bartoš"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/svet/demokrate-hledaji-nove-vedeni-senatu-usa-stara-garda-celi-kritice-379558",
       "Demokraté hledají nové vedení Senátu USA. Stará garda čelí kritice"
     ],
@@ -95,38 +99,22 @@
       "Většina Čechů podporuje návrat vojny, připravenosti státu na krizi ale nevěří"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/svet/rusko-a-ukrajina-hlasi-vzajemne-utoky-rafinerie-ve-volgogradu-hori-379579",
-      "Rusko a Ukrajina hlásí vzájemné útoky. Rafinerie ve Volgogradu hoří"
-    ],
-    [
-      "https://zpravy.aktualne.cz/zahranici/nova-taktika-ukrajincu-masivne-zautocili-na-rafinerii-lukoilu-ve-volgogradu/r~aaa29524fe03373e3fe1b25b68f55d20/",
-      "Nová taktika Ukrajinců: masivně zaútočili na rafinérii Lukoilu ve Volgogradu"
-    ],
-    [
-      "https://zpravy.aktualne.cz/domaci/ve-slatinanech-po-prepoctu-hlasu-uspel-lidovec-soud-zrusil-zvoleni-kandidata-snk/r~aaa29948aac2404431808745c6d9f0c7/",
-      "Ve Slatiňanech po přepočtu hlasů uspěl lidovec, soud zrušil zvolení kandidáta SNK"
-    ],
-    [
       "https://cnn.iprima.cz/volebni-boj-pedra-sancheze-spanelsky-premier-vola-po-zakazu-tiktoku-527020",
       "Volební boj Pedra Sáncheze. Španělský premiér chce odvrátit porážku díky TikToku"
     ],
     [
       "https://denikn.cz/newsletter/2255794/co-vse-vlada-hodla-zmenit-ve-skolnich-jidelnach-sef-firmy-nvidia-huang-po-odhaleni-afery-rezignoval-vicepremier-havlicek-navstivil-ukrajinu/",
       "R5M: Co vše vláda hodlá změnit ve školních jídelnách | Šéf firmy Nvidia Huang po odhalení aféry rezignoval | Vicepremiér Havlíček navštívil Ukrajinu"
-    ],
-    [
-      "https://www.denik.cz/evropa/slovjansk-kramatorsk-ukrajina-donbas-pevnostni-mesta/",
-      "Pumy, drony, rakety. Rusko drtí města na východě Ukrajiny"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 29,
+    "initial_pending": 26,
     "completed": [],
     "deferred": [],
-    "remaining": 29
+    "remaining": 26
   },
   "samples_seconds": [
     51.274763,
