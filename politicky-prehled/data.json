@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-11-13T14:56:43.551502+00:00",
+  "updated_at": "2026-11-13T15:56:22.188018+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Rodina, prohrané volby a dusno kolem Trumpa. Vance brzdí prezidentské ambice",
+      "summary": "Ještě donedávna se zdálo, že cesta k republikánské prezidentské nominaci pro rok 2028 je předem nalinkovaná. Americký viceprezident J. D. Vance byl vnímán jako přirozený…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-13T15:44:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/rodina-prohrane-volby-a-dusno-kolem-trumpa-proc-vance-brzdi-sve-prezidentske-ambice.A261113_161239_zahranicni_remy",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Vzpomínky, oslavy i protesty. Akce zdarma k 17. listopadu v Praze či Brně",
+      "summary": "Desetitisíce účastníků, mnoho akcí různého zaměření v centru města a obavy z pokračování protivládních protestů, které odstartují v neděli na Letné. To bude letošní 17.…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-13T15:40:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/vzpominky-oslavy-i-protesty-akce-zdarma-k-17-listopadu-v-praze-ci-brne.A261113_095941_domaci_row",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Výpadek Microsoftu zasáhl celý svět. Jaká je příčina a kdy budou služby fungovat",
+      "summary": "Výpadek služeb Microsoftu od čtvrtečního večera omezuje uživatele po celém světě. Problémy zasáhly Outlook, Teams i asistenta Copilot. Potíže hlásí také české úřady i Letiště…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-13T16:01:04+01:00",
+      "url": "https://www.denik.cz/svet/microsoft-vypadek-outlook-teams/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Bild: Rusko požaduje vystoupení Finska z NATO a Pobaltí bez základen",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-13T15:56:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/bild-rusko-pozaduje-vystoupeni-finska-z-nato-a-pobalti-bez-zakladen/2901743",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Kreml kupí požadavky. Chce Finsko mimo NATO či federaci v Moldavsku",
       "summary": "Ruská představa o nové bezpečnostní architektuře Evropy se zdá být stále radikálnější, jak ukazují nové informace z jednání v Abú Zabí. Podle německého bulvárního deníku…",
@@ -103,32 +143,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Člen AfD i odsouzený politik. Svobodní pozvali do Prahy zástupce krajní pravice",
-      "summary": "Strana Svobodní pozvala do Prahy na konferenci o migraci zástupce evropské krajní pravice. Mezi hosty vystoupí slovenský europoslanec Milan Mazurek, který byl pravomocně odsouzen za…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-13T13:17:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/svobodni-pozvali-do-prahy-zastupce-krajni-pravice.A261113_091102_domaci_meli",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Síť ruských obchodů v Česku končí. Je napojená na sankcionované miliardáře",
       "summary": "Ruský diskontní řetězec Mere, který v Česku provozuje dvanáct prodejen, oznámil ve čtvrtek na sociálních sítích ukončení činnosti. Přesný termín ani důvod uzavření poboček společnost…",
       "source": "CNN Prima NEWS",
       "category": "domaci",
       "published_at": "2026-11-13T13:46:40+01:00",
       "url": "https://cnn.iprima.cz/v-cesku-konci-znamy-diskontni-retezec-tyka-se-to-vsech-prodejen-527113",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "V Moskvě vybuchlo auto s bývalým mluvčím proruského expremiéra Ukrajiny",
-      "summary": "Na jihu Moskvy explodoval osobní automobil a jeho řidič utrpěl zranění. Ruské i ukrajinské telegramové kanály informují, že vozidlo značky Toyota řídil někdejší tiskový mluvčí…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-13T12:45:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/v-moskve-vybuchlo-auto-s-byvaly-mluvcim-proruskeho-expremiera-ukrajiny.A261113_102751_zahranicni_bro",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -213,16 +233,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "TOP 09 vrací do hry lustrace. „Mají stále své opodstatnění,“ tvrdí",
-      "summary": "Opoziční TOP 09 navrhne obnovit lustrační požadavky pro ministry a jejich náměstky. Má stále své opodstatnění, řekl novinářům ve Sněmovně předseda TOP 09 Matěj Ondřej…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-13T11:35:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/top-09-vraci-do-hry-lustrace-maji-stale-sve-opodstatneni-tvrdi/r~aaa294acbdf5dfa00ceedea70d206491/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Babiš: Kyjev se zajímá o další letadla Skyfox a nabízí dronovou iniciativu",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -259,16 +269,6 @@
       "category": "svet",
       "published_at": "2026-11-13T09:44:34+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/sblizovani-izraelskeho-likudu-s-rakouskou-krajni-pravici-vyvolava-kritiku-379572",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Babiš se příští čtvrtek zúčastní jednání koalice ochotných v Berlíně",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-13T10:37:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/babis-se-pristi-ctvrtek-zucastni-jednani-koalice-ochotnych-v-berline/2901531",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -321,7 +321,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 19,
+      "candidates": 17,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -331,7 +331,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 18,
+      "candidates": 19,
       "selected": 7,
       "free_articles_checked": 8
     },
@@ -351,7 +351,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -362,8 +362,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 9,
-      "selected": 4,
-      "free_articles_checked": 4
+      "selected": 3,
+      "free_articles_checked": 3
     },
     {
       "name": "Deník",
@@ -371,9 +371,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
-      "selected": 1,
-      "free_articles_checked": 1
+      "candidates": 10,
+      "selected": 2,
+      "free_articles_checked": 2
     },
     {
       "name": "iDNES.cz",
@@ -381,7 +381,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 14,
       "selected": 8,
       "free_articles_checked": 8
     },
@@ -401,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
+      "candidates": 8,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -421,7 +421,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 9,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -431,7 +431,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 6,
+      "candidates": 7,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -441,7 +441,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 3,
+      "candidates": 2,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -461,7 +461,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     }
