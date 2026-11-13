@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-11-13T02:54:55.062092+00:00",
+  "updated_at": "2026-11-13T03:59:25.533428+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Poslanci se sejdou k návrhu na zavedení mimořádné daně na rafinerie",
+      "summary": "Poslanci se v pátek sejdou ke druhému čtení vládního návrhu na zavedení mimořádné daně na rafinerie. Důvodem jejího uzákonění je podle vlády růst marží rafinerií…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-13T03:42:00+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/poslanci-se-sejdou-k-navrhu-na-zavedeni-mimoradne-dane-na-rafinerie-379573",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Pumy, drony, rakety. Rusko drtí města na východě Ukrajiny",
+      "summary": "Ukrajina v Doněcké oblasti na východě země stále drží několik klíčových měst. Rusové si je nárokují u jednacího stolu a současně Slovjansk, Kramatorsk a další…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-13T04:30:00+01:00",
+      "url": "https://www.denik.cz/evropa/slovjansk-kramatorsk-ukrajina-donbas-pevnostni-mesta/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Předsednictvo ODS bude hodnotit volby a řešit, co s klesajícími preferencemi",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
@@ -223,26 +243,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Ředitelka SZÚ pochybuje, zda budou školní jídelny dodržovat nezávazná doporučení",
-      "summary": "Ředitelka Státního zdravotního ústavu (SZÚ) Barbora Macková má pochybnosti, zda budou školní jídelny dodržovat nezávazná doporučení, pokud nebudou přímo součástí vyhlášky. Ministerstva školství a zdravotnictví…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-12T15:31:30+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/reditelka-szu-pochybuje-zda-budou-skolni-jidelny-dodrzovat-nezavazna-doporuceni-379560",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Mediální výzkumnice: Věková omezení na sociálních sítích jen učí děti lhát",
-      "summary": "Návrh Evropské komise zakázat sociální sítě dětem mladším třinácti let a vyžadovat věk alespoň patnáct let pro založení vlastního účtu čelí v Estonsku odporu.",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-12T14:21:50+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/medialni-vyzkumnice-vekova-omezeni-na-socialnich-sitich-jen-uci-deti-lhat-379554",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Vlny výhrůžek pokračují. Maily o bombách dostaly tisíce italských škol",
       "summary": "Výhrůžky bombou zaslané elektronickou poštou ve čtvrtek v Itálii dostalo 3800 škol, což je zhruba poloviční množství ve srovnání se středou. Jen malé procento školních…",
       "source": "Deník",
@@ -293,18 +293,6 @@
       "url": "https://www.denik.cz/cesko/andrej-babis-evropsky-vyjednavac-valka-na-ukrajine-navrhy/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
-    },
-    {
-      "title": "Drama při státní návštěvě. Před Macronem a Pellegrinim se zhroutili dva gardisté",
-      "summary": "Slavnostní přivítání slovenského prezidenta Petera Pellegriniho v Elysejském paláci v Paříži ve středu večer zastínila příhoda v čestné stráži. Sociálními sítěmi kolují videa zachycující, jak…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-12T11:42:20+01:00",
-      "url": "https://www.denik.cz/evropa/macron-pellegrini-gardiste-vojaci-straz-omdleli-video/",
-      "importance": "Kolaps dvou gardistů narušil uvítací ceremoniál, podle článku však nezabránil následnému jednání prezidentů. Zpráva neuvádí ověřenou příčinu zdravotních obtíží ani další zdravotní stav vojáků. Z televizních záběrů proto nelze vyvozovat diagnózu, zanedbání péče nebo bezpečnostní útok. Bezprostředním významem incidentu je potřeba rychlé pomoci a prověření podmínek služby při ceremoniálu, nikoli změna vztahů mezi Francií a Slovenskem.\n\nPolitický obsah návštěvy leží v oddělené rovině: podle citované TASR se jednalo o energetice, leteckém a obranném průmyslu, Ukrajině a ochraně mladých na sociálních sítích. Článek nepopisuje podepsaný kontrakt ani dohodnutou regulaci, takže z výčtu témat nelze dovodit nové výdaje nebo povinnosti. Pro občany a firmy budou důležité až konkrétní navazující dohody a jejich podmínky; dramatické záběry přivítání o výsledku těchto rozhovorů nic nevypovídají.",
-      "importance_kind": "analysis",
-      "analysis_source": "Deník.cz",
-      "analysis_url": "https://www.denik.cz/evropa/macron-pellegrini-gardiste-vojaci-straz-omdleli-video/"
     }
   ],
   "unavailable_sources": [],
@@ -316,7 +304,7 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 15,
-      "selected": 7,
+      "selected": 6,
       "free_articles_checked": 7
     },
     {
@@ -375,7 +363,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 10,
       "selected": 5,
       "free_articles_checked": 5
     },
