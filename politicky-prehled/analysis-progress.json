@@ -3,6 +3,26 @@
   "current": null,
   "queue": [
     [
+      "https://www.idnes.cz/zpravy/zahranicni/kushner-se-zelenskym-evropane-budou-u-jednani-o-miru-s-ruskem.A261112_231539_zahranicni_air",
+      "Kushner se Zelenským: Evropané budou u jednání o míru s Ruskem"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/-zelenskyj-v-dublinu-jednal-s-babisem-o-podpore-ukrajiny/2900531",
+      "Zelenskyj v Dublinu jednal s Babišem o podpoře Ukrajiny"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/po-zakazu-nelegalni-tezby-zlata-v-guineji-vypukly-strety-zemrelo-nejmene-deset-lidi-379575",
+      "Po zákazu nelegální těžby zlata v Guineji vypukly střety, zemřelo nejméně deset lidí"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/problemem-ods-neni-kupka-jeji-upadek-ma-hlubsi-priciny-a-zmeni-ho-jen-jedna-vec/r~aaa291678d6ffd15513d85ac61e2a1b3/",
+      "Problémem ODS není Kupka. Její úpadek má hlubší příčiny a změní ho jen jedna věc"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/nemecka-armada-chysta-velke-zmeny-ministra-vydesil-skandal-se-zneuzivanim-vojacek/r~aaa290a933d0ec9d7d887bcb47efefe4/",
+      "Německá armáda chystá velké změny. Ministra vyděsil skandál se zneužíváním vojaček"
+    ],
+    [
       "https://ct24.ceskatelevize.cz/clanek/domaci/poslanci-se-sejdou-k-navrhu-na-zavedeni-mimoradne-dane-na-rafinerie-379573",
       "Poslanci se sejdou k návrhu na zavedení mimořádné daně na rafinerie"
     ],
@@ -19,16 +39,8 @@
       "Evropa bude u mírových jednání s Ruskem. Oznámili to Trumpův zeť a Zelenskyj"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/kushner-se-zelenskym-evropane-budou-u-jednani-o-miru-s-ruskem.A261112_231539_zahranicni_air",
-      "Kushner se Zelenským: Evropané budou u jednání o míru s Ruskem"
-    ],
-    [
       "https://zpravy.aktualne.cz/zahranici/pocet-obeti-uterni-hromadne-nehody-na-dalnici-v-bulharsku-vzrostl-na-12/r~aaa29d2d50c95e235daa6de5608bc8ac/",
       "Počet obětí úterní hromadné nehody na dálnici v Bulharsku vzrostl na 12"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/rusti-sportovci-nesmi-do-finska-a-norska-dokud-neskonci-valka-379570",
-      "Ruští sportovci nesmí do Finska a Norska, dokud neskončí válka"
     ],
     [
       "https://www.idnes.cz/zpravy/zahranicni/evropsky-summit-v-dublinu-podporil-ukrajinu-rekl-irsky-premier.A261112_203834_zahranicni_sahu",
@@ -45,10 +57,6 @@
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/usa-se-prou-s-cinou-o-podobe-summitu-trump-si-putin-konat-se-ma-v-sen-cenu-379562",
       "USA se přou s Čínou o podobě summitu Trump–Si–Putin, konat se má v Šen-čenu"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/hejtmani-zadaji-po-vlade-zaruku-podilu-z-poplatku-za-podzemni-vodu-379569",
-      "Hejtmani žádají po vládě záruku podílu z poplatků za podzemní vodu"
     ],
     [
       "https://www.idnes.cz/zpravy/domaci/predseda-asociace-kraju-radim-holis-brabec-netolicky-hejtmani.A261112_191843_domaci_linh",
@@ -71,10 +79,6 @@
       "Izrael zakázal vstup na své území francouzskému politikovi Mélenchonovi"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/babis-se-v-dublinu-na-okraj-evropskeho-summitu-sesel-se-zelenskym-/2900531",
-      "Babiš se v Dublinu na okraj evropského summitu sešel se Zelenským"
-    ],
-    [
       "https://cnn.iprima.cz/u-dalsiho-jednani-o-ukrajine-budou-i-evropane-po-setkani-s-putinem-to-oznamil-witkoff-527041",
       "U dalšího jednání o Ukrajině budou i Evropané. Po setkání s Putinem to oznámil Witkoff"
     ],
@@ -85,10 +89,6 @@
     [
       "https://www.ceskenoviny.cz/zpravy/evropske-zeme-se-pripoji-k-dalsimu-jednani-o-ukrajine-rekl-witkoff-/2900950",
       "Evropské země se připojí k dalšímu jednání o Ukrajině, řekl Witkoff"
-    ],
-    [
-      "https://zpravy.aktualne.cz/zahranici/evropa-spojuje-sva-lodstva-proti-ruske-hrozbe-boji-se-ovladnuti-arktidy/r~aaa2971ae999a8e1290c7779b207913c/",
-      "Evropská námořní aliance proti ruské hrozbě. Míří na mrazivou oblast"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/zemrel-josef-turek-ceskoslovensky-valecny-veteran-z-boju-u-dunkerku-379565",
@@ -109,20 +109,16 @@
     [
       "https://www.denik.cz/evropa/zadne-svetlo-voda-ani-teplo-ukrajinci-jsou-bez-proudu-az-dvacet-hodin-denne/",
       "Žádné světlo, voda ani teplo. Ukrajinci jsou bez proudu až dvacet hodin denně"
-    ],
-    [
-      "https://www.denik.cz/cesko/andrej-babis-evropsky-vyjednavac-valka-na-ukrajine-navrhy/",
-      "Babiš by rád, aby za Evropu s Ruskem mluvili Meloniová, Tusk, nebo Costa"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 28,
+    "initial_pending": 27,
     "completed": [],
     "deferred": [],
-    "remaining": 28
+    "remaining": 27
   },
   "samples_seconds": [
     51.274763,
