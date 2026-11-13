@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-11-13T20:58:10.853075+00:00",
+  "updated_at": "2026-11-13T21:53:12.357517+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Kolaps v USA: úřady vyhlásily celostátní zákaz letů, selhaly radary a komunikace",
+      "summary": "Americké úřady oznámily celostátní zastavení odletů, ke kterému Federální úřad pro letectví (FAA) přistoupil z bezpečnostních důvodů a kvůli mimořádným okolnostem. Ministr dopravy USA Sean…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-13T21:39:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/letecky-kolaps-v-usa-faa-vyhlasila-celostatni-stop-kvuli-selhani-radaru-a-komunikace.A261113_222559_zahranicni_remy",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "V USA uzemňují všechny lety. Kvůli „mimořádným okolnostem“",
+      "summary": "Americký Federální úřad pro letectví (FAA) vyhlásil celonárodní pozastavení letů s tím, že důvodem jsou mimořádné okolnosti a bezpečnostní důvody, píše agentura Reuters. Ministr dopravy…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-13T21:25:39+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/americky-federalni-urad-pro-letectvi-pozastavil-vsechny-lety-379609",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Rusové bránili ropný terminál, přitom sestřelili tři vlastní vrtulníky za miliardy",
       "summary": "Rusko mohlo při obraně před ukrajinskými drony přijít o tři vrtulníky v hodnotě přibližně jedné miliardy korun. Podle ruských proválečných kanálů zahynulo při incidentu z…",
@@ -193,28 +213,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "„Raketové město“ část Íránců pobouřilo, Teherán ruší limity u střel",
-      "summary": "Írán rychle obnovuje svůj raketový arzenál. Tento týden představil nové podzemní „raketové město“ a zrušil vlastní limity doletu střel. Teherán se tak snaží demonstrovat svou…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-13T16:00:00+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/raketove-mesto-cast-irancu-pobourilo-teheran-rusi-limity-u-strel-379587",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Rodina, prohrané volby a dusno kolem Trumpa. Vance brzdí prezidentské ambice",
-      "summary": "Ještě donedávna se zdálo, že cesta k republikánské prezidentské nominaci pro rok 2028 je předem nalinkovaná. Americký viceprezident J. D. Vance byl vnímán jako přirozený…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-13T15:44:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/rodina-prohrane-volby-a-dusno-kolem-trumpa-proc-vance-brzdi-sve-prezidentske-ambice.A261113_161239_zahranicni_remy",
-      "importance": "Vance podle článku veřejně připustil, že nemusí kandidovat, neoznámil však odstoupení z prezidentského souboje. Zprávy o prohlubujících se pochybnostech a napětí s Trumpem stojí zčásti na anonymních zdrojích CNN. Je proto předčasné označovat republikánskou nominaci za uvolněnou pro jiného kandidáta. Pokud by Vance kandidaturu odmítl, jeho podporovatelé a potenciální dárci by hledali jiného představitele, ale jejich hlasy by nepřipadly automaticky Rubiovi ani jiné jediné osobnosti.\n\nPrůzkum citovaný článkem rozlišuje ochotu kandidáta zvažovat od silného nadšení pro jeho kandidaturu. Tato čísla nelze zaměnit za předpověď výsledku primárek, zvlášť když kampaň ještě nezačala a mnoho voličů nemá favorita. Vanceovo spojení s Trumpovou administrativou mu může zajistit známost a podporu jejího jádra, současně jej vystavuje odpovědnosti za nepopulární politiku. Tvrzení poradce, že pokračující válka s Íránem znemožní vítězství jakéhokoli republikána, je politický odhad, nikoli prokázaná zákonitost. Rozhodující budou skutečné kandidatury, programové vymezení a další vývoj veřejné podpory.",
-      "importance_kind": "analysis",
-      "analysis_source": "iDNES.cz",
-      "analysis_url": "https://www.idnes.cz/zpravy/zahranicni/rodina-prohrane-volby-a-dusno-kolem-trumpa-proc-vance-brzdi-sve-prezidentske-ambice.A261113_161239_zahranicni_remy"
-    },
-    {
       "title": "Výpadek Microsoftu zasáhl celý svět. Jaká je příčina a kdy budou služby fungovat",
       "summary": "Výpadek služeb Microsoftu od čtvrtečního večera omezuje uživatele po celém světě. Problémy zasáhly Outlook, Teams i asistenta Copilot. Potíže hlásí také české úřady i Letiště…",
       "source": "Deník",
@@ -313,7 +311,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 19,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -343,7 +341,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -353,7 +351,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 7,
       "selected": 5,
       "free_articles_checked": 6
     },
@@ -383,7 +381,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 10,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -413,7 +411,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 7,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -443,7 +441,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -453,7 +451,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 17,
       "selected": 0,
       "free_articles_checked": 0
     }

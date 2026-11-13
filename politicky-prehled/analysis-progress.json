@@ -3,6 +3,14 @@
   "current": null,
   "queue": [
     [
+      "https://www.idnes.cz/zpravy/zahranicni/letecky-kolaps-v-usa-faa-vyhlasila-celostatni-stop-kvuli-selhani-radaru-a-komunikace.A261113_222559_zahranicni_remy",
+      "Kolaps v USA: úřady vyhlásily celostátní zákaz letů, selhaly radary a komunikace"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/americky-federalni-urad-pro-letectvi-pozastavil-vsechny-lety-379609",
+      "V USA uzemňují všechny lety. Kvůli „mimořádným okolnostem“"
+    ],
+    [
       "https://zpravy.aktualne.cz/zahranici/rusove-branili-ropny-terminal-pritom-sestrelili-tri-vlastni-vrtulniky-za-miliardy/r~aaa2930fd9a84bbb84de381226b2d035/",
       "Rusové bránili ropný terminál, přitom sestřelili tři vlastní vrtulníky za miliardy"
     ],
@@ -79,10 +87,6 @@
       "Babiš bude v Izraeli jednat s Netanjahuem a Herzogem"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/svet/raketove-mesto-cast-irancu-pobourilo-teheran-rusi-limity-u-strel-379587",
-      "„Raketové město“ část Íránců pobouřilo, Teherán ruší limity u střel"
-    ],
-    [
       "https://www.denik.cz/svet/microsoft-vypadek-outlook-teams/",
       "Výpadek Microsoftu zasáhl celý svět. Jaká je příčina a kdy budou služby fungovat"
     ],
@@ -119,10 +123,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 28,
+    "initial_pending": 29,
     "completed": [],
     "deferred": [],
-    "remaining": 28
+    "remaining": 29
   },
   "samples_seconds": [
     51.274763,
