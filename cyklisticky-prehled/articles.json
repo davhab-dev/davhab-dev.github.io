@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-13T13:39:57.424840+00:00",
+  "updated": "2026-11-13T14:42:29.737677+00:00",
   "articles": [
+    {
+      "title": "Netcompany Ineos drops Continental for Pirelli in major WorldTour tyre switch",
+      "summary": "First tyre-brand change for the team since its founding as Team Sky in 2010",
+      "url": "https://www.bikeradar.com/news/netcompany-ineos-drops-continental-for-pirelli",
+      "source": "BikeRadar",
+      "lang": "EN",
+      "category": "Technika",
+      "published": "2026-11-13T13:43:36+00:00"
+    },
     {
       "title": "'I was getting less and less enjoyment from modern cycling' – Julian Alaphilippe opens up for first time about retirement and knowing when to stop",
       "summary": "French rider said he had 'had enough of the limelight' and is content with his decision to stop racing",
@@ -54,6 +63,15 @@
       "lang": "CS",
       "category": "MTB",
       "published": "2026-11-13T08:55:11+00:00"
+    },
+    {
+      "title": "Titan Forest Patagonia očima Ondřeje Fojtíka: Čtyři etapy na konci světa, kde je výsledek až na druhém místě",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/titan-forest-patagonia-ocima-ondreje-fojtika-ctyri-etapy-na-konci-sveta-kde-je-vysledek-az-na-druhem-miste/kategorie/xcm-ostatni-zavody",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-13"
     },
     {
       "title": "Seriál Life Time Grand Prix dál navyšuje odměny. V roce 2027 rozdělí rekordních 800 tisíc dolarů!",
@@ -821,15 +839,6 @@
       "published": "2026-11-09"
     },
     {
-      "title": "Fotogalerie: Orbea Rallon RS-LTD",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/fotogalerie-orbea-rallon-rs-ltd/kategorie/technika",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-11-09"
-    },
-    {
       "title": "Vrstvení jako základ – jak se obléct na podzim",
       "summary": "",
       "url": "https://www.mtbiker.cz/clanky/132080/vrstveni-jako-zaklad-jak-se-oblect-na-podzim.html",
@@ -872,6 +881,15 @@
       "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Cyklistika",
+      "published": "2026-11-09"
+    },
+    {
+      "title": "Fotogalerie: Orbea Rallon RS-LTD",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/fotogalerie-orbea-rallon-rs-ltd/kategorie/technika",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
       "published": "2026-11-09"
     },
     {
@@ -2183,7 +2201,7 @@
       "title": "Newmen’s new Phase carbon MTB bars get 8-degree upsweep and optional 50mm width adjustment",
       "summary": "The new Phase range covers XC to downhill, with an unusual bar shape and VariGrip versions that can be adjusted without needing a saw",
       "url": "https://www.bikeradar.com/news/newmen-phase-carbon-mtb-handlebars",
-      "source": "BikeRadar",
+      "source": "BikeRadar MTB",
       "lang": "EN",
       "category": "MTB",
       "published": "2026-10-20T08:00:00+00:00"
@@ -2963,6 +2981,15 @@
       "published": "2025-09-21T12:38:41+00:00"
     },
     {
+      "title": "Bike TechnikaTEST: Avona Callis 32 – Když gravel přeroste do nové dimenzeDnes se společně podíváme na historicky první test sériového karbonového 32\" štěrkoletu, který jsme měli k dispozici od německé značky Avona...",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/avona-callis-test/kategorie/testy-recenze",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "Gravel",
+      "published": ""
+    },
+    {
       "title": "Mason překvapil v Nielu, mistryně světa a Evropy Brand odstoupila se zraněním",
       "summary": "",
       "url": "https://mtbs.cz/clanek/mason-prekvapil-v-nielu-mistryne-sveta-a-evropy-brand-odstoupila-se-zranenim/kategorie/bleskovky-zavody",
@@ -3119,24 +3146,6 @@
       "title": "Rozhodčí změnili výsledek závěrečného spurtu. Evropský cyklokrosový titul má Brand, Schreiber zbyly oči pro pláč, pro medaili nepřišla. Výborná Zemanová dojela sedmá",
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/rozhodci-zmenili-vysledek-zaverecneho-spurtu-evropsky-cyklokrosovy-titul-ma-brand-schreiber-zbyly-oci-pro-plac-pro-medaili-neprisla-vyborna-zemanova-dojela-sedma",
-      "source": "RoadCycling.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": ""
-    },
-    {
-      "title": "Sourozenci Bukovští padali, na medaili nedosáhli, ale vybojovali desítku. Nad cyklokrosovým světem visí evropská žaloba Schreiber…",
-      "summary": "",
-      "url": "https://www.roadcycling.cz/clanek/sourozenci-bukovsti-padali-na-medaili-nedosahli-ale-vybojovali-desitku-nad-cyklokrosovym-svetem-visi-evropska-zaloba-schreiber…",
-      "source": "RoadCycling.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": ""
-    },
-    {
-      "title": "Dvě Mortirola a návrat na Monte Zoncolan. Giro d'Italia představilo trasu ročníku 2027",
-      "summary": "",
-      "url": "https://www.roadcycling.cz/clanek/dve-mortirola-a-navrat-na-monte-zoncolan-giro-ditalia-predstavilo-trasu-rocniku-2027",
       "source": "RoadCycling.cz",
       "lang": "CS",
       "category": "Závody",
