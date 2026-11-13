@@ -1,20 +1,30 @@
 {
-  "updated_at": "2026-11-13T21:53:12.357517+00:00",
+  "updated_at": "2026-11-13T22:51:39.131917+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Rusko dováží z Irska důležitou surovinu pro výrobu zbraní. Dublin sankce odmítá",
+      "summary": "Setkání evropských lídrů v Dublinu rámovala diskuse o pomoci Ukrajině. Irsko přitom dlouhodobě dodává oxid hlinitý do Ruska. Bílý prášek má široké použití a představuje…",
+      "source": "CNN Prima NEWS",
+      "category": "svet",
+      "published_at": "2026-11-13T23:35:43+01:00",
+      "url": "https://cnn.iprima.cz/rusko-dovazi-z-irska-dulezitou-surovinu-pro-vyrobu-zbrani-dublin-sankce-odmita-527093",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Kolaps v USA: úřady vyhlásily celostátní zákaz letů, selhaly radary a komunikace",
       "summary": "Americké úřady oznámily celostátní zastavení odletů, ke kterému Federální úřad pro letectví (FAA) přistoupil z bezpečnostních důvodů a kvůli mimořádným okolnostem. Ministr dopravy USA Sean…",
       "source": "iDNES.cz",
       "category": "svet",
-      "published_at": "2026-11-13T21:39:00+00:00",
+      "published_at": "2026-11-13T22:28:00+00:00",
       "url": "https://www.idnes.cz/zpravy/zahranicni/letecky-kolaps-v-usa-faa-vyhlasila-celostatni-stop-kvuli-selhani-radaru-a-komunikace.A261113_222559_zahranicni_remy",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
     {
-      "title": "V USA uzemňují všechny lety. Kvůli „mimořádným okolnostem“",
-      "summary": "Americký Federální úřad pro letectví (FAA) vyhlásil celonárodní pozastavení letů s tím, že důvodem jsou mimořádné okolnosti a bezpečnostní důvody, píše agentura Reuters. Ministr dopravy…",
+      "title": "V USA vyhlásily celonárodní pozastavení letů kvůli problémům s komunikací",
+      "summary": "Americký Federální úřad pro letectví (FAA) v pátek kolem 22:00 SEČ pozastavil všechny odlety z amerických letišť kvůli problémům s komunikací, které zasáhly všechna oblastní…",
       "source": "ČT24",
       "category": "svet",
       "published_at": "2026-11-13T21:25:39+00:00",
@@ -233,16 +243,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Síť ruských obchodů v Česku končí. Je napojená na sankcionované miliardáře",
-      "summary": "Ruský diskontní řetězec Mere, který v Česku provozuje dvanáct prodejen, oznámil ve čtvrtek na sociálních sítích ukončení činnosti. Přesný termín ani důvod uzavření poboček společnost…",
-      "source": "CNN Prima NEWS",
-      "category": "domaci",
-      "published_at": "2026-11-13T13:46:40+01:00",
-      "url": "https://cnn.iprima.cz/v-cesku-konci-znamy-diskontni-retezec-tyka-se-to-vsech-prodejen-527113",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Dárek pro Putina letos vybral dosud přes 385 mil. Kč, víc než za celý loňský rok",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -311,7 +311,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 19,
+      "candidates": 20,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -321,7 +321,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 19,
+      "candidates": 18,
       "selected": 7,
       "free_articles_checked": 8
     },
@@ -331,7 +331,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -341,7 +341,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 17,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -361,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 13,
       "selected": 4,
       "free_articles_checked": 4
     },
@@ -381,7 +381,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 11,
       "selected": 1,
       "free_articles_checked": 1
     },
