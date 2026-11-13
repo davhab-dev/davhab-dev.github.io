@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-11-13T10:06:50.234222+00:00",
+  "updated_at": "2026-11-13T11:07:40.896708+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Šebestyán odvolal všechny členy Rady Vinařského fondu kvůli zjištění NKÚ",
+      "summary": "Ministr zemědělství Martin Šebestyán (za SPD) odvolal všech jedenáct členů Rady Vinařského fondu. Podle Nejvyššího kontrolní úřad (NKÚ) fond opakovaně porušoval předpisy a pravidla poskytování…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-13T11:05:18+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/sebestyan-odvolal-vsechny-cleny-rady-vinarskeho-fondu-kvuli-zjisteni-nku-379585",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Poslanci projednávají mimořádnou daň pro rafinerie. Lex Orlen, kritizuje opozice",
+      "summary": "V pátek se mimořádně sešla Poslanecká sněmovna. Na programu má jediný bod, a to druhé čtení vládního návrhu na zavedení speciální daně pro rafinerie. Pokud…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-13T10:47:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/schillerova-dan-pro-rafinerie-schuze-snemovny.A261112_205919_domaci_mul",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Univerzita Karlova řeší kybernetický útok, útočník získal osobní údaje",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-13T11:44:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/univerzita-karlova-resi-kyberneticky-utok-utocnik-ziskal-osobni-udaje/2901579",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "TOP 09 vrací do hry lustrace. „Mají stále své opodstatnění,“ tvrdí",
+      "summary": "Opoziční TOP 09 navrhne obnovit lustrační požadavky pro ministry a jejich náměstky. Má stále své opodstatnění, řekl novinářům ve Sněmovně předseda TOP 09 Matěj Ondřej…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-13T11:35:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/top-09-vraci-do-hry-lustrace-maji-stale-sve-opodstatneni-tvrdi/r~aaa294acbdf5dfa00ceedea70d206491/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Babiš: Kyjev se zajímá o další letadla Skyfox a nabízí dronovou iniciativu",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-13T11:27:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/babis-kyjev-se-zajima-o-dalsi-letadla-skyfox-a-nabizi-dronovou-iniciativu/2901564",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Trump chce svrhnout vládu na Kubě před koncem svého funkčního období",
+      "summary": "Americký prezident Donald Trump chce podniknout vojenskou intervenci na Kubě s cílem svrhnout tamní vládu před koncem svého funkčního období v lednu 2029. Ve čtvrtek…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-13T10:24:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/trump-chce-svrhnout-vladu-na-kube-pred-koncem-sveho-funkcniho-obdobi.A261113_111329_zahranicni_bro",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Návrat povinné vojenské služby podporuje 63 procent Čechů, 55 procent by zemi bránilo",
+      "summary": "Návrat povinné vojenské služby podporuje 63 procent Čechů, zatímco 55 procent vyjádřilo ochotu zemi bránit a pouze 24 procent považuje Českou republiku za připravenou na…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-13T10:22:16+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/navrat-povinne-vojenske-sluzbu-podporuje-63-procent-cechu-55-procent-by-zemi-branilo-379583",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Univerzita Karlova čelí kybernetickému útoku, unikla osobní data",
+      "summary": "Univerzita Karlova čelí kybernetickému útoku, při němž došlo ke kompromitaci jedné z webových aplikací a k neoprávněnému přístupu k údajům centrálního Studijního informačního systému (SIS).…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-13T10:13:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/univerzita-karlova-kyberneticky-utok-studijni-informacni-system.A261113_110732_domaci_aoc",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "EU už vyjednavače s Rusy má. Opět ale naráží na nedotaženou integraci",
+      "summary": "Evropská unie by se do týdne či dvou měla rozhodnout, kdo ji bude zastupovat na mírových rozhovorech s Ruskem, řekl příchodu na neformální summit EU…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-13T10:10:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/eu-uz-vyjednavace-s-rusy-ma-opet-ale-narazi-na-nedotazenou-integraci.A261113_103849_zahranicni_bro",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "TOP 09 navrhne povinnost lustračního osvědčení pro ministry a náměstky",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
@@ -13,8 +103,8 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Babišův třetí den v Irsku. S lídry EU bude řešit, kdo má za Evropu jednat s Ruskem",
-      "summary": "Od našeho zpravodaje v Dublinu – Premiér Andrej Babiš (ANO) uzavírá svou třídenní cestu v Irsku. V Dublinu se zúčastní neformálního summitu Evropské rady, na…",
+      "title": "Babišův třetí den v Irsku. S lídry EU řeší, kdo má za Evropu jednat s Ruskem",
+      "summary": "Od našeho zpravodaje v Dublinu – Premiér Andrej Babiš (ANO) uzavírá svou třídenní cestu v Irsku. V Dublinu se účastní neformálního summitu Evropské rady, na…",
       "source": "iDNES.cz",
       "category": "domaci",
       "published_at": "2026-11-13T09:49:00+00:00",
@@ -63,16 +153,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Většina Čechů podporuje návrat povinné vojny, Rusko považují za hrozbu",
-      "summary": "Návrat povinné vojenské služby podporuje 63 procent Čechů, zatímco pouze 24 procent považuje Českou republiku za připravenou na závažnou bezpečnostní krizi či válku. Vyplývá to…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-13T09:35:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/pruzkum-povinnou-vojnu-podporuje-63-procent-cechu.A261113_094841_domaci_tmps",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "ODS připravuje reformy, mimořádný sjezd není tématem, uvedl Kupka",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -99,36 +179,6 @@
       "category": "svet",
       "published_at": "2026-11-13T09:30:00+00:00",
       "url": "https://www.idnes.cz/zpravy/zahranicni/v-moskve-vybuchlo-auto-s-byvaly-mluvcim-proruskeho-expremiera-ukrajiny.A261113_102751_zahranicni_bro",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Letnou opět zaplní demonstranti. Milion chvilek očekává největší protest v historii",
-      "summary": "Pražská Letná se v neděli znovu promění v dějiště velkého protivládního protestu. Spolek Milion chvilek pro demokracii svolává demonstraci na obranu veřejnoprávních médií a očekává…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-13T09:29:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/letna-demonstrace-milion-chvilek-verejnopravni-media-mikulas-minar-vlada.A261112_123519_domaci_ikro",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Trump chce svrhnout vládu na Kubě před koncem svého funkčního období",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-13T10:25:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/trump-chce-svrhnout-vladu-na-kube-pred-koncem-sveho-funkcniho-obdobi/2901521",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Hegseth hasí škody. Vojákovi, který ho seřval na hřbitově, dal medaili",
-      "summary": "Americký ministr obrany Pete Hegseth ve čtvrtek vyznamenal vojáka, který ho o den dříve napomenul za hlučné chování u Hrobu neznámého vojína na Arlingtonském národním…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-13T09:25:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/usa-hegseth-napomenuti-vyznamenani-veterani.A261113_100435_zahranicni_dtt",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -183,16 +233,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Jeden z největších útoků. Ukrajinci zasáhli rafinerii ve Volgogradu, změnili taktiku",
-      "summary": "Při dronovém náletu na jihu Volgogradu zemřeli čtyři zaměstnanci průmyslové zóny a další dva utrpěli zranění. Podle neoficiálních informací se terčem stala tamní rafinerie. Ruská…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-13T08:41:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/volgograd-ukrajina-valka-rusko-dronovy-utok-rafinerie.A261113_090554_zahranicni_aya",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Rusko a Ukrajina hlásí vzájemné útoky. Rafinerie ve Volgogradu hoří",
       "summary": "Úřady v ruské Volgogradské oblasti tvrdí, že při dronovém náletu zemřeli čtyři zaměstnanci průmyslové zóny na jihu Volgogradu. Podle informací zpravodajského telegramového kanálu Exilenova+ byla…",
       "source": "ČT24",
@@ -209,16 +249,6 @@
       "category": "svet",
       "published_at": "2026-11-13T09:35:00+01:00",
       "url": "https://zpravy.aktualne.cz/zahranici/nova-taktika-ukrajincu-masivne-zautocili-na-rafinerii-lukoilu-ve-volgogradu/r~aaa29524fe03373e3fe1b25b68f55d20/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Průzkum: Návrat povinné vojenské služby podporuje většina Čechů",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-13T09:30:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/pruzkum-navrat-povinne-vojenske-sluzby-podporuje-vetsina-cechu/2901498",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -253,52 +283,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Při ukrajinském útoku na Volgograd zemřeli čtyři lidé, oznámily úřady",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-13T07:42:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/pri-ukrajinskem-utoku-na-volgograd-zemreli-ctyri-lide-oznamily-urady/2901468",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Zaútočili jsme na americký radarový systém a zničili ho, oznámil Írán",
-      "summary": "Íránské revoluční gardy v pátek oznámily, že jejich jednotky zaútočily na americký radarový systém včasného varování v Bahrajnu a zničily ho. Bahrajn ani Spojené státy…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-13T07:27:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/zautocili-jsme-na-americky-radarovy-system-a-znicili-ho-oznamil-iran/r~aaa29abbe8b664b4b15cfeb726850c04/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "R5M: Co vše vláda hodlá změnit ve školních jídelnách | Šéf firmy Nvidia Huang po odhalení aféry rezignoval | Vicepremiér Havlíček navštívil Ukrajinu",
       "summary": "",
       "source": "Deník N",
       "category": "domaci",
       "published_at": "2026-11-13T06:09:10+00:00",
       "url": "https://denikn.cz/newsletter/2255794/co-vse-vlada-hodla-zmenit-ve-skolnich-jidelnach-sef-firmy-nvidia-huang-po-odhaleni-afery-rezignoval-vicepremier-havlicek-navstivil-ukrajinu/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Při zásahu proti nelegální těžbě zlata v Guineji vypukly střety, zemřelo nejméně deset lidí",
-      "summary": "Nejméně deset lidí včetně pěti cizinců zahynulo při střetech mezi bezpečnostními složkami a těžaři zlata na severovýchodě Guineje. Dalších třináct lidí utrpělo zranění, informovala agentura…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-13T04:32:17+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/po-zakazu-nelegalni-tezby-zlata-v-guineji-vypukly-strety-zemrelo-nejmene-deset-lidi-379575",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Poslanci mají na programu návrh na zavedení mimořádné daně na rafinerie",
-      "summary": "Poslanci se v pátek sešli ke druhému čtení vládního návrhu na zavedení mimořádné daně na rafinerie. Důvodem jejího uzákonění je podle vlády růst marží rafinerií…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-13T03:42:00+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/poslanci-se-sejdou-k-navrhu-na-zavedeni-mimoradne-dane-na-rafinerie-379573",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -323,16 +313,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Vláda chce zpřísnit prodej kratomu. Odborníci varují před rozšířením černého trhu",
-      "summary": "Rok od zavedení pravidel pro prodej kratomu připravuje vláda další zpřísnění. Látku by si nově mohli koupit pouze lidé starší 21 let, internetový prodej by…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-12T20:00:00+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-chce-zprisnit-prodej-kratomu-odbornici-varuji-pred-rozsirenim-cerneho-trhu-379564",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Na tyto pláže se turisté jen tak nepodívají. U pobřeží se objevily ropné skvrny",
       "summary": "Spojené arabské emiráty uzavřely další pláž kvůli ropné skvrně, tentokrát na východním pobřeží u Ománského zálivu. Země se stále potýká s následky rozsáhlého úniku ropy…",
       "source": "Deník",
@@ -351,9 +331,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
-      "selected": 7,
-      "free_articles_checked": 8
+      "candidates": 18,
+      "selected": 6,
+      "free_articles_checked": 7
     },
     {
       "name": "iROZHLAS",
@@ -361,7 +341,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 19,
+      "candidates": 18,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -371,8 +351,8 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 15,
-      "selected": 7,
+      "candidates": 17,
+      "selected": 6,
       "free_articles_checked": 8
     },
     {
@@ -381,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -391,7 +371,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 9,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -421,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 12,
       "selected": 7,
       "free_articles_checked": 8
     },
@@ -431,7 +411,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 9,
       "selected": 2,
       "free_articles_checked": 2
     },
@@ -441,7 +421,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 4,
+      "candidates": 5,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -471,7 +451,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 0,
+      "candidates": 5,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -481,7 +461,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 6,
+      "candidates": 5,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -491,7 +471,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -501,7 +481,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 17,
       "selected": 0,
       "free_articles_checked": 0
     }

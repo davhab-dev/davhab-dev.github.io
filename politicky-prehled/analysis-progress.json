@@ -3,12 +3,48 @@
   "current": null,
   "queue": [
     [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/sebestyan-odvolal-vsechny-cleny-rady-vinarskeho-fondu-kvuli-zjisteni-nku-379585",
+      "Šebestyán odvolal všechny členy Rady Vinařského fondu kvůli zjištění NKÚ"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/schillerova-dan-pro-rafinerie-schuze-snemovny.A261112_205919_domaci_mul",
+      "Poslanci projednávají mimořádnou daň pro rafinerie. Lex Orlen, kritizuje opozice"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/univerzita-karlova-resi-kyberneticky-utok-utocnik-ziskal-osobni-udaje/2901579",
+      "Univerzita Karlova řeší kybernetický útok, útočník získal osobní údaje"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/top-09-vraci-do-hry-lustrace-maji-stale-sve-opodstatneni-tvrdi/r~aaa294acbdf5dfa00ceedea70d206491/",
+      "TOP 09 vrací do hry lustrace. „Mají stále své opodstatnění,“ tvrdí"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/babis-kyjev-se-zajima-o-dalsi-letadla-skyfox-a-nabizi-dronovou-iniciativu/2901564",
+      "Babiš: Kyjev se zajímá o další letadla Skyfox a nabízí dronovou iniciativu"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/trump-chce-svrhnout-vladu-na-kube-pred-koncem-sveho-funkcniho-obdobi.A261113_111329_zahranicni_bro",
+      "Trump chce svrhnout vládu na Kubě před koncem svého funkčního období"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/navrat-povinne-vojenske-sluzbu-podporuje-63-procent-cechu-55-procent-by-zemi-branilo-379583",
+      "Návrat povinné vojenské služby podporuje 63 procent Čechů, 55 procent by zemi bránilo"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/univerzita-karlova-kyberneticky-utok-studijni-informacni-system.A261113_110732_domaci_aoc",
+      "Univerzita Karlova čelí kybernetickému útoku, unikla osobní data"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/eu-uz-vyjednavace-s-rusy-ma-opet-ale-narazi-na-nedotazenou-integraci.A261113_103849_zahranicni_bro",
+      "EU už vyjednavače s Rusy má. Opět ale naráží na nedotaženou integraci"
+    ],
+    [
       "https://www.ceskenoviny.cz/zpravy/top-09-navrhne-povinnost-lustracniho-osvedceni-pro-ministry-a-namestky/2901535",
       "TOP 09 navrhne povinnost lustračního osvědčení pro ministry a náměstky"
     ],
     [
       "https://www.idnes.cz/zpravy/domaci/babis-eu-irsko-dublin-rusko-vyjednavani.A261113_094110_domaci_chtl",
-      "Babišův třetí den v Irsku. S lídry EU bude řešit, kdo má za Evropu jednat s Ruskem"
+      "Babišův třetí den v Irsku. S lídry EU řeší, kdo má za Evropu jednat s Ruskem"
     ],
     [
       "https://zpravy.aktualne.cz/zahranici/chci-to-vyresit-nez-odejdu-trump-si-brousi-zuby-na-dalsi-zemi-moc-casu-ji-nedava/r~aaa29a45e2434eec745bbbec555d284c/",
@@ -27,10 +63,6 @@
       "Babiš se příští čtvrtek zúčastní jednání koalice ochotných v Berlíně"
     ],
     [
-      "https://www.idnes.cz/zpravy/domaci/pruzkum-povinnou-vojnu-podporuje-63-procent-cechu.A261113_094841_domaci_tmps",
-      "Většina Čechů podporuje návrat povinné vojny, Rusko považují za hrozbu"
-    ],
-    [
       "https://www.ceskenoviny.cz/zpravy/ods-pripravuje-reformy-mimoradny-sjezd-neni-tematem-uvedl-kupka/2901416",
       "ODS připravuje reformy, mimořádný sjezd není tématem, uvedl Kupka"
     ],
@@ -41,18 +73,6 @@
     [
       "https://www.idnes.cz/zpravy/zahranicni/v-moskve-vybuchlo-auto-s-byvaly-mluvcim-proruskeho-expremiera-ukrajiny.A261113_102751_zahranicni_bro",
       "V Moskvě vybuchlo auto s bývalým mluvčím proruského expremiéra Ukrajiny"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/letna-demonstrace-milion-chvilek-verejnopravni-media-mikulas-minar-vlada.A261112_123519_domaci_ikro",
-      "Letnou opět zaplní demonstranti. Milion chvilek očekává největší protest v historii"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/trump-chce-svrhnout-vladu-na-kube-pred-koncem-sveho-funkcniho-obdobi/2901521",
-      "Trump chce svrhnout vládu na Kubě před koncem svého funkčního období"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/usa-hegseth-napomenuti-vyznamenani-veterani.A261113_100435_zahranicni_dtt",
-      "Hegseth hasí škody. Vojákovi, který ho seřval na hřbitově, dal medaili"
     ],
     [
       "https://www.denik.cz/evropa/v-moskve-vybuchlo-auto-byvaleho-mluvciho-ukrajinskeho-premiera/",
@@ -75,20 +95,12 @@
       "Většina Čechů podporuje návrat vojny, připravenosti státu na krizi ale nevěří"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/volgograd-ukrajina-valka-rusko-dronovy-utok-rafinerie.A261113_090554_zahranicni_aya",
-      "Jeden z největších útoků. Ukrajinci zasáhli rafinerii ve Volgogradu, změnili taktiku"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/svet/rusko-a-ukrajina-hlasi-vzajemne-utoky-rafinerie-ve-volgogradu-hori-379579",
       "Rusko a Ukrajina hlásí vzájemné útoky. Rafinerie ve Volgogradu hoří"
     ],
     [
       "https://zpravy.aktualne.cz/zahranici/nova-taktika-ukrajincu-masivne-zautocili-na-rafinerii-lukoilu-ve-volgogradu/r~aaa29524fe03373e3fe1b25b68f55d20/",
       "Nová taktika Ukrajinců: masivně zaútočili na rafinérii Lukoilu ve Volgogradu"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/pruzkum-navrat-povinne-vojenske-sluzby-podporuje-vetsina-cechu/2901498",
-      "Průzkum: Návrat povinné vojenské služby podporuje většina Čechů"
     ],
     [
       "https://zpravy.aktualne.cz/domaci/ve-slatinanech-po-prepoctu-hlasu-uspel-lidovec-soud-zrusil-zvoleni-kandidata-snk/r~aaa29948aac2404431808745c6d9f0c7/",
@@ -103,24 +115,8 @@
       "Volební boj Pedra Sáncheze. Španělský premiér chce odvrátit porážku díky TikToku"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/pri-ukrajinskem-utoku-na-volgograd-zemreli-ctyri-lide-oznamily-urady/2901468",
-      "Při ukrajinském útoku na Volgograd zemřeli čtyři lidé, oznámily úřady"
-    ],
-    [
-      "https://zpravy.aktualne.cz/zahranici/zautocili-jsme-na-americky-radarovy-system-a-znicili-ho-oznamil-iran/r~aaa29abbe8b664b4b15cfeb726850c04/",
-      "Zaútočili jsme na americký radarový systém a zničili ho, oznámil Írán"
-    ],
-    [
       "https://denikn.cz/newsletter/2255794/co-vse-vlada-hodla-zmenit-ve-skolnich-jidelnach-sef-firmy-nvidia-huang-po-odhaleni-afery-rezignoval-vicepremier-havlicek-navstivil-ukrajinu/",
       "R5M: Co vše vláda hodlá změnit ve školních jídelnách | Šéf firmy Nvidia Huang po odhalení aféry rezignoval | Vicepremiér Havlíček navštívil Ukrajinu"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/po-zakazu-nelegalni-tezby-zlata-v-guineji-vypukly-strety-zemrelo-nejmene-deset-lidi-379575",
-      "Při zásahu proti nelegální těžbě zlata v Guineji vypukly střety, zemřelo nejméně deset lidí"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/poslanci-se-sejdou-k-navrhu-na-zavedeni-mimoradne-dane-na-rafinerie-379573",
-      "Poslanci mají na programu návrh na zavedení mimořádné daně na rafinerie"
     ],
     [
       "https://www.denik.cz/evropa/slovjansk-kramatorsk-ukrajina-donbas-pevnostni-mesta/",
@@ -131,10 +127,6 @@
       "Evropa bude u mírových jednání s Ruskem. Oznámili to Trumpův zeť a Zelenskyj"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-chce-zprisnit-prodej-kratomu-odbornici-varuji-pred-rozsirenim-cerneho-trhu-379564",
-      "Vláda chce zpřísnit prodej kratomu. Odborníci varují před rozšířením černého trhu"
-    ],
-    [
       "https://www.denik.cz/svet/na-tyto-plaze-se-turiste-jen-tak-nepodivaji-u-pobrezi-se-objevily-ropne-skvrny/",
       "Na tyto pláže se turisté jen tak nepodívají. U pobřeží se objevily ropné skvrny"
     ]
@@ -143,10 +135,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 34,
+    "initial_pending": 32,
     "completed": [],
     "deferred": [],
-    "remaining": 34
+    "remaining": 32
   },
   "samples_seconds": [
     51.274763,
