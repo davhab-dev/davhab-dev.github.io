@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-11-13T11:07:40.896708+00:00",
+  "updated_at": "2026-11-13T12:02:21.148611+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Univerzita Karlova čelila kybernetickému útoku. Útočník získal i osobní údaje",
+      "summary": "Univerzita Karlova (UK) v posledních dnech řeší závažný kybernetický útok. Jedna z webových aplikací byla kompromitována, následně získal útočník neoprávněný přístup k údajům z centrálního…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-13T12:49:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/univerzita-karlova-celila-kybernetickemu-utoku-utocnik-ziskal-i-osobni-udaje/r~aaa29f204922bba252ceb129295af719/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Poslanci projednávají mimořádnou daň pro rafinerie. Lex Orlen, kritizuje opozice",
+      "summary": "V pátek se mimořádně sešla Poslanecká sněmovna. Na programu má jediný bod, a to druhé čtení vládního návrhu na zavedení speciální daně pro rafinerie. Pokud…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-13T11:45:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/schillerova-dan-pro-rafinerie-schuze-snemovny.A261112_205919_domaci_mul",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Babišův třetí den v Irsku. S lídry EU řeší, kdo má za Evropu jednat s Ruskem",
+      "summary": "Od našeho zpravodaje v Dublinu – Premiér Andrej Babiš (ANO) uzavírá svou třídenní cestu v Irsku. V Dublinu se účastní neformálního summitu Evropské rady, na…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-13T11:23:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/babis-eu-irsko-dublin-rusko-vyjednavani.A261113_094110_domaci_chtl",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Člen AfD i odsouzený politik. Svobodní pozvali do Prahy zástupce krajní pravice",
+      "summary": "Strana Svobodní pozvala do Prahy na konferenci o migraci zástupce evropské krajní pravice. Mezi hosty vystoupí slovenský europoslanec Milan Mazurek, který byl pravomocně odsouzen za…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-13T11:07:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/svobodni-pozvali-do-prahy-zastupce-krajni-pravice.A261113_091102_domaci_meli",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Šebestyán odvolal všechny členy Rady Vinařského fondu kvůli zjištění NKÚ",
       "summary": "Ministr zemědělství Martin Šebestyán (za SPD) odvolal všech jedenáct členů Rady Vinařského fondu. Podle Nejvyššího kontrolní úřad (NKÚ) fond opakovaně porušoval předpisy a pravidla poskytování…",
@@ -13,22 +53,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Poslanci projednávají mimořádnou daň pro rafinerie. Lex Orlen, kritizuje opozice",
-      "summary": "V pátek se mimořádně sešla Poslanecká sněmovna. Na programu má jediný bod, a to druhé čtení vládního návrhu na zavedení speciální daně pro rafinerie. Pokud…",
-      "source": "iDNES.cz",
+      "title": "Univerzita Karlova řeší kybernetický útok",
+      "summary": "Univerzita Karlova (UK) v posledních dnech řeší závažný kybernetický útok. Jedna z webových aplikací byla kompromitována, následně získal útočník neoprávněný přístup k údajům z centrálního…",
+      "source": "ČT24",
       "category": "domaci",
-      "published_at": "2026-11-13T10:47:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/schillerova-dan-pro-rafinerie-schuze-snemovny.A261112_205919_domaci_mul",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Univerzita Karlova řeší kybernetický útok, útočník získal osobní údaje",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-13T11:44:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/univerzita-karlova-resi-kyberneticky-utok-utocnik-ziskal-osobni-udaje/2901579",
+      "published_at": "2026-11-13T10:37:33+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/univerzita-karlova-resi-kyberneticky-utok-379584",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -73,16 +103,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Univerzita Karlova čelí kybernetickému útoku, unikla osobní data",
-      "summary": "Univerzita Karlova čelí kybernetickému útoku, při němž došlo ke kompromitaci jedné z webových aplikací a k neoprávněnému přístupu k údajům centrálního Studijního informačního systému (SIS).…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-13T10:13:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/univerzita-karlova-kyberneticky-utok-studijni-informacni-system.A261113_110732_domaci_aoc",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "EU už vyjednavače s Rusy má. Opět ale naráží na nedotaženou integraci",
       "summary": "Evropská unie by se do týdne či dvou měla rozhodnout, kdo ji bude zastupovat na mírových rozhovorech s Ruskem, řekl příchodu na neformální summit EU…",
       "source": "iDNES.cz",
@@ -99,16 +119,6 @@
       "category": "domaci",
       "published_at": "2026-11-13T10:52:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/top-09-navrhne-povinnost-lustracniho-osvedceni-pro-ministry-a-namestky/2901535",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Babišův třetí den v Irsku. S lídry EU řeší, kdo má za Evropu jednat s Ruskem",
-      "summary": "Od našeho zpravodaje v Dublinu – Premiér Andrej Babiš (ANO) uzavírá svou třídenní cestu v Irsku. V Dublinu se účastní neformálního summitu Evropské rady, na…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-13T09:49:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/babis-eu-irsko-dublin-rusko-vyjednavani.A261113_094110_domaci_chtl",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -169,16 +179,6 @@
       "category": "svet",
       "published_at": "2026-11-13T10:30:00+01:00",
       "url": "https://zpravy.aktualne.cz/zahranici/dalsi-exploze-v-moskve-tercem-politolog-mel-vazbu-na-proruskeho-prezidenta-janukovyce/r~aaa291fa8118c6df855e49b4c7115db8/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "V Moskvě vybuchlo auto s bývalým mluvčím proruského expremiéra Ukrajiny",
-      "summary": "Na jihu Moskvy explodoval osobní automobil a jeho řidič utrpěl zranění. Ruské i ukrajinské telegramové kanály informují, že vozidlo značky Toyota řídil někdejší tiskový mluvčí…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-13T09:30:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/v-moskve-vybuchlo-auto-s-byvaly-mluvcim-proruskeho-expremiera-ukrajiny.A261113_102751_zahranicni_bro",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -263,16 +263,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Změny v penzích od ledna: Kdo si polepší? Hlavní Juchelkův slib zatím chybí",
-      "summary": "Důchodci dostanou od ledna přidáno. A díky jednorázovému příspěvku velmi významně. Některé návrhy se sice ještě schvalují, vládní koalice ale hodlá legislativní proces stihnout, aby…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-13T08:29:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/zmeny-v-penzich-od-ledna-kdo-si-polepsi-hlavni-juchelkuv-slib-zatim-chybi/r~aaa297d2388bdb2e959fff17d0dfe622/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Volební boj Pedra Sáncheze. Španělský premiér chce odvrátit porážku díky TikToku",
       "summary": "Parlamentní volby do španělského parlamentu se blíží a vládnoucí socialisté v průzkumech zaostávají. Veřejnost vládu kritizuje za vlakové neštěstí v Toledu nebo za přetrvávající bytovou…",
       "source": "CNN Prima NEWS",
@@ -301,26 +291,6 @@
       "url": "https://www.denik.cz/evropa/slovjansk-kramatorsk-ukrajina-donbas-pevnostni-mesta/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
-    },
-    {
-      "title": "Evropa bude u mírových jednání s Ruskem. Oznámili to Trumpův zeť a Zelenskyj",
-      "summary": "Evropští zástupci budou u vyjednávání o míru mezi Ruskem a Ukrajinou. Po dnešním setkání v Dublinu to uvedli ukrajinský prezident Volodymyr Zelenskyj a zvláštní americký…",
-      "source": "CNN Prima NEWS",
-      "category": "svet",
-      "published_at": "2026-11-12T23:31:05+01:00",
-      "url": "https://cnn.iprima.cz/evropa-bude-u-mirovych-jednani-s-ruskem-oznamili-to-trumpuv-vyslanec-a-zelenskyj-527072",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Na tyto pláže se turisté jen tak nepodívají. U pobřeží se objevily ropné skvrny",
-      "summary": "Spojené arabské emiráty uzavřely další pláž kvůli ropné skvrně, tentokrát na východním pobřeží u Ománského zálivu. Země se stále potýká s následky rozsáhlého úniku ropy…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-12T18:04:00+01:00",
-      "url": "https://www.denik.cz/svet/na-tyto-plaze-se-turiste-jen-tak-nepodivaji-u-pobrezi-se-objevily-ropne-skvrny/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
     }
   ],
   "unavailable_sources": [],
@@ -331,8 +301,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 18,
-      "selected": 6,
+      "candidates": 17,
+      "selected": 7,
       "free_articles_checked": 7
     },
     {
@@ -341,7 +311,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 18,
+      "candidates": 17,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -352,7 +322,7 @@
       "feeds_total": 2,
       "status": "ok",
       "candidates": 17,
-      "selected": 6,
+      "selected": 5,
       "free_articles_checked": 8
     },
     {
@@ -361,7 +331,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 11,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -371,7 +341,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -391,9 +361,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
-      "selected": 3,
-      "free_articles_checked": 3
+      "candidates": 9,
+      "selected": 2,
+      "free_articles_checked": 2
     },
     {
       "name": "iDNES.cz",
@@ -402,7 +372,7 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 12,
-      "selected": 7,
+      "selected": 6,
       "free_articles_checked": 8
     },
     {
@@ -412,8 +382,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 9,
-      "selected": 2,
-      "free_articles_checked": 2
+      "selected": 1,
+      "free_articles_checked": 1
     },
     {
       "name": "E15",
@@ -421,7 +391,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 5,
+      "candidates": 6,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -431,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 18,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -481,7 +451,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 19,
       "selected": 0,
       "free_articles_checked": 0
     }

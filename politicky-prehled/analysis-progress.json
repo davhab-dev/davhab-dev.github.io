@@ -3,16 +3,28 @@
   "current": null,
   "queue": [
     [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/sebestyan-odvolal-vsechny-cleny-rady-vinarskeho-fondu-kvuli-zjisteni-nku-379585",
-      "Šebestyán odvolal všechny členy Rady Vinařského fondu kvůli zjištění NKÚ"
+      "https://zpravy.aktualne.cz/domaci/univerzita-karlova-celila-kybernetickemu-utoku-utocnik-ziskal-i-osobni-udaje/r~aaa29f204922bba252ceb129295af719/",
+      "Univerzita Karlova čelila kybernetickému útoku. Útočník získal i osobní údaje"
     ],
     [
       "https://www.idnes.cz/zpravy/domaci/schillerova-dan-pro-rafinerie-schuze-snemovny.A261112_205919_domaci_mul",
       "Poslanci projednávají mimořádnou daň pro rafinerie. Lex Orlen, kritizuje opozice"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/univerzita-karlova-resi-kyberneticky-utok-utocnik-ziskal-osobni-udaje/2901579",
-      "Univerzita Karlova řeší kybernetický útok, útočník získal osobní údaje"
+      "https://www.idnes.cz/zpravy/domaci/babis-eu-irsko-dublin-rusko-vyjednavani.A261113_094110_domaci_chtl",
+      "Babišův třetí den v Irsku. S lídry EU řeší, kdo má za Evropu jednat s Ruskem"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/svobodni-pozvali-do-prahy-zastupce-krajni-pravice.A261113_091102_domaci_meli",
+      "Člen AfD i odsouzený politik. Svobodní pozvali do Prahy zástupce krajní pravice"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/sebestyan-odvolal-vsechny-cleny-rady-vinarskeho-fondu-kvuli-zjisteni-nku-379585",
+      "Šebestyán odvolal všechny členy Rady Vinařského fondu kvůli zjištění NKÚ"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/univerzita-karlova-resi-kyberneticky-utok-379584",
+      "Univerzita Karlova řeší kybernetický útok"
     ],
     [
       "https://zpravy.aktualne.cz/domaci/top-09-vraci-do-hry-lustrace-maji-stale-sve-opodstatneni-tvrdi/r~aaa294acbdf5dfa00ceedea70d206491/",
@@ -31,20 +43,12 @@
       "Návrat povinné vojenské služby podporuje 63 procent Čechů, 55 procent by zemi bránilo"
     ],
     [
-      "https://www.idnes.cz/zpravy/domaci/univerzita-karlova-kyberneticky-utok-studijni-informacni-system.A261113_110732_domaci_aoc",
-      "Univerzita Karlova čelí kybernetickému útoku, unikla osobní data"
-    ],
-    [
       "https://www.idnes.cz/zpravy/zahranicni/eu-uz-vyjednavace-s-rusy-ma-opet-ale-narazi-na-nedotazenou-integraci.A261113_103849_zahranicni_bro",
       "EU už vyjednavače s Rusy má. Opět ale naráží na nedotaženou integraci"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/top-09-navrhne-povinnost-lustracniho-osvedceni-pro-ministry-a-namestky/2901535",
       "TOP 09 navrhne povinnost lustračního osvědčení pro ministry a náměstky"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/babis-eu-irsko-dublin-rusko-vyjednavani.A261113_094110_domaci_chtl",
-      "Babišův třetí den v Irsku. S lídry EU řeší, kdo má za Evropu jednat s Ruskem"
     ],
     [
       "https://zpravy.aktualne.cz/zahranici/chci-to-vyresit-nez-odejdu-trump-si-brousi-zuby-na-dalsi-zemi-moc-casu-ji-nedava/r~aaa29a45e2434eec745bbbec555d284c/",
@@ -69,10 +73,6 @@
     [
       "https://zpravy.aktualne.cz/zahranici/dalsi-exploze-v-moskve-tercem-politolog-mel-vazbu-na-proruskeho-prezidenta-janukovyce/r~aaa291fa8118c6df855e49b4c7115db8/",
       "Další exploze v Moskvě. Terčem politolog, měl vazbu na proruského prezidenta Janukovyče"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/v-moskve-vybuchlo-auto-s-byvaly-mluvcim-proruskeho-expremiera-ukrajiny.A261113_102751_zahranicni_bro",
-      "V Moskvě vybuchlo auto s bývalým mluvčím proruského expremiéra Ukrajiny"
     ],
     [
       "https://www.denik.cz/evropa/v-moskve-vybuchlo-auto-byvaleho-mluvciho-ukrajinskeho-premiera/",
@@ -107,10 +107,6 @@
       "Ve Slatiňanech po přepočtu hlasů uspěl lidovec, soud zrušil zvolení kandidáta SNK"
     ],
     [
-      "https://zpravy.aktualne.cz/domaci/zmeny-v-penzich-od-ledna-kdo-si-polepsi-hlavni-juchelkuv-slib-zatim-chybi/r~aaa297d2388bdb2e959fff17d0dfe622/",
-      "Změny v penzích od ledna: Kdo si polepší? Hlavní Juchelkův slib zatím chybí"
-    ],
-    [
       "https://cnn.iprima.cz/volebni-boj-pedra-sancheze-spanelsky-premier-vola-po-zakazu-tiktoku-527020",
       "Volební boj Pedra Sáncheze. Španělský premiér chce odvrátit porážku díky TikToku"
     ],
@@ -121,24 +117,16 @@
     [
       "https://www.denik.cz/evropa/slovjansk-kramatorsk-ukrajina-donbas-pevnostni-mesta/",
       "Pumy, drony, rakety. Rusko drtí města na východě Ukrajiny"
-    ],
-    [
-      "https://cnn.iprima.cz/evropa-bude-u-mirovych-jednani-s-ruskem-oznamili-to-trumpuv-vyslanec-a-zelenskyj-527072",
-      "Evropa bude u mírových jednání s Ruskem. Oznámili to Trumpův zeť a Zelenskyj"
-    ],
-    [
-      "https://www.denik.cz/svet/na-tyto-plaze-se-turiste-jen-tak-nepodivaji-u-pobrezi-se-objevily-ropne-skvrny/",
-      "Na tyto pláže se turisté jen tak nepodívají. U pobřeží se objevily ropné skvrny"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 32,
+    "initial_pending": 29,
     "completed": [],
     "deferred": [],
-    "remaining": 32
+    "remaining": 29
   },
   "samples_seconds": [
     51.274763,
