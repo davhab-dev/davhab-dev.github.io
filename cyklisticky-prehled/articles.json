@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-13T11:24:33.303821+00:00",
+  "updated": "2026-11-13T12:22:29.451801+00:00",
   "articles": [
+    {
+      "title": "'It's looking very promising' – Remco Evenepoel delivers first reaction to favourable Tour de France 2027 route",
+      "summary": "'We need to make a strategy to arrive to those at those TTs as fresh as possible and really drop the hammer big time' says this year's runner-up",
+      "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/its-looking-very-promising-remco-evenepoel-delivers-first-reaction-to-favourable-tour-de-france-2027-route/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-13T12:16:37+00:00"
+    },
     {
       "title": "'The gap between second and first is humongous, and I've crossed that now' – Cameron Mason reflects on his breakthrough victory and that next piece of the puzzle",
       "summary": "Cyclingnews catches up with the Scottish star after taking the long-awaited biggest win of his career at Superprestige Niel",
@@ -27,6 +36,15 @@
       "lang": "EN",
       "category": "Závody",
       "published": "2026-11-13T09:39:20+00:00"
+    },
+    {
+      "title": "Seriál Life Time Grand Prix dál navyšuje odměny. V roce 2027 rozdělí rekordních 800 tisíc dolarů!",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/serial-life-time-grand-prix-dal-navysuje-odmeny-v-roce-2027-rozdeli-rekordnich-800-tisic-dolaru/kategorie/xcm-ostatni-zavody",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-13"
     },
     {
       "title": "Městský cyklokros v Jičíně u Šibeňáku přidal jeden kopec. Pomůže Borošovi k první výhře v českém poháru loupežník Rumcajs?",
@@ -785,15 +803,6 @@
       "published": "2026-11-09"
     },
     {
-      "title": "Prima CUP 2027 přidá čtvrtou trasu. Chce přilákat rodiny, gravelisty i méně zkušené bikery",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/prima-cup-2027-prida-ctvrtou-trasu-chce-prilakat-rodiny-gravelisty-i-mene-zkusene-bikery/kategorie/xcm-ostatni-zavody",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Gravel",
-      "published": "2026-11-09"
-    },
-    {
       "title": "Vrstvení jako základ – jak se obléct na podzim",
       "summary": "",
       "url": "https://www.mtbiker.cz/clanky/132080/vrstveni-jako-zaklad-jak-se-oblect-na-podzim.html",
@@ -836,6 +845,15 @@
       "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Cyklistika",
+      "published": "2026-11-09"
+    },
+    {
+      "title": "Prima CUP 2027 přidá čtvrtou trasu. Chce přilákat rodiny, gravelisty i méně zkušené bikery",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/prima-cup-2027-prida-ctvrtou-trasu-chce-prilakat-rodiny-gravelisty-i-mene-zkusene-bikery/kategorie/xcm-ostatni-zavody",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "Gravel",
       "published": "2026-11-09"
     },
     {
@@ -2934,15 +2952,6 @@
       "lang": "CS",
       "category": "Technika",
       "published": "2025-09-21T12:38:41+00:00"
-    },
-    {
-      "title": "ZpravodajstvíSeriál Life Time Grand Prix dál navyšuje odměny. V roce 2027 rozdělí rekordních 800 tisíc dolarů!",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/serial-life-time-grand-prix-dal-navysuje-odmeny-v-roce-2027-rozdeli-rekordnich-800-tisic-dolaru/kategorie/xcm-ostatni-zavody",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": ""
     },
     {
       "title": "Mason překvapil v Nielu, mistryně světa a Evropy Brand odstoupila se zraněním",
