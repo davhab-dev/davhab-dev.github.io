@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-14T06:41:35.119028+00:00",
+  "updated": "2026-11-14T07:49:59.039752+00:00",
   "articles": [
+    {
+      "title": "I've seen bike wheel sizes come and go, but I'm sold on 32in wheels – and their new rival",
+      "summary": "With 650b, 700c, 29in, 30.5in and 32in wheels all used on gravel bikes, are we spoilt for choice? Or spoilt by choice?",
+      "url": "https://www.bikeradar.com/features/opinion/im-sold-on-32in-wheels-and-their-new-rival",
+      "source": "BikeRadar",
+      "lang": "EN",
+      "category": "Gravel",
+      "published": "2026-11-14T07:00:00+00:00"
+    },
+    {
+      "title": "Italská světová špička v oblékání cyklistů: Alé představuje novou kolekci pro podzim a zimu 2026/27",
+      "summary": "",
+      "url": "https://www.roadcycling.cz/clanek/italska-svetova-spicka-v-oblekani-cyklistu-ale-predstavuje-novou-kolekci-pro-podzim-a-zimu-2026-27",
+      "source": "RoadCycling.cz",
+      "lang": "CS",
+      "category": "Závody",
+      "published": "2026-11-14"
+    },
     {
       "title": "The Le Col Black Friday Sale is live – I built a winter cycling outfit and saved over $435, here's what I picked",
       "summary": "Get geared up for winter riding with some of the best cycling clothing from the Le Col range. With up to 50% off, these deals will keep your winter rides cosy and comfortable at a fraction of the cost",
@@ -905,15 +923,6 @@
       "title": "Red Bull povýšil dva mladé italské sprintery. Magagnotti a Donati už sbírají vítězství mezi profesionály",
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/red-bull-povysil-dva-mlade-italske-sprintery-magagnotti-a-donati-uz-sbiraji-vitezstvi-mezi-profesionaly",
-      "source": "RoadCycling.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": "2026-11-09"
-    },
-    {
-      "title": "Vysokoškolák Seixas se snaží skloubit cyklistiku a studium. A jednou by si rád vyzkoušel závody na kostkách",
-      "summary": "",
-      "url": "https://www.roadcycling.cz/clanek/vysokoskolak-seixas-se-snazi-skloubit-cyklistiku-a-studium-a-jednou-by-si-rad-vyzkousel-zavody-na-kostkach",
       "source": "RoadCycling.cz",
       "lang": "CS",
       "category": "Závody",
@@ -2237,9 +2246,9 @@
       "title": "Garmin launches Edge 1060 bike computer with voice control, alongside new Edge Explore computers and Tacx Nēra smart trainer",
       "summary": "New Edge 1060 heads up trio of new computers and trainer refresh from Garmin",
       "url": "https://www.bikeradar.com/news/garmin-edge-1060-bike-computer",
-      "source": "BikeRadar",
+      "source": "BikeRadar Gravel",
       "lang": "EN",
-      "category": "Technika",
+      "category": "Gravel",
       "published": "2026-10-20T12:03:07+00:00"
     },
     {
@@ -3140,15 +3149,6 @@
       "source": "MTBS.cz",
       "lang": "CS",
       "category": "Závody",
-      "published": ""
-    },
-    {
-      "title": "RAAB FORCE Rohálovská 50ka 2027",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/raab-force-rohalovska-50ka-2026-75428/kategorie/xcm",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
       "published": ""
     }
   ],
