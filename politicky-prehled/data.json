@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-11-14T09:02:43.354994+00:00",
+  "updated_at": "2026-11-14T09:53:32.939463+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Prezident České stomatologické komory Šmucler rezignoval",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-14T10:43:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/prezident-ceske-stomatologicke-komory-smucler-rezignoval/2902015",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Rusko na jednání v Abú Zabí požadovalo stažení NATO do hranic z roku 1997",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-14T10:42:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/rusko-na-jednani-v-abu-zabi-pozadovalo-stazeni-nato-do-hranic-z-roku-1997/2902014",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "UK: Při kybernetickém útoku pachatel plošně neohrozil uživatelské účty",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-14T10:36:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/-uk-pri-kybernetickem-utoku-pachatel-plosne-neohrozil-uzivatelske-ucty/2901579",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Oceněná šéfka Nedoklubka: Rodič patří k inkubátoru, blízkost ovlivňuje vývoj dítěte",
+      "summary": "V Česku se každý rok předčasně narodí zhruba šest tisíc dětí. Jejich rodičům pomáhá už řadu let spolek Nedoklubko. Jeho ředitelka Lucie Žáčková sama ví,…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-14T09:30:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/ocenena-sefka-nedoklubka-rodic-patri-k-inkubatoru-blizkost-ovlivnuje-vyvoj-ditete.A261110_095509_domaci_kkos",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Orbánův exministr zakopal stovky milionů v lesích. Maďarské úřady je vykopaly",
+      "summary": "Maďarské úřady při vyšetřování Miklóse Sesztáka, bývalého ministra ve vládě národně konzervativního premiéra Viktora Orbána, zabavily hotovost ve více měnách, v přepočtu přes 420 milionů…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-14T09:03:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/madarsko-orban-sesztak-korupce-penize-vysetrovani-magyar.A261114_092657_zahranicni_jhr",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "„Hotovost zakopaná v lesích.“ Maďarské úřady při vyšetřování exministra zabavily miliony",
       "summary": "Maďarské úřady při vyšetřování Miklóse Sesztáka, bývalého ministra ve vládě expremiéra Viktora Orbána, zabavily hotovost ve více měnách, v přepočtu přes 420 milionů korun. Část…",
@@ -133,16 +183,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Den, kdy zemře Putin. Experti z USA zveřejnili detailní scénář, co hrozí světu a NATO",
-      "summary": "Analytici z amerického think tanku Rand Corp zveřejnili scénář, ve kterém popisují, co by se dělo, kdyby ruský prezident Vladimir Putin v příštích měsících zemřel.…",
-      "source": "CNN Prima NEWS",
-      "category": "svet",
-      "published_at": "2026-11-14T05:45:09+01:00",
-      "url": "https://cnn.iprima.cz/rusko-scenar-utok-nato-evropa-valka-526993",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Rusové ztrácejí víru v budoucnost, píše server o vyznění nezávislého průzkumu",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -173,8 +213,8 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Celostátní pozastavení odletů ve Spojených státech bylo zrušeno",
-      "summary": "Americký Federální úřad pro letectví (FAA) v sobotu přibližně ve 2:15 SEČ zrušil celostátní pozastavení odletů, informuje agentura Reuters. Opatření úřad zavedl v pátek kolem…",
+      "title": "Letecká doprava v USA se po celostátním přerušení provozu postupně obnovuje",
+      "summary": "Letecká doprava ve Spojených státech amerických se po celostátním přerušení provozu postupně obnovuje. Více než čtyřhodinové přerušení bylo nejdelší od teroristických útoků z 11. září…",
       "source": "ČT24",
       "category": "svet",
       "published_at": "2026-11-13T21:25:39+00:00",
@@ -183,12 +223,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Konečně dohoda, radoval se Babiš. Lídři EU v Dublinu vybrali tým vyjednavačů",
-      "summary": "Od našeho zpravodaje v Dublinu – Premiér Andrej Babiš (ANO) v pátek ukončil svou třídenní cestu v Irsku. Na závěr neformálního summitu Evropské rady se…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-13T19:48:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/babis-eu-irsko-dublin-rusko-vyjednavani.A261113_094110_domaci_chtl",
+      "title": "Spojené státy na čtyři hodiny pozastavily všechny lety kvůli výpadku v komunikaci",
+      "summary": "Americký Federální úřad pro letectví (FAA) v pátek odpoledne zastavil odlety ze všech letišť ve Spojených státech. Podle amerického ministra dopravy Seana Duffyho úřad lety…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-13T22:21:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/spojene-staty-pozastavily-vsechny-lety-hlasi-bezpecnostni-incident/r~aaa291d436d5f1a888e809cae716b9e8/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -199,16 +239,6 @@
       "category": "domaci",
       "published_at": "2026-11-13T19:22:55+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/soudy-zasahly-do-vysledku-komunalnich-voleb-v-21-obcich-379606",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Aféra kolem Nvidie otřásá i Bílým domem. Trumpův ministr čelí ostré kritice",
-      "summary": "Skandál kolem bývalého šéfa Nvidie Jensena Huanga přerostl v politickou aféru. Američtí zákonodárci nyní požadují vysvětlení, jak se vyspělé čipy mohly dostávat do Číny i…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-13T19:00:00+00:00",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/afera-kolem-nvidie-otrasa-i-bilym-domem-trumpuv-ministr-celi-ostre-kritice.A261113_121100_eko-zahranicni_jla",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -231,36 +261,6 @@
       "url": "https://www.ceskenoviny.cz/zpravy/babis-bude-v-izraeli-jednat-s-netanjahuem-a-herzogem/2900513",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
-    },
-    {
-      "title": "Bild: Rusko požaduje vystoupení Finska z NATO a Pobaltí bez základen",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-13T15:56:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/bild-rusko-pozaduje-vystoupeni-finska-z-nato-a-pobalti-bez-zakladen/2901743",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Dárek pro Putina letos vybral dosud přes 385 mil. Kč, víc než za celý loňský rok",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-13T13:42:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/darek-pro-putina-letos-vybral-dosud-pres-385-mil-kc-vic-nez-za-cely-lonsky-rok/2901665",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "V Moskvě explodovalo auto, zranění utrpěl mluvčí ukrajinského expremiéra Azarova",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-13T13:41:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/v-moskve-explodovalo-auto-zraneni-utrpel-mluvci-ukrajinskeho-expremiera-azarova/2901663",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
     }
   ],
   "unavailable_sources": [],
@@ -281,7 +281,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 16,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -291,7 +291,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 14,
       "selected": 6,
       "free_articles_checked": 8
     },
@@ -321,9 +321,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
-      "selected": 4,
-      "free_articles_checked": 4
+      "candidates": 8,
+      "selected": 5,
+      "free_articles_checked": 5
     },
     {
       "name": "Deník",
@@ -331,7 +331,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 13,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -343,7 +343,7 @@
       "status": "ok",
       "candidates": 14,
       "selected": 5,
-      "free_articles_checked": 6
+      "free_articles_checked": 7
     },
     {
       "name": "CNN Prima NEWS",
@@ -351,9 +351,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
-      "selected": 3,
-      "free_articles_checked": 3
+      "candidates": 16,
+      "selected": 2,
+      "free_articles_checked": 2
     },
     {
       "name": "E15",
@@ -381,7 +381,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 7,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -391,7 +391,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
+      "candidates": 6,
       "selected": 0,
       "free_articles_checked": 0
     },
