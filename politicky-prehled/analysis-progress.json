@@ -3,8 +3,12 @@
   "current": null,
   "queue": [
     [
-      "https://zpravy.aktualne.cz/zahranici/usa-zjistovaly-zda-by-se-ukrajina-vzdala-donbasu-za-clenstvi-v-nato-uvedl-zelenskyj/r~aaa29635d274befa6707548a28f1a315/",
-      "USA zjišťovaly, zda by se Ukrajina vzdala Donbasu za členství v NATO, uvedl Zelenskyj"
+      "https://ct24.ceskatelevize.cz/clanek/svet/zelenskyj-usa-se-ptaly-ukrajiny-zda-by-se-vzdala-donbasu-za-clenstvi-v-nato-379617",
+      "Zelenskyj: USA se ptaly Ukrajiny, zda by se vzdala Donbasu za členství v NATO"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/rusko-v-abu-dhabi-zopakovalo-tvrde-pozadavky-chce-hranice-nato-z-roku-1997/r~aaa295f7b6890d3b8cd88eeb54d7bbb9/",
+      "Neústupné Rusko v Abú Dhabí zopakovalo, že chce hranice NATO z roku 1997"
     ],
     [
       "https://www.idnes.cz/zpravy/domaci/kyberutok-na-univerzitu-karlovu-podle-skoly-plosne-neohrozil-ucty.A261114_111048_domaci_ichuc",
@@ -28,11 +32,15 @@
     ],
     [
       "https://cnn.iprima.cz/prulom-v-jednani-o-miru-na-ukrajine-zelenskyj-prolomil-tabu-od-usa-zaznel-lakavy-navrh-527173",
-      "Průlom v jednání o míru na Ukrajině? Zelenskyj prolomil tabu, od USA zazněl lákavý návrh"
+      "Zvrat v jednání o míru na Ukrajině? Zelenskyj prolomil tabu, od USA zazněl lákavý návrh"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/prezident-ceske-stomatologicke-komory-roman-smucler-rezignoval-379615",
       "Prezident České stomatologické komory Roman Šmucler rezignoval"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/usa-zjistovaly-zda-by-se-ukrajina-vzdala-donbasu-za-clenstvi-v-nato/2902017",
+      "USA zjišťovaly, zda by se Ukrajina vzdala Donbasu za členství v NATO"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/rusko-na-jednani-v-abu-zabi-pozadovalo-stazeni-nato-do-hranic-z-roku-1997/2902014",
@@ -87,14 +95,6 @@
       "Netanjahu poslal za Trumpem šéfa Mossadu, chce obnovit útoky na Írán"
     ],
     [
-      "https://zpravy.aktualne.cz/zahranici/trump-se-ve-ctvrtek-setka-s-prezidenty-ruska-a-ciny-tematem-budou-jaderne-zbrane/r~aaa297dcd2a1bd2527f047862fd85203/",
-      "Trump se ve čtvrtek setká s prezidenty Ruska a Číny, tématem budou jaderné zbraně"
-    ],
-    [
-      "https://zpravy.aktualne.cz/domaci/spd-poskozuje-koalici-babisuv-poslanec-se-tvrde-oprel-do-okamury-kvuli-bachorce-o-manevrech/r~aaa29610b021050d7e6b7e1b99465e0c/",
-      "„SPD poškozuje koalici.“ Babišův poslanec se tvrdě opřel do Okamury kvůli báchorce o manévrech"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/domaci/ministerstvo-zemedelstvi-planuje-poplatek-za-odvadeni-destovych-vod-379605",
       "Ministerstvo zemědělství plánuje poplatek za odvádění dešťových vod"
     ],
@@ -103,16 +103,16 @@
       "Rusové ztrácejí víru v budoucnost, píše server o vyznění nezávislého průzkumu"
     ],
     [
+      "https://www.ceskenoviny.cz/zpravy/trump-se-ve-ctvrtek-setka-s-prezidenty-ruska-a-ciny/2901941",
+      "Trump se ve čtvrtek setká s prezidenty Ruska a Číny"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/trump-se-ve-ctvrtek-setka-se-si-tin-pchingem-a-putinem-tematem-budou-jaderne-zbrane.A261114_014836_zahranicni_air",
+      "Trump se ve čtvrtek setká se Si Ťin-pchingem a Putinem, tématem budou jaderné zbraně"
+    ],
+    [
       "https://ct24.ceskatelevize.cz/clanek/svet/do-vyletni-lodi-v-new-orleans-narazil-tanker-castecne-se-potopila-379608",
       "Do výletní lodi v New Orleansu narazil tanker, částečně se potopila"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/americky-federalni-urad-pro-letectvi-pozastavil-vsechny-lety-379609",
-      "Letecká doprava v USA se po celostátním přerušení provozu postupně obnovuje"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/soudy-zasahly-do-vysledku-komunalnich-voleb-v-21-obcich-379606",
-      "Soudy zasáhly do výsledků komunálních voleb v 21 obcích"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/krajsky-soud-v-praze-zmenil-vysledek-komunalnich-voleb-v-bykvi-na-melnicku/2901824",
