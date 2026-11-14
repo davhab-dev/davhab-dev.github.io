@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-11-14T19:48:35.271910+00:00",
+  "updated_at": "2026-11-14T20:46:12.569024+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Podle Netanjahua jedině vláda široké koalice může zajistit bezpečnost Izraele",
+      "summary": "Izraelský premiér Benjamin Netanjahu dnes znovu vyzval svého hlavního politického soka Gadiho Eisenkota k sestavení vlády národní jednoty, tedy široké koalice bez účasti arabských stran.…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-14T21:36:53+01:00",
+      "url": "https://www.denik.cz/svet/podle-netanjahua-jedine-vlada-siroke-koalice-muze-zajistit-bezpecnost-izraele/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Schillerová chystá velkou konsolidaci. Částka překvapí, ve hře jsou i další daně",
+      "summary": "Až sto miliard korun. Tak velký konsolidační balíček by podle ministryně financí Aleny Schillerové (ANO) mohla vláda připravit pro rok 2028. Premiér Andrej Babiš (ANO)…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-14T21:22:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/schillerova-chysta-velkou-konsolidaci-castka-prekvapi-ve-hre-jsou-i-dalsi-dane/r~aaa297beef072b1efe68bbf1095f50e2/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Netanjahu znovu vyzval k vládě národní jednoty, chce z ní vyloučit arabské strany",
+      "summary": "Izraelský premiér Benjamin Netanjahu v sobotu znovu vyzval svého hlavního politického soka Gadiho Eisenkota k sestavení vlády národní jednoty, tedy široké koalice bez účasti arabských…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-14T19:52:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/koalice-izrael-netanjahu-volby-parlament-strany.A261114_204427_zahranicni_votr",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Putin nechce jednat o konci války na Ukrajině, uvedl Macron",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
@@ -133,16 +163,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Domácí násilí i zinscenovaná sebevražda. Magyar čelí dvěma trestním oznámením",
-      "summary": "Maďarský premiér Péter Magyar čelí dvěma trestním oznámením kvůli podezření z vydírání a domácího násilí v partnerském vztahu. Podněty k budapešťským vyšetřovacím orgánům podali bývalí…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-14T15:09:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/judit-vargova-obvineni-petera-magyara-psychicke-tyrani.A261113_210550_zahranicni_onbu",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Brněnský Comic Con slaví výročí několika filmů, přijel i herec z Pána prstenů",
       "summary": "Zástupy fanoušků fantasy, sci-fi či asijské mangy v kostýmech i v civilu se v sobotu vydaly na brněnské výstaviště, kde začal festival Comic Con Brno…",
       "source": "iDNES.cz",
@@ -219,16 +239,6 @@
       "category": "domaci",
       "published_at": "2026-11-14T13:19:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/-kupka-ods-musi-projit-zmenami-prostor-dostanou-nove-tvare/2901416",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Neústupné Rusko v Abú Dhabí zopakovalo, že chce hranice NATO z roku 1997",
-      "summary": "Při rozhovorech o ukončení války mezi Ruskem a Ukrajinou v Abú Dhabí z tohoto týdne představili Rusové dokument, v němž mimo jiné žádali, aby Severoatlantická…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-14T12:00:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/rusko-v-abu-dhabi-zopakovalo-tvrde-pozadavky-chce-hranice-nato-z-roku-1997/r~aaa295f7b6890d3b8cd88eeb54d7bbb9/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -321,7 +331,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -331,7 +341,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -351,9 +361,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
-      "selected": 4,
-      "free_articles_checked": 5
+      "candidates": 14,
+      "selected": 5,
+      "free_articles_checked": 6
     },
     {
       "name": "iDNES.cz",
@@ -361,7 +371,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 16,
       "selected": 7,
       "free_articles_checked": 8
     },
@@ -371,7 +381,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 6,
+      "candidates": 7,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -391,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -431,7 +441,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 8,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -441,7 +451,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     }

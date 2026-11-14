@@ -3,6 +3,18 @@
   "current": null,
   "queue": [
     [
+      "https://www.denik.cz/svet/podle-netanjahua-jedine-vlada-siroke-koalice-muze-zajistit-bezpecnost-izraele/",
+      "Podle Netanjahua jedině vláda široké koalice může zajistit bezpečnost Izraele"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/schillerova-chysta-velkou-konsolidaci-castka-prekvapi-ve-hre-jsou-i-dalsi-dane/r~aaa297beef072b1efe68bbf1095f50e2/",
+      "Schillerová chystá velkou konsolidaci. Částka překvapí, ve hře jsou i další daně"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/koalice-izrael-netanjahu-volby-parlament-strany.A261114_204427_zahranicni_votr",
+      "Netanjahu znovu vyzval k vládě národní jednoty, chce z ní vyloučit arabské strany"
+    ],
+    [
       "https://www.ceskenoviny.cz/zpravy/putin-nechce-jednat-o-konci-valky-na-ukrajine-uvedl-macron/2902146",
       "Putin nechce jednat o konci války na Ukrajině, uvedl Macron"
     ],
@@ -55,10 +67,6 @@
       "Maďarské úřady při vyšetřování exministra zabavily miliony. Část byla zakopaná"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/judit-vargova-obvineni-petera-magyara-psychicke-tyrani.A261113_210550_zahranicni_onbu",
-      "Domácí násilí i zinscenovaná sebevražda. Magyar čelí dvěma trestním oznámením"
-    ],
-    [
       "https://www.idnes.cz/brno/zpravy/pan-prstenu-comic-con-brno-filmy-seraly-vyroci-trilogie.A261114_151653_domaci_votr",
       "Brněnský Comic Con slaví výročí několika filmů, přijel i herec z Pána prstenů"
     ],
@@ -91,10 +99,6 @@
       "Kupka: ODS musí projít změnami, prostor dostanou nové tváře"
     ],
     [
-      "https://zpravy.aktualne.cz/zahranici/rusko-v-abu-dhabi-zopakovalo-tvrde-pozadavky-chce-hranice-nato-z-roku-1997/r~aaa295f7b6890d3b8cd88eeb54d7bbb9/",
-      "Neústupné Rusko v Abú Dhabí zopakovalo, že chce hranice NATO z roku 1997"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/domaci/kyberutok-plosne-neohrozil-uzivatelske-ucty-uvedla-univerzita-karlova-379616",
       "Kyberútok plošně neohrozil uživatelské účty, uvedla Univerzita Karlova"
     ],
@@ -119,10 +123,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 28,
+    "initial_pending": 29,
     "completed": [],
     "deferred": [],
-    "remaining": 28
+    "remaining": 29
   },
   "samples_seconds": [
     51.274763,
