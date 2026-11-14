@@ -3,6 +3,14 @@
   "current": null,
   "queue": [
     [
+      "https://zpravy.aktualne.cz/zahranici/trump-se-ve-ctvrtek-setka-s-prezidenty-ruska-a-ciny-tematem-budou-jaderne-zbrane/r~aaa297dcd2a1bd2527f047862fd85203/",
+      "Trump se ve čtvrtek setká s prezidenty Ruska a Číny, tématem budou jaderné zbraně"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/spd-poskozuje-koalici-babisuv-poslanec-se-tvrde-oprel-do-okamury-kvuli-bachorce-o-manevrech/r~aaa29610b021050d7e6b7e1b99465e0c/",
+      "„SPD poškozuje koalici.“ Babišův poslanec se tvrdě opřel do Okamury kvůli báchorce o manévrech"
+    ],
+    [
       "https://cnn.iprima.cz/za-nemanzelsky-sex-sto-ran-bicem-saudska-arabie-stale-uplatnuje-prisne-tresty-526890",
       "Chůvu zbičovali za nemanželský sex. Udala ji nemocnice v Saúdské Arábii, kam přišla těhotná"
     ],
@@ -17,18 +25,6 @@
     [
       "https://www.ceskenoviny.cz/zpravy/rusove-ztraceji-viru-v-budoucnost-pise-server-o-vyzneni-nezavisleho-pruzkumu/2901943",
       "Rusové ztrácejí víru v budoucnost, píše server o vyznění nezávislého průzkumu"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/trump-se-ve-ctvrtek-setka-s-prezidenty-ruska-a-ciny/2901941",
-      "Trump se ve čtvrtek setká s prezidenty Ruska a Číny"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/trump-se-ve-ctvrtek-setka-se-si-tin-pchingem-a-putinem-tematem-budou-jaderne-zbrane.A261114_014836_zahranicni_air",
-      "Trump se ve čtvrtek setká se Si Ťin-pchingem a Putinem, tématem budou jaderné zbraně"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/letecky-kolaps-v-usa-faa-vyhlasila-celostatni-stop-kvuli-selhani-radaru-a-komunikace.A261113_222559_zahranicni_remy",
-      "Kolaps v USA: úřady vyhlásily celostátní zákaz letů, selhaly routery"
     ],
     [
       "https://www.idnes.cz/zpravy/zahranicni/drama-v-usa-po-stretu-s-tankerem-se-castecne-potopila-vyletni-lod.A261113_221657_zahranicni_remy",
@@ -51,14 +47,6 @@
       "Spojené státy na čtyři hodiny pozastavily všechny lety kvůli výpadku v komunikaci"
     ],
     [
-      "https://zpravy.aktualne.cz/zahranici/rusove-branili-ropny-terminal-pritom-sestrelili-tri-vlastni-vrtulniky-za-miliardy/r~aaa2930fd9a84bbb84de381226b2d035/",
-      "Rusové bránili ropný terminál, přitom sestřelili tři vlastní vrtulníky za miliardy"
-    ],
-    [
-      "https://zpravy.aktualne.cz/zahranici/polsky-prezident-nawrocki-vetoval-zakon-o-digitalnich-sluzbach-mluvi-o-cenzure/r~aaa29aa3fd2a61f642aba4a18a7d5420/",
-      "Polský prezident Nawrocki vetoval zákon o digitálních službách, mluví o cenzuře"
-    ],
-    [
       "https://www.idnes.cz/zpravy/domaci/babis-eu-irsko-dublin-rusko-vyjednavani.A261113_094110_domaci_chtl",
       "Konečně dohoda, radoval se Babiš. Lídři EU v Dublinu vybrali tým vyjednavačů"
     ],
@@ -71,16 +59,16 @@
       "Polsko bude při jednání Evropy s Ruskem hájit zájmy Česka"
     ],
     [
-      "https://zpravy.aktualne.cz/zahranici/le-penova-je-pripravena-na-setkani-se-zelenskym-nejlepe-v-bruselu/r~aaa29c660252573dc237c02e1bf1e865/",
-      "Le Penová je připravena na setkání se Zelenským, nejlépe v Bruselu"
-    ],
-    [
       "https://www.idnes.cz/ekonomika/zahranicni/afera-kolem-nvidie-otrasa-i-bilym-domem-trumpuv-ministr-celi-ostre-kritice.A261113_121100_eko-zahranicni_jla",
       "Aféra kolem Nvidie otřásá i Bílým domem. Trumpův ministr čelí ostré kritice"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/zena-v-centru-afery-exsefa-nvidie-ovlada-sit-firem-maskujici-jeji-kroky-379599",
       "Žena v centru aféry exšéfa Nvidie ovládá síť firem maskující její kroky"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/eu-ukrajina-jednani-summit-v-dublinu-diplomacie-costa.A261113_184945_zahranicni_onbu",
+      "Evropu při jednáních o Ukrajině zastoupí pět mocností včetně Velké Británie"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/krajsky-soud-v-praze-zmenil-vysledek-komunalnich-voleb-v-bykvi-na-melnicku/2901824",
@@ -95,34 +83,42 @@
       "Vyhořelé Orlí hnízdo dostane nouzovou střechu. Bavoři řeší, co dál"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/svet/evropu-na-jednani-o-ukrajine-zastoupi-tym-nekolika-zemi-oznamil-costa-379607",
-      "Evropu v jednáních o Ukrajině zastoupí tým pěti zemí, oznámil Costa"
+      "https://ct24.ceskatelevize.cz/clanek/svet/usa-ustoupily-rusku-kyvly-na-debatu-o-nove-jalte-379598",
+      "USA ustoupily Rusku, kývly na debatu o „nové Jaltě”"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/sef-izraelskeho-mossadu-jedna-s-trumpovymi-lidmi-o-dalsim-postupu-vuci-iranu/r~aaa293a675e4c92e215b0125574081a6/",
+      "Šéf izraelského Mossadu jedná s Trumpem o Íránu. Izrael tlačí na obnovení války"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/babis-bude-v-izraeli-jednat-s-netanjahuem-a-herzogem/2900513",
       "Babiš bude v Izraeli jednat s Netanjahuem a Herzogem"
     ],
     [
+      "https://www.ceskenoviny.cz/zpravy/bild-rusko-pozaduje-vystoupeni-finska-z-nato-a-pobalti-bez-zakladen/2901743",
+      "Bild: Rusko požaduje vystoupení Finska z NATO a Pobaltí bez základen"
+    ],
+    [
       "https://www.ceskenoviny.cz/zpravy/darek-pro-putina-letos-vybral-dosud-pres-385-mil-kc-vic-nez-za-cely-lonsky-rok/2901665",
       "Dárek pro Putina letos vybral dosud přes 385 mil. Kč, víc než za celý loňský rok"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/vlada-nepocita-se-zakazem-pro-reprezentaci-hrat-proti-rusku/2901636",
-      "Vláda nepočítá se zákazem pro reprezentaci hrát proti Rusku"
+      "https://www.ceskenoviny.cz/zpravy/v-moskve-explodovalo-auto-zraneni-utrpel-mluvci-ukrajinskeho-expremiera-azarova/2901663",
+      "V Moskvě explodovalo auto, zranění utrpěl mluvčí ukrajinského expremiéra Azarova"
     ],
     [
-      "https://denikn.cz/newsletter/2255794/co-vse-vlada-hodla-zmenit-ve-skolnich-jidelnach-sef-firmy-nvidia-huang-po-odhaleni-afery-rezignoval-vicepremier-havlicek-navstivil-ukrajinu/",
-      "R5M: Co vše vláda hodlá změnit ve školních jídelnách | Šéf firmy Nvidia Huang po odhalení aféry rezignoval | Vicepremiér Havlíček navštívil Ukrajinu"
+      "https://www.ceskenoviny.cz/zpravy/vlada-nepocita-se-zakazem-pro-reprezentaci-hrat-proti-rusku/2901636",
+      "Vláda nepočítá se zákazem pro reprezentaci hrát proti Rusku"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 28,
+    "initial_pending": 27,
     "completed": [],
     "deferred": [],
-    "remaining": 28
+    "remaining": 27
   },
   "samples_seconds": [
     51.274763,
