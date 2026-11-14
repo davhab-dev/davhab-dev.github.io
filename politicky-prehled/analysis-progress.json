@@ -103,6 +103,10 @@
       "Kupka: ODS musí projít změnami, prostor dostanou nové tváře"
     ],
     [
+      "https://zpravy.aktualne.cz/domaci/roman-smucler-rezignoval-na-post-prezidenta-stomatologicke-komory/r~aaa29cbe51838710f8f9d3c6ae742597/",
+      "Šéf stomatologické komory Šmucler rezignoval, představenstvo ho chtělo odvolat"
+    ],
+    [
       "https://ct24.ceskatelevize.cz/clanek/domaci/kyberutok-plosne-neohrozil-uzivatelske-ucty-uvedla-univerzita-karlova-379616",
       "Kyberútok plošně neohrozil uživatelské účty, uvedla Univerzita Karlova"
     ],
@@ -123,10 +127,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 29,
+    "initial_pending": 30,
     "completed": [],
     "deferred": [],
-    "remaining": 29
+    "remaining": 30
   },
   "samples_seconds": [
     51.274763,
