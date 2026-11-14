@@ -3,6 +3,18 @@
   "current": null,
   "queue": [
     [
+      "https://ct24.ceskatelevize.cz/clanek/svet/hotovost-zakopana-v-lesich-madarske-urady-pri-vysetrovani-exministra-zabavily-miliony-379614",
+      "„Hotovost zakopaná v lesích.“ Maďarské úřady při vyšetřování exministra zabavily miliony"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/orbanuv-exministr-celi-vysetrovani-urady-zabavily-420-milionu-korun/r~aaa29236e058c99b4fb345e0ad79659d/",
+      "V kauze Orbánova exministra úřady zabavily obří sumu v hotovosti. Část byla zakopaná v lese"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/rusko-valka-budoucnost-pruzkum-nevanda.A261114_083902_zahranicni_jhr",
+      "Poprvé od invaze. Většina Rusů už nevěří ve světlou budoucnost, ukazuje průzkum"
+    ],
+    [
       "https://cnn.iprima.cz/starosta-zada-stav-nouze-kvuli-premnozeni-krav-tisicove-stado-v-severni-makedonii-suzuje-lidi-527162",
       "Tisícovka krav terorizuje město. Starosta v Severní Makedonii chce vyhlásit nouzový stav"
     ],
@@ -55,10 +67,6 @@
       "Po střetu s tankerem se v USA částečně potopila výletní loď plná lidí"
     ],
     [
-      "https://cnn.iprima.cz/rusko-dovazi-z-irska-dulezitou-surovinu-pro-vyrobu-zbrani-dublin-sankce-odmita-527093",
-      "Rusko dováží z Irska důležitou surovinu pro výrobu zbraní. Dublin sankce odmítá"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/svet/do-vyletni-lodi-v-new-orleans-narazil-tanker-castecne-se-potopila-379608",
       "Do výletní lodi v New Orleansu narazil tanker, částečně se potopila"
     ],
@@ -75,20 +83,8 @@
       "Soudy zasáhly do výsledků komunálních voleb v 21 obcích"
     ],
     [
-      "https://www.denik.cz/evropa/polsko-bude-pri-jednani-evropy-s-ruskem-hajit-zajmy-ceska/",
-      "Polsko bude při jednání Evropy s Ruskem hájit zájmy Česka"
-    ],
-    [
       "https://www.idnes.cz/ekonomika/zahranicni/afera-kolem-nvidie-otrasa-i-bilym-domem-trumpuv-ministr-celi-ostre-kritice.A261113_121100_eko-zahranicni_jla",
       "Aféra kolem Nvidie otřásá i Bílým domem. Trumpův ministr čelí ostré kritice"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/zena-v-centru-afery-exsefa-nvidie-ovlada-sit-firem-maskujici-jeji-kroky-379599",
-      "Žena v centru aféry exšéfa Nvidie ovládá síť firem maskující její kroky"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/eu-ukrajina-jednani-summit-v-dublinu-diplomacie-costa.A261113_184945_zahranicni_onbu",
-      "Evropu při jednáních o Ukrajině zastoupí pět mocností včetně Velké Británie"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/krajsky-soud-v-praze-zmenil-vysledek-komunalnich-voleb-v-bykvi-na-melnicku/2901824",
@@ -109,20 +105,16 @@
     [
       "https://www.ceskenoviny.cz/zpravy/v-moskve-explodovalo-auto-zraneni-utrpel-mluvci-ukrajinskeho-expremiera-azarova/2901663",
       "V Moskvě explodovalo auto, zranění utrpěl mluvčí ukrajinského expremiéra Azarova"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/vlada-nepocita-se-zakazem-pro-reprezentaci-hrat-proti-rusku/2901636",
-      "Vláda nepočítá se zákazem pro reprezentaci hrát proti Rusku"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 28,
+    "initial_pending": 26,
     "completed": [],
     "deferred": [],
-    "remaining": 28
+    "remaining": 26
   },
   "samples_seconds": [
     51.274763,
