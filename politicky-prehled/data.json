@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-11-14T03:57:50.827579+00:00",
+  "updated_at": "2026-11-14T04:58:56.468493+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Den, kdy zemře Putin. Experti z USA zveřejnili detailní scénář, co hrozí světu a NATO",
+      "summary": "Analytici z amerického think tanku Rand Corp zveřejnili scénář, ve kterém popisují, co by se dělo, kdyby ruský prezident Vladimir Putin v příštích měsících zemřel.…",
+      "source": "CNN Prima NEWS",
+      "category": "svet",
+      "published_at": "2026-11-14T05:45:09+01:00",
+      "url": "https://cnn.iprima.cz/rusko-scenar-utok-nato-evropa-valka-526993",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Rusové ztrácejí víru v budoucnost, píše server o vyznění nezávislého průzkumu",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-14T03:46:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/rusove-ztraceji-viru-v-budoucnost-pise-server-o-vyzneni-nezavisleho-pruzkumu/2901943",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Trump se ve čtvrtek setká s prezidenty Ruska a Číny",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-14T02:28:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/trump-se-ve-ctvrtek-setka-s-prezidenty-ruska-a-ciny/2901941",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Trump se ve čtvrtek setká se Si Ťin-pchingem a Putinem, tématem budou jaderné zbraně",
       "summary": "Americký prezident Donald Trump se ve čtvrtek na okraj summitu APEC v jihočínském Šen-čenu setká s čínským prezidentem Si Ťin-pchingem a ruským prezidentem Vladimirem Putinem,…",
@@ -153,16 +183,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "EU se shodla, kdo zastoupí Evropu na jednání o Ukrajině, bude to tým, řekl Babiš",
-      "summary": "Zdá se, že je dohodnuto, kdo by měl zastupovat Evropu při vyjednávání o možné mírové dohodě ve válce na Ukrajině, která se pátým rokem brání…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-13T19:07:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/eu-se-shodla-kdo-zastoupi-evropu-na-jednani-o-ukrajine-bude-to-tym-rekl-babis/r~aaa29c3247c19ed6862d26283001e4eb/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Krajský soud v Praze změnil výsledek komunálních voleb v Býkvi na Mělnicku",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -243,32 +263,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "V Moskvě explodovalo auto, zranění utrpěl mluvčí ukrajinského expremiéra Azarova",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-13T13:41:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/v-moskve-explodovalo-auto-zraneni-utrpel-mluvci-ukrajinskeho-expremiera-azarova/2901663",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Vláda nepočítá se zákazem pro reprezentaci hrát proti Rusku",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
       "category": "domaci",
       "published_at": "2026-11-13T13:01:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/vlada-nepocita-se-zakazem-pro-reprezentaci-hrat-proti-rusku/2901636",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Tři čeští europoslanci se dostali do sporů s Čínou, jde o Tchaj-wan i propagandu",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-13T12:47:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/tri-cesti-europoslanci-se-dostali-do-sporu-s-cinou-jde-o-tchaj-wan-i-propagandu/2901624",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -301,7 +301,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 21,
+      "candidates": 20,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -311,7 +311,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 18,
+      "candidates": 19,
       "selected": 7,
       "free_articles_checked": 8
     },
@@ -321,7 +321,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -341,9 +341,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
-      "selected": 5,
-      "free_articles_checked": 6
+      "candidates": 9,
+      "selected": 4,
+      "free_articles_checked": 4
     },
     {
       "name": "Deník",
@@ -372,8 +372,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 12,
-      "selected": 1,
-      "free_articles_checked": 1
+      "selected": 2,
+      "free_articles_checked": 2
     },
     {
       "name": "E15",
@@ -391,7 +391,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     },
