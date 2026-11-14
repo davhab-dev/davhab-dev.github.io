@@ -1,14 +1,54 @@
 {
-  "updated_at": "2026-11-14T11:47:06.128707+00:00",
+  "updated_at": "2026-11-14T12:57:55.428648+00:00",
   "window_hours": 24,
   "articles": [
     {
-      "title": "Zelenskyj: USA se ptaly Ukrajiny, zda by se vzdala Donbasu za členství v NATO",
-      "summary": "Spojené státy se tento týden při rozhovorech o ukončení rusko-ukrajinské války dotazovaly zástupců vlády v Kyjevě, zda by byli ochotní vzdát se Donbasu výměnou za…",
-      "source": "ČT24",
+      "title": "Devět zemí včetně Česka vyzývá EU k úpravě pravidel pro slučování rodin uprchlíků",
+      "summary": "Česká republika a osm dalších zemí požadují od Evropské unie nová, přísnější pravidla pro slučování rodin uprchlíků. Ve společném dopise Evropské komisi (EK) argumentují mimo…",
+      "source": "Aktuálně.cz",
       "category": "svet",
-      "published_at": "2026-11-14T11:33:02+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/zelenskyj-usa-se-ptaly-ukrajiny-zda-by-se-vzdala-donbasu-za-clenstvi-v-nato-379617",
+      "published_at": "2026-11-14T13:54:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/devet-zemi-vcetne-ceska-vyzyva-eu-k-uprave-pravidel-pro-slucovani-rodin-uprchliku/r~aaa299006a8273bc9edac39a5ed3d4e4/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Zelenskyj: USA zjišťovaly, zda by se Ukrajina vzdala Donbasu za členství v NATO",
+      "summary": "Spojené státy se tento týden při rozhovorech o ukončení rusko-ukrajinské války dotazovaly ukrajinské strany, zda by se Kyjev byl ochoten vzdát Donbasu výměnou za členství…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-14T13:35:00+01:00",
+      "url": "https://www.denik.cz/evropa/zelenskyj-usa-zjistovaly-zda-by-se-ukrajina-vzdala-donbasu-za-clenstvi-v-nato/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "„ODS se musí změnit.“ Kupka dá prostor novým tvářím i programu, sám ale zůstává",
+      "summary": "Občanská demokratická strana musí podle předsedy Martina Kupky projít změnami. Páteční předsednictvo se shodlo na konkrétních krocích, nesouhlasí ale se svoláním mimořádného volebního kongresu, který…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-14T12:21:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/ods-zmena-program-snem-martin-kupka-preference-tvare.A261114_125216_domaci_ikro",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Kupka: ODS musí projít změnami, prostor dostanou nové tváře",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-14T13:19:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/-kupka-ods-musi-projit-zmenami-prostor-dostanou-nove-tvare/2901416",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "MO: Cvičení v Polsku se stejně jako ČR neúčastní většina koalice ochotných",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-14T12:31:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/mo-cviceni-v-polsku-se-stejne-jako-cr-neucastni-vetsina-koalice-ochotnych/2902041",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -89,16 +129,6 @@
       "category": "domaci",
       "published_at": "2026-11-14T09:55:59+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/prezident-ceske-stomatologicke-komory-roman-smucler-rezignoval-379615",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "USA zjišťovaly, zda by se Ukrajina vzdala Donbasu za členství v NATO",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-14T10:50:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/usa-zjistovaly-zda-by-se-ukrajina-vzdala-donbasu-za-clenstvi-v-nato/2902017",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -203,16 +233,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "„Války už mají plné zuby,“ říká sociolog. Průzkum ukázal, co si většina Rusů přeje",
-      "summary": "Válka proti Ukrajině, trvající skoro pět let, připravila Rusy o víru ve světlou budoucnost. V průzkumu nezávislého sociologického střediska Levada více než polovina dotázaných, 52…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-14T08:09:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/valky-uz-maji-plne-zuby-rika-sociolog-pruzkum-ukazal-co-si-vetsina-rusu-preje/r~aaa29976962bf4f73c1e6f7b01113434/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Na jihu USA se srazil tanker s výletní lodí. Desítky lidí skončily v nemocnici",
       "summary": "Ve městě New Orleans na jihu USA se v pátek 13. listopadu srazil tanker s výletní lodí, na jejíž palubě bylo 129 cestujících. Loď se…",
       "source": "Deník",
@@ -253,26 +273,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Trump se ve čtvrtek setká s prezidenty Ruska a Číny",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-14T02:28:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/trump-se-ve-ctvrtek-setka-s-prezidenty-ruska-a-ciny/2901941",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Trump se ve čtvrtek setká se Si Ťin-pchingem a Putinem, tématem budou jaderné zbraně",
-      "summary": "Americký prezident Donald Trump se ve čtvrtek setká s prezidenty Číny a Ruska Si Ťin-pchingem a Vladimirem Putinem. Podle agentury Reuters to uvedla mluvčí Bílého…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-14T01:28:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/trump-se-ve-ctvrtek-setka-se-si-tin-pchingem-a-putinem-tematem-budou-jaderne-zbrane.A261114_014836_zahranicni_air",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Do výletní lodi v New Orleansu narazil tanker, částečně se potopila",
       "summary": "V americkém New Orleansu se v pátek srazil tanker s výletní lodí, na jejíž palubě bylo 129 cestujících. Loď se po srážce částečně potopila, informuje…",
       "source": "ČT24",
@@ -283,12 +283,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Krajský soud v Praze změnil výsledek komunálních voleb v Býkvi na Mělnicku",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-13T19:03:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/krajsky-soud-v-praze-zmenil-vysledek-komunalnich-voleb-v-bykvi-na-melnicku/2901824",
+      "title": "Letecká doprava v USA se po přerušení provozu postupně obnovuje",
+      "summary": "Letecká doprava ve Spojených státech amerických se po celostátním přerušení provozu postupně obnovuje. Více než čtyřhodinové přerušení bylo nejdelší od teroristických útoků z 11. září…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-13T21:25:39+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/americky-federalni-urad-pro-letectvi-pozastavil-vsechny-lety-379609",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     }
@@ -301,7 +301,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 16,
       "selected": 7,
       "free_articles_checked": 8
     },
@@ -311,7 +311,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 18,
+      "candidates": 17,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -321,8 +321,8 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 13,
-      "selected": 6,
+      "candidates": 12,
+      "selected": 5,
       "free_articles_checked": 8
     },
     {
@@ -331,7 +331,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -362,8 +362,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 14,
-      "selected": 1,
-      "free_articles_checked": 1
+      "selected": 2,
+      "free_articles_checked": 2
     },
     {
       "name": "iDNES.cz",
@@ -371,7 +371,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 12,
       "selected": 7,
       "free_articles_checked": 8
     },
@@ -381,7 +381,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 14,
       "selected": 2,
       "free_articles_checked": 2
     },
@@ -391,7 +391,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 4,
+      "candidates": 3,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -411,7 +411,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 6,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -451,7 +451,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 17,
       "selected": 0,
       "free_articles_checked": 0
     }

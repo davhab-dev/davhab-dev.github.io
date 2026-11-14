@@ -3,8 +3,24 @@
   "current": null,
   "queue": [
     [
-      "https://ct24.ceskatelevize.cz/clanek/svet/zelenskyj-usa-se-ptaly-ukrajiny-zda-by-se-vzdala-donbasu-za-clenstvi-v-nato-379617",
-      "Zelenskyj: USA se ptaly Ukrajiny, zda by se vzdala Donbasu za členství v NATO"
+      "https://zpravy.aktualne.cz/zahranici/devet-zemi-vcetne-ceska-vyzyva-eu-k-uprave-pravidel-pro-slucovani-rodin-uprchliku/r~aaa299006a8273bc9edac39a5ed3d4e4/",
+      "Devět zemí včetně Česka vyzývá EU k úpravě pravidel pro slučování rodin uprchlíků"
+    ],
+    [
+      "https://www.denik.cz/evropa/zelenskyj-usa-zjistovaly-zda-by-se-ukrajina-vzdala-donbasu-za-clenstvi-v-nato/",
+      "Zelenskyj: USA zjišťovaly, zda by se Ukrajina vzdala Donbasu za členství v NATO"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/ods-zmena-program-snem-martin-kupka-preference-tvare.A261114_125216_domaci_ikro",
+      "„ODS se musí změnit.“ Kupka dá prostor novým tvářím i programu, sám ale zůstává"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/-kupka-ods-musi-projit-zmenami-prostor-dostanou-nove-tvare/2901416",
+      "Kupka: ODS musí projít změnami, prostor dostanou nové tváře"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/mo-cviceni-v-polsku-se-stejne-jako-cr-neucastni-vetsina-koalice-ochotnych/2902041",
+      "MO: Cvičení v Polsku se stejně jako ČR neúčastní většina koalice ochotných"
     ],
     [
       "https://zpravy.aktualne.cz/zahranici/rusko-v-abu-dhabi-zopakovalo-tvrde-pozadavky-chce-hranice-nato-z-roku-1997/r~aaa295f7b6890d3b8cd88eeb54d7bbb9/",
@@ -37,10 +53,6 @@
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/prezident-ceske-stomatologicke-komory-roman-smucler-rezignoval-379615",
       "Prezident České stomatologické komory Roman Šmucler rezignoval"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/usa-zjistovaly-zda-by-se-ukrajina-vzdala-donbasu-za-clenstvi-v-nato/2902017",
-      "USA zjišťovaly, zda by se Ukrajina vzdala Donbasu za členství v NATO"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/rusko-na-jednani-v-abu-zabi-pozadovalo-stazeni-nato-do-hranic-z-roku-1997/2902014",
@@ -83,10 +95,6 @@
       "Microsoft obnovil všechny své služby"
     ],
     [
-      "https://zpravy.aktualne.cz/zahranici/valky-uz-maji-plne-zuby-rika-sociolog-pruzkum-ukazal-co-si-vetsina-rusu-preje/r~aaa29976962bf4f73c1e6f7b01113434/",
-      "„Války už mají plné zuby,“ říká sociolog. Průzkum ukázal, co si většina Rusů přeje"
-    ],
-    [
       "https://www.denik.cz/svet/v-new-orleans-se-srazil-tanker-s-vyletni-lodi-na-30-lidi-bylo-hospitalizovano/",
       "Na jihu USA se srazil tanker s výletní lodí. Desítky lidí skončily v nemocnici"
     ],
@@ -103,20 +111,12 @@
       "Rusové ztrácejí víru v budoucnost, píše server o vyznění nezávislého průzkumu"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/trump-se-ve-ctvrtek-setka-s-prezidenty-ruska-a-ciny/2901941",
-      "Trump se ve čtvrtek setká s prezidenty Ruska a Číny"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/trump-se-ve-ctvrtek-setka-se-si-tin-pchingem-a-putinem-tematem-budou-jaderne-zbrane.A261114_014836_zahranicni_air",
-      "Trump se ve čtvrtek setká se Si Ťin-pchingem a Putinem, tématem budou jaderné zbraně"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/svet/do-vyletni-lodi-v-new-orleans-narazil-tanker-castecne-se-potopila-379608",
       "Do výletní lodi v New Orleansu narazil tanker, částečně se potopila"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/krajsky-soud-v-praze-zmenil-vysledek-komunalnich-voleb-v-bykvi-na-melnicku/2901824",
-      "Krajský soud v Praze změnil výsledek komunálních voleb v Býkvi na Mělnicku"
+      "https://ct24.ceskatelevize.cz/clanek/svet/americky-federalni-urad-pro-letectvi-pozastavil-vsechny-lety-379609",
+      "Letecká doprava v USA se po přerušení provozu postupně obnovuje"
     ]
   ],
   "needs_sources": [],
