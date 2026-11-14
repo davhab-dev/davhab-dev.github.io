@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-11-14T13:57:12.141097+00:00",
+  "updated_at": "2026-11-14T14:50:10.668893+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Příchod zimy zhoršuje situaci v Gaze. Obnova zničeného území zůstává omezená",
+      "summary": "Pásmo Gazy vstupuje do další zimy s rozsáhlými válečnými škodami a nedostatkem humanitární pomoci. První silné deště zaplavily provizorní stanové tábory, zatímco rozsáhlejší rekonstrukce zničeného…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-14T14:31:55+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/prichod-zimy-zhorsuje-situaci-v-gaze-obnova-zniceneho-uzemi-zustava-omezena-379610",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "V Hormuzském průlivu začaly po nárazu na miny hořet tři tankery, uvedl Írán",
+      "summary": "V Hormuzském průlivu začaly hořet tři tankery, když narazily na námořní miny. S odkazem na ozbrojené složky to v sobotu uvedla íránská státní média.",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-14T14:02:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/hormuzsky-pruliv-iran-valka-tanker-mina-plamen-usa.A261114_143836_zahranicni_votr",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Poláci jsou důležití. Babiš i Rakušan oceňují složení evropského týmu pro Ukrajinu",
       "summary": "Premiér Andrej Babiš (ANO) oceňuje, že se Evropská rada dohodla a bude součástí mezinárodních jednání o Ukrajině. Zastoupení zemí má za vyvážené a považuje za…",
@@ -251,16 +271,6 @@
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/do-vyletni-lodi-v-new-orleans-narazil-tanker-castecne-se-potopila-379608",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
-    },
-    {
-      "title": "Letecká doprava v USA se po přerušení provozu postupně obnovuje",
-      "summary": "Letecká doprava ve Spojených státech amerických se po celostátním přerušení provozu postupně obnovuje. Více než čtyřhodinové přerušení bylo nejdelší od teroristických útoků z 11. září…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-13T21:25:39+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/americky-federalni-urad-pro-letectvi-pozastavil-vsechny-lety-379609",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
     }
   ],
   "unavailable_sources": [],
@@ -271,7 +281,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 15,
       "selected": 7,
       "free_articles_checked": 8
     },
@@ -301,7 +311,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -311,7 +321,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -321,7 +331,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 9,
       "selected": 6,
       "free_articles_checked": 7
     },
@@ -331,7 +341,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 13,
       "selected": 2,
       "free_articles_checked": 2
     },
@@ -341,9 +351,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
-      "selected": 5,
-      "free_articles_checked": 7
+      "candidates": 14,
+      "selected": 6,
+      "free_articles_checked": 6
     },
     {
       "name": "CNN Prima NEWS",
@@ -351,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 10,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -371,7 +381,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -381,7 +391,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 6,
+      "candidates": 5,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -391,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 4,
+      "candidates": 3,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -421,7 +431,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 16,
       "selected": 0,
       "free_articles_checked": 0
     }

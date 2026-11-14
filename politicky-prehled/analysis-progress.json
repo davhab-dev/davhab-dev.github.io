@@ -3,6 +3,14 @@
   "current": null,
   "queue": [
     [
+      "https://ct24.ceskatelevize.cz/clanek/svet/prichod-zimy-zhorsuje-situaci-v-gaze-obnova-zniceneho-uzemi-zustava-omezena-379610",
+      "Příchod zimy zhoršuje situaci v Gaze. Obnova zničeného území zůstává omezená"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/hormuzsky-pruliv-iran-valka-tanker-mina-plamen-usa.A261114_143836_zahranicni_votr",
+      "V Hormuzském průlivu začaly po nárazu na miny hořet tři tankery, uvedl Írán"
+    ],
+    [
       "https://zpravy.aktualne.cz/domaci/evropa-urcila-vyjednavaci-tym-pro-ukrajinu-babis-ocenuje-roli-polska/r~aaa29377e16833177eb1389f1ae5a83d/",
       "Poláci jsou důležití. Babiš i Rakušan oceňují složení evropského týmu pro Ukrajinu"
     ],
@@ -101,20 +109,16 @@
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/do-vyletni-lodi-v-new-orleans-narazil-tanker-castecne-se-potopila-379608",
       "Do výletní lodi v New Orleansu narazil tanker, částečně se potopila"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/americky-federalni-urad-pro-letectvi-pozastavil-vsechny-lety-379609",
-      "Letecká doprava v USA se po přerušení provozu postupně obnovuje"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 26,
+    "initial_pending": 27,
     "completed": [],
     "deferred": [],
-    "remaining": 26
+    "remaining": 27
   },
   "samples_seconds": [
     51.274763,
