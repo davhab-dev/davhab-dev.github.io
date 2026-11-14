@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T10:29:47.573087+00:00",
+  "updated": "2026-11-14T11:25:21.491493+00:00",
   "articles": [
     {
       "title": "I've seen bike wheel sizes come and go, but I'm sold on 32in wheels – and their new rival",
@@ -573,6 +573,15 @@
       "summary": "",
       "url": "https://mtbs.cz/clanek/lynskey-uspesne-bojuje-o-preziti-v-poslednich-mesicich-hlasi-kladne-hospodarske-vysledky/kategorie/servis",
       "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-11"
+    },
+    {
+      "title": "Zjisti, jaký potřebuješ olej nebo vosk - já se ptám a ty odpovídáš",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132090/zjisti-jaky-potrebujes-olej-nebo-vosk-ja-se-ptam-a-ty-odpovidas.html",
+      "source": "MTBIKER.cz",
       "lang": "CS",
       "category": "MTB",
       "published": "2026-11-11"
@@ -3071,15 +3080,6 @@
       "published": ""
     },
     {
-      "title": "Velký TEST kotoučových brzd: Díl první - Trocha teorie",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/velky-test-kotoucovych-brzd-dil-prvni-trocha-teorie/kategorie/doplnky",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Technika",
-      "published": ""
-    },
-    {
       "title": "TEST: Canyon Grail CF SLX 7 Di2: Závodní aero raketa",
       "summary": "",
       "url": "https://mtbs.cz/clanek/test-canyon-grail-cf-slx-7-di2-zavodni-aero-raketa/kategorie/testy-recenze",
@@ -3134,21 +3134,21 @@
       "published": ""
     },
     {
-      "title": "Babinského bloudění 2026",
+      "title": "Pidcock vyměnil kolo za Porsche. Na Nürburgringu ukázal talent, který ohromil i profesionály",
       "summary": "",
-      "url": "https://mtbs.cz/clanek/babinskeho-bloudeni-2026-75927/kategorie/mtbo",
+      "url": "https://mtbs.cz/clanek/pidcock-vymenil-kolo-za-porsche-na-nurburgringu-ukazal-talent-ktery-ohromil-i-profesionaly/kategorie/clanky-ostatni",
       "source": "MTBS.cz",
       "lang": "CS",
       "category": "MTB",
       "published": ""
     },
     {
-      "title": "Žabácký cyklokros - Memoriál Rudolfa Bartoše",
+      "title": "Babinského bloudění 2026",
       "summary": "",
-      "url": "https://mtbs.cz/clanek/zabacky-cyklokros-memorial-rudolfa-bartose-75928/kategorie/cyklokros",
+      "url": "https://mtbs.cz/clanek/babinskeho-bloudeni-2026-75927/kategorie/mtbo",
       "source": "MTBS.cz",
       "lang": "CS",
-      "category": "Závody",
+      "category": "MTB",
       "published": ""
     }
   ],
