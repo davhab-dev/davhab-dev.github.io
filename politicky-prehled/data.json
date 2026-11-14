@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-11-14T17:44:07.338108+00:00",
+  "updated_at": "2026-11-14T18:51:20.415660+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Špatné školní jídelny se teď už nezmění, kritizují odborníci rozhodnutí ministrů",
+      "summary": "Rozhodnutí vlády zrušit závazné výživové normy ve vyhlášce o školním stravování a nechat je na dobrovolnosti školních jídelen vyvolalo poprask. Odborníci na výživu a zdraví…",
+      "source": "Deník",
+      "category": "domaci",
+      "published_at": "2026-11-14T19:00:00+01:00",
+      "url": "https://www.denik.cz/cesko/vlada-vyhlaska-skolni-stravovani-skolni-jidelna-kritika/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Letový provoz v USA se podle úřadu pro letectví vrátí k normálu asi v neděli",
+      "summary": "Páteční celostátní přerušení letového provozu ve Spojených státech mohla způsobit pracovní činnost dodavatele Federálního úřadu pro letectví (FAA), který měděnou kabeláž nahrazoval kabeláží optickou. Vyplývá…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-14T18:48:57+01:00",
+      "url": "https://www.denik.cz/svet/letovy-provoz-v-usa-se-podle-uradu-pro-letectvi-vrati-k-normalu-asi-v-nedeli/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Trojstranné summitové divadlo. Proč se Siovi na něm poměřovat příliš nechce",
       "summary": "Nadcházející fórum Asijsko-pacifické hospodářské spolupráce (APEC) v čínském Šen-čenu by mohlo přinést diplomatickou událost první kategorie. Americký prezident Donald Trump a ruský vůdce Vladimir Putin…",
@@ -253,16 +273,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Na jihu USA se srazil tanker s výletní lodí. Desítky lidí skončily v nemocnici",
-      "summary": "Ve městě New Orleans na jihu USA se v pátek 13. listopadu srazil tanker s výletní lodí, na jejíž palubě bylo 129 cestujících. Loď se…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-14T08:06:52+01:00",
-      "url": "https://www.denik.cz/svet/v-new-orleans-se-srazil-tanker-s-vyletni-lodi-na-30-lidi-bylo-hospitalizovano/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Ministerstvo zemědělství plánuje poplatek za odvádění dešťových vod",
       "summary": "Stovky až tisíce korun ročně by mohly domácnosti zaplatit za srážkovou vodu, pokud ji nechají odtéct do kanalizace. Záměr ministerstva zemědělství je nyní v meziresortním…",
       "source": "ČT24",
@@ -281,7 +291,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 11,
       "selected": 6,
       "free_articles_checked": 8
     },
@@ -291,7 +301,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 21,
+      "candidates": 19,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -301,7 +311,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 10,
       "selected": 5,
       "free_articles_checked": 8
     },
@@ -311,7 +321,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -321,7 +331,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -341,9 +351,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
-      "selected": 3,
-      "free_articles_checked": 3
+      "candidates": 14,
+      "selected": 4,
+      "free_articles_checked": 4
     },
     {
       "name": "iDNES.cz",
@@ -351,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 16,
       "selected": 6,
       "free_articles_checked": 8
     },
@@ -361,7 +371,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 7,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -381,7 +391,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 11,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -431,7 +441,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     }
