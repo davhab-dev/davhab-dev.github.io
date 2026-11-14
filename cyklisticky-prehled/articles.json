@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-14T17:59:00.293887+00:00",
+  "updated": "2026-11-14T19:13:52.521250+00:00",
   "articles": [
+    {
+      "title": "Michael Vanthourenhout back on rollers after crashing out of Superprestige Merksplas",
+      "summary": "Belgian dropped to sixth overall and ‘can now forget the classification’ - video",
+      "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/michael-vanthourenhout-back-on-rollers-after-crashing-out-of-superprestige-merksplas/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-14T18:01:25+00:00"
+    },
     {
       "title": "‘I’m excited to be part of that story’ - Florian Sénéchal joins Unibet Rose Rockets",
       "summary": "Friend Philippe Gilbert encouraged the move to the French-registered team",
@@ -618,6 +627,15 @@
       "summary": "",
       "url": "https://mtbs.cz/clanek/lynskey-uspesne-bojuje-o-preziti-v-poslednich-mesicich-hlasi-kladne-hospodarske-vysledky/kategorie/servis",
       "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-11"
+    },
+    {
+      "title": "Zjisti, jaký potřebuješ olej nebo vosk - já se ptám a ty odpovídáš",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132090/zjisti-jaky-potrebujes-olej-nebo-vosk-ja-se-ptam-a-ty-odpovidas.html",
+      "source": "MTBIKER.cz",
       "lang": "CS",
       "category": "MTB",
       "published": "2026-11-11"
@@ -3131,24 +3149,6 @@
       "source": "MTBS.cz",
       "lang": "CS",
       "category": "Technika",
-      "published": ""
-    },
-    {
-      "title": "Reserve představuje karbonová 32\" kola. Nový rozměr nabírá na obrátkách",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/reserve-predstavuje-karbonova-32-kola-novy-rozmer-nabira-na-obratkach/kategorie/doplnky",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": ""
-    },
-    {
-      "title": "TEST pedálů Wolf Tooth CTRL - v čem předčí Shimano SPD?",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/test-pedalu-wolf-tooth-ctrl-v-cem-predci-shimano-spd/kategorie/testy-recenze",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
       "published": ""
     }
   ],
