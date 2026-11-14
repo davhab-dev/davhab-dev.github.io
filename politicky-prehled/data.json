@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-13T23:47:43.236597+00:00",
+  "updated_at": "2026-11-14T01:08:43.469406+00:00",
   "window_hours": 24,
   "articles": [
     {
-      "title": "Kolaps v USA: úřady vyhlásily celostátní zákaz letů, selhala komunikace",
+      "title": "Kolaps v USA: úřady vyhlásily celostátní zákaz letů, selhaly routery",
       "summary": "Americký Federální úřad pro letectví (FAA) vyhlásil celonárodní pozastavení letů s tím, že důvodem jsou mimořádné okolnosti a bezpečnostní důvody. Ministr dopravy Sean Duffy rozhodnutí…",
       "source": "iDNES.cz",
       "category": "svet",
-      "published_at": "2026-11-13T23:41:00+00:00",
+      "published_at": "2026-11-13T23:58:00+00:00",
       "url": "https://www.idnes.cz/zpravy/zahranicni/letecky-kolaps-v-usa-faa-vyhlasila-celostatni-stop-kvuli-selhani-radaru-a-komunikace.A261113_222559_zahranicni_remy",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
@@ -43,7 +43,7 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Kvůli výpadku komunikace se v USA zastavily odlety na všech letištích",
+      "title": "Kvůli výpadku komunikace americký letecký úřad zastavil odlety po celých USA",
       "summary": "Americký Federální úřad pro letectví (FAA) v pátek kolem 22:00 SEČ pozastavil všechny odlety z amerických letišť kvůli problémům s komunikací, které zasáhly všechna oblastní…",
       "source": "ČT24",
       "category": "svet",
@@ -301,7 +301,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 20,
+      "candidates": 21,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -321,7 +321,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -371,7 +371,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 12,
       "selected": 1,
       "free_articles_checked": 1
     },
