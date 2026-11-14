@@ -3,6 +3,18 @@
   "current": null,
   "queue": [
     [
+      "https://www.denik.cz/evropa/madarske-urady-pri-vysetrovani-exministra-zabavily-miliony-cast-byla-zakopana/",
+      "Maďarské úřady při vyšetřování exministra zabavily miliony. Část byla zakopaná"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/judit-vargova-obvineni-petera-magyara-psychicke-tyrani.A261113_210550_zahranicni_onbu",
+      "Domácí násilí i zinscenovaná sebevražda. Magyar čelí dvěma trestním oznámením"
+    ],
+    [
+      "https://www.idnes.cz/brno/zpravy/pan-prstenu-comic-con-brno-filmy-seraly-vyroci-trilogie.A261114_151653_domaci_votr",
+      "Brněnský Comic Con slaví výročí několika filmů, přijel i herec z Pána prstenů"
+    ],
+    [
       "https://ct24.ceskatelevize.cz/clanek/svet/prichod-zimy-zhorsuje-situaci-v-gaze-obnova-zniceneho-uzemi-zustava-omezena-379610",
       "Příchod zimy zhoršuje situaci v Gaze. Obnova zničeného území zůstává omezená"
     ],
@@ -39,10 +51,6 @@
       "Zelenskyj: USA zjišťovaly, zda by se Ukrajina vzdala Donbasu za členství v NATO"
     ],
     [
-      "https://www.idnes.cz/zpravy/domaci/ods-zmena-program-snem-martin-kupka-preference-tvare.A261114_125216_domaci_ikro",
-      "„ODS se musí změnit.“ Kupka dá prostor novým tvářím i programu, sám ale zůstává"
-    ],
-    [
       "https://www.ceskenoviny.cz/zpravy/-kupka-ods-musi-projit-zmenami-prostor-dostanou-nove-tvare/2901416",
       "Kupka: ODS musí projít změnami, prostor dostanou nové tváře"
     ],
@@ -55,16 +63,8 @@
       "Neústupné Rusko v Abú Dhabí zopakovalo, že chce hranice NATO z roku 1997"
     ],
     [
-      "https://www.idnes.cz/zpravy/domaci/kyberutok-na-univerzitu-karlovu-podle-skoly-plosne-neohrozil-ucty.A261114_111048_domaci_ichuc",
-      "Kyberútok na Univerzitu Karlovu plošně neohrozil účty, tvrdí škola"
-    ],
-    [
       "https://zpravy.aktualne.cz/domaci/vojaci-vladniho-vojska-meli-slouzit-nemcum-v-italii-presli-k-partyzanum/r~aaa292681f9640a1815ca03887334da4/",
       "Vojáci vládního vojska měli sloužit Němcům. V Itálii přešli k partyzánům"
-    ],
-    [
-      "https://zpravy.aktualne.cz/domaci/roman-smucler-rezignoval-na-post-prezidenta-stomatologicke-komory/r~aaa29cbe51838710f8f9d3c6ae742597/",
-      "Šéf stomatologické komory Šmucler rezignoval, představenstvo ho chtělo odvolat"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/kyberutok-plosne-neohrozil-uzivatelske-ucty-uvedla-univerzita-karlova-379616",
@@ -85,10 +85,6 @@
     [
       "https://www.ceskenoviny.cz/zpravy/-uk-pri-kybernetickem-utoku-pachatel-plosne-neohrozil-uzivatelske-ucty/2901579",
       "UK: Při kybernetickém útoku pachatel plošně neohrozil uživatelské účty"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/hotovost-zakopana-v-lesich-madarske-urady-pri-vysetrovani-exministra-zabavily-miliony-379614",
-      "„Hotovost zakopaná v lesích.“ Maďarské úřady při vyšetřování exministra zabavily miliony"
     ],
     [
       "https://denikn.cz/newsletter/2257160/data-ukazuji-jakemu-tlaku-bude-babis-celit-pri-protestech-stovek-tisic-lidi-univerzita-karlova-resi-kyberneticky-utok-evropu-zastoupi-na-jednanich-o-ukrajine-pet-zemi/",
@@ -115,10 +111,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 27,
+    "initial_pending": 26,
     "completed": [],
     "deferred": [],
-    "remaining": 27
+    "remaining": 26
   },
   "samples_seconds": [
     51.274763,
