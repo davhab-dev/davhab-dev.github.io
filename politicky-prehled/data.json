@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-11-14T04:58:56.468493+00:00",
+  "updated_at": "2026-11-14T05:56:28.328539+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Chůvu zbičovali za nemanželský sex. Udala ji nemocnice v Saúdské Arábii, kam přišla těhotná",
+      "summary": "Soud v Saúdské Arábii odsoudil ženu z Keni ke sto ranám bičem. Porodila totiž nemanželské dítě a zákony považují sex nesezdaných za trestný čin. Saúdský…",
+      "source": "CNN Prima NEWS",
+      "category": "svet",
+      "published_at": "2026-11-14T06:41:49+01:00",
+      "url": "https://cnn.iprima.cz/za-nemanzelsky-sex-sto-ran-bicem-saudska-arabie-stale-uplatnuje-prisne-tresty-526890",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Ministerstvo zemědělství plánuje poplatek za odvádění dešťových vod",
+      "summary": "Stovky až tisíce korun ročně by mohly domácnosti zaplatit za srážkovou vodu, pokud ji nechají odtéct do kanalizace. Záměr ministerstva zemědělství je nyní v meziresortním…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-14T05:00:00+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/ministerstvo-zemedelstvi-planuje-poplatek-za-odvadeni-destovych-vod-379605",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Den, kdy zemře Putin. Experti z USA zveřejnili detailní scénář, co hrozí světu a NATO",
       "summary": "Analytici z amerického think tanku Rand Corp zveřejnili scénář, ve kterém popisují, co by se dělo, kdyby ruský prezident Vladimir Putin v příštích měsících zemřel.…",
@@ -93,6 +113,16 @@
       "importance_kind": "pending"
     },
     {
+      "title": "Spojené státy na čtyři hodiny pozastavily všechny lety kvůli výpadku v komunikaci",
+      "summary": "Americký Federální úřad pro letectví (FAA) v pátek odpoledne zastavil odlety ze všech letišť ve Spojených státech. Podle amerického ministra dopravy Seana Duffyho úřad lety…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-13T22:21:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/spojene-staty-pozastavily-vsechny-lety-hlasi-bezpecnostni-incident/r~aaa291d436d5f1a888e809cae716b9e8/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
       "title": "Rusové bránili ropný terminál, přitom sestřelili tři vlastní vrtulníky za miliardy",
       "summary": "Rusko mohlo při obraně před ukrajinskými drony přijít o tři vrtulníky v hodnotě přibližně jedné miliardy korun. Podle ruských proválečných kanálů zahynulo při incidentu z…",
       "source": "Aktuálně.cz",
@@ -163,16 +193,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Politický průvan na Národní třídě. Babiš nebude jediný, kdo nedorazí",
-      "summary": "Letošní připomínka sametové revoluce na Národní třídě bude mít poněkud jiné politické obsazení než obvykle. Premiér Andrej Babiš (ANO) totiž vymění pietní místo za cestu…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-13T19:23:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/politicky-pruvan-na-narodni-tride-babis-nebude-jediny-kdo-nedorazi/r~aaa29a49ffce87be81f26bab4e672866/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Žena v centru aféry exšéfa Nvidie ovládá síť firem maskující její kroky",
       "summary": "Podnikatelka Alice Huangová, kterou americké tajné služby označily za čínskou špionku, vlastní síť firem sahající od Šanghaje až po Singapur a Malajsii. Během uplynulých let…",
       "source": "ČT24",
@@ -233,26 +253,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Výpadek Microsoftu zasáhl celý svět. Jaká je příčina a kdy budou služby fungovat",
-      "summary": "Výpadek služeb Microsoftu od čtvrtečního večera omezuje uživatele po celém světě. Problémy zasáhly Outlook, Teams i asistenta Copilot. Potíže hlásí také české úřady i Letiště…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-13T16:01:04+01:00",
-      "url": "https://www.denik.cz/svet/microsoft-vypadek-outlook-teams/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Bild: Rusko požaduje vystoupení Finska z NATO a Pobaltí bez základen",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-13T15:56:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/bild-rusko-pozaduje-vystoupeni-finska-z-nato-a-pobalti-bez-zakladen/2901743",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Dárek pro Putina letos vybral dosud přes 385 mil. Kč, víc než za celý loňský rok",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -292,7 +292,7 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 17,
-      "selected": 5,
+      "selected": 6,
       "free_articles_checked": 8
     },
     {
@@ -301,7 +301,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 20,
+      "candidates": 18,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -312,7 +312,7 @@
       "feeds_total": 2,
       "status": "ok",
       "candidates": 19,
-      "selected": 7,
+      "selected": 6,
       "free_articles_checked": 8
     },
     {
@@ -331,7 +331,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 16,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -351,8 +351,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
-      "selected": 4,
+      "candidates": 12,
+      "selected": 3,
       "free_articles_checked": 4
     },
     {
@@ -372,8 +372,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 12,
-      "selected": 2,
-      "free_articles_checked": 2
+      "selected": 3,
+      "free_articles_checked": 3
     },
     {
       "name": "E15",
@@ -381,7 +381,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 7,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -401,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
+      "candidates": 8,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -431,7 +431,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
