@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T14:13:20.054503+00:00",
+  "updated": "2026-11-14T15:05:47.934610+00:00",
   "articles": [
     {
       "title": "Superprestige Merksplas: Lucinda Brand returns to take brilliant win after a race long fight.",
@@ -29,6 +29,15 @@
       "published": "2026-11-14T07:00:00+00:00"
     },
     {
+      "title": "Výchovný systém Red Bullu funguje. Čtyři povýšené závodníky nahradí v U23 týmu talentovaní junioři",
+      "summary": "",
+      "url": "https://www.roadcycling.cz/clanek/vychovny-system-red-bullu-funguje-ctyri-povysene-zavodniky-nahradi-v-u23-tymu-talentovani-juniori",
+      "source": "RoadCycling.cz",
+      "lang": "CS",
+      "category": "Závody",
+      "published": "2026-11-14"
+    },
+    {
       "title": "Italská světová špička v oblékání cyklistů: Alé představuje novou kolekci pro podzim a zimu 2026/27",
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/italska-svetova-spicka-v-oblekani-cyklistu-ale-predstavuje-novou-kolekci-pro-podzim-a-zimu-2026-27",
@@ -38,7 +47,7 @@
       "published": "2026-11-14"
     },
     {
-      "title": "The Le Col Black Friday Sale is live – I built a winter cycling outfit and saved over $435, here's what I picked",
+      "title": "The Le Col Black Friday deals are live – I built a winter cycling outfit and saved over $435, here's what I picked",
       "summary": "Get geared up for winter riding with some of the best cycling clothing from the Le Col range. With up to 50% off, these deals will keep your winter rides cosy and comfortable at a fraction of the cost",
       "url": "https://www.cyclingnews.com/cycling-kit-accessories/clothing-shoes/the-le-col-black-friday-sale-is-live-i-built-a-winter-cycling-outfit-and-saved-over-usd435-heres-what-i-picked/",
       "source": "Cyclingnews",
@@ -137,24 +146,6 @@
       "published": "2026-11-13T08:55:11+00:00"
     },
     {
-      "title": "Titan Forest Patagonia očima Ondřeje Fojtíka: Čtyři etapy na konci světa, kde je výsledek až na druhém místě",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/titan-forest-patagonia-ocima-ondreje-fojtika-ctyri-etapy-na-konci-sveta-kde-je-vysledek-az-na-druhem-miste/kategorie/xcm-ostatni-zavody",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-11-13"
-    },
-    {
-      "title": "Seriál Life Time Grand Prix dál navyšuje odměny. V roce 2027 rozdělí rekordních 800 tisíc dolarů!",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/serial-life-time-grand-prix-dal-navysuje-odmeny-v-roce-2027-rozdeli-rekordnich-800-tisic-dolaru/kategorie/xcm-ostatni-zavody",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-11-13"
-    },
-    {
       "title": "Evenepoel chce v příštím roce podávat vyrovnanější výkony a získat oba tituly mistra světa. Trasa Tour de France se mu líbí",
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/evenepoel-chce-v-pristim-roce-podavat-vyrovnanejsi-vykony-a-ziskat-oba-tituly-mistra-sveta-trasa-tour-de-france-se-mu-libi",
@@ -188,6 +179,24 @@
       "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Gravel",
+      "published": "2026-11-13"
+    },
+    {
+      "title": "Titan Forest Patagonia očima Ondřeje Fojtíka: Čtyři etapy na konci světa, kde je výsledek až na druhém místě",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/titan-forest-patagonia-ocima-ondreje-fojtika-ctyri-etapy-na-konci-sveta-kde-je-vysledek-az-na-druhem-miste/kategorie/xcm-ostatni-zavody",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-13"
+    },
+    {
+      "title": "Seriál Life Time Grand Prix dál navyšuje odměny. V roce 2027 rozdělí rekordních 800 tisíc dolarů!",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/serial-life-time-grand-prix-dal-navysuje-odmeny-v-roce-2027-rozdeli-rekordnich-800-tisic-dolaru/kategorie/xcm-ostatni-zavody",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
       "published": "2026-11-13"
     },
     {
@@ -362,42 +371,6 @@
       "published": "2026-11-12T09:00:00+00:00"
     },
     {
-      "title": "TEST: Panaracer GravelKing ZX vs. X1 - každý chvilku tahá pilku",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/test-panaracer-gravelking-zx-rychlost-na-prvnim-miste-ale-pozor-na-mokro/kategorie/testy-recenze",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Gravel",
-      "published": "2026-11-12"
-    },
-    {
-      "title": "Strýcová, Koller, Štybar i Kwiatkowski závodili nad Prahou. Garmin Indoor Classics odstartovalo ve velkém stylu",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/strycova-koller-stybar-i-kwiatkowski-zavodili-nad-prahou-garmin-indoor-classics-odstartovalo-ve-velkem-stylu/kategorie/clanky-ostatni",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": "2026-11-12"
-    },
-    {
-      "title": "Nová limitka Canyon Spectral:ON CF LTD: 150 kusů, 150 Nm a pouhých 20,8 kg",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/canyon-spectral-on-cf-ltd-150-kusu-150-nm-a-pouhych-20-8-kg-nova-limitka-ukazuje-silu-avinoxu/kategorie/tech-news",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-11-12"
-    },
-    {
-      "title": "Wolf Tooth Locked-In Bar Ends – Koncovky řídítek, které ovládly světové DH",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/wolf-tooth-locked-in-bar-ends-koncovky-riditek-ktere-ovladly-svetove-dh/kategorie/tech-news",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-11-12"
-    },
-    {
       "title": "Virtuální cyklistickou výzvu Indoor Classics pokřtili polský silniční šampion Kwiatkowski, oblíbený herec Adamczyk i fotbalový šutér Koller, který se těší na 32palcový gravel",
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/virtualni-cyklistickou-vyzvu-indoor-classics-pokrtili-polsky-silnicni-sampion-kwiatkowski-oblibeny-herec-adamczyk-i-fotbalovy-suter-koller-ktery-se-tesi-na-32palcovy-gravel",
@@ -440,6 +413,42 @@
       "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Cyklistika",
+      "published": "2026-11-12"
+    },
+    {
+      "title": "TEST: Panaracer GravelKing ZX vs. X1 - každý chvilku tahá pilku",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/test-panaracer-gravelking-zx-rychlost-na-prvnim-miste-ale-pozor-na-mokro/kategorie/testy-recenze",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "Gravel",
+      "published": "2026-11-12"
+    },
+    {
+      "title": "Strýcová, Koller, Štybar i Kwiatkowski závodili nad Prahou. Garmin Indoor Classics odstartovalo ve velkém stylu",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/strycova-koller-stybar-i-kwiatkowski-zavodili-nad-prahou-garmin-indoor-classics-odstartovalo-ve-velkem-stylu/kategorie/clanky-ostatni",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "Závody",
+      "published": "2026-11-12"
+    },
+    {
+      "title": "Nová limitka Canyon Spectral:ON CF LTD: 150 kusů, 150 Nm a pouhých 20,8 kg",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/canyon-spectral-on-cf-ltd-150-kusu-150-nm-a-pouhych-20-8-kg-nova-limitka-ukazuje-silu-avinoxu/kategorie/tech-news",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-12"
+    },
+    {
+      "title": "Wolf Tooth Locked-In Bar Ends – Koncovky řídítek, které ovládly světové DH",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/wolf-tooth-locked-in-bar-ends-koncovky-riditek-ktere-ovladly-svetove-dh/kategorie/tech-news",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
       "published": "2026-11-12"
     },
     {
@@ -569,33 +578,6 @@
       "published": "2026-11-11T08:00:00+00:00"
     },
     {
-      "title": "Garmin chrlí jednu novinku za druhou. Nové Edge, radar i spojení s Waze mění svět cyklistické elektroniky",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/garmin-chrli-jednu-novinku-za-druhou-nove-edge-radar-i-spojeni-s-waze-meni-svet-cyklisticke-elektroniky/kategorie/doplnky",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-11-11"
-    },
-    {
-      "title": "Kauza Schreiber nekončí! Lucembursko žádá evropské zlato zpět, závodnice kritizuje předsedu jury",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/kauza-schreiber-nekonci-lucembursko-zada-evropske-zlato-zpet-zavodnice-kritizuje-predsedu-jury/kategorie/cyklokros-mistrovstvi-evropy",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": "2026-11-11"
-    },
-    {
-      "title": "Lynskey úspěšně bojuje o přežití. V posledních měsících hlásí kladné hospodářské výsledky",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/lynskey-uspesne-bojuje-o-preziti-v-poslednich-mesicich-hlasi-kladne-hospodarske-vysledky/kategorie/servis",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-11-11"
-    },
-    {
       "title": "Zjisti, jaký potřebuješ olej nebo vosk - já se ptám a ty odpovídáš",
       "summary": "",
       "url": "https://www.mtbiker.cz/clanky/132090/zjisti-jaky-potrebujes-olej-nebo-vosk-ja-se-ptam-a-ty-odpovidas.html",
@@ -629,6 +611,33 @@
       "source": "RoadCycling.cz",
       "lang": "CS",
       "category": "Závody",
+      "published": "2026-11-11"
+    },
+    {
+      "title": "Garmin chrlí jednu novinku za druhou. Nové Edge, radar i spojení s Waze mění svět cyklistické elektroniky",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/garmin-chrli-jednu-novinku-za-druhou-nove-edge-radar-i-spojeni-s-waze-meni-svet-cyklisticke-elektroniky/kategorie/doplnky",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-11"
+    },
+    {
+      "title": "Kauza Schreiber nekončí! Lucembursko žádá evropské zlato zpět, závodnice kritizuje předsedu jury",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/kauza-schreiber-nekonci-lucembursko-zada-evropske-zlato-zpet-zavodnice-kritizuje-predsedu-jury/kategorie/cyklokros-mistrovstvi-evropy",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "Závody",
+      "published": "2026-11-11"
+    },
+    {
+      "title": "Lynskey úspěšně bojuje o přežití. V posledních měsících hlásí kladné hospodářské výsledky",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/lynskey-uspesne-bojuje-o-preziti-v-poslednich-mesicich-hlasi-kladne-hospodarske-vysledky/kategorie/servis",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
       "published": "2026-11-11"
     },
     {
@@ -758,33 +767,6 @@
       "published": "2026-11-10T09:27:16+00:00"
     },
     {
-      "title": "Ostrava naváže na Las Vegas! Po 11 letech světový pohár v cyklokrosu znovu odstartuje pod reflektory",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/ostrava-navaze-na-las-vegas-po-11-letech-svetovy-pohar-v-cyklokrosu-znovu-odstartuje-pod-reflektory/kategorie/cyklokros-svetovy-pohar",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Technika",
-      "published": "2026-11-10"
-    },
-    {
-      "title": "Schody u Lidlu jako recept na evropské zlato? Thibau Nys kráčí ve stopách slavného otce",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/schody-u-lidlu-jako-recept-na-evropske-zlato-thibau-nys-kraci-ve-stopach-slavneho-otce/kategorie/cyklokros-mistrovstvi-evropy",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-11-10"
-    },
-    {
-      "title": "Rocky Mountain Blizzard Carbon | Poprvé a naposled v ČR!",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/rocky-mountain-blizzard-carbon-poprve-a-naposled-v-cr/kategorie/tech-news",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-11-10"
-    },
-    {
       "title": "Vrchařská prověrka, elektrokolo Touroll S2",
       "summary": "",
       "url": "https://cykl.cz/vrcharska-proverka-elektrokolo-touroll-s2",
@@ -836,6 +818,33 @@
       "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Cyklistika",
+      "published": "2026-11-10"
+    },
+    {
+      "title": "Ostrava naváže na Las Vegas! Po 11 letech světový pohár v cyklokrosu znovu odstartuje pod reflektory",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/ostrava-navaze-na-las-vegas-po-11-letech-svetovy-pohar-v-cyklokrosu-znovu-odstartuje-pod-reflektory/kategorie/cyklokros-svetovy-pohar",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "Technika",
+      "published": "2026-11-10"
+    },
+    {
+      "title": "Schody u Lidlu jako recept na evropské zlato? Thibau Nys kráčí ve stopách slavného otce",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/schody-u-lidlu-jako-recept-na-evropske-zlato-thibau-nys-kraci-ve-stopach-slavneho-otce/kategorie/cyklokros-mistrovstvi-evropy",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-10"
+    },
+    {
+      "title": "Rocky Mountain Blizzard Carbon | Poprvé a naposled v ČR!",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/rocky-mountain-blizzard-carbon-poprve-a-naposled-v-cr/kategorie/tech-news",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
       "published": "2026-11-10"
     },
     {
@@ -911,24 +920,6 @@
       "published": "2026-11-09T10:00:00+00:00"
     },
     {
-      "title": "Fotogalerie: Mistrovství Evropy v cyklokrosu - Zeddam 2026 - neděle",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/fotogalerie-mistrovstvi-evropy-v-cyklokrosu-zeddam-2026-nedele/kategorie/zavody",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": "2026-11-09"
-    },
-    {
-      "title": "TEST: Vittoria Mazza Trail – Poctivých 2000 km v terénu!",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/test-vittoria-mazza-trail-poctivych-2000-km-v-terenu/kategorie/testy-recenze",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Technika",
-      "published": "2026-11-09"
-    },
-    {
       "title": "Vrstvení jako základ – jak se obléct na podzim",
       "summary": "",
       "url": "https://www.mtbiker.cz/clanky/132080/vrstveni-jako-zaklad-jak-se-oblect-na-podzim.html",
@@ -947,21 +938,30 @@
       "published": "2026-11-09"
     },
     {
-      "title": "Red Bull povýšil dva mladé italské sprintery. Magagnotti a Donati už sbírají vítězství mezi profesionály",
-      "summary": "",
-      "url": "https://www.roadcycling.cz/clanek/red-bull-povysil-dva-mlade-italske-sprintery-magagnotti-a-donati-uz-sbiraji-vitezstvi-mezi-profesionaly",
-      "source": "RoadCycling.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": "2026-11-09"
-    },
-    {
       "title": "Spor o evropský titul pokračuje. Lucembursko napadlo rozhodnutí UCI",
       "summary": "",
       "url": "https://cyklorepublic.cz/clanky/01a1c12c-965f-7387-8d16-ee0787aca4c3/spor-o-evropsky-titul-pokracuje-lucembursko-napadlo-rozhodnuti-uci",
       "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Cyklistika",
+      "published": "2026-11-09"
+    },
+    {
+      "title": "Fotogalerie: Mistrovství Evropy v cyklokrosu - Zeddam 2026 - neděle",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/fotogalerie-mistrovstvi-evropy-v-cyklokrosu-zeddam-2026-nedele/kategorie/zavody",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "Závody",
+      "published": "2026-11-09"
+    },
+    {
+      "title": "TEST: Vittoria Mazza Trail – Poctivých 2000 km v terénu!",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/test-vittoria-mazza-trail-poctivych-2000-km-v-terenu/kategorie/testy-recenze",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "Technika",
       "published": "2026-11-09"
     },
     {
@@ -1379,15 +1379,6 @@
       "published": "2026-11-06T07:00:00+00:00"
     },
     {
-      "title": "TEST: Orbea Rallon RS-LTD absolutní jednorožec",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/test-orbea-rallon-rs-absolutni-jednorozec/kategorie/testy-recenze",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Technika",
-      "published": "2026-11-06"
-    },
-    {
       "title": "Bianchi navzdory finančním problémům pokračuje! Značka chystá novou strategii",
       "summary": "",
       "url": "https://cyklorepublic.cz/clanky/01a1b1ff-f30c-73e5-bd51-94a7ab09383a/bianchi-pokracuje-v-provozu-a-chysta-novou-strategii-v-roce-2027-prijdou-prvni-modely",
@@ -1412,6 +1403,15 @@
       "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Závody",
+      "published": "2026-11-06"
+    },
+    {
+      "title": "TEST: Orbea Rallon RS-LTD absolutní jednorožec",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/test-orbea-rallon-rs-absolutni-jednorozec/kategorie/testy-recenze",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "Technika",
       "published": "2026-11-06"
     },
     {
@@ -3053,106 +3053,44 @@
       "published": "2025-09-21T12:38:41+00:00"
     },
     {
-      "title": "Bike TechnikaTEST: Avona Callis 32 – Když gravel přeroste do nové dimenzeDnes se společně podíváme na historicky první test sériového karbonového 32\" štěrkoletu, který jsme měli k dispozici od německé značky Avona...",
+      "title": "Novinky od Garminu: Edge 1060 s hlasovým ovládáním a trenažér Tacx Nēra, který se hýbe s vámi",
       "summary": "",
-      "url": "https://mtbs.cz/clanek/avona-callis-test/kategorie/testy-recenze",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Gravel",
-      "published": ""
-    },
-    {
-      "title": "Mason překvapil v Nielu, mistryně světa a Evropy Brand odstoupila se zraněním",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/mason-prekvapil-v-nielu-mistryne-sveta-a-evropy-brand-odstoupila-se-zranenim/kategorie/bleskovky-zavody",
-      "source": "MTBS.cz",
+      "url": "https://www.mtbiker.cz/clanky/132120/novinky-od-garminu-edge-1060-s-hlasovym-ovladanim-a-trenazer-tacx-nera-ktery-se-hybe-s-vami.html",
+      "source": "MTBIKER.cz",
       "lang": "CS",
       "category": "MTB",
       "published": ""
     },
     {
-      "title": "ME cyklokros 2026 - výsledky neděle",
+      "title": "Pouze 150 kusů na světě - limitovaná verze Canyon Spectral:ON CF LTD přináší výkon 1 500 W",
       "summary": "",
-      "url": "https://mtbs.cz/clanek/me-cyklokros-2026-vysledky-nedele/kategorie/bleskovky-zavody",
-      "source": "MTBS.cz",
+      "url": "https://www.mtbiker.cz/clanky/132119/pouze-150-kusu-na-svete-limitovana-verze-canyon-spectralon-cf-ltd-prinasi-vykon-1-500-w.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": ""
+    },
+    {
+      "title": "Rozhodčí změnili výsledek závěrečného spurtu. Evropský cyklokrosový titul má Brand, Schreiber zbyly oči pro pláč, pro medaili nepřišla. Výborná Zemanová dojela sedmá",
+      "summary": "",
+      "url": "https://www.roadcycling.cz/clanek/rozhodci-zmenili-vysledek-zaverecneho-spurtu-evropsky-cyklokrosovy-titul-ma-brand-schreiber-zbyly-oci-pro-plac-pro-medaili-neprisla-vyborna-zemanova-dojela-sedma",
+      "source": "RoadCycling.cz",
       "lang": "CS",
       "category": "Závody",
       "published": ""
     },
     {
-      "title": "ME cyklokros 2026 - výsledky sobota",
+      "title": "Sourozenci Bukovští padali, na medaili nedosáhli, ale vybojovali desítku. Nad cyklokrosovým světem visí evropská žaloba Schreiber…",
       "summary": "",
-      "url": "https://mtbs.cz/clanek/me-cyklokros-2026-vysledky-sobota/kategorie/bleskovky-zavody",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": ""
-    },
-    {
-      "title": "ČP CX #4 Hlinsko - Výsledky",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/cp-cx-4-hlinsko-vysledky/kategorie/bleskovky-zavody",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": ""
-    },
-    {
-      "title": "TEST: Canyon Grail CF SLX 7 Di2: Závodní aero raketa",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/test-canyon-grail-cf-slx-7-di2-zavodni-aero-raketa/kategorie/testy-recenze",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Technika",
-      "published": ""
-    },
-    {
-      "title": "Ghost Bikes GmbH končí. Investor se nenašel",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/ghost-bikes-gmbh-konci-investor-se-nenasel/kategorie/servis",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": ""
-    },
-    {
-      "title": "Velký TEST kotoučových brzd: Díl druhý - Jak naučit brzdy brzdit?",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/velky-test-mtb-brzd-dil-druhy-jak-naucit-brzdy-brzdit/kategorie/doplnky",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Technika",
-      "published": ""
-    },
-    {
-      "title": "Reserve představuje karbonová 32\" kola. Nový rozměr nabírá na obrátkách",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/reserve-predstavuje-karbonova-32-kola-novy-rozmer-nabira-na-obratkach/kategorie/doplnky",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": ""
-    },
-    {
-      "title": "TEST pedálů Wolf Tooth CTRL - v čem předčí Shimano SPD?",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/test-pedalu-wolf-tooth-ctrl-v-cem-predci-shimano-spd/kategorie/testy-recenze",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": ""
-    },
-    {
-      "title": "Devětadevadesát schodů k evropskému titulu. Cyklokrosové ME v Zeddamu slibuje velkou podívanou",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/devetadevadesat-schodu-k-evropskemu-titulu-cyklokrosove-me-v-zeddamu-slibuje-velkou-podivanou/kategorie/cyklokros-mistrovstvi-evropy",
-      "source": "MTBS.cz",
+      "url": "https://www.roadcycling.cz/clanek/sourozenci-bukovsti-padali-na-medaili-nedosahli-ale-vybojovali-desitku-nad-cyklokrosovym-svetem-visi-evropska-zaloba-schreiber…",
+      "source": "RoadCycling.cz",
       "lang": "CS",
       "category": "Závody",
       "published": ""
     }
   ],
   "source_errors": [
-    "NaKole.cz: HTTP Error 403: Forbidden"
+    "NaKole.cz: HTTP Error 403: Forbidden",
+    "MTBS.cz: <urlopen error timed out>"
   ]
 }
