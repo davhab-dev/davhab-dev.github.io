@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-11-14T07:08:13.016358+00:00",
+  "updated_at": "2026-11-14T08:11:50.355167+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Tisícovka krav terorizuje město. Starosta v Severní Makedonii chce vyhlásit nouzový stav",
+      "summary": "Starosta severomakedonského města Kriva Palanka žádá vládu, aby v oblasti vyhlásila třicetidenní stav nouze a jednou provždy vyřešila dobytčí problém, který místní obyvatele sužuje už…",
+      "source": "CNN Prima NEWS",
+      "category": "svet",
+      "published_at": "2026-11-14T08:18:22+01:00",
+      "url": "https://cnn.iprima.cz/starosta-zada-stav-nouze-kvuli-premnozeni-krav-tisicove-stado-v-severni-makedonii-suzuje-lidi-527162",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "R5M: Data ukazují, jakému tlaku bude Babiš čelit při protestech stovek tisíc lidí | Univerzita Karlova řeší kybernetický útok | Evropu zastoupí na jednáních o Ukrajině pět zemí",
+      "summary": "",
+      "source": "Deník N",
+      "category": "domaci",
+      "published_at": "2026-11-14T07:16:23+00:00",
+      "url": "https://denikn.cz/newsletter/2257160/data-ukazuji-jakemu-tlaku-bude-babis-celit-pri-protestech-stovek-tisic-lidi-univerzita-karlova-resi-kyberneticky-utok-evropu-zastoupi-na-jednanich-o-ukrajine-pet-zemi/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Microsoft obnovil všechny své služby",
+      "summary": "Americká softwarová společnost Microsoft po pátečním celodenním výpadku obnovila funkčnost všech svých služeb. Oznámila to na síti X. Výpadek zasáhl jak domácnosti, tak firmy a…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-14T07:14:40+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/microsoft-plne-obnovil-vsechny-sluzby-379612",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "„Války už mají plné zuby,“ říká sociolog. Průzkum ukázal, co si většina Rusů přeje",
+      "summary": "Válka proti Ukrajině, trvající skoro pět let, připravila Rusy o víru ve světlou budoucnost. V průzkumu nezávislého sociologického střediska Levada více než polovina dotázaných, 52…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-14T08:09:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/valky-uz-maji-plne-zuby-rika-sociolog-pruzkum-ukazal-co-si-vetsina-rusu-preje/r~aaa29976962bf4f73c1e6f7b01113434/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Na jihu USA se srazil tanker s výletní lodí. Desítky lidí skončily v nemocnici",
+      "summary": "Ve městě New Orleans na jihu USA se v pátek 13. listopadu srazil tanker s výletní lodí, na jejíž palubě bylo 129 cestujících. Loď se…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-14T08:06:52+01:00",
+      "url": "https://www.denik.cz/svet/v-new-orleans-se-srazil-tanker-s-vyletni-lodi-na-30-lidi-bylo-hospitalizovano/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Netanjahu poslal za Trumpem šéfa Mossadu, chce obnovit útoky na Írán",
+      "summary": "Ředitel izraelské tajné služby Mossad Roman Gofman v pátek ve Washingtonu jedná s vysokými představiteli administrativy amerického prezidenta Donalda Trumpa o válce s Íránem. Napsal…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-14T07:00:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/mossad-roman-gofman-donald-trump-netanjahu-podpora-izraeli.A261113_181559_zahranicni_onbu",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Trump se ve čtvrtek setká s prezidenty Ruska a Číny, tématem budou jaderné zbraně",
       "summary": "Americký prezident Donald Trump se ve čtvrtek setká s prezidenty Číny a Ruska Si Ťin-pchingem a Vladimirem Putinem. Podle agentury Reuters to uvedla mluvčí Bílého…",
@@ -103,16 +163,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Spojené státy na čtyři hodiny pozastavily všechny lety kvůli výpadku v komunikaci",
-      "summary": "Americký Federální úřad pro letectví (FAA) v pátek odpoledne zastavil odlety ze všech letišť ve Spojených státech. Podle amerického ministra dopravy Seana Duffyho úřad lety…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-13T22:21:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/spojene-staty-pozastavily-vsechny-lety-hlasi-bezpecnostni-incident/r~aaa291d436d5f1a888e809cae716b9e8/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Konečně dohoda, radoval se Babiš. Lídři EU v Dublinu vybrali tým vyjednavačů",
       "summary": "Od našeho zpravodaje v Dublinu – Premiér Andrej Babiš (ANO) v pátek ukončil svou třídenní cestu v Irsku. Na závěr neformálního summitu Evropské rady se…",
       "source": "iDNES.cz",
@@ -183,46 +233,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Nevěra i podezření na čínskou špionáž. Aféra šéfa Nvidie má další vývoj",
-      "summary": "Tři mimomanželské vztahy a podezření na čínskou špionáž v blízkém okruhu amerického prezidenta Donalda Trumpa. Spojenými státy otřásá skandál spoluzakladatele a šéfa firmy na výrobu…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-13T19:00:00+01:00",
-      "url": "https://www.denik.cz/svet/nvidia-skandal-jensen-huang-nevera-cina-spion/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Vyhořelé Orlí hnízdo dostane nouzovou střechu. Bavoři řeší, co dál",
-      "summary": "Někdejší Hitlerovo sídlo Kehlsteinhaus vysoko v bavorských horách prochází po říjnovém ničivém požáru základním zajištěním. V Bavorsku mezitím začala diskuse tom, jak se spáleništěm naložit.…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-13T18:59:38+01:00",
-      "url": "https://www.denik.cz/evropa/kehlsteinhaus-orli-hnizdo-po-pozaru-co-dal/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "USA ustoupily Rusku, kývly na debatu o „nové Jaltě”",
-      "summary": "Rozhovory o cestě k ukončení ruské války na Ukrajině získaly tento týden nový rozměr. USA přistoupily na ruský požadavek, že se jejich součástí stane širší…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-13T17:00:00+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/usa-ustoupily-rusku-kyvly-na-debatu-o-nove-jalte-379598",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Šéf izraelského Mossadu jedná s Trumpem o Íránu. Izrael tlačí na obnovení války",
-      "summary": "Ředitel izraelské tajné služby Mossad Roman Gofman v pátek ve Washingtonu jedná s vysokými představiteli administrativy amerického prezidenta Donalda Trumpa o válce s Íránem. Napsal…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-13T17:10:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/sef-izraelskeho-mossadu-jedna-s-trumpovymi-lidmi-o-dalsim-postupu-vuci-iranu/r~aaa293a675e4c92e215b0125574081a6/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Babiš bude v Izraeli jednat s Netanjahuem a Herzogem",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -281,7 +291,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 17,
       "selected": 6,
       "free_articles_checked": 8
     },
@@ -301,7 +311,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 18,
+      "candidates": 17,
       "selected": 7,
       "free_articles_checked": 8
     },
@@ -311,7 +321,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 8,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -321,7 +331,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -331,9 +341,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
-      "selected": 4,
-      "free_articles_checked": 4
+      "candidates": 10,
+      "selected": 3,
+      "free_articles_checked": 3
     },
     {
       "name": "Deník",
@@ -341,9 +351,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
-      "selected": 3,
-      "free_articles_checked": 3
+      "candidates": 13,
+      "selected": 2,
+      "free_articles_checked": 2
     },
     {
       "name": "iDNES.cz",
@@ -351,9 +361,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
-      "selected": 4,
-      "free_articles_checked": 5
+      "candidates": 14,
+      "selected": 5,
+      "free_articles_checked": 6
     },
     {
       "name": "CNN Prima NEWS",
@@ -361,9 +371,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
-      "selected": 3,
-      "free_articles_checked": 3
+      "candidates": 15,
+      "selected": 4,
+      "free_articles_checked": 4
     },
     {
       "name": "E15",
@@ -391,9 +401,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
-      "selected": 0,
-      "free_articles_checked": 0
+      "candidates": 8,
+      "selected": 1,
+      "free_articles_checked": 1
     },
     {
       "name": "Respekt",
@@ -401,7 +411,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 8,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -431,7 +441,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 16,
       "selected": 0,
       "free_articles_checked": 0
     }
