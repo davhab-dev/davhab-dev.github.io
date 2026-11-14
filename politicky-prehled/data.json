@@ -1,14 +1,84 @@
 {
-  "updated_at": "2026-11-14T09:53:32.939463+00:00",
+  "updated_at": "2026-11-14T10:50:10.385968+00:00",
   "window_hours": 24,
   "articles": [
     {
-      "title": "Prezident České stomatologické komory Šmucler rezignoval",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
+      "title": "USA zjišťovaly, zda by se Ukrajina vzdala Donbasu za členství v NATO, uvedl Zelenskyj",
+      "summary": "Spojené státy se tento týden při rozhovorech o ukončení rusko-ukrajinské války dotazovaly ukrajinské strany, zda by se Kyjev byl ochoten vzdát Donbasu výměnou za členství…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-14T11:27:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/usa-zjistovaly-zda-by-se-ukrajina-vzdala-donbasu-za-clenstvi-v-nato-uvedl-zelenskyj/r~aaa29635d274befa6707548a28f1a315/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Kyberútok na Univerzitu Karlovu plošně neohrozil účty, tvrdí škola",
+      "summary": "Při nedávném kybernetickém útoku na Univerzitu Karlovu (UK) pachatel plošně neohrozil uživatelské účty ani nenarušil provoz centrálních informačních systémů. Univerzita poslala všem zhruba 55 000…",
+      "source": "iDNES.cz",
       "category": "domaci",
-      "published_at": "2026-11-14T10:43:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/prezident-ceske-stomatologicke-komory-smucler-rezignoval/2902015",
+      "published_at": "2026-11-14T10:17:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/kyberutok-na-univerzitu-karlovu-podle-skoly-plosne-neohrozil-ucty.A261114_111048_domaci_ichuc",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Vojáci vládního vojska měli sloužit Němcům. V Itálii přešli k partyzánům",
+      "summary": "Takzvaní vladaři – příslušníci protektorátního vládního vojska – měli v severní Itálii sloužit Němcům. Stovky z nich však přešly k partyzánům. Někteří bojovali v Alpách,…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-14T11:15:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/vojaci-vladniho-vojska-meli-slouzit-nemcum-v-italii-presli-k-partyzanum/r~aaa292681f9640a1815ca03887334da4/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Šéf stomatologické komory Šmucler rezignoval, představenstvo ho chtělo odvolat",
+      "summary": "Prezident České stomatologické komory (ČSK) Roman Šmucler v sobotu rezignoval. Představenstvo navrhovalo jeho odvolání. ČTK o tom v sobotu informovala tisková tajemnice ČSK Karolina Slavíčková.…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-14T11:14:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/roman-smucler-rezignoval-na-post-prezidenta-stomatologicke-komory/r~aaa29cbe51838710f8f9d3c6ae742597/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Šmucler skončil jako šéf stomatologické komory, neuspěl s vizí o jejím fungování",
+      "summary": "Prezident České stomatologické komory (ČSK) Roman Šmucler v sobotu rezignoval. Představenstvo navrhovalo jeho odvolání. V čele komory byl Šmucler od roku 2017, současný mandát mu…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-14T10:13:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/roman-smucler-rezignoval-na-prezidenta-ceske-stomatologicke-komory.A261114_103533_domaci_ikro",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Kyberútok plošně neohrozil uživatelské účty, uvedla Univerzita Karlova",
+      "summary": "Při nedávném kybernetickém útoku na Univerzitu Karlovu (UK) pachatel plošně neohrozil uživatelské účty ani nenarušil provoz centrálních informačních systémů. Univerzita poslala všem zhruba 55 tisícům…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-14T10:05:05+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/kyberutok-plosne-neohrozil-uzivatelske-ucty-uvedla-univerzita-karlova-379616",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Průlom v jednání o míru na Ukrajině? Zelenskyj prolomil tabu, od USA zazněl lákavý návrh",
+      "summary": "Spojené státy se při rozhovorech o ukončení rusko-ukrajinské války z tohoto týdne dotazovaly ukrajinské strany, zda by se Kyjev byl ochoten vzdát Donbasu výměnou za…",
+      "source": "CNN Prima NEWS",
+      "category": "svet",
+      "published_at": "2026-11-14T10:58:48+01:00",
+      "url": "https://cnn.iprima.cz/prulom-v-jednani-o-miru-na-ukrajine-zelenskyj-prolomil-tabu-od-usa-zaznel-lakavy-navrh-527173",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Prezident České stomatologické komory Roman Šmucler rezignoval",
+      "summary": "Prezident České stomatologické komory (ČSK) Roman Šmucler v sobotu rezignoval. Představenstvo navrhovalo jeho odvolání, informovala v sobotu tisková tajemnice ČSK Karolina Slavíčková. Šmucler byl v…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-14T09:55:59+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/prezident-ceske-stomatologicke-komory-roman-smucler-rezignoval-379615",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -163,16 +233,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Chůvu zbičovali za nemanželský sex. Udala ji nemocnice v Saúdské Arábii, kam přišla těhotná",
-      "summary": "Soud v Saúdské Arábii odsoudil ženu z Keni ke sto ranám bičem. Porodila totiž nemanželské dítě a zákony považují sex nesezdaných za trestný čin. Saúdský…",
-      "source": "CNN Prima NEWS",
-      "category": "svet",
-      "published_at": "2026-11-14T06:41:49+01:00",
-      "url": "https://cnn.iprima.cz/za-nemanzelsky-sex-sto-ran-bicem-saudska-arabie-stale-uplatnuje-prisne-tresty-526890",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Ministerstvo zemědělství plánuje poplatek za odvádění dešťových vod",
       "summary": "Stovky až tisíce korun ročně by mohly domácnosti zaplatit za srážkovou vodu, pokud ji nechají odtéct do kanalizace. Záměr ministerstva zemědělství je nyní v meziresortním…",
       "source": "ČT24",
@@ -189,16 +249,6 @@
       "category": "svet",
       "published_at": "2026-11-14T03:46:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/rusove-ztraceji-viru-v-budoucnost-pise-server-o-vyzneni-nezavisleho-pruzkumu/2901943",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Po střetu s tankerem se v USA částečně potopila výletní loď plná lidí",
-      "summary": "Tanker se v pátek v New Orleansu na jihu USA srazil s výletní lodí se 129 cestujícími na palubě. Loď se částečně potopila. Na řece…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-13T23:22:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/drama-v-usa-po-stretu-s-tankerem-se-castecne-potopila-vyletni-lod.A261113_221657_zahranicni_remy",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -223,16 +273,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Spojené státy na čtyři hodiny pozastavily všechny lety kvůli výpadku v komunikaci",
-      "summary": "Americký Federální úřad pro letectví (FAA) v pátek odpoledne zastavil odlety ze všech letišť ve Spojených státech. Podle amerického ministra dopravy Seana Duffyho úřad lety…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-13T22:21:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/spojene-staty-pozastavily-vsechny-lety-hlasi-bezpecnostni-incident/r~aaa291d436d5f1a888e809cae716b9e8/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Soudy zasáhly do výsledků komunálních voleb v 21 obcích",
       "summary": "Soudy po komunálních volbách v Česku zasáhly do výsledků v 21 obcích nebo městských částech, taková je bilance měsíc po vyhlášení výsledků ve sbírce zákonů.…",
       "source": "ČT24",
@@ -251,16 +291,6 @@
       "url": "https://www.ceskenoviny.cz/zpravy/krajsky-soud-v-praze-zmenil-vysledek-komunalnich-voleb-v-bykvi-na-melnicku/2901824",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
-    },
-    {
-      "title": "Babiš bude v Izraeli jednat s Netanjahuem a Herzogem",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-13T17:02:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/babis-bude-v-izraeli-jednat-s-netanjahuem-a-herzogem/2900513",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
     }
   ],
   "unavailable_sources": [],
@@ -272,7 +302,7 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 17,
-      "selected": 6,
+      "selected": 8,
       "free_articles_checked": 8
     },
     {
@@ -292,7 +322,7 @@
       "feeds_total": 2,
       "status": "ok",
       "candidates": 14,
-      "selected": 6,
+      "selected": 4,
       "free_articles_checked": 8
     },
     {
@@ -301,7 +331,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 9,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -321,9 +351,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
-      "selected": 5,
-      "free_articles_checked": 5
+      "candidates": 9,
+      "selected": 7,
+      "free_articles_checked": 7
     },
     {
       "name": "Deník",
@@ -331,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 14,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -342,8 +372,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 14,
-      "selected": 5,
-      "free_articles_checked": 7
+      "selected": 6,
+      "free_articles_checked": 8
     },
     {
       "name": "CNN Prima NEWS",
@@ -351,7 +381,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 17,
       "selected": 2,
       "free_articles_checked": 2
     },
@@ -361,7 +391,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
+      "candidates": 6,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -371,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 9,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -381,7 +411,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
+      "candidates": 8,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -391,7 +421,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 6,
+      "candidates": 4,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -411,7 +441,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },

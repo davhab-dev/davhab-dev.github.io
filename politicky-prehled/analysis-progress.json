@@ -3,8 +3,36 @@
   "current": null,
   "queue": [
     [
-      "https://www.ceskenoviny.cz/zpravy/prezident-ceske-stomatologicke-komory-smucler-rezignoval/2902015",
-      "Prezident České stomatologické komory Šmucler rezignoval"
+      "https://zpravy.aktualne.cz/zahranici/usa-zjistovaly-zda-by-se-ukrajina-vzdala-donbasu-za-clenstvi-v-nato-uvedl-zelenskyj/r~aaa29635d274befa6707548a28f1a315/",
+      "USA zjišťovaly, zda by se Ukrajina vzdala Donbasu za členství v NATO, uvedl Zelenskyj"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/kyberutok-na-univerzitu-karlovu-podle-skoly-plosne-neohrozil-ucty.A261114_111048_domaci_ichuc",
+      "Kyberútok na Univerzitu Karlovu plošně neohrozil účty, tvrdí škola"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/vojaci-vladniho-vojska-meli-slouzit-nemcum-v-italii-presli-k-partyzanum/r~aaa292681f9640a1815ca03887334da4/",
+      "Vojáci vládního vojska měli sloužit Němcům. V Itálii přešli k partyzánům"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/roman-smucler-rezignoval-na-post-prezidenta-stomatologicke-komory/r~aaa29cbe51838710f8f9d3c6ae742597/",
+      "Šéf stomatologické komory Šmucler rezignoval, představenstvo ho chtělo odvolat"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/roman-smucler-rezignoval-na-prezidenta-ceske-stomatologicke-komory.A261114_103533_domaci_ikro",
+      "Šmucler skončil jako šéf stomatologické komory, neuspěl s vizí o jejím fungování"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/kyberutok-plosne-neohrozil-uzivatelske-ucty-uvedla-univerzita-karlova-379616",
+      "Kyberútok plošně neohrozil uživatelské účty, uvedla Univerzita Karlova"
+    ],
+    [
+      "https://cnn.iprima.cz/prulom-v-jednani-o-miru-na-ukrajine-zelenskyj-prolomil-tabu-od-usa-zaznel-lakavy-navrh-527173",
+      "Průlom v jednání o míru na Ukrajině? Zelenskyj prolomil tabu, od USA zazněl lákavý návrh"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/prezident-ceske-stomatologicke-komory-roman-smucler-rezignoval-379615",
+      "Prezident České stomatologické komory Roman Šmucler rezignoval"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/rusko-na-jednani-v-abu-zabi-pozadovalo-stazeni-nato-do-hranic-z-roku-1997/2902014",
@@ -67,20 +95,12 @@
       "„SPD poškozuje koalici.“ Babišův poslanec se tvrdě opřel do Okamury kvůli báchorce o manévrech"
     ],
     [
-      "https://cnn.iprima.cz/za-nemanzelsky-sex-sto-ran-bicem-saudska-arabie-stale-uplatnuje-prisne-tresty-526890",
-      "Chůvu zbičovali za nemanželský sex. Udala ji nemocnice v Saúdské Arábii, kam přišla těhotná"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/domaci/ministerstvo-zemedelstvi-planuje-poplatek-za-odvadeni-destovych-vod-379605",
       "Ministerstvo zemědělství plánuje poplatek za odvádění dešťových vod"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/rusove-ztraceji-viru-v-budoucnost-pise-server-o-vyzneni-nezavisleho-pruzkumu/2901943",
       "Rusové ztrácejí víru v budoucnost, píše server o vyznění nezávislého průzkumu"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/drama-v-usa-po-stretu-s-tankerem-se-castecne-potopila-vyletni-lod.A261113_221657_zahranicni_remy",
-      "Po střetu s tankerem se v USA částečně potopila výletní loď plná lidí"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/do-vyletni-lodi-v-new-orleans-narazil-tanker-castecne-se-potopila-379608",
@@ -91,30 +111,22 @@
       "Letecká doprava v USA se po celostátním přerušení provozu postupně obnovuje"
     ],
     [
-      "https://zpravy.aktualne.cz/zahranici/spojene-staty-pozastavily-vsechny-lety-hlasi-bezpecnostni-incident/r~aaa291d436d5f1a888e809cae716b9e8/",
-      "Spojené státy na čtyři hodiny pozastavily všechny lety kvůli výpadku v komunikaci"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/domaci/soudy-zasahly-do-vysledku-komunalnich-voleb-v-21-obcich-379606",
       "Soudy zasáhly do výsledků komunálních voleb v 21 obcích"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/krajsky-soud-v-praze-zmenil-vysledek-komunalnich-voleb-v-bykvi-na-melnicku/2901824",
       "Krajský soud v Praze změnil výsledek komunálních voleb v Býkvi na Mělnicku"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/babis-bude-v-izraeli-jednat-s-netanjahuem-a-herzogem/2900513",
-      "Babiš bude v Izraeli jednat s Netanjahuem a Herzogem"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 26,
+    "initial_pending": 29,
     "completed": [],
     "deferred": [],
-    "remaining": 26
+    "remaining": 29
   },
   "samples_seconds": [
     51.274763,
