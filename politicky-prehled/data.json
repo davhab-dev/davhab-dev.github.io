@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-11-14T18:51:20.415660+00:00",
+  "updated_at": "2026-11-14T19:48:35.271910+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Putin nechce jednat o konci války na Ukrajině, uvedl Macron",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-14T20:36:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/putin-nechce-jednat-o-konci-valky-na-ukrajine-uvedl-macron/2902146",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Francouzský prezident zažívá pomalou agónii. Třese se i projekt, který začal v Praze",
+      "summary": "Francouzské prezidentské volby se blíží. Uskuteční se už v dubnu 2027 a Emmanuelu Macronovi zbývá posledních několik měsíců ve funkci. Francouzský prezident přitom podle médií…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-14T20:15:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/francouzsky-prezident-zaziva-pomalou-agonii-trese-se-i-projekt-ktery-zacal-v-praze/r~aaa290e7d4e3a63be8dab3759fe69dc4/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "V Meklenbursku – Předním Pomořansku povládnou SPD, Levice a Zelení, vyšachovali AfD",
+      "summary": "V Meklenbursku – Předním Pomořansku, jedné z nejméně obydlených spolkových zemí na severu Německa, povládnou sociální demokraté (SPD) se Zelenými a stranou Levice. Podle agentury…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-14T19:00:11+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/v-meklenbursku-prednim-pomoransku-povladnou-spd-levice-a-zeleni-vysachovali-afd-379624",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Cvičení v Polsku se neúčastní většina koalice ochotných, hájí se resort obrany",
+      "summary": "Ministerstvo obrany upozornilo, že vojenského cvičení Koalicja 26.2 se stejně jako ČR přímo neúčastní většina takzvané koalice ochotných. Zasáhne do něj 11 ze 32 států.…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-14T18:35:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/ministerstvo-obrany-koalice-ochotnych-polsko-cviceni-podpora.A261114_121410_domaci_ikro",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Špatné školní jídelny se teď už nezmění, kritizují odborníci rozhodnutí ministrů",
       "summary": "Rozhodnutí vlády zrušit závazné výživové normy ve vyhlášce o školním stravování a nechat je na dobrovolnosti školních jídelen vyvolalo poprask. Odborníci na výživu a zdraví…",
@@ -183,16 +223,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "MO: Cvičení v Polsku se neúčastní většina koalice ochotných",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-14T12:31:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/mo-cviceni-v-polsku-se-neucastni-vetsina-koalice-ochotnych/2902041",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Neústupné Rusko v Abú Dhabí zopakovalo, že chce hranice NATO z roku 1997",
       "summary": "Při rozhovorech o ukončení války mezi Ruskem a Ukrajinou v Abú Dhabí z tohoto týdne představili Rusové dokument, v němž mimo jiné žádali, aby Severoatlantická…",
       "source": "Aktuálně.cz",
@@ -243,42 +273,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "UK: Při kybernetickém útoku pachatel plošně neohrozil uživatelské účty",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-14T10:36:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/-uk-pri-kybernetickem-utoku-pachatel-plosne-neohrozil-uzivatelske-ucty/2901579",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "R5M: Data ukazují, jakému tlaku bude Babiš čelit při protestech stovek tisíc lidí | Univerzita Karlova řeší kybernetický útok | Evropu zastoupí na jednáních o Ukrajině pět zemí",
       "summary": "",
       "source": "Deník N",
       "category": "domaci",
       "published_at": "2026-11-14T07:16:23+00:00",
       "url": "https://denikn.cz/newsletter/2257160/data-ukazuji-jakemu-tlaku-bude-babis-celit-pri-protestech-stovek-tisic-lidi-univerzita-karlova-resi-kyberneticky-utok-evropu-zastoupi-na-jednanich-o-ukrajine-pet-zemi/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Microsoft obnovil všechny své služby",
-      "summary": "Americká softwarová společnost Microsoft po pátečním celodenním výpadku obnovila funkčnost všech svých služeb. Oznámila to na síti X. Výpadek zasáhl jak domácnosti, tak firmy a…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-14T07:14:40+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/microsoft-plne-obnovil-vsechny-sluzby-379612",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Ministerstvo zemědělství plánuje poplatek za odvádění dešťových vod",
-      "summary": "Stovky až tisíce korun ročně by mohly domácnosti zaplatit za srážkovou vodu, pokud ji nechají odtéct do kanalizace. Záměr ministerstva zemědělství je nyní v meziresortním…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-14T05:00:00+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/ministerstvo-zemedelstvi-planuje-poplatek-za-odvadeni-destovych-vod-379605",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     }
@@ -291,9 +291,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
-      "selected": 6,
-      "free_articles_checked": 8
+      "candidates": 12,
+      "selected": 5,
+      "free_articles_checked": 7
     },
     {
       "name": "iROZHLAS",
@@ -301,7 +301,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 19,
+      "candidates": 20,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -311,8 +311,8 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 10,
-      "selected": 5,
+      "candidates": 12,
+      "selected": 4,
       "free_articles_checked": 8
     },
     {
@@ -331,7 +331,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -341,9 +341,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
-      "selected": 5,
-      "free_articles_checked": 6
+      "candidates": 9,
+      "selected": 6,
+      "free_articles_checked": 7
     },
     {
       "name": "Deník",
@@ -351,9 +351,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 13,
       "selected": 4,
-      "free_articles_checked": 4
+      "free_articles_checked": 5
     },
     {
       "name": "iDNES.cz",
@@ -361,8 +361,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
-      "selected": 6,
+      "candidates": 15,
+      "selected": 7,
       "free_articles_checked": 8
     },
     {
@@ -371,7 +371,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
+      "candidates": 6,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -431,7 +431,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 9,
       "selected": 0,
       "free_articles_checked": 0
     },
