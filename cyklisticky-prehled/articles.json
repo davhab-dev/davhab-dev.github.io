@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T05:38:54.079523+00:00",
+  "updated": "2026-11-14T06:41:35.119028+00:00",
   "articles": [
     {
       "title": "The Le Col Black Friday Sale is live – I built a winter cycling outfit and saved over $435, here's what I picked",
@@ -1739,15 +1739,6 @@
       "published": "2026-10-31T07:00:00+00:00"
     },
     {
-      "title": "Jezdíš často? I pár milimetrů v nastavení kola může rozhodovat",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132042/jezdis-casto-i-par-milimetru-v-nastaveni-kola-muze-rozhodovat.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-10-31"
-    },
-    {
       "title": "Rouvy vs Zwift: how do two of the best indoor training apps compare?",
       "summary": "Both apps provide an immersive training environment, but how do they differ?",
       "url": "https://www.bikeradar.com/advice/buyers-guides/rouvy-vs-zwift",
@@ -3149,6 +3140,15 @@
       "source": "MTBS.cz",
       "lang": "CS",
       "category": "Závody",
+      "published": ""
+    },
+    {
+      "title": "RAAB FORCE Rohálovská 50ka 2027",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/raab-force-rohalovska-50ka-2026-75428/kategorie/xcm",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
       "published": ""
     }
   ],
