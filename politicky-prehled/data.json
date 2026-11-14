@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-11-14T15:47:39.777954+00:00",
+  "updated_at": "2026-11-14T16:48:13.488022+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Šmucler skončil jako šéf stomatologické komory, neuspěl s vizí o jejím fungování",
+      "summary": "Prezident České stomatologické komory (ČSK) Roman Šmucler v sobotu rezignoval. Představenstvo navrhovalo jeho odvolání. V čele komory byl Šmucler od roku 2017, současný mandát mu…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-14T16:28:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/roman-smucler-rezignoval-na-prezidenta-ceske-stomatologicke-komory.A261114_103533_domaci_ikro",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Aljaška si zvolila demokratického guvernéra, poprvé od roku 1998",
+      "summary": "Aljaška bude mít poprvé od roku 1998 demokratického guvernéra. Ve volbách, které se konaly 3. listopadu, porazil Jonathan Kreiss-Tomkins tři kandidáty republikánské strany. Jeho volební…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-14T16:25:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/aljaska-demokrate-guverner-volby-usa.A261114_094545_zahranicni_jhr",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Ruské drony udeřily na Ukrajinu. Ta ostřelovala ruské pohraničí",
+      "summary": "V ukrajinské Chersonské, Doněcké a Záporožské oblasti zahynuli po ruských útocích a ostřelování čtyři lidé a další byli zraněni. Rusko podle ukrajinského letectva vyslalo na…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-14T15:43:50+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/ruske-drony-uderily-na-ukrajinu-ta-ostrelovala-ruske-pohranici-379621",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Maďarské úřady při vyšetřování exministra zabavily miliony. Část byla zakopaná",
       "summary": "Maďarské úřady při vyšetřování Miklóse Sesztáka, bývalého ministra ve vládě národně konzervativního premiéra Viktora Orbána, zabavily hotovost ve více měnách, v přepočtu přes 420 milionů…",
@@ -93,22 +123,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Díky účasti Polska při vyjednávání o Ukrajině bude u stolu i V4, řekl Babiš",
-      "summary": "Premiér Andrej Babiš (ANO) oceňuje, že se Evropská rada dohodla a bude součástí mezinárodních jednání o Ukrajině. Zastoupení zemí má za vyvážené a považuje za…",
-      "source": "iDNES.cz",
+      "title": "Babiš: Díky účasti Polska při vyjednávání o Ukrajině bude u stolu i V4",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
       "category": "domaci",
-      "published_at": "2026-11-14T12:53:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/babis-diky-ucasti-polska-pri-vyjednavani-o-ukrajine-bude-u-stolu-i-v4.A261114_135050_domaci_remy",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Neslučujme migranty, školy pak nevědí co s dětmi, vyzývá osm zemí a Česko EU",
-      "summary": "Česká republika a osm dalších zemí požadují od Evropské unie nová, přísnější pravidla pro slučování rodin uprchlíků. Ve společném dopise Evropské komisi (EK) argumentují mimo…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-14T12:46:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/cesko-evropska-unie-slucovani-rodin-uprchliku-pravidla-zatez.A261114_133120_domaci_ikro",
+      "published_at": "2026-11-14T13:47:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/babis-diky-ucasti-polska-pri-vyjednavani-o-ukrajine-bude-u-stolu-i-v4/2902056",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -133,12 +153,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "MO: Cvičení v Polsku se stejně jako ČR neúčastní většina koalice ochotných",
+      "title": "MO: Cvičení v Polsku se neúčastní většina koalice ochotných",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
       "category": "domaci",
       "published_at": "2026-11-14T12:31:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/mo-cviceni-v-polsku-se-stejne-jako-cr-neucastni-vetsina-koalice-ochotnych/2902041",
+      "url": "https://www.ceskenoviny.cz/zpravy/mo-cviceni-v-polsku-se-neucastni-vetsina-koalice-ochotnych/2902041",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -251,16 +271,6 @@
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/ministerstvo-zemedelstvi-planuje-poplatek-za-odvadeni-destovych-vod-379605",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
-    },
-    {
-      "title": "Do výletní lodi v New Orleansu narazil tanker, částečně se potopila",
-      "summary": "V americkém New Orleansu se v pátek srazil tanker s výletní lodí, na jejíž palubě bylo 129 cestujících. Loď se po srážce částečně potopila, informuje…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-13T21:31:08+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/do-vyletni-lodi-v-new-orleans-narazil-tanker-castecne-se-potopila-379608",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
     }
   ],
   "unavailable_sources": [],
@@ -281,7 +291,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 21,
+      "candidates": 22,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -291,8 +301,8 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 12,
-      "selected": 4,
+      "candidates": 11,
+      "selected": 5,
       "free_articles_checked": 8
     },
     {
@@ -301,7 +311,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 11,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -331,7 +341,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 13,
       "selected": 3,
       "free_articles_checked": 3
     },
@@ -341,7 +351,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 16,
       "selected": 6,
       "free_articles_checked": 6
     },
@@ -351,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 9,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -371,7 +381,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -381,7 +391,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 5,
+      "candidates": 4,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -391,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 2,
+      "candidates": 0,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -411,7 +421,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 8,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -421,7 +431,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 18,
+      "candidates": 17,
       "selected": 0,
       "free_articles_checked": 0
     }

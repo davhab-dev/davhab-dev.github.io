@@ -3,6 +3,18 @@
   "current": null,
   "queue": [
     [
+      "https://www.idnes.cz/zpravy/domaci/roman-smucler-rezignoval-na-prezidenta-ceske-stomatologicke-komory.A261114_103533_domaci_ikro",
+      "Šmucler skončil jako šéf stomatologické komory, neuspěl s vizí o jejím fungování"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/aljaska-demokrate-guverner-volby-usa.A261114_094545_zahranicni_jhr",
+      "Aljaška si zvolila demokratického guvernéra, poprvé od roku 1998"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/ruske-drony-uderily-na-ukrajinu-ta-ostrelovala-ruske-pohranici-379621",
+      "Ruské drony udeřily na Ukrajinu. Ta ostřelovala ruské pohraničí"
+    ],
+    [
       "https://www.denik.cz/evropa/madarske-urady-pri-vysetrovani-exministra-zabavily-miliony-cast-byla-zakopana/",
       "Maďarské úřady při vyšetřování exministra zabavily miliony. Část byla zakopaná"
     ],
@@ -39,12 +51,8 @@
       "Devět zemí EU žádá tvrdší pravidla pro slučování rodin uprchlíků. Česko je mezi nimi"
     ],
     [
-      "https://www.idnes.cz/zpravy/domaci/babis-diky-ucasti-polska-pri-vyjednavani-o-ukrajine-bude-u-stolu-i-v4.A261114_135050_domaci_remy",
-      "Díky účasti Polska při vyjednávání o Ukrajině bude u stolu i V4, řekl Babiš"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/cesko-evropska-unie-slucovani-rodin-uprchliku-pravidla-zatez.A261114_133120_domaci_ikro",
-      "Neslučujme migranty, školy pak nevědí co s dětmi, vyzývá osm zemí a Česko EU"
+      "https://www.ceskenoviny.cz/zpravy/babis-diky-ucasti-polska-pri-vyjednavani-o-ukrajine-bude-u-stolu-i-v4/2902056",
+      "Babiš: Díky účasti Polska při vyjednávání o Ukrajině bude u stolu i V4"
     ],
     [
       "https://www.denik.cz/evropa/zelenskyj-usa-zjistovaly-zda-by-se-ukrajina-vzdala-donbasu-za-clenstvi-v-nato/",
@@ -55,8 +63,8 @@
       "Kupka: ODS musí projít změnami, prostor dostanou nové tváře"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/mo-cviceni-v-polsku-se-stejne-jako-cr-neucastni-vetsina-koalice-ochotnych/2902041",
-      "MO: Cvičení v Polsku se stejně jako ČR neúčastní většina koalice ochotných"
+      "https://www.ceskenoviny.cz/zpravy/mo-cviceni-v-polsku-se-neucastni-vetsina-koalice-ochotnych/2902041",
+      "MO: Cvičení v Polsku se neúčastní většina koalice ochotných"
     ],
     [
       "https://zpravy.aktualne.cz/zahranici/rusko-v-abu-dhabi-zopakovalo-tvrde-pozadavky-chce-hranice-nato-z-roku-1997/r~aaa295f7b6890d3b8cd88eeb54d7bbb9/",
@@ -101,20 +109,16 @@
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/ministerstvo-zemedelstvi-planuje-poplatek-za-odvadeni-destovych-vod-379605",
       "Ministerstvo zemědělství plánuje poplatek za odvádění dešťových vod"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/do-vyletni-lodi-v-new-orleans-narazil-tanker-castecne-se-potopila-379608",
-      "Do výletní lodi v New Orleansu narazil tanker, částečně se potopila"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 26,
+    "initial_pending": 27,
     "completed": [],
     "deferred": [],
-    "remaining": 26
+    "remaining": 27
   },
   "samples_seconds": [
     51.274763,
