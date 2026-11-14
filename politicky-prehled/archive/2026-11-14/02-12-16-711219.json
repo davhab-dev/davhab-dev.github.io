@@ -1,0 +1,449 @@
+{
+  "updated_at": "2026-11-14T02:12:16.711219+00:00",
+  "window_hours": 24,
+  "articles": [
+    {
+      "title": "Trump se ve čtvrtek setká se Si Ťin-pchingem a Putinem, tématem budou jaderné zbraně",
+      "summary": "Americký prezident Donald Trump se ve čtvrtek na okraj summitu APEC v jihočínském Šen-čenu setká s čínským prezidentem Si Ťin-pchingem a ruským prezidentem Vladimirem Putinem,…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-14T01:28:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/trump-se-ve-ctvrtek-setka-se-si-tin-pchingem-a-putinem-tematem-budou-jaderne-zbrane.A261114_014836_zahranicni_air",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Kolaps v USA: úřady vyhlásily celostátní zákaz letů, selhaly routery",
+      "summary": "Americký Federální úřad pro letectví (FAA) vyhlásil celonárodní pozastavení letů s tím, že důvodem jsou mimořádné okolnosti a bezpečnostní důvody. Ministr dopravy Sean Duffy rozhodnutí…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-13T23:58:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/letecky-kolaps-v-usa-faa-vyhlasila-celostatni-stop-kvuli-selhani-radaru-a-komunikace.A261113_222559_zahranicni_remy",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Po střetu s tankerem se v USA částečně potopila výletní loď plná lidí",
+      "summary": "Tanker se v pátek v New Orleansu na jihu USA srazil s výletní lodí se 129 cestujícími na palubě. Loď se částečně potopila. Na řece…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-13T23:22:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/drama-v-usa-po-stretu-s-tankerem-se-castecne-potopila-vyletni-lod.A261113_221657_zahranicni_remy",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Rusko dováží z Irska důležitou surovinu pro výrobu zbraní. Dublin sankce odmítá",
+      "summary": "Setkání evropských lídrů v Dublinu rámovala diskuse o pomoci Ukrajině. Irsko přitom dlouhodobě dodává oxid hlinitý do Ruska. Bílý prášek má široké použití a představuje…",
+      "source": "CNN Prima NEWS",
+      "category": "svet",
+      "published_at": "2026-11-13T23:35:43+01:00",
+      "url": "https://cnn.iprima.cz/rusko-dovazi-z-irska-dulezitou-surovinu-pro-vyrobu-zbrani-dublin-sankce-odmita-527093",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Do výletní lodi v New Orleansu narazil tanker, částečně se potopila",
+      "summary": "V americkém New Orleans se v pátek srazil tanker s výletní lodí, na jejíž palubě bylo 129 cestujících. Loď se po srážce částečně potopila, informuje…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-13T21:31:08+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/do-vyletni-lodi-v-new-orleans-narazil-tanker-castecne-se-potopila-379608",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Celostátní pozastavení odletů ve Spojených státech bylo zrušeno",
+      "summary": "Americký Federální úřad pro letectví (FAA) v sobotu kolem 2:15 SEČ zrušil celostátní pozastavení odletů, informuje agentura Reuters. Opatření úřad zavedl v pátek kolem 22:00…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-13T21:25:39+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/americky-federalni-urad-pro-letectvi-pozastavil-vsechny-lety-379609",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Rusové bránili ropný terminál, přitom sestřelili tři vlastní vrtulníky za miliardy",
+      "summary": "Rusko mohlo při obraně před ukrajinskými drony přijít o tři vrtulníky v hodnotě přibližně jedné miliardy korun. Podle ruských proválečných kanálů zahynulo při incidentu z…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-13T21:06:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/rusove-branili-ropny-terminal-pritom-sestrelili-tri-vlastni-vrtulniky-za-miliardy/r~aaa2930fd9a84bbb84de381226b2d035/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Polský prezident Nawrocki vetoval zákon o digitálních službách, mluví o cenzuře",
+      "summary": "Polský prezident Karol Nawrocki vetoval zákon, který měl do polského práva převést evropské nařízení o digitálních službách DSA (Digital Services Act). Zákon by umožnil blokovat…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-13T21:02:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/polsky-prezident-nawrocki-vetoval-zakon-o-digitalnich-sluzbach-mluvi-o-cenzure/r~aaa29aa3fd2a61f642aba4a18a7d5420/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Konečně dohoda, radoval se Babiš. Lídři EU v Dublinu vybrali tým vyjednavačů",
+      "summary": "Od našeho zpravodaje v Dublinu – Premiér Andrej Babiš (ANO) v pátek ukončil svou třídenní cestu v Irsku. Na závěr neformálního summitu Evropské rady se…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-13T19:48:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/babis-eu-irsko-dublin-rusko-vyjednavani.A261113_094110_domaci_chtl",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Soudy zasáhly do výsledků komunálních voleb v 21 obcích",
+      "summary": "Soudy po komunálních volbách v Česku zasáhly do výsledků v 21 obcích nebo městských částech, taková je bilance měsíc po vyhlášení výsledků ve sbírce zákonů.…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-13T19:22:55+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/soudy-zasahly-do-vysledku-komunalnich-voleb-v-21-obcich-379606",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Polsko bude při jednání Evropy s Ruskem hájit zájmy Česka",
+      "summary": "/ANALÝZA/ Dvě jaderné velmoci a tři velké ekonomiky Evropy mají společně s představiteli Bruselu sedět u jednacího stolu s Ruskem o ukončení agrese proti Ukrajině.…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-13T20:15:34+01:00",
+      "url": "https://www.denik.cz/evropa/polsko-bude-pri-jednani-evropy-s-ruskem-hajit-zajmy-ceska/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Le Penová je připravena na setkání se Zelenským, nejlépe v Bruselu",
+      "summary": "Lídryně francouzské krajní pravice Marine Le Penová, která má podle průzkumů velkou šanci se v příštím roce stát prezidentkou Francie, je připravena se setkat s…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-13T20:04:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/le-penova-je-pripravena-na-setkani-se-zelenskym-nejlepe-v-bruselu/r~aaa29c660252573dc237c02e1bf1e865/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Aféra kolem Nvidie otřásá i Bílým domem. Trumpův ministr čelí ostré kritice",
+      "summary": "Skandál kolem bývalého šéfa Nvidie Jensena Huanga přerostl v politickou aféru. Američtí zákonodárci nyní požadují vysvětlení, jak se vyspělé čipy mohly dostávat do Číny i…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-13T19:00:00+00:00",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/afera-kolem-nvidie-otrasa-i-bilym-domem-trumpuv-ministr-celi-ostre-kritice.A261113_121100_eko-zahranicni_jla",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Politický průvan na Národní třídě. Babiš nebude jediný, kdo nedorazí",
+      "summary": "Letošní připomínka sametové revoluce na Národní třídě bude mít poněkud jiné politické obsazení než obvykle. Premiér Andrej Babiš (ANO) totiž vymění pietní místo za cestu…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-13T19:23:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/politicky-pruvan-na-narodni-tride-babis-nebude-jediny-kdo-nedorazi/r~aaa29a49ffce87be81f26bab4e672866/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Žena v centru aféry exšéfa Nvidie ovládá síť firem maskující její kroky",
+      "summary": "Podnikatelka Alice Huangová, kterou americké tajné služby označily za čínskou špionku, vlastní síť firem sahající od Šanghaje až po Singapur a Malajsii. Během uplynulých let…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-13T18:14:17+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/zena-v-centru-afery-exsefa-nvidie-ovlada-sit-firem-maskujici-jeji-kroky-379599",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "EU se shodla, kdo zastoupí Evropu na jednání o Ukrajině, bude to tým, řekl Babiš",
+      "summary": "Zdá se, že je dohodnuto, kdo by měl zastupovat Evropu při vyjednávání o možné mírové dohodě ve válce na Ukrajině, která se pátým rokem brání…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-13T19:07:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/eu-se-shodla-kdo-zastoupi-evropu-na-jednani-o-ukrajine-bude-to-tym-rekl-babis/r~aaa29c3247c19ed6862d26283001e4eb/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Krajský soud v Praze změnil výsledek komunálních voleb v Býkvi na Mělnicku",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-13T19:03:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/krajsky-soud-v-praze-zmenil-vysledek-komunalnich-voleb-v-bykvi-na-melnicku/2901824",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Nevěra i podezření na čínskou špionáž. Aféra šéfa Nvidie má další vývoj",
+      "summary": "Tři mimomanželské vztahy a podezření na čínskou špionáž v blízkém okruhu amerického prezidenta Donalda Trumpa. Spojenými státy otřásá skandál spoluzakladatele a šéfa firmy na výrobu…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-13T19:00:00+01:00",
+      "url": "https://www.denik.cz/svet/nvidia-skandal-jensen-huang-nevera-cina-spion/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Vyhořelé Orlí hnízdo dostane nouzovou střechu. Bavoři řeší, co dál",
+      "summary": "Někdejší Hitlerovo sídlo Kehlsteinhaus vysoko v bavorských horách prochází po říjnovém ničivém požáru základním zajištěním. V Bavorsku mezitím začala diskuse tom, jak se spáleništěm naložit.…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-13T18:59:38+01:00",
+      "url": "https://www.denik.cz/evropa/kehlsteinhaus-orli-hnizdo-po-pozaru-co-dal/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Evropu v jednáních o Ukrajině zastoupí tým pěti zemí, oznámil Costa",
+      "summary": "Evropu budou na jednáních o Ukrajině zastupovat Francie, Německo, Itálie, Polsko, Velká Británie a zástupci unijních institucí, oznámil podle agentury Reuters na závěr neformálního summitu…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-13T17:45:23+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/evropu-na-jednani-o-ukrajine-zastoupi-tym-nekolika-zemi-oznamil-costa-379607",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Babiš bude v Izraeli jednat s Netanjahuem a Herzogem",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-13T17:02:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/babis-bude-v-izraeli-jednat-s-netanjahuem-a-herzogem/2900513",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Výpadek Microsoftu zasáhl celý svět. Jaká je příčina a kdy budou služby fungovat",
+      "summary": "Výpadek služeb Microsoftu od čtvrtečního večera omezuje uživatele po celém světě. Problémy zasáhly Outlook, Teams i asistenta Copilot. Potíže hlásí také české úřady i Letiště…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-13T16:01:04+01:00",
+      "url": "https://www.denik.cz/svet/microsoft-vypadek-outlook-teams/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Bild: Rusko požaduje vystoupení Finska z NATO a Pobaltí bez základen",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-13T15:56:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/bild-rusko-pozaduje-vystoupeni-finska-z-nato-a-pobalti-bez-zakladen/2901743",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Dárek pro Putina letos vybral dosud přes 385 mil. Kč, víc než za celý loňský rok",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-13T13:42:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/darek-pro-putina-letos-vybral-dosud-pres-385-mil-kc-vic-nez-za-cely-lonsky-rok/2901665",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "V Moskvě explodovalo auto, zranění utrpěl mluvčí ukrajinského expremiéra Azarova",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-13T13:41:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/v-moskve-explodovalo-auto-zraneni-utrpel-mluvci-ukrajinskeho-expremiera-azarova/2901663",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Vláda nepočítá se zákazem pro reprezentaci hrát proti Rusku",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-13T13:01:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/vlada-nepocita-se-zakazem-pro-reprezentaci-hrat-proti-rusku/2901636",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Tři čeští europoslanci se dostali do sporů s Čínou, jde o Tchaj-wan i propagandu",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-13T12:47:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/tri-cesti-europoslanci-se-dostali-do-sporu-s-cinou-jde-o-tchaj-wan-i-propagandu/2901624",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "R5M: Co vše vláda hodlá změnit ve školních jídelnách | Šéf firmy Nvidia Huang po odhalení aféry rezignoval | Vicepremiér Havlíček navštívil Ukrajinu",
+      "summary": "",
+      "source": "Deník N",
+      "category": "domaci",
+      "published_at": "2026-11-13T06:09:10+00:00",
+      "url": "https://denikn.cz/newsletter/2255794/co-vse-vlada-hodla-zmenit-ve-skolnich-jidelnach-sef-firmy-nvidia-huang-po-odhaleni-afery-rezignoval-vicepremier-havlicek-navstivil-ukrajinu/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    }
+  ],
+  "unavailable_sources": [],
+  "sources": [
+    {
+      "name": "ČT24",
+      "site": "https://ct24.ceskatelevize.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 18,
+      "selected": 5,
+      "free_articles_checked": 8
+    },
+    {
+      "name": "iROZHLAS",
+      "site": "https://www.irozhlas.cz/",
+      "feeds_ok": 2,
+      "feeds_total": 2,
+      "status": "ok",
+      "candidates": 21,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "ČTK / České noviny",
+      "site": "https://www.ceskenoviny.cz/",
+      "feeds_ok": 2,
+      "feeds_total": 2,
+      "status": "ok",
+      "candidates": 18,
+      "selected": 7,
+      "free_articles_checked": 8
+    },
+    {
+      "name": "Novinky.cz",
+      "site": "https://www.novinky.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 13,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "Seznam Zprávy",
+      "site": "https://www.seznamzpravy.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 17,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "Aktuálně.cz",
+      "site": "https://zpravy.aktualne.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 7,
+      "selected": 5,
+      "free_articles_checked": 6
+    },
+    {
+      "name": "Deník",
+      "site": "https://www.denik.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 13,
+      "selected": 4,
+      "free_articles_checked": 4
+    },
+    {
+      "name": "iDNES.cz",
+      "site": "https://www.idnes.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 14,
+      "selected": 5,
+      "free_articles_checked": 6
+    },
+    {
+      "name": "CNN Prima NEWS",
+      "site": "https://cnn.iprima.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 12,
+      "selected": 1,
+      "free_articles_checked": 1
+    },
+    {
+      "name": "E15",
+      "site": "https://www.e15.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 8,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "Forum 24",
+      "site": "https://www.forum24.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 14,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "Deník N",
+      "site": "https://denikn.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 7,
+      "selected": 1,
+      "free_articles_checked": 1
+    },
+    {
+      "name": "Respekt",
+      "site": "https://www.respekt.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 9,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "Hospodářské noviny",
+      "site": "https://hn.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 0,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "TN.cz",
+      "site": "https://tn.nova.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 14,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "Blesk",
+      "site": "https://www.blesk.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 17,
+      "selected": 0,
+      "free_articles_checked": 0
+    }
+  ]
+}
