@@ -71,10 +71,6 @@
       "Maďarské úřady při vyšetřování exministra zabavily miliony. Část byla zakopaná"
     ],
     [
-      "https://www.idnes.cz/brno/zpravy/pan-prstenu-comic-con-brno-filmy-seraly-vyroci-trilogie.A261114_151653_domaci_votr",
-      "Brněnský Comic Con slaví výročí několika filmů, přijel i herec z Pána prstenů"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/svet/prichod-zimy-zhorsuje-situaci-v-gaze-obnova-zniceneho-uzemi-zustava-omezena-379610",
       "Příchod zimy zhoršuje situaci v Gaze. Obnova zničeného území zůstává omezená"
     ],
@@ -127,10 +123,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 30,
+    "initial_pending": 29,
     "completed": [],
     "deferred": [],
-    "remaining": 30
+    "remaining": 29
   },
   "samples_seconds": [
     51.274763,
