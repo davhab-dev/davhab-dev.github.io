@@ -1,14 +1,64 @@
 {
-  "updated_at": "2026-11-14T12:57:55.428648+00:00",
+  "updated_at": "2026-11-14T13:57:12.141097+00:00",
   "window_hours": 24,
   "articles": [
     {
-      "title": "Devět zemí včetně Česka vyzývá EU k úpravě pravidel pro slučování rodin uprchlíků",
+      "title": "Poláci jsou důležití. Babiš i Rakušan oceňují složení evropského týmu pro Ukrajinu",
+      "summary": "Premiér Andrej Babiš (ANO) oceňuje, že se Evropská rada dohodla a bude součástí mezinárodních jednání o Ukrajině. Zastoupení zemí má za vyvážené a považuje za…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-14T14:39:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/evropa-urcila-vyjednavaci-tym-pro-ukrajinu-babis-ocenuje-roli-polska/r~aaa29377e16833177eb1389f1ae5a83d/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "„Netanjahu“ prodává v Teheránu ořechy. Řekl ve videu, proč „utekl“ z Izraele",
+      "summary": "Šedovlasý muž za pultem obchodu s ořechy a sladkostmi zaujal íránské sociální sítě nápadnou podobou s izraelským premiérem Benjaminem Netanjahuem. Pod videem na síti X…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-14T13:07:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/netanjahuuv-dvojnik-prodava-orechy-iranci-se-ptaji-kde-ma-obchod.A261114_100207_zahranicni_ichuc",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "„Zničíme všechno.“ Polský generál ostře pohrozil Rusku. Co je potřeba k válce?",
+      "summary": "Polský generál Jarosław Gromadziński si myslí, že Rusové neplánují přímý útok na NATO. Stále víc ovšem tlačí na evropské společnosti dezinformacemi a sabotážemi. V rozhovoru…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-14T13:58:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/znicime-vsechno-polsky-general-ostre-pohrozil-rusku-co-je-potreba-k-valce/r~aaa2960b4c7a7fa724977be3d7c3f891/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Devět zemí EU žádá tvrdší pravidla pro slučování rodin uprchlíků. Česko je mezi nimi",
       "summary": "Česká republika a osm dalších zemí požadují od Evropské unie nová, přísnější pravidla pro slučování rodin uprchlíků. Ve společném dopise Evropské komisi (EK) argumentují mimo…",
       "source": "Aktuálně.cz",
       "category": "svet",
       "published_at": "2026-11-14T13:54:00+01:00",
       "url": "https://zpravy.aktualne.cz/zahranici/devet-zemi-vcetne-ceska-vyzyva-eu-k-uprave-pravidel-pro-slucovani-rodin-uprchliku/r~aaa299006a8273bc9edac39a5ed3d4e4/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Díky účasti Polska při vyjednávání o Ukrajině bude u stolu i V4, řekl Babiš",
+      "summary": "Premiér Andrej Babiš (ANO) oceňuje, že se Evropská rada dohodla a bude součástí mezinárodních jednání o Ukrajině. Zastoupení zemí má za vyvážené a považuje za…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-14T12:53:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/babis-diky-ucasti-polska-pri-vyjednavani-o-ukrajine-bude-u-stolu-i-v4.A261114_135050_domaci_remy",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Neslučujme migranty, školy pak nevědí co s dětmi, vyzývá osm zemí a Česko EU",
+      "summary": "Česká republika a osm dalších zemí požadují od Evropské unie nová, přísnější pravidla pro slučování rodin uprchlíků. Ve společném dopise Evropské komisi (EK) argumentují mimo…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-14T12:46:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/cesko-evropska-unie-slucovani-rodin-uprchliku-pravidla-zatez.A261114_133120_domaci_ikro",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -93,16 +143,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Šmucler skončil jako šéf stomatologické komory, neuspěl s vizí o jejím fungování",
-      "summary": "Prezident České stomatologické komory (ČSK) Roman Šmucler v sobotu rezignoval. Představenstvo navrhovalo jeho odvolání. V čele komory byl Šmucler od roku 2017, současný mandát mu…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-14T10:13:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/roman-smucler-rezignoval-na-prezidenta-ceske-stomatologicke-komory.A261114_103533_domaci_ikro",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Kyberútok plošně neohrozil uživatelské účty, uvedla Univerzita Karlova",
       "summary": "Při nedávném kybernetickém útoku na Univerzitu Karlovu (UK) pachatel plošně neohrozil uživatelské účty ani nenarušil provoz centrálních informačních systémů. Univerzita poslala všem zhruba 55 tisícům…",
       "source": "ČT24",
@@ -153,62 +193,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Oceněná šéfka Nedoklubka: Rodič patří k inkubátoru, blízkost ovlivňuje vývoj dítěte",
-      "summary": "V Česku se každý rok předčasně narodí zhruba šest tisíc dětí. Jejich rodičům pomáhá už řadu let spolek Nedoklubko. Jeho ředitelka Lucie Žáčková sama ví,…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-14T09:30:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/ocenena-sefka-nedoklubka-rodic-patri-k-inkubatoru-blizkost-ovlivnuje-vyvoj-ditete.A261110_095509_domaci_kkos",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Orbánův exministr zakopal stovky milionů v lesích. Maďarské úřady je vykopaly",
-      "summary": "Maďarské úřady při vyšetřování Miklóse Sesztáka, bývalého ministra ve vládě národně konzervativního premiéra Viktora Orbána, zabavily hotovost ve více měnách, v přepočtu přes 420 milionů…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-14T09:03:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/madarsko-orban-sesztak-korupce-penize-vysetrovani-magyar.A261114_092657_zahranicni_jhr",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "„Hotovost zakopaná v lesích.“ Maďarské úřady při vyšetřování exministra zabavily miliony",
       "summary": "Maďarské úřady při vyšetřování Miklóse Sesztáka, bývalého ministra ve vládě expremiéra Viktora Orbána, zabavily hotovost ve více měnách, v přepočtu přes 420 milionů korun. Část…",
       "source": "ČT24",
       "category": "svet",
       "published_at": "2026-11-14T08:37:17+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/hotovost-zakopana-v-lesich-madarske-urady-pri-vysetrovani-exministra-zabavily-miliony-379614",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "V kauze Orbánova exministra úřady zabavily obří sumu v hotovosti. Část byla zakopaná v lese",
-      "summary": "Maďarské úřady při vyšetřování Miklóse Sesztáka, bývalého ministra ve vládě národně konzervativního premiéra Viktora Orbána, zabavily hotovost ve více měnách, v přepočtu přes 420 milionů…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-14T09:31:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/orbanuv-exministr-celi-vysetrovani-urady-zabavily-420-milionu-korun/r~aaa29236e058c99b4fb345e0ad79659d/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Poprvé od invaze. Většina Rusů už nevěří ve světlou budoucnost, ukazuje průzkum",
-      "summary": "Válka proti Ukrajině, trvající skoro pět let, připravila Rusy o víru ve světlou budoucnost. V průzkumu nezávislého sociologického střediska Levada více než polovina dotázaných, 52…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-14T08:21:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/rusko-valka-budoucnost-pruzkum-nevanda.A261114_083902_zahranicni_jhr",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Tisícovka krav terorizuje město. Starosta v Severní Makedonii chce vyhlásit nouzový stav",
-      "summary": "Starosta severomakedonského města Kriva Palanka žádá vládu, aby v oblasti vyhlásila třicetidenní stav nouze a jednou provždy vyřešila dobytčí problém, který místní obyvatele sužuje už…",
-      "source": "CNN Prima NEWS",
-      "category": "svet",
-      "published_at": "2026-11-14T08:18:22+01:00",
-      "url": "https://cnn.iprima.cz/starosta-zada-stav-nouze-kvuli-premnozeni-krav-tisicove-stado-v-severni-makedonii-suzuje-lidi-527162",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -243,32 +233,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Netanjahu poslal za Trumpem šéfa Mossadu, chce obnovit útoky na Írán",
-      "summary": "Ředitel izraelské tajné služby Mossad Roman Gofman v pátek ve Washingtonu jedná s vysokými představiteli administrativy amerického prezidenta Donalda Trumpa o válce s Íránem. Napsal…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-14T07:00:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/mossad-roman-gofman-donald-trump-netanjahu-podpora-izraeli.A261113_181559_zahranicni_onbu",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Ministerstvo zemědělství plánuje poplatek za odvádění dešťových vod",
       "summary": "Stovky až tisíce korun ročně by mohly domácnosti zaplatit za srážkovou vodu, pokud ji nechají odtéct do kanalizace. Záměr ministerstva zemědělství je nyní v meziresortním…",
       "source": "ČT24",
       "category": "domaci",
       "published_at": "2026-11-14T05:00:00+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/ministerstvo-zemedelstvi-planuje-poplatek-za-odvadeni-destovych-vod-379605",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Rusové ztrácejí víru v budoucnost, píše server o vyznění nezávislého průzkumu",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-14T03:46:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/rusove-ztraceji-viru-v-budoucnost-pise-server-o-vyzneni-nezavisleho-pruzkumu/2901943",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -321,8 +291,8 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 12,
-      "selected": 5,
+      "candidates": 13,
+      "selected": 4,
       "free_articles_checked": 8
     },
     {
@@ -351,9 +321,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
-      "selected": 5,
-      "free_articles_checked": 6
+      "candidates": 11,
+      "selected": 6,
+      "free_articles_checked": 7
     },
     {
       "name": "Deník",
@@ -371,9 +341,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
-      "selected": 7,
-      "free_articles_checked": 8
+      "candidates": 15,
+      "selected": 5,
+      "free_articles_checked": 7
     },
     {
       "name": "CNN Prima NEWS",
@@ -381,9 +351,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
-      "selected": 2,
-      "free_articles_checked": 2
+      "candidates": 12,
+      "selected": 1,
+      "free_articles_checked": 1
     },
     {
       "name": "E15",
@@ -391,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 3,
+      "candidates": 4,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -401,7 +371,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 9,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -441,7 +411,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 11,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -451,7 +421,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     }
