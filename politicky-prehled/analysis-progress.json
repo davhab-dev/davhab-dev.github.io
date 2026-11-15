@@ -3,6 +3,14 @@
   "current": null,
   "queue": [
     [
+      "https://cnn.iprima.cz/nehodu-autobusu-neprezilo-12-lidi-dalsich-16-jich-v-iranu-utrpelo-zraneni-527218",
+      "Nehodu autobusu nepřežilo 12 lidí. Dalších 16 jich v Íránu utrpělo zranění"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/rusove-utocili-na-zaporozi-ukrajina-uderila-v-rostovske-oblasti-a-v-tatarstanu-379632",
+      "Rusové útočili na Záporoží. Ukrajina udeřila v Rostovské oblasti a v Tatarstánu"
+    ],
+    [
       "https://www.idnes.cz/zpravy/zahranicni/ukrajina-protidronova-technologie-evropa-vyvoj-valka.A261115_081025_zahranicni_jhr",
       "Na vývoj protidronové technologie stačí Ukrajině měsíce. Evropě to trvá roky"
     ],
@@ -59,20 +67,12 @@
       "Jedině velká koalice zabezpečí Izrael, tvrdí Netanjahu. Eisenkot to má za trik"
     ],
     [
-      "https://zpravy.aktualne.cz/domaci/schillerova-chysta-velkou-konsolidaci-castka-prekvapi-ve-hre-jsou-i-dalsi-dane/r~aaa297beef072b1efe68bbf1095f50e2/",
-      "Schillerová chystá velkou konsolidaci. Částka překvapí, ve hře jsou i další daně"
-    ],
-    [
       "https://www.idnes.cz/zpravy/zahranicni/koalice-izrael-netanjahu-volby-parlament-strany.A261114_204427_zahranicni_votr",
       "Netanjahu znovu vyzval k vládě národní jednoty, chce z ní vyloučit arabské strany"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/putin-nechce-jednat-o-konci-valky-na-ukrajine-uvedl-macron/2902146",
       "Putin nechce jednat o konci války na Ukrajině, uvedl Macron"
-    ],
-    [
-      "https://zpravy.aktualne.cz/zahranici/francouzsky-prezident-zaziva-pomalou-agonii-trese-se-i-projekt-ktery-zacal-v-praze/r~aaa290e7d4e3a63be8dab3759fe69dc4/",
-      "Francouzský prezident zažívá pomalou agónii. Třese se i projekt, který začal v Praze"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/v-meklenbursku-prednim-pomoransku-povladnou-spd-levice-a-zeleni-vysachovali-afd-379624",
@@ -99,14 +99,6 @@
       "Moskva staví svůj megalomanský projekt. Desetkrát předčí Trumpovu tančírnu"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/svet/ruske-drony-uderily-na-ukrajinu-ta-ostrelovala-ruske-pohranici-379621",
-      "Ruské drony udeřily na Ukrajinu. Ta ostřelovala ruské pohraničí"
-    ],
-    [
-      "https://www.denik.cz/evropa/madarske-urady-pri-vysetrovani-exministra-zabavily-miliony-cast-byla-zakopana/",
-      "Maďarské úřady při vyšetřování exministra zabavily miliony. Část byla zakopaná"
-    ],
-    [
       "https://www.ceskenoviny.cz/zpravy/babis-diky-ucasti-polska-pri-vyjednavani-o-ukrajine-bude-u-stolu-i-v4/2902056",
       "Babiš: Díky účasti Polska při vyjednávání o Ukrajině bude u stolu i V4"
     ],
@@ -119,10 +111,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 28,
+    "initial_pending": 26,
     "completed": [],
     "deferred": [],
-    "remaining": 28
+    "remaining": 26
   },
   "samples_seconds": [
     51.274763,

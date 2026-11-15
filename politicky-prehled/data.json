@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-11-15T08:18:47.620002+00:00",
+  "updated_at": "2026-11-15T09:53:41.064445+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Nehodu autobusu nepřežilo 12 lidí. Dalších 16 jich v Íránu utrpělo zranění",
+      "summary": "Při nehodě autobusu v západním Íránu o víkendu zahynulo 12 lidí, dalších 16 utrpělo zranění. S odkazem na státní média o tom v neděli informovala…",
+      "source": "CNN Prima NEWS",
+      "category": "svet",
+      "published_at": "2026-11-15T09:36:57+01:00",
+      "url": "https://cnn.iprima.cz/nehodu-autobusu-neprezilo-12-lidi-dalsich-16-jich-v-iranu-utrpelo-zraneni-527218",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Rusové útočili na Záporoží. Ukrajina udeřila v Rostovské oblasti a v Tatarstánu",
+      "summary": "Při útocích na ukrajinské město Záporoží bylo zraněno šest lidí včetně dvou dětí, uvedly podle BBC tamní úřady. Útoky na své území hlásí i Rusko.…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-15T08:16:06+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusove-utocili-na-zaporozi-ukrajina-uderila-v-rostovske-oblasti-a-v-tatarstanu-379632",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Na vývoj protidronové technologie stačí Ukrajině měsíce. Evropě to trvá roky",
       "summary": "Ukrajinské společnosti dokážou vyvíjet a modernizovat protidronové technologie během několika měsíců, zatímco evropským výrobcům může obdobný proces trvat i šest let. Uvedl to Nathan Cowell…",
@@ -143,16 +163,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Schillerová chystá velkou konsolidaci. Částka překvapí, ve hře jsou i další daně",
-      "summary": "Až sto miliard korun. Tak velký konsolidační balíček by podle ministryně financí Aleny Schillerové (ANO) mohla vláda připravit pro rok 2028. Premiér Andrej Babiš (ANO)…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-14T21:22:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/schillerova-chysta-velkou-konsolidaci-castka-prekvapi-ve-hre-jsou-i-dalsi-dane/r~aaa297beef072b1efe68bbf1095f50e2/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Netanjahu znovu vyzval k vládě národní jednoty, chce z ní vyloučit arabské strany",
       "summary": "Izraelský premiér Benjamin Netanjahu v sobotu znovu vyzval svého hlavního politického soka Gadiho Eisenkota k sestavení vlády národní jednoty, tedy široké koalice bez účasti arabských…",
       "source": "iDNES.cz",
@@ -169,16 +179,6 @@
       "category": "svet",
       "published_at": "2026-11-14T20:36:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/putin-nechce-jednat-o-konci-valky-na-ukrajine-uvedl-macron/2902146",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Francouzský prezident zažívá pomalou agónii. Třese se i projekt, který začal v Praze",
-      "summary": "Francouzské prezidentské volby se blíží. Uskuteční se už v dubnu 2027 a Emmanuelu Macronovi zbývá posledních několik měsíců ve funkci. Francouzský prezident přitom podle médií…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-14T20:15:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/francouzsky-prezident-zaziva-pomalou-agonii-trese-se-i-projekt-ktery-zacal-v-praze/r~aaa290e7d4e3a63be8dab3759fe69dc4/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -243,26 +243,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Ruské drony udeřily na Ukrajinu. Ta ostřelovala ruské pohraničí",
-      "summary": "V ukrajinské Chersonské, Doněcké a Záporožské oblasti zahynuli po ruských útocích a ostřelování čtyři lidé a další byli zraněni. Rusko podle ukrajinského letectva vyslalo na…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-14T15:43:50+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/ruske-drony-uderily-na-ukrajinu-ta-ostrelovala-ruske-pohranici-379621",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Maďarské úřady při vyšetřování exministra zabavily miliony. Část byla zakopaná",
-      "summary": "Maďarské úřady při vyšetřování Miklóse Sesztáka, bývalého ministra ve vládě národně konzervativního premiéra Viktora Orbána, zabavily hotovost ve více měnách, v přepočtu přes 420 milionů…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-14T16:09:37+01:00",
-      "url": "https://www.denik.cz/evropa/madarske-urady-pri-vysetrovani-exministra-zabavily-miliony-cast-byla-zakopana/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Babiš: Díky účasti Polska při vyjednávání o Ukrajině bude u stolu i V4",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -311,7 +291,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 8,
       "selected": 5,
       "free_articles_checked": 8
     },
@@ -321,7 +301,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 9,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -331,7 +311,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -341,9 +321,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 6,
-      "selected": 6,
-      "free_articles_checked": 6
+      "candidates": 5,
+      "selected": 4,
+      "free_articles_checked": 4
     },
     {
       "name": "Deník",
@@ -352,8 +332,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 11,
-      "selected": 5,
-      "free_articles_checked": 6
+      "selected": 4,
+      "free_articles_checked": 5
     },
     {
       "name": "iDNES.cz",
@@ -361,7 +341,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 13,
       "selected": 6,
       "free_articles_checked": 6
     },
@@ -371,9 +351,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 6,
-      "selected": 0,
-      "free_articles_checked": 0
+      "candidates": 7,
+      "selected": 1,
+      "free_articles_checked": 1
     },
     {
       "name": "E15",
@@ -391,7 +371,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
