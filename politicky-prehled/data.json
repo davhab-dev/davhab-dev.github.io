@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-11-15T12:59:34.960906+00:00",
+  "updated_at": "2026-11-15T13:58:35.080493+00:00",
   "window_hours": 24,
   "articles": [
     {
-      "title": "„Tohle je začátek demise“. Letenskou pláň plní demonstrující na podporu ČT a ČRo",
-      "summary": "Pražská Letná se dnes opět stává dějištěm velkého protivládního protestu. Spolek Milion chvilek pro demokracii svolal demonstraci na obranu veřejnoprávních médií a očekává mimořádně vysokou…",
+      "title": "„Čas autoritářů se chýlí ke konci.“ Plná Letná burcuje proti vládě",
+      "summary": "Na pražské Letné začal protest na obranu veřejnoprávních médií. „Panikaří, chybují a zaplétají se do lží,“ řekl na úvod předseda spolku Milion chvilek pro demokracii…",
       "source": "iDNES.cz",
       "category": "domaci",
-      "published_at": "2026-11-15T12:54:00+00:00",
+      "published_at": "2026-11-15T13:58:00+00:00",
       "url": "https://www.idnes.cz/zpravy/domaci/letna-demonstrace-milion-chvilek-verejnopravni-media-mikulas-minar-vlada.A261112_123519_domaci_ikro",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Stavíme se proti silovému vládnutí ve stylu 4:36, zaznělo na Letné",
+      "summary": "Lidé na pražské Letné přišli vyjádřit nesouhlas s chystanými změnami ve financování veřejnoprávních médií. Demonstrace s názvem „Letná proti 4:36“, kterou organizuje spolek Milion chvilek,…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-15T12:57:27+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/protivladni-demonstrace-na-letne-379631",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -73,7 +83,7 @@
       "importance_kind": "pending"
     },
     {
-      "title": "ON-LINE: Letná proti 4:36. Do Prahy zamířili demonstranti z různých koutů Česka",
+      "title": "ON-LINE: U nás to taky začalo médii, varovala slovenská herečka Nvotová",
       "summary": "Ruce pryč od médií! Heslo nedělní demonstrace na Letenské pláni v Praze odkazuje na smysl akce pořádané spolkem Milion chvilek pro demokracii. Lidé protestují proti…",
       "source": "Deník",
       "category": "domaci",
@@ -83,8 +93,8 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Nedělní debata se věnuje stavu české demokracie",
-      "summary": "Tématem Nedělní debaty je tento týden nadcházející 37. výročí sametové revoluce a odolnost české demokracie. Pořad se zaměří rovněž na důvěru společnosti v autority a…",
+      "title": "Politici v Nedělní debatě diskutovali o stavu demokracie, protestech i svobodě médií",
+      "summary": "Tématem Nedělní debaty bylo nadcházející 37. výročí sametové revoluce a odolnost české demokracie. Politici diskutovali také o parlamentních pravidlech, budoucnosti veřejnoprávních médií či zapojení Česka…",
       "source": "ČT24",
       "category": "domaci",
       "published_at": "2026-11-15T10:30:29+00:00",
@@ -193,16 +203,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Izraelská armáda zasáhla jednoho z velitelů vojenského křídla Hamásu",
-      "summary": "Izraelská armáda oznámila, že podnikla úder na jednoho z velitelů vojenského křídla teroristického hnutí Hamás. Informovala o tom v noci na neděli agentura Reuters. Ta…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-15T03:16:27+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/izraelska-armada-zasahla-jednoho-z-velitelu-vojenskeho-kridla-hamasu-379627",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "USA se soustředí na usnadnění kontaktu mezi Ruskem a Evropou, uvedl Kushner",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -219,16 +219,6 @@
       "category": "svet",
       "published_at": "2026-11-14T21:36:53+01:00",
       "url": "https://www.denik.cz/svet/podle-netanjahua-jedine-vlada-siroke-koalice-muze-zajistit-bezpecnost-izraele/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Netanjahu znovu vyzval k vládě národní jednoty, chce z ní vyloučit arabské strany",
-      "summary": "Izraelský premiér Benjamin Netanjahu v sobotu znovu vyzval svého hlavního politického soka Gadiho Eisenkota k sestavení vlády národní jednoty, tedy široké koalice bez účasti arabských…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-14T19:52:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/koalice-izrael-netanjahu-volby-parlament-strany.A261114_204427_zahranicni_votr",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -261,7 +251,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 13,
       "selected": 7,
       "free_articles_checked": 7
     },
@@ -271,7 +261,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -291,7 +281,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 9,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -301,7 +291,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -332,8 +322,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 9,
-      "selected": 6,
-      "free_articles_checked": 6
+      "selected": 5,
+      "free_articles_checked": 5
     },
     {
       "name": "CNN Prima NEWS",
@@ -341,7 +331,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 6,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -351,7 +341,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 3,
+      "candidates": 2,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -361,7 +351,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -411,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 11,
       "selected": 0,
       "free_articles_checked": 0
     }
