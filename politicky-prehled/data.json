@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-11-15T14:51:11.071033+00:00",
+  "updated_at": "2026-11-15T15:48:09.620485+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Na 400 tisíc lidí burcuje na Letné. Chtějí nový dialog i konec Okamury a Zůny",
+      "summary": "Na 400 tisíc lidí na pražské Letné protestuje proti vládě a na obranu veřejnoprávních médií. Spolek Milion chvilek pro demokracii žádá vládní koalici, aby odvolala…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-15T15:41:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/letna-milion-chvilek-demonstrace-protesty-okamura-verejnopravni-media-mikulas-minar-vlada.A261112_123519_domaci_ikro",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Exšéfka ECB Lagardeová prezidentkou Francie? Hlásí se i judista Riner",
+      "summary": "Do francouzského prezidentského klání vstoupila nová jména. Jedno z nich má potenciál zamíchat kartami – končící prezidentka Evropské centrální banky (ECB) Christine Lagardeová by podle…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-15T15:41:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/franice-prezidentske-volby-christine-lagardeova-teddy-riner.A261113_201836_zahranicni_lupr",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Navštěvují se s opozicí. Okamura odmítl výzvu Milionu chvilek k jeho odvolání",
+      "summary": "„Navštěvují se s opozicí,“ reagoval Tomio Okamura pro iDNES.cz na výzvu spolku Milion chvilek pro demokracii, aby odešel z čela Poslanecké sněmovny. Organizátoři nedělní demonstrace…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-15T15:26:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/tomio-okamura-milion-chvilek-pro-demokracii-odvolani-demonstrace-letna.A261115_155607_domaci_ikro",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Dva tankery v Hormuzském průlivu narazily na miny, jeden se potopil, uvedl Írán",
+      "summary": "Dva ropné tankery narazily v Hormuzském průlivu na námořní miny. Jedna z lodí se kvůli rozsahu poškození potopila, uvedly íránské revoluční gardy. Teherán od vypuknutí…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-15T16:02:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/dva-tankery-v-hormuzskem-prulivu-narazily-na-miny-jeden-se-potopil-uvedl-iran/r~aaa29744c32c4c30784a4b659f83f945/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Útok hútíů u jemenského Adenu si vyžádal nejméně pět mrtvých, píše AFP",
+      "summary": "Útok hútíjských povstalců si nedaleko Adenu vyžádal životy nejméně pěti lidí. Dalších osm osob utrpělo zranění. S odkazem na tři vojenské a jeden vládní zdroj…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-15T14:51:13+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/utok-hutiu-u-jemenskeho-adenu-si-vyzadal-nejmene-pet-mrtvych-pise-afp-379638",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Milion chvilek žádá stažení zákona o poplatcích i odchod Okamury z čela Sněmovny",
+      "summary": "Spolek Milion chvilek žádá vládu o stažení zákona, který ruší poplatky za veřejnoprávní média. Chce skutečný dialog a jiný styl vládnutí. Na demonstraci na pražské…",
+      "source": "Deník",
+      "category": "domaci",
+      "published_at": "2026-11-15T15:33:47+01:00",
+      "url": "https://www.denik.cz/cesko/milion-chvilek-zada-stazeni-zakona-o-poplatcich-i-odchod-okamury-z-cela-snemovny/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Omezení Starshieldu pomáhá Rusku zasahovat Ukrajinu, uvedl Zelenskyj",
       "summary": "Ruská armáda v noci na neděli zaútočila na energetickou a železniční infrastrukturu v osmi ukrajinských regionech. Uvedl to ukrajinský prezident Volodymyr Zelenskyj. Podle něj k…",
@@ -9,16 +69,6 @@
       "category": "svet",
       "published_at": "2026-11-15T14:32:00+00:00",
       "url": "https://www.idnes.cz/zpravy/zahranicni/zelenskyj-starshield-spacex-ukrajina-rusko-valka.A261115_140452_zahranicni_jhr",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Až 450 tisíc lidí burcuje na Letné. Chtějí nový dialog i konec Okamury a Zůny",
-      "summary": "Až 450 tisíc lidí na pražské Letné protestuje na proti vládě i obranu veřejnoprávních médií. Spolek Milion chvilek pro demokracii žádá vládní koalici, aby odvolala…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-15T14:28:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/letna-milion-chvilek-demonstrace-protesty-okamura-verejnopravni-media-mikulas-minar-vlada.A261112_123519_domaci_ikro",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -83,16 +133,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Profesionální štváči, říká Vondráček o Milionu chvilek. Rakušan na Letnou půjde",
-      "summary": "Předseda zahraničního výboru Poslanecké sněmovny Radek Vondráček (ANO) označil v Partii Terezie Tománkové na CNN Prima News spolek Milion chvilek pro demokracii, který pořádá nedělní…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-15T11:36:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/radek-vondracek-vit-rakusan-partie-terezie-tomankove-debata.A261115_103142_domaci_ikro",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Téměř dvě třetiny lidí si myslí, že je dnes lépe než před rokem 1989, ukázal průzkum",
       "summary": "Téměř dvě třetiny občanů se domnívají, že se v současném demokratickém režimu máme lépe než před rokem 1989, vyplývá z průzkumu agentury Kantar CZ pro…",
       "source": "ČT24",
@@ -123,16 +163,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Náladový Zelenskyj, puberťák Putin a podlézavý Trump. Biden vydává paměti",
-      "summary": "Ukrajinský prezident Volodymyr Zelenskyj dovede být náladový, uvedl ve svých nových pamětech americký exprezident Joe Biden. Zelenskyj podle něj také nebyl tak vděčný, jak očekával.…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-15T09:44:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-zelenskyj-biden-vdecnost-trump.A261115_102156_zahranicni_jhr",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Nehodu autobusu nepřežilo 12 lidí. Dalších 16 jich v Íránu utrpělo zranění",
       "summary": "Při nehodě autobusu v západním Íránu o víkendu zahynulo 12 lidí, dalších 16 utrpělo zranění. S odkazem na státní média o tom v neděli informovala…",
       "source": "CNN Prima NEWS",
@@ -149,16 +179,6 @@
       "category": "svet",
       "published_at": "2026-11-15T08:16:06+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusove-utocili-na-zaporozi-ukrajina-uderila-v-rostovske-oblasti-a-v-tatarstanu-379632",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Na vývoj protidronové technologie stačí Ukrajině měsíce. Evropě to trvá roky",
-      "summary": "Ukrajinské společnosti dokážou vyvíjet a modernizovat protidronové technologie během několika měsíců, zatímco evropským výrobcům může obdobný proces trvat i šest let. Uvedl to Nathan Cowell…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-15T07:37:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-protidronova-technologie-evropa-vyvoj-valka.A261115_081025_zahranicni_jhr",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -183,16 +203,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Írán tvrdí, že podnikl dronový útok na americký radarový systém v Bahrajnu",
-      "summary": "Íránské revoluční gardy oznámily, že podnikly dronový útok na americký radarový systém protivzdušné obrany na vrtulníkové základně v Bahrajnu. Spojené státy ani Bahrajn se k…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-15T07:53:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/iran-tvrdi-ze-podnikl-dronovy-utok-na-americky-radarovy-system-v-bahrajnu/r~aaa29f4bb2c9a55431960a83e729d8e3/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Ukrajina vyvíjí protidronové technologie mnohem rychleji než Evropa, míní expert",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -203,22 +213,22 @@
       "importance_kind": "pending"
     },
     {
+      "title": "Írán tvrdí, že podnikl útok na americký radarový systém v Bahrajnu",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-15T07:02:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/iran-tvrdi-ze-podnikl-utok-na-americky-radarovy-system-v-bahrajnu/2902220",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
       "title": "Slovensku teď vládne exministr životního prostředí a poslanec Tomáš Taraba",
       "summary": "Vláda Roberta Fica ztratila většinu v parlamentu. Kvůli skupině poslanců kolem odvolaného ministra životního prostředí Tomáše Taraby už neprošel vládě v parlamentu klíčový zákon.",
       "source": "Deník",
       "category": "svet",
       "published_at": "2026-11-15T07:00:00+01:00",
       "url": "https://www.denik.cz/evropa/slovensku-ted-vladne-exministr-zivotniho-prostredi-a-poslanec-tomas-taraba/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Sněmovna se pře o novely trestního zákoníku. Opozici vadí roztříštěnost",
-      "summary": "Ve sněmovně panují spory ohledně novel trestního zákoníku. Koalice předložila do dolní komory vládní i poslanecké návrhy. Chce tak třeba zpřísnit tresty za týrání zvířat.…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-15T05:00:00+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/snemovna-se-pre-o-novely-trestniho-zakoniku-opozici-vadi-roztristenost-379619",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -251,16 +261,6 @@
       "url": "https://www.ceskenoviny.cz/zpravy/putin-nechce-jednat-o-konci-valky-na-ukrajine-uvedl-macron/2902146",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
-    },
-    {
-      "title": "AfD je v Meklenbursku-Předním Pomořansku mimo hru, povládnou Levice a Zelení",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-14T19:46:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/afd-je-v-meklenbursku-prednim-pomoransku-mimo-hru-povladnou-levice-a-zeleni/2902128",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
     }
   ],
   "unavailable_sources": [],
@@ -281,7 +281,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 11,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -291,9 +291,9 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 6,
+      "candidates": 7,
       "selected": 5,
-      "free_articles_checked": 6
+      "free_articles_checked": 7
     },
     {
       "name": "Novinky.cz",
@@ -301,7 +301,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 9,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -331,9 +331,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
-      "selected": 3,
-      "free_articles_checked": 3
+      "candidates": 12,
+      "selected": 4,
+      "free_articles_checked": 4
     },
     {
       "name": "iDNES.cz",
@@ -341,9 +341,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
-      "selected": 6,
-      "free_articles_checked": 6
+      "candidates": 11,
+      "selected": 5,
+      "free_articles_checked": 5
     },
     {
       "name": "CNN Prima NEWS",
@@ -351,7 +351,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 7,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -381,7 +381,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 2,
+      "candidates": 3,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -411,7 +411,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 11,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -421,7 +421,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 9,
       "selected": 0,
       "free_articles_checked": 0
     }
