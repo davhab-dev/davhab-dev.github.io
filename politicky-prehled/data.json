@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-15T22:47:06.855279+00:00",
+  "updated_at": "2026-11-15T23:52:14.750247+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Kubáček k Letné: Slova o autokracii jsou úlet. Prvotní myšlenka demonstrace se posunula",
+      "summary": "Podle politologa Jana Kubáčka se prvotní myšlenka nedělní demonstrace za veřejnoprávní média lehce změnila. Při jedné z historicky největších masových demonstrací v historii Česka se,…",
+      "source": "CNN Prima NEWS",
+      "category": "domaci",
+      "published_at": "2026-11-15T23:48:41+01:00",
+      "url": "https://cnn.iprima.cz/kubacek-k-letne-slova-o-autokracii-jsou-ulet-prvotni-myslenka-demonstrace-se-posunula-527247",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "\"Masivní demonstrace.\" Svět si všímá nedělního protestu na Letné",
       "summary": "Řada zahraničních médií si všímá nedělního rozsáhlého protestu na pražské Letné proti změně financování veřejnoprávních médií v Česku. S odkazem na odhad pořadatelů píší o…",
@@ -213,12 +223,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Babiš: Respektuji právo lidí protestovat. Poplatky ale zrušíme",
-      "summary": "Premiér a předseda ANO Andrej Babiš respektuje právo lidí protestovat, s důvody nedělní demonstrace na pražské Letné ale nesouhlasí, nepovažuje je za pravdivé. Odpověděl tak…",
-      "source": "Deník",
+      "title": "Babiš: Respektuji právo lidí protestovat, s důvody nesouhlasím, poplatky zrušíme",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
       "category": "domaci",
-      "published_at": "2026-11-15T17:10:43+01:00",
-      "url": "https://www.denik.cz/cesko/andrej-babis-demonstrace-koncesionarske-poplatky/",
+      "published_at": "2026-11-15T17:03:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/babis-respektuji-pravo-lidi-protestovat-s-duvody-nesouhlasim-poplatky-zrusime/2902344",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -342,7 +352,7 @@
       "feeds_total": 2,
       "status": "ok",
       "candidates": 8,
-      "selected": 5,
+      "selected": 6,
       "free_articles_checked": 8
     },
     {
@@ -371,7 +381,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 9,
       "selected": 5,
       "free_articles_checked": 6
     },
@@ -381,9 +391,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
-      "selected": 6,
-      "free_articles_checked": 6
+      "candidates": 17,
+      "selected": 5,
+      "free_articles_checked": 5
     },
     {
       "name": "iDNES.cz",
@@ -391,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 16,
       "selected": 5,
       "free_articles_checked": 8
     },
@@ -402,8 +412,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 10,
-      "selected": 2,
-      "free_articles_checked": 2
+      "selected": 3,
+      "free_articles_checked": 3
     },
     {
       "name": "E15",
@@ -411,7 +421,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 4,
+      "candidates": 5,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -451,7 +461,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 1,
+      "candidates": 9,
       "selected": 0,
       "free_articles_checked": 0
     },

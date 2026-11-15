@@ -3,6 +3,10 @@
   "current": null,
   "queue": [
     [
+      "https://cnn.iprima.cz/kubacek-k-letne-slova-o-autokracii-jsou-ulet-prvotni-myslenka-demonstrace-se-posunula-527247",
+      "Kubáček k Letné: Slova o autokracii jsou úlet. Prvotní myšlenka demonstrace se posunula"
+    ],
+    [
       "https://zpravy.aktualne.cz/zahranici/masivni-demonstrace-svet-si-vsima-nedelniho-protestu-na-letne/r~aaa29c0bcb5203b9589059049d250851/",
       "\"Masivní demonstrace.\" Svět si všímá nedělního protestu na Letné"
     ],
@@ -87,8 +91,8 @@
       "Ruská rozvědka nařídila sabotážní útok, tvrdí Estonci. Kvůli hrozbě uzavřeli hranice"
     ],
     [
-      "https://www.denik.cz/cesko/andrej-babis-demonstrace-koncesionarske-poplatky/",
-      "Babiš: Respektuji právo lidí protestovat. Poplatky ale zrušíme"
+      "https://www.ceskenoviny.cz/zpravy/babis-respektuji-pravo-lidi-protestovat-s-duvody-nesouhlasim-poplatky-zrusime/2902344",
+      "Babiš: Respektuji právo lidí protestovat, s důvody nesouhlasím, poplatky zrušíme"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/estonsko-uzavre-od-1-prosince-hranicni-prechody-s-ruskem-kvuli-hrozbe-sabotaze-379640",
@@ -131,10 +135,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 31,
+    "initial_pending": 32,
     "completed": [],
     "deferred": [],
-    "remaining": 31
+    "remaining": 32
   },
   "samples_seconds": [
     51.274763,
