@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-15T08:44:32.036106+00:00",
+  "updated": "2026-11-15T09:35:43.880892+00:00",
   "articles": [
+    {
+      "title": "Paul Seixas chases down World Champion Brandon McNulty at Tour de France Saitama Criterium to close out 2026 season with a win",
+      "summary": "French superstar goes solo in final lap of exhibition event to delight fans in Japan on Sunday",
+      "url": "https://www.cyclingnews.com/pro-cycling/racing/paul-seixas-chases-down-world-champion-brandon-mcnulty-at-tour-de-france-saitama-criterium-to-close-out-2026-season-with-a-win/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-15T08:45:26+00:00"
+    },
     {
       "title": "Reports suggest XDS may withdraw sponsorship of the XDS-Astana team before the scheduled 2029 date",
       "summary": "The Chinese bike manufacturer joined the team in 2025",
@@ -9,6 +18,15 @@
       "lang": "EN",
       "category": "Závody",
       "published": "2026-11-15T05:30:40+00:00"
+    },
+    {
+      "title": "Svobodnější Bittner by mohl být v novém týmu úspěšnější. Ředitel sestavy Pinarello Q36.5 věří, že českému cyklistovi přestup prospěje",
+      "summary": "",
+      "url": "https://www.roadcycling.cz/clanek/svobodnejsi-bittner-by-mohl-byt-v-novem-tymu-uspesnejsi-reditel-sestavy-pinarello-q365-veri-ze-ceskemu-cyklistovi-prestup-prospeje",
+      "source": "RoadCycling.cz",
+      "lang": "CS",
+      "category": "Závody",
+      "published": "2026-11-15"
     },
     {
       "title": "🚴‍♂️ Klatovsko na kole: jízda dějinami od kaple po zříceniny",
@@ -47,8 +65,8 @@
       "published": "2026-11-14T15:36:43+00:00"
     },
     {
-      "title": "Superprestige Merksplas: Lucinda Brand returns to take brilliant win after a race long fight.",
-      "summary": "Inge van der Heijden was second Sara Casasola third.",
+      "title": "Superprestige Merksplas: Lucinda Brand returns to take brilliant win after a race long fight",
+      "summary": "Inge van der Heijden was second Sara Casasola third",
       "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/superprestige-merksplas-lucinda-brand-returns-to-take-brilliant-win-after-a-race-long-fight/",
       "source": "Cyclingnews",
       "lang": "EN",
@@ -878,15 +896,6 @@
       "title": "Žlutý dres musí zářit, ale být i aerodynamický. Jaké trikoty dostávají lídři soutěží na Tour de France?",
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/zluty-dres-musi-zarit-ale-byt-i-aerodynamicky-jake-trikoty-dostavaji-lidri-soutezi-na-tour-de-france",
-      "source": "RoadCycling.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": "2026-11-10"
-    },
-    {
-      "title": "Španělský celek Burgos Burpellet BH má za sebou nejlepší sezónu a sní o účasti na Tour de France. Už však bez české stopy",
-      "summary": "",
-      "url": "https://www.roadcycling.cz/clanek/spanelsky-celek-burgos-burpellet-bh-ma-za-sebou-nejlepsi-sezonu-a-sni-o-ucasti-na-tour-de-france-uz-vsak-bez-ceske-stopy",
       "source": "RoadCycling.cz",
       "lang": "CS",
       "category": "Závody",
@@ -3140,15 +3149,6 @@
       "source": "MTBS.cz",
       "lang": "CS",
       "category": "Závody",
-      "published": ""
-    },
-    {
-      "title": "TEST: Canyon Grail CF SLX 7 Di2: Závodní aero raketa",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/test-canyon-grail-cf-slx-7-di2-zavodni-aero-raketa/kategorie/testy-recenze",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Technika",
       "published": ""
     }
   ],
