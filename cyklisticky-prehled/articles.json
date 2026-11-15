@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-15T09:35:43.880892+00:00",
+  "updated": "2026-11-15T10:32:03.171835+00:00",
   "articles": [
+    {
+      "title": "Boulder Cup cyclo-cross: Sidney McGill and Eric Brunner take the honours in the Elite races",
+      "summary": "Both riders continue their hugely successful seasons",
+      "url": "https://www.cyclingnews.com/pro-cycling/racing/boulder-cup-sidney-mcgill-and-eric-brunner-take-the-honours/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-15T10:25:56+00:00"
+    },
+    {
+      "title": "This US state has some of the best trails I've ever ridden – here's why I keep going back",
+      "summary": "Navigating the perils of the Red Ridge Trail in Tucson, Arizona",
+      "url": "https://www.bikeradar.com/features/routes-and-rides/red-ridge-trail-tucson-arizona",
+      "source": "BikeRadar MTB",
+      "lang": "EN",
+      "category": "MTB",
+      "published": "2026-11-15T10:00:00+00:00"
+    },
     {
       "title": "Paul Seixas chases down World Champion Brandon McNulty at Tour de France Saitama Criterium to close out 2026 season with a win",
       "summary": "French superstar goes solo in final lap of exhibition event to delight fans in Japan on Sunday",
@@ -474,6 +492,15 @@
       "summary": "",
       "url": "https://mtbs.cz/clanek/wolf-tooth-locked-in-bar-ends-koncovky-riditek-ktere-ovladly-svetove-dh/kategorie/tech-news",
       "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-12"
+    },
+    {
+      "title": "Pouze 150 kusů na světě - limitovaná verze Canyon Spectral:ON CF LTD přináší výkon 1 500 W",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132119/pouze-150-kusu-na-svete-limitovana-verze-canyon-spectralon-cf-ltd-prinasi-vykon-1-500-w.html",
+      "source": "MTBIKER.cz",
       "lang": "CS",
       "category": "MTB",
       "published": "2026-11-12"
@@ -1748,15 +1775,6 @@
       "published": "2026-11-02T11:40:26+00:00"
     },
     {
-      "title": "Po sezóně - co zkontrolovat a čím to spravit",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/131998/po-sezone-co-zkontrolovat-a-cim-to-spravit.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-11-02"
-    },
-    {
       "title": "Výsledky: JANEV Cup 2026 #4 - Hlinsko",
       "summary": "",
       "url": "https://cyklorepublic.cz/clanky/01a19c59-e1d3-7369-846d-e2ccb10dcc38/vysledky-janev-cup-2026-4-hlinsko",
@@ -1791,15 +1809,6 @@
       "lang": "EN",
       "category": "Technika",
       "published": "2026-11-01T10:00:00+00:00"
-    },
-    {
-      "title": "Na kolech přes kyrgyzské hory a kaňony (2. část)",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132031/na-kolech-pres-kyrgyzske-hory-a-kanony-2-cast.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-11-01"
     },
     {
       "title": "TEST: Apache Eagle 1 Avinox – nejlepší v nabídce",
@@ -3137,15 +3146,6 @@
       "title": "ME cyklokros 2026 - výsledky neděle",
       "summary": "",
       "url": "https://mtbs.cz/clanek/me-cyklokros-2026-vysledky-nedele/kategorie/bleskovky-zavody",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": ""
-    },
-    {
-      "title": "ME cyklokros 2026 - výsledky sobota",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/me-cyklokros-2026-vysledky-sobota/kategorie/bleskovky-zavody",
       "source": "MTBS.cz",
       "lang": "CS",
       "category": "Závody",
