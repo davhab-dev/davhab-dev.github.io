@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-15T21:46:15.475731+00:00",
+  "updated_at": "2026-11-15T22:47:06.855279+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "\"Masivní demonstrace.\" Svět si všímá nedělního protestu na Letné",
+      "summary": "Řada zahraničních médií si všímá nedělního rozsáhlého protestu na pražské Letné proti změně financování veřejnoprávních médií v Česku. S odkazem na odhad pořadatelů píší o…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-15T23:04:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/masivni-demonstrace-svet-si-vsima-nedelniho-protestu-na-letne/r~aaa29c0bcb5203b9589059049d250851/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Bývalý šéf Nvidie Huang zvažuje návrat. Ministr Bessent chce ředitele zvenčí",
       "summary": "Bývalý šéf společnosti Nvidia Jensen Huang zvažuje návrat do jejího čela a tuto možnost již probíral se svými nejbližšími spolupracovníky, napsal dnes list Financial Times…",
@@ -213,16 +223,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Topolánek jako premiér vymyslel nečekaný způsob, jak vyznamenat bratry Mašíny",
-      "summary": "Bývalý premiér Mirek Topolánek připomíná okolnosti, za kterých v roce 2008 ocenil bratry Mašíny plaketou premiéra české vlády. Jeho ambicí, což tvrdil už tehdy a…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-15T17:07:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/topolanek-jako-premier-vymyslel-necekany-zpusob-jak-vyznamenat-bratry-masiny/r~aaa29ca53dee49a837b71853d0210e97/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Estonsko uzavře hraniční přechody s Ruskem kvůli hrozbě sabotáže",
       "summary": "Estonsko uzavře od 1. prosince všechny hraniční přechody s Ruskem, oznámil ministr zahraničí Margus Tsahkna nedlouho poté, co bezpečnostní složky ohlásily, že zmařily sabotážní útok…",
       "source": "ČT24",
@@ -311,16 +311,6 @@
       "url": "https://www.ceskenoviny.cz/zpravy/ukrajina-vyviji-protidronove-technologie-mnohem-rychleji-nez-evropa-mini-expert/2902228",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
-    },
-    {
-      "title": "Írán tvrdí, že podnikl útok na americký radarový systém v Bahrajnu",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-15T07:02:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/iran-tvrdi-ze-podnikl-utok-na-americky-radarovy-system-v-bahrajnu/2902220",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
     }
   ],
   "unavailable_sources": [],
@@ -352,7 +342,7 @@
       "feeds_total": 2,
       "status": "ok",
       "candidates": 8,
-      "selected": 6,
+      "selected": 5,
       "free_articles_checked": 8
     },
     {
@@ -401,7 +391,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 18,
+      "candidates": 17,
       "selected": 5,
       "free_articles_checked": 8
     },

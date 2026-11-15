@@ -3,6 +3,10 @@
   "current": null,
   "queue": [
     [
+      "https://zpravy.aktualne.cz/zahranici/masivni-demonstrace-svet-si-vsima-nedelniho-protestu-na-letne/r~aaa29c0bcb5203b9589059049d250851/",
+      "\"Masivní demonstrace.\" Svět si všímá nedělního protestu na Letné"
+    ],
+    [
       "https://www.denik.cz/svet/byvaly-sef-nvidie-huang-zvazuje-navrat-ministr-bessent-chce-reditele-zvenci/",
       "Bývalý šéf Nvidie Huang zvažuje návrat. Ministr Bessent chce ředitele zvenčí"
     ],
@@ -87,10 +91,6 @@
       "Babiš: Respektuji právo lidí protestovat. Poplatky ale zrušíme"
     ],
     [
-      "https://zpravy.aktualne.cz/domaci/topolanek-jako-premier-vymyslel-necekany-zpusob-jak-vyznamenat-bratry-masiny/r~aaa29ca53dee49a837b71853d0210e97/",
-      "Topolánek jako premiér vymyslel nečekaný způsob, jak vyznamenat bratry Mašíny"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/svet/estonsko-uzavre-od-1-prosince-hranicni-prechody-s-ruskem-kvuli-hrozbe-sabotaze-379640",
       "Estonsko uzavře hraniční přechody s Ruskem kvůli hrozbě sabotáže"
     ],
@@ -125,20 +125,16 @@
     [
       "https://www.ceskenoviny.cz/zpravy/ukrajina-vyviji-protidronove-technologie-mnohem-rychleji-nez-evropa-mini-expert/2902228",
       "Ukrajina vyvíjí protidronové technologie mnohem rychleji než Evropa, míní expert"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/iran-tvrdi-ze-podnikl-utok-na-americky-radarovy-system-v-bahrajnu/2902220",
-      "Írán tvrdí, že podnikl útok na americký radarový systém v Bahrajnu"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 32,
+    "initial_pending": 31,
     "completed": [],
     "deferred": [],
-    "remaining": 32
+    "remaining": 31
   },
   "samples_seconds": [
     51.274763,
