@@ -3,12 +3,20 @@
   "current": null,
   "queue": [
     [
-      "https://www.idnes.cz/zpravy/domaci/letna-demonstrace-milion-chvilek-verejnopravni-media-mikulas-minar-vlada.A261112_123519_domaci_ikro",
-      "„Čas autoritářů se chýlí ke konci.“ Plná Letná burcuje proti vládě"
+      "https://www.idnes.cz/zpravy/zahranicni/zelenskyj-starshield-spacex-ukrajina-rusko-valka.A261115_140452_zahranicni_jhr",
+      "Omezení Starshieldu pomáhá Rusku zasahovat Ukrajinu, uvedl Zelenskyj"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/letna-milion-chvilek-demonstrace-protesty-okamura-verejnopravni-media-mikulas-minar-vlada.A261112_123519_domaci_ikro",
+      "Až 450 tisíc lidí burcuje na Letné. Chtějí nový dialog i konec Okamury a Zůny"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/okamura-ven-protestujici-predstavili-pozadavky-chteji-odvolani-okamury/r~aaa29b3de61bcae6c68f1e3dc60f57e1/",
+      "„Okamura ven!“ Protestující představili požadavky, chtějí odvolání Okamury"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/protivladni-demonstrace-na-letne-379631",
-      "Stavíme se proti silovému vládnutí ve stylu 4:36, zaznělo na Letné"
+      "Milion chvilek žádá stažení novely o veřejnoprávních médiích a odvolání Okamury"
     ],
     [
       "https://www.idnes.cz/zpravy/domaci/debata-vlada-ct-protest-letna-poplatky-macinka-fiala-okamura.A261115_102231_domaci_sahu",
@@ -36,11 +44,11 @@
     ],
     [
       "https://www.denik.cz/cesko/on-line-letna-proti-436-demonstranti-v-praze-podpori-nezavislost-medii/",
-      "ON-LINE: U nás to taky začalo médii, varovala slovenská herečka Nvotová"
+      "ON-LINE: Už nikdy 4:36! Milion chvilek vyzval vládu k dialogu o médiích"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/nedelni-debata-o-odolnosti-ceske-demokracie-379630",
-      "Politici v Nedělní debatě diskutovali o stavu demokracie, protestech i svobodě médií"
+      "Macinka zpochybnil přínos demonstrací pro občany, Fiala ocenil aktivitu občanské společnosti"
     ],
     [
       "https://www.idnes.cz/zpravy/zahranicni/ukrajina-zelenskyj-biden-vdecnost-trump.A261115_102156_zahranicni_jhr",
@@ -95,18 +103,18 @@
       "Putin nechce jednat o konci války na Ukrajině, uvedl Macron"
     ],
     [
-      "https://www.denik.cz/evropa/afd-je-v-meklenbursku-prednim-pomoransku-mimo-hru-povladnou-levice-a-zeleni/",
-      "AfD je v Meklenbursku-Předním Pomořansku mimo hru. Povládnou Levice a Zelení"
+      "https://www.ceskenoviny.cz/zpravy/afd-je-v-meklenbursku-prednim-pomoransku-mimo-hru-povladnou-levice-a-zeleni/2902128",
+      "AfD je v Meklenbursku-Předním Pomořansku mimo hru, povládnou Levice a Zelení"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 24,
+    "initial_pending": 26,
     "completed": [],
     "deferred": [],
-    "remaining": 24
+    "remaining": 26
   },
   "samples_seconds": [
     51.274763,

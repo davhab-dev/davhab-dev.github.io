@@ -1,19 +1,39 @@
 {
-  "updated_at": "2026-11-15T13:58:35.080493+00:00",
+  "updated_at": "2026-11-15T14:51:11.071033+00:00",
   "window_hours": 24,
   "articles": [
     {
-      "title": "„Čas autoritářů se chýlí ke konci.“ Plná Letná burcuje proti vládě",
-      "summary": "Na pražské Letné začal protest na obranu veřejnoprávních médií. „Panikaří, chybují a zaplétají se do lží,“ řekl na úvod předseda spolku Milion chvilek pro demokracii…",
+      "title": "Omezení Starshieldu pomáhá Rusku zasahovat Ukrajinu, uvedl Zelenskyj",
+      "summary": "Ruská armáda v noci na neděli zaútočila na energetickou a železniční infrastrukturu v osmi ukrajinských regionech. Uvedl to ukrajinský prezident Volodymyr Zelenskyj. Podle něj k…",
       "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-15T13:58:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/letna-demonstrace-milion-chvilek-verejnopravni-media-mikulas-minar-vlada.A261112_123519_domaci_ikro",
+      "category": "svet",
+      "published_at": "2026-11-15T14:32:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/zelenskyj-starshield-spacex-ukrajina-rusko-valka.A261115_140452_zahranicni_jhr",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
     {
-      "title": "Stavíme se proti silovému vládnutí ve stylu 4:36, zaznělo na Letné",
+      "title": "Až 450 tisíc lidí burcuje na Letné. Chtějí nový dialog i konec Okamury a Zůny",
+      "summary": "Až 450 tisíc lidí na pražské Letné protestuje na proti vládě i obranu veřejnoprávních médií. Spolek Milion chvilek pro demokracii žádá vládní koalici, aby odvolala…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-15T14:28:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/letna-milion-chvilek-demonstrace-protesty-okamura-verejnopravni-media-mikulas-minar-vlada.A261112_123519_domaci_ikro",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "„Okamura ven!“ Protestující představili požadavky, chtějí odvolání Okamury",
+      "summary": "Spolek Milion chvilek pro demokracii představil na nedělní demonstraci na Letenské pláni čtyři základní požadavky protestujících na vládu Andreje Babiše. Žádají nejen stažení návrhu zákona…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-15T15:27:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/okamura-ven-protestujici-predstavili-pozadavky-chteji-odvolani-okamury/r~aaa29b3de61bcae6c68f1e3dc60f57e1/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Milion chvilek žádá stažení novely o veřejnoprávních médiích a odvolání Okamury",
       "summary": "Lidé na pražské Letné přišli vyjádřit nesouhlas s chystanými změnami ve financování veřejnoprávních médií. Demonstrace s názvem „Letná proti 4:36“, kterou organizuje spolek Milion chvilek,…",
       "source": "ČT24",
       "category": "domaci",
@@ -83,7 +103,7 @@
       "importance_kind": "pending"
     },
     {
-      "title": "ON-LINE: U nás to taky začalo médii, varovala slovenská herečka Nvotová",
+      "title": "ON-LINE: Už nikdy 4:36! Milion chvilek vyzval vládu k dialogu o médiích",
       "summary": "Ruce pryč od médií! Heslo nedělní demonstrace na Letenské pláni v Praze odkazuje na smysl akce pořádané spolkem Milion chvilek pro demokracii. Lidé protestují proti…",
       "source": "Deník",
       "category": "domaci",
@@ -93,8 +113,8 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Politici v Nedělní debatě diskutovali o stavu demokracie, protestech i svobodě médií",
-      "summary": "Tématem Nedělní debaty bylo nadcházející 37. výročí sametové revoluce a odolnost české demokracie. Politici diskutovali také o parlamentních pravidlech, budoucnosti veřejnoprávních médií či zapojení Česka…",
+      "title": "Macinka zpochybnil přínos demonstrací pro občany, Fiala ocenil aktivitu občanské společnosti",
+      "summary": "Ministr zahraničí Petr Macinka (Motoristé) v Nedělní debatě zpochybnil přínos demonstrací spolku Milion chvilek pro demokracii pro občany. Expremiér Petr Fiala (ODS) naopak ocenil aktivitu…",
       "source": "ČT24",
       "category": "domaci",
       "published_at": "2026-11-15T10:30:29+00:00",
@@ -233,12 +253,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "AfD je v Meklenbursku-Předním Pomořansku mimo hru. Povládnou Levice a Zelení",
-      "summary": "V Meklenbursku-Předním Pomořansku, jedné z nejméně obydlených spolkových zemí na severu Německa, povládnou sociální demokraté (SPD) se Zelenými a stranou Levice. Podle agentury DPA dnes…",
-      "source": "Deník",
+      "title": "AfD je v Meklenbursku-Předním Pomořansku mimo hru, povládnou Levice a Zelení",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
       "category": "svet",
-      "published_at": "2026-11-14T19:56:53+01:00",
-      "url": "https://www.denik.cz/evropa/afd-je-v-meklenbursku-prednim-pomoransku-mimo-hru-povladnou-levice-a-zeleni/",
+      "published_at": "2026-11-14T19:46:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/afd-je-v-meklenbursku-prednim-pomoransku-mimo-hru-povladnou-levice-a-zeleni/2902128",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     }
@@ -251,7 +271,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 12,
       "selected": 7,
       "free_articles_checked": 7
     },
@@ -272,7 +292,7 @@
       "feeds_total": 2,
       "status": "ok",
       "candidates": 6,
-      "selected": 4,
+      "selected": 5,
       "free_articles_checked": 6
     },
     {
@@ -281,7 +301,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 8,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -291,7 +311,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -301,9 +321,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 3,
-      "selected": 2,
-      "free_articles_checked": 2
+      "candidates": 4,
+      "selected": 3,
+      "free_articles_checked": 3
     },
     {
       "name": "Deník",
@@ -311,9 +331,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
-      "selected": 4,
-      "free_articles_checked": 4
+      "candidates": 13,
+      "selected": 3,
+      "free_articles_checked": 3
     },
     {
       "name": "iDNES.cz",
@@ -321,9 +341,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
-      "selected": 5,
-      "free_articles_checked": 5
+      "candidates": 10,
+      "selected": 6,
+      "free_articles_checked": 6
     },
     {
       "name": "CNN Prima NEWS",
@@ -331,7 +351,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 6,
+      "candidates": 8,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -361,7 +381,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 1,
+      "candidates": 2,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -391,7 +411,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -401,7 +421,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     }
