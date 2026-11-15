@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-11-15T07:11:23.182160+00:00",
+  "updated_at": "2026-11-15T08:18:47.620002+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Na vývoj protidronové technologie stačí Ukrajině měsíce. Evropě to trvá roky",
+      "summary": "Ukrajinské společnosti dokážou vyvíjet a modernizovat protidronové technologie během několika měsíců, zatímco evropským výrobcům může obdobný proces trvat i šest let. Uvedl to Nathan Cowell…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-15T07:37:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-protidronova-technologie-evropa-vyvoj-valka.A261115_081025_zahranicni_jhr",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Letnou opět zaplní demonstranti. Milion chvilek očekává největší protest v historii",
+      "summary": "Pražská Letná se v neděli znovu promění v dějiště velkého protivládního protestu. Spolek Milion chvilek pro demokracii svolává demonstraci na obranu veřejnoprávních médií a očekává…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-15T07:13:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/letna-demonstrace-milion-chvilek-verejnopravni-media-mikulas-minar-vlada.A261112_123519_domaci_ikro",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Ranních 5 minut: Prezident České stomatologické komory Šmucler rezignoval | Microsoft po výpadku obnovil všechny své služby",
       "summary": "",
@@ -13,12 +33,32 @@
       "importance_kind": "pending"
     },
     {
+      "title": "Nakoupit ohřívače, baterky, vodu. Kyjev čeká další těžká zima",
+      "summary": "Kyjevané se chystají na další těžkou zimu. Elektřina, vytápění, plyn a voda: ve většině domácností hlavního města Ukrajiny alespoň něco z toho nefunguje. Někteří lidé…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-15T07:00:00+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/nakoupit-ohrivace-baterky-vodu-kyjev-ceka-dalsi-tezka-zima-379620",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
       "title": "Írán tvrdí, že podnikl dronový útok na americký radarový systém v Bahrajnu",
       "summary": "Íránské revoluční gardy oznámily, že podnikly dronový útok na americký radarový systém protivzdušné obrany na vrtulníkové základně v Bahrajnu. Spojené státy ani Bahrajn se k…",
       "source": "Aktuálně.cz",
       "category": "svet",
       "published_at": "2026-11-15T07:53:00+01:00",
       "url": "https://zpravy.aktualne.cz/zahranici/iran-tvrdi-ze-podnikl-dronovy-utok-na-americky-radarovy-system-v-bahrajnu/r~aaa29f4bb2c9a55431960a83e729d8e3/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Ukrajina vyvíjí protidronové technologie mnohem rychleji než Evropa, míní expert",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-15T07:30:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/ukrajina-vyviji-protidronove-technologie-mnohem-rychleji-nez-evropa-mini-expert/2902228",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -63,7 +103,7 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Zdravější obědy už jen doporučením. Co se změní v jídelně vašeho dítěte",
+      "title": "Velká změna ve školních jídelnách. Co dostane vaše dítě na talíři?",
       "summary": "Více zeleniny či luštěnin, méně polotovarů. Tak měly vypadat obědy podle nových pravidel pro školní jídelny. Premiér Andrej Babiš (ANO) se je ale rozhodl zastavit…",
       "source": "Aktuálně.cz",
       "category": "domaci",
@@ -193,42 +233,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Schovali svou hvězdu a už ani neskrývají, že jsou stranou na jedno použití. Politolog naznačuje, co čeká Motoristy",
-      "summary": "Poté, co Motoristé vycouvali z konfliktu s prezidentem, jako by ztratili důvod své existence. Ve volebních modelech klesají pod pět procent a podle politologa Jakuba…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-14T18:11:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/schovali-svou-hvezdu-a-uz-ani-neskryvaji-ze-jsou-stranou-na-jedno-pouziti-politolog-naznacuje-co-ceka-motoristy/r~aaa29cd13dcfacc3623bb794b5628cdb/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Moskva staví svůj megalomanský projekt. Desetkrát předčí Trumpovu tančírnu",
       "summary": "Je to shoda náhod, ale děje se to. Americký prezident Donald Trump se chlubil, že tančírna, kterou buduje u Bílého domu předčí i čínskou síň…",
       "source": "iDNES.cz",
       "category": "svet",
       "published_at": "2026-11-14T16:38:00+00:00",
       "url": "https://www.idnes.cz/zpravy/zahranicni/cirkus-miliardy-fronta-drony-moskva-rusko-stan-plan-putin.A261112_211803_zahranicni_sahu",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Šmucler skončil jako šéf stomatologické komory, neuspěl s vizí o jejím fungování",
-      "summary": "Prezident České stomatologické komory (ČSK) Roman Šmucler v sobotu rezignoval. Představenstvo navrhovalo jeho odvolání. V čele komory byl Šmucler od roku 2017, současný mandát mu…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-14T16:28:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/roman-smucler-rezignoval-na-prezidenta-ceske-stomatologicke-komory.A261114_103533_domaci_ikro",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Aljaška si zvolila demokratického guvernéra, poprvé od roku 1998",
-      "summary": "Aljaška bude mít poprvé od roku 1998 demokratického guvernéra. Ve volbách, které se konaly 3. listopadu, porazil Jonathan Kreiss-Tomkins tři kandidáty republikánské strany. Jeho volební…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-14T16:25:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/aljaska-demokrate-guverner-volby-usa.A261114_094545_zahranicni_jhr",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -253,16 +263,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Příchod zimy zhoršuje situaci v Gaze. Obnova zničeného území zůstává omezená",
-      "summary": "Pásmo Gazy vstupuje do další zimy s rozsáhlými válečnými škodami a nedostatkem humanitární pomoci. První silné deště zaplavily provizorní stanové tábory, zatímco rozsáhlejší rekonstrukce zničeného…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-14T14:31:55+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/prichod-zimy-zhorsuje-situaci-v-gaze-obnova-zniceneho-uzemi-zustava-omezena-379610",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Babiš: Díky účasti Polska při vyjednávání o Ukrajině bude u stolu i V4",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -281,46 +281,6 @@
       "url": "https://www.ceskenoviny.cz/zpravy/-kupka-ods-musi-projit-zmenami-prostor-dostanou-nove-tvare/2901416",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
-    },
-    {
-      "title": "Šéf stomatologické komory Šmucler rezignoval, představenstvo ho chtělo odvolat",
-      "summary": "Prezident České stomatologické komory (ČSK) Roman Šmucler v sobotu rezignoval. Představenstvo navrhovalo jeho odvolání. ČTK o tom v sobotu informovala tisková tajemnice ČSK Karolina Slavíčková.…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-14T11:14:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/roman-smucler-rezignoval-na-post-prezidenta-stomatologicke-komory/r~aaa29cbe51838710f8f9d3c6ae742597/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Kyberútok plošně neohrozil uživatelské účty, uvedla Univerzita Karlova",
-      "summary": "Při nedávném kybernetickém útoku na Univerzitu Karlovu (UK) pachatel plošně neohrozil uživatelské účty ani nenarušil provoz centrálních informačních systémů. Univerzita poslala všem zhruba 55 tisícům…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-14T10:05:05+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/kyberutok-plosne-neohrozil-uzivatelske-ucty-uvedla-univerzita-karlova-379616",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "USA zjišťovaly, zda by se Ukrajina vzdala Donbasu za členství v NATO",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-14T10:50:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/usa-zjistovaly-zda-by-se-ukrajina-vzdala-donbasu-za-clenstvi-v-nato/2902017",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "R5M: Data ukazují, jakému tlaku bude Babiš čelit při protestech stovek tisíc lidí | Univerzita Karlova řeší kybernetický útok | Evropu zastoupí na jednáních o Ukrajině pět zemí",
-      "summary": "",
-      "source": "Deník N",
-      "category": "domaci",
-      "published_at": "2026-11-14T07:16:23+00:00",
-      "url": "https://denikn.cz/newsletter/2257160/data-ukazuji-jakemu-tlaku-bude-babis-celit-pri-protestech-stovek-tisic-lidi-univerzita-karlova-resi-kyberneticky-utok-evropu-zastoupi-na-jednanich-o-ukrajine-pet-zemi/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
     }
   ],
   "unavailable_sources": [],
@@ -332,7 +292,7 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 11,
-      "selected": 6,
+      "selected": 5,
       "free_articles_checked": 7
     },
     {
@@ -351,7 +311,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 13,
       "selected": 5,
       "free_articles_checked": 8
     },
@@ -361,7 +321,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -371,7 +331,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -381,9 +341,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
-      "selected": 8,
-      "free_articles_checked": 8
+      "candidates": 6,
+      "selected": 6,
+      "free_articles_checked": 6
     },
     {
       "name": "Deník",
@@ -391,7 +351,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 11,
       "selected": 5,
       "free_articles_checked": 6
     },
@@ -401,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 14,
       "selected": 6,
       "free_articles_checked": 6
     },
@@ -441,9 +401,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 4,
-      "selected": 2,
-      "free_articles_checked": 2
+      "candidates": 3,
+      "selected": 1,
+      "free_articles_checked": 1
     },
     {
       "name": "Respekt",
@@ -471,7 +431,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     },

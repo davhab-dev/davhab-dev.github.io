@@ -3,12 +3,28 @@
   "current": null,
   "queue": [
     [
+      "https://www.idnes.cz/zpravy/zahranicni/ukrajina-protidronova-technologie-evropa-vyvoj-valka.A261115_081025_zahranicni_jhr",
+      "Na vývoj protidronové technologie stačí Ukrajině měsíce. Evropě to trvá roky"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/letna-demonstrace-milion-chvilek-verejnopravni-media-mikulas-minar-vlada.A261112_123519_domaci_ikro",
+      "Letnou opět zaplní demonstranti. Milion chvilek očekává největší protest v historii"
+    ],
+    [
       "https://denikn.cz/newsletter/2257674/prezident-ceske-stomatologicke-komory-roman-smucler-rezignoval-microsoft-po-vypadku-obnovil-vsechny-sve-sluzby-deset-kroku-jak-spd-podkopala-ceskou-obranu/",
       "Ranních 5 minut: Prezident České stomatologické komory Šmucler rezignoval | Microsoft po výpadku obnovil všechny své služby"
     ],
     [
+      "https://ct24.ceskatelevize.cz/clanek/svet/nakoupit-ohrivace-baterky-vodu-kyjev-ceka-dalsi-tezka-zima-379620",
+      "Nakoupit ohřívače, baterky, vodu. Kyjev čeká další těžká zima"
+    ],
+    [
       "https://zpravy.aktualne.cz/zahranici/iran-tvrdi-ze-podnikl-dronovy-utok-na-americky-radarovy-system-v-bahrajnu/r~aaa29f4bb2c9a55431960a83e729d8e3/",
       "Írán tvrdí, že podnikl dronový útok na americký radarový systém v Bahrajnu"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/ukrajina-vyviji-protidronove-technologie-mnohem-rychleji-nez-evropa-mini-expert/2902228",
+      "Ukrajina vyvíjí protidronové technologie mnohem rychleji než Evropa, míní expert"
     ],
     [
       "https://zpravy.aktualne.cz/zahranici/izrael-oznamil-uder-na-velitele-vojenskeho-kridla-hamasu-pri-utoku-v-gaze-zemrel/r~aaa29992aad0d58e3a857c62e6a71696/",
@@ -28,7 +44,7 @@
     ],
     [
       "https://zpravy.aktualne.cz/domaci/zdravejsi-obedy-uz-jen-doporucenim-co-se-zmeni-v-jidelne-vaseho-ditete/r~aaa29650f63e27722b54a4f6aefb1ab0/",
-      "Zdravější obědy už jen doporučením. Co se změní v jídelně vašeho dítěte"
+      "Velká změna ve školních jídelnách. Co dostane vaše dítě na talíři?"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/izraelska-armada-zasahla-jednoho-z-velitelu-vojenskeho-kridla-hamasu-379627",
@@ -79,20 +95,8 @@
       "Trojstranné summitové divadlo. Proč se Siovi na něm poměřovat příliš nechce"
     ],
     [
-      "https://zpravy.aktualne.cz/domaci/schovali-svou-hvezdu-a-uz-ani-neskryvaji-ze-jsou-stranou-na-jedno-pouziti-politolog-naznacuje-co-ceka-motoristy/r~aaa29cd13dcfacc3623bb794b5628cdb/",
-      "Schovali svou hvězdu a už ani neskrývají, že jsou stranou na jedno použití. Politolog naznačuje, co čeká Motoristy"
-    ],
-    [
       "https://www.idnes.cz/zpravy/zahranicni/cirkus-miliardy-fronta-drony-moskva-rusko-stan-plan-putin.A261112_211803_zahranicni_sahu",
       "Moskva staví svůj megalomanský projekt. Desetkrát předčí Trumpovu tančírnu"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/roman-smucler-rezignoval-na-prezidenta-ceske-stomatologicke-komory.A261114_103533_domaci_ikro",
-      "Šmucler skončil jako šéf stomatologické komory, neuspěl s vizí o jejím fungování"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/aljaska-demokrate-guverner-volby-usa.A261114_094545_zahranicni_jhr",
-      "Aljaška si zvolila demokratického guvernéra, poprvé od roku 1998"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/ruske-drony-uderily-na-ukrajinu-ta-ostrelovala-ruske-pohranici-379621",
@@ -103,42 +107,22 @@
       "Maďarské úřady při vyšetřování exministra zabavily miliony. Část byla zakopaná"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/svet/prichod-zimy-zhorsuje-situaci-v-gaze-obnova-zniceneho-uzemi-zustava-omezena-379610",
-      "Příchod zimy zhoršuje situaci v Gaze. Obnova zničeného území zůstává omezená"
-    ],
-    [
       "https://www.ceskenoviny.cz/zpravy/babis-diky-ucasti-polska-pri-vyjednavani-o-ukrajine-bude-u-stolu-i-v4/2902056",
       "Babiš: Díky účasti Polska při vyjednávání o Ukrajině bude u stolu i V4"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/-kupka-ods-musi-projit-zmenami-prostor-dostanou-nove-tvare/2901416",
       "Kupka: ODS musí projít změnami, prostor dostanou nové tváře"
-    ],
-    [
-      "https://zpravy.aktualne.cz/domaci/roman-smucler-rezignoval-na-post-prezidenta-stomatologicke-komory/r~aaa29cbe51838710f8f9d3c6ae742597/",
-      "Šéf stomatologické komory Šmucler rezignoval, představenstvo ho chtělo odvolat"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/kyberutok-plosne-neohrozil-uzivatelske-ucty-uvedla-univerzita-karlova-379616",
-      "Kyberútok plošně neohrozil uživatelské účty, uvedla Univerzita Karlova"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/usa-zjistovaly-zda-by-se-ukrajina-vzdala-donbasu-za-clenstvi-v-nato/2902017",
-      "USA zjišťovaly, zda by se Ukrajina vzdala Donbasu za členství v NATO"
-    ],
-    [
-      "https://denikn.cz/newsletter/2257160/data-ukazuji-jakemu-tlaku-bude-babis-celit-pri-protestech-stovek-tisic-lidi-univerzita-karlova-resi-kyberneticky-utok-evropu-zastoupi-na-jednanich-o-ukrajine-pet-zemi/",
-      "R5M: Data ukazují, jakému tlaku bude Babiš čelit při protestech stovek tisíc lidí | Univerzita Karlova řeší kybernetický útok | Evropu zastoupí na jednáních o Ukrajině pět zemí"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 32,
+    "initial_pending": 28,
     "completed": [],
     "deferred": [],
-    "remaining": 32
+    "remaining": 28
   },
   "samples_seconds": [
     51.274763,
