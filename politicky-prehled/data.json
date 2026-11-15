@@ -1,34 +1,64 @@
 {
-  "updated_at": "2026-11-15T10:51:35.660560+00:00",
+  "updated_at": "2026-11-15T11:49:11.046461+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Kdo chce Čechy na Ukrajině, může tam jít jako první, odmítl Okamura výtky opozice",
+      "summary": "Tématem úvodu Nedělní debaty na ČT se stala neúčast českých vojáků na spojeneckém cvičení v Polsku, které simuluje dohled nad budoucím mírem na Ukrajině. Zatímco…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-15T11:40:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/debata-vlada-ct-protest-letna-poplatky-macinka-fiala-okamura.A261115_102231_domaci_sahu",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Na Letnou přicházejí první demonstranti. Cestu na protest komplikuje stržená trolej",
+      "summary": "Pražská Letná se v neděli znovu promění v dějiště velkého protivládního protestu. Spolek Milion chvilek pro demokracii svolává demonstraci na obranu veřejnoprávních médií a očekává…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-15T11:40:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/letna-demonstrace-milion-chvilek-verejnopravni-media-mikulas-minar-vlada.A261112_123519_domaci_ikro",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Profesionální štváči, říká Vondráček o Milionu chvilek. Rakušan na Letnou půjde",
       "summary": "Předseda zahraničního výboru Poslanecké sněmovny Radek Vondráček (ANO) označil v Partii Terezie Tománkové na CNN Prima News spolek Milion chvilek pro demokracii, který pořádá nedělní…",
       "source": "iDNES.cz",
       "category": "domaci",
-      "published_at": "2026-11-15T10:49:00+00:00",
+      "published_at": "2026-11-15T11:36:00+00:00",
       "url": "https://www.idnes.cz/zpravy/domaci/radek-vondracek-vit-rakusan-partie-terezie-tomankove-debata.A261115_103142_domaci_ikro",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
     {
-      "title": "Nedělní debata o odolnosti české demokracie",
+      "title": "Téměř dvě třetiny lidí si myslí, že je dnes lépe než před rokem 1989, ukázal průzkum",
+      "summary": "Téměř dvě třetiny občanů se domnívají, že se v současném demokratickém režimu máme lépe než před rokem 1989, vyplývá z průzkumu agentury Kantar CZ pro…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-15T11:34:18+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/temer-dve-tretiny-lidi-si-mysli-ze-je-dnes-lepe-nez-pred-rokem-1989-ukazal-pruzkum-379613",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "ON-LINE: Letná proti 4:36. Demonstranti v Praze podpoří nezávislost médií",
+      "summary": "Ruce pryč od médií! Heslo nedělní demonstrace na Letenské pláni v Praze odkazuje na smysl akce pořádané spolkem Milion chvilek pro demokracii. Lidé protestují proti…",
+      "source": "Deník",
+      "category": "domaci",
+      "published_at": "2026-11-15T12:05:12+01:00",
+      "url": "https://www.denik.cz/cesko/on-line-letna-proti-436-demonstranti-v-praze-podpori-nezavislost-medii/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Nedělní debata se věnuje zapojení Česka do zajištění míru na Ukrajině",
       "summary": "Tématem Nedělní debaty je tento týden nadcházející 37. výročí sametové revoluce a odolnost české demokracie. Pořad se zaměří rovněž na důvěru společnosti v autority a…",
       "source": "ČT24",
       "category": "domaci",
       "published_at": "2026-11-15T10:30:29+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/nedelni-debata-o-odolnosti-ceske-demokracie-379630",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Na Letnou přicházejí první lidé. Milion chvilek očekává největší protest v historii",
-      "summary": "Pražská Letná se v neděli znovu promění v dějiště velkého protivládního protestu. Spolek Milion chvilek pro demokracii svolává demonstraci na obranu veřejnoprávních médií a očekává…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-15T10:30:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/letna-demonstrace-milion-chvilek-verejnopravni-media-mikulas-minar-vlada.A261112_123519_domaci_ikro",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -54,7 +84,7 @@
     },
     {
       "title": "Rusové útočili na Záporoží. Ukrajina udeřila v Rostovské oblasti a v Tatarstánu",
-      "summary": "Při útocích na ukrajinské město Záporoží bylo zraněno šest lidí včetně dvou dětí, uvedly podle BBC tamní úřady. Útoky na své území hlásí i Rusko.…",
+      "summary": "Při útocích na ukrajinské město Záporoží bylo zraněno šest lidí včetně dvou dětí, uvedly podle BBC tamní úřady. Podle ukrajinského prezidenta Volodymyra Zelenského bylo při…",
       "source": "ČT24",
       "category": "svet",
       "published_at": "2026-11-15T08:16:06+00:00",
@@ -203,36 +233,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Cvičení v Polsku se neúčastní většina koalice ochotných, hájí se resort obrany",
-      "summary": "Ministerstvo obrany upozornilo, že vojenského cvičení Koalicja 26.2 se stejně jako ČR přímo neúčastní většina takzvané koalice ochotných. Zasáhne do něj 11 ze 32 států.…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-14T18:35:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/ministerstvo-obrany-koalice-ochotnych-polsko-cviceni-podpora.A261114_121410_domaci_ikro",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Špatné školní jídelny se teď už nezmění, kritizují odborníci rozhodnutí ministrů",
-      "summary": "Rozhodnutí vlády zrušit závazné výživové normy ve vyhlášce o školním stravování a nechat je na dobrovolnosti školních jídelen vyvolalo poprask. Odborníci na výživu a zdraví…",
-      "source": "Deník",
-      "category": "domaci",
-      "published_at": "2026-11-14T19:00:00+01:00",
-      "url": "https://www.denik.cz/cesko/vlada-vyhlaska-skolni-stravovani-skolni-jidelna-kritika/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Letový provoz v USA se podle úřadu pro letectví vrátí k normálu asi v neděli",
-      "summary": "Páteční celostátní přerušení letového provozu ve Spojených státech mohla způsobit pracovní činnost dodavatele Federálního úřadu pro letectví (FAA), který měděnou kabeláž nahrazoval kabeláží optickou. Vyplývá…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-14T18:48:57+01:00",
-      "url": "https://www.denik.cz/svet/letovy-provoz-v-usa-se-podle-uradu-pro-letectvi-vrati-k-normalu-asi-v-nedeli/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Babiš: Díky účasti Polska při vyjednávání o Ukrajině bude u stolu i V4",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -262,7 +262,7 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 10,
-      "selected": 6,
+      "selected": 7,
       "free_articles_checked": 7
     },
     {
@@ -281,9 +281,9 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 7,
       "selected": 5,
-      "free_articles_checked": 8
+      "free_articles_checked": 7
     },
     {
       "name": "Novinky.cz",
@@ -291,7 +291,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 7,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -301,7 +301,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -321,9 +321,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
-      "selected": 4,
-      "free_articles_checked": 5
+      "candidates": 13,
+      "selected": 3,
+      "free_articles_checked": 4
     },
     {
       "name": "iDNES.cz",
@@ -331,7 +331,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 9,
       "selected": 6,
       "free_articles_checked": 6
     },
@@ -361,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -371,7 +371,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 2,
+      "candidates": 1,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -401,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 8,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -411,7 +411,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     }
