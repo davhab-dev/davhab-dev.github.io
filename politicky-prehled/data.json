@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-15T02:56:25.711707+00:00",
+  "updated_at": "2026-11-15T03:58:10.469796+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Izraelská armáda zasáhla jednoho z velitelů vojenského křídla Hamásu",
+      "summary": "Izraelská armáda oznámila, že podnikla úder na jednoho z velitelů vojenského křídla teroristického hnutí Hamás. Informovala o tom v noci na neděli agentura Reuters. Ta…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-15T03:16:27+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/izraelska-armada-zasahla-jednoho-z-velitelu-vojenskeho-kridla-hamasu-379627",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "USA se soustředí na usnadnění kontaktu mezi Ruskem a Evropou, uvedl Kushner",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
@@ -301,8 +311,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
-      "selected": 5,
+      "candidates": 11,
+      "selected": 6,
       "free_articles_checked": 7
     },
     {
@@ -331,7 +341,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },

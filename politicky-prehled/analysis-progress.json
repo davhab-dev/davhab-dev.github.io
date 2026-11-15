@@ -3,6 +3,10 @@
   "current": null,
   "queue": [
     [
+      "https://ct24.ceskatelevize.cz/clanek/svet/izraelska-armada-zasahla-jednoho-z-velitelu-vojenskeho-kridla-hamasu-379627",
+      "Izraelská armáda zasáhla jednoho z velitelů vojenského křídla Hamásu"
+    ],
+    [
       "https://www.ceskenoviny.cz/zpravy/usa-se-soustredi-na-usnadneni-kontaktu-mezi-ruskem-a-evropou-uvedl-kushner/2902169",
       "USA se soustředí na usnadnění kontaktu mezi Ruskem a Evropou, uvedl Kushner"
     ],
@@ -123,10 +127,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 29,
+    "initial_pending": 30,
     "completed": [],
     "deferred": [],
-    "remaining": 29
+    "remaining": 30
   },
   "samples_seconds": [
     51.274763,
