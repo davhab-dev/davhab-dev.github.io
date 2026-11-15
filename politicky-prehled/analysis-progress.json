@@ -3,16 +3,32 @@
   "current": null,
   "queue": [
     [
+      "https://cnn.iprima.cz/uder-na-lodi-u-usti-dunaje-tri-se-ocitly-v-plamenech-o-utoku-informoval-rumunsky-premier-527244",
+      "Úder na lodi u ústí Dunaje: Na třech vypukl požár, o útoku informoval rumunský premiér"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/drony-zasahly-tri-nakladni-lode-u-usti-dunaje-oznamilo-rumunsko-379642",
+      "Drony zasáhly tři nákladní lodě u ústí Dunaje, oznámilo Rumunsko"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/tomio-okamura-milion-chvilek-pro-demokracii-odvolani-demonstrace-letna.A261115_155607_domaci_ikro",
+      "Okamura odmítl svůj odchod. Ať protestují, ale poplatky zrušíme, řekli Babiš i Klempíř"
+    ],
+    [
+      "https://www.denik.cz/cesko/obrazem-nejvetsi-demonstrace-od-roku-1989-takto-to-vypadalo-v-nedeli-na-letne/",
+      "OBRAZEM: Největší demonstrace od roku 1989. Takto to vypadalo v neděli na Letné"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/varsava-polsko-ukrajina-nacionalismus-vandalismus-upa.A261115_143424_zahranicni_jhr",
+      "Vandalové poškodili pomníky ve Varšavě. Oslavovali ukrajinské nacionalisty"
+    ],
+    [
       "https://zpravy.aktualne.cz/zahranici/konec-sabotazi-a-zastrasovani-estonsko-zavre-hranicni-prechody-s-ruskem/r~aaa2946687d9497071682ae7323144d2/",
       "Konec sabotáží a zastrašování. Estonsko zavře hraniční přechody s Ruskem"
     ],
     [
       "https://cnn.iprima.cz/estonsko-uzavre-od-1-prosince-hranice-s-ruskem-kvuli-hrozbe-sabotaze-proti-estonske-zbrojovce-527241",
       "Ruská rozvědka nařídila sabotážní útok, tvrdí Estonci. Kvůli hrozbě uzavřeli hranice"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/tomio-okamura-milion-chvilek-pro-demokracii-odvolani-demonstrace-letna.A261115_155607_domaci_ikro",
-      "Okamura odmítl své odvolání. Ať lidé protestují, ale poplatky zrušíme, řekl Babiš"
     ],
     [
       "https://www.denik.cz/cesko/andrej-babis-demonstrace-koncesionarske-poplatky/",
@@ -56,11 +72,7 @@
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/protivladni-demonstrace-na-letne-379631",
-      "Milion chvilek žádá stažení novely o veřejnoprávních médiích a odvolání Okamury"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/debata-vlada-ct-protest-letna-poplatky-macinka-fiala-okamura.A261115_102231_domaci_sahu",
-      "Minář distribuuje miliony bůhvíkam a pro lidi neudělají nic, řekl Macinka o spolku"
+      "Protestující zaplnili Letenskou pláň, postavili se „silovému vládnutí“"
     ],
     [
       "https://zpravy.aktualne.cz/domaci/zavoral-odmita-dobrovolne-poplatky-rozpocet-medii-na-nich-nelze-stavet/r~aaa29215d5b90abdc2645369cf5c2ca5/",
@@ -87,14 +99,6 @@
       "Macinka zpochybnil přínos demonstrací pro občany, Fiala ocenil aktivitu občanské společnosti"
     ],
     [
-      "https://cnn.iprima.cz/nehodu-autobusu-neprezilo-12-lidi-dalsich-16-jich-v-iranu-utrpelo-zraneni-527218",
-      "Nehodu autobusu nepřežilo 12 lidí. Dalších 16 jich v Íránu utrpělo zranění"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/rusove-utocili-na-zaporozi-ukrajina-uderila-v-rostovske-oblasti-a-v-tatarstanu-379632",
-      "Rusové útočili na Záporoží. Ukrajina udeřila v Rostovské oblasti a v Tatarstánu"
-    ],
-    [
       "https://denikn.cz/newsletter/2257674/prezident-ceske-stomatologicke-komory-roman-smucler-rezignoval-microsoft-po-vypadku-obnovil-vsechny-sve-sluzby-deset-kroku-jak-spd-podkopala-ceskou-obranu/",
       "Ranních 5 minut: Prezident České stomatologické komory Šmucler rezignoval | Microsoft po výpadku obnovil všechny své služby"
     ],
@@ -119,10 +123,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 28,
+    "initial_pending": 29,
     "completed": [],
     "deferred": [],
-    "remaining": 28
+    "remaining": 29
   },
   "samples_seconds": [
     51.274763,

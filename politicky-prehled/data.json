@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-11-15T16:50:25.258075+00:00",
+  "updated_at": "2026-11-15T17:45:11.028038+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Úder na lodi u ústí Dunaje: Na třech vypukl požár, o útoku informoval rumunský premiér",
+      "summary": "Bezpilotní letouny zasáhly u ústí Dunaje tři nákladní lodě. Oznámil to v neděli podle agentury Reuters rumunský premiér Luca Niculescu s tím, že se tak…",
+      "source": "CNN Prima NEWS",
+      "category": "svet",
+      "published_at": "2026-11-15T18:30:58+01:00",
+      "url": "https://cnn.iprima.cz/uder-na-lodi-u-usti-dunaje-tri-se-ocitly-v-plamenech-o-utoku-informoval-rumunsky-premier-527244",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Drony zasáhly tři nákladní lodě u ústí Dunaje, oznámilo Rumunsko",
+      "summary": "Bezpilotní prostředky zasáhly u ústí Dunaje tři nákladní lodě. Oznámil to v neděli podle agentury Reuters premiér Luca Niculescu s tím, že se tak stalo…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-15T17:26:43+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/drony-zasahly-tri-nakladni-lode-u-usti-dunaje-oznamilo-rumunsko-379642",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Okamura odmítl svůj odchod. Ať protestují, ale poplatky zrušíme, řekli Babiš i Klempíř",
+      "summary": "Premiér Andrej Babiš dnes v reakci na demonstraci na Letné řekl, že respektuje právo lidí protestovat. S důvody nedělní akce ale nesouhlasí a nemá je…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-15T17:15:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/tomio-okamura-milion-chvilek-pro-demokracii-odvolani-demonstrace-letna.A261115_155607_domaci_ikro",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "OBRAZEM: Největší demonstrace od roku 1989. Takto to vypadalo v neděli na Letné",
+      "summary": "Odhadem zhruba 400 tisíc lidí z různých míst republiky v neděli 15. listopadu vyjádřilo v Praze nesouhlas s kroky vlády Andreje Babiše. Organizátoři ze spolku…",
+      "source": "Deník",
+      "category": "domaci",
+      "published_at": "2026-11-15T18:10:00+01:00",
+      "url": "https://www.denik.cz/cesko/obrazem-nejvetsi-demonstrace-od-roku-1989-takto-to-vypadalo-v-nedeli-na-letne/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Vandalové poškodili pomníky ve Varšavě. Oslavovali ukrajinské nacionalisty",
+      "summary": "Neznámí pachatelé ve Varšavě posprejovali dva pomníky nápisy oslavujícími Ukrajinskou povstaleckou armádu (UPA), která je v Polsku spojována především s masakry polského obyvatelstva za druhé…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-15T16:51:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/varsava-polsko-ukrajina-nacionalismus-vandalismus-upa.A261115_143424_zahranicni_jhr",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Konec sabotáží a zastrašování. Estonsko zavře hraniční přechody s Ruskem",
       "summary": "Estonsko uzavře od 1. prosince všechny hraniční přechody s Ruskem, oznámil na sociální síti ministr zahraničí Margus Tsahkna. Důvodem jsou podle něj jasné důkazy, že…",
@@ -19,16 +69,6 @@
       "category": "svet",
       "published_at": "2026-11-15T17:26:56+01:00",
       "url": "https://cnn.iprima.cz/estonsko-uzavre-od-1-prosince-hranice-s-ruskem-kvuli-hrozbe-sabotaze-proti-estonske-zbrojovce-527241",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Okamura odmítl své odvolání. Ať lidé protestují, ale poplatky zrušíme, řekl Babiš",
-      "summary": "„Navštěvují se s opozicí,“ reagoval Tomio Okamura pro iDNES.cz na výzvu spolku Milion chvilek pro demokracii, aby odešel z čela Poslanecké sněmovny. Organizátoři demonstrace na…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-15T16:20:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/tomio-okamura-milion-chvilek-pro-demokracii-odvolani-demonstrace-letna.A261115_155607_domaci_ikro",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -133,22 +173,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Milion chvilek žádá stažení novely o veřejnoprávních médiích a odvolání Okamury",
+      "title": "Protestující zaplnili Letenskou pláň, postavili se „silovému vládnutí“",
       "summary": "Spolek Milion chvilek žádá vládu o stažení zákona, který ruší poplatky za veřejnoprávní média. Chce skutečný dialog a jiný styl vládnutí. Na demonstraci na pražské…",
       "source": "ČT24",
       "category": "domaci",
       "published_at": "2026-11-15T12:57:27+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/protivladni-demonstrace-na-letne-379631",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Minář distribuuje miliony bůhvíkam a pro lidi neudělají nic, řekl Macinka o spolku",
-      "summary": "Hlavními tématy Nedělní debaty na ČT se stala chystaná demonstrace na Letné a neúčast českých vojáků na cvičení v Polsku. Podle opozice jsou protesty vizitkou…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-15T12:52:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/debata-vlada-ct-protest-letna-poplatky-macinka-fiala-okamura.A261115_102231_domaci_sahu",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -213,26 +243,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Nehodu autobusu nepřežilo 12 lidí. Dalších 16 jich v Íránu utrpělo zranění",
-      "summary": "Při nehodě autobusu v západním Íránu o víkendu zahynulo 12 lidí, dalších 16 utrpělo zranění. S odkazem na státní média o tom v neděli informovala…",
-      "source": "CNN Prima NEWS",
-      "category": "svet",
-      "published_at": "2026-11-15T09:36:57+01:00",
-      "url": "https://cnn.iprima.cz/nehodu-autobusu-neprezilo-12-lidi-dalsich-16-jich-v-iranu-utrpelo-zraneni-527218",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Rusové útočili na Záporoží. Ukrajina udeřila v Rostovské oblasti a v Tatarstánu",
-      "summary": "Při útocích na ukrajinské město Záporoží bylo zraněno šest lidí včetně dvou dětí, uvedly podle BBC tamní úřady. Podle ukrajinského prezidenta Volodymyra Zelenského bylo při…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-15T08:16:06+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusove-utocili-na-zaporozi-ukrajina-uderila-v-rostovske-oblasti-a-v-tatarstanu-379632",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Ranních 5 minut: Prezident České stomatologické komory Šmucler rezignoval | Microsoft po výpadku obnovil všechny své služby",
       "summary": "",
       "source": "Deník N",
@@ -291,7 +301,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 14,
       "selected": 7,
       "free_articles_checked": 7
     },
@@ -301,7 +311,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -321,7 +331,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -331,7 +341,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -343,7 +353,7 @@
       "status": "ok",
       "candidates": 6,
       "selected": 5,
-      "free_articles_checked": 5
+      "free_articles_checked": 6
     },
     {
       "name": "Deník",
@@ -352,8 +362,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 14,
-      "selected": 3,
-      "free_articles_checked": 4
+      "selected": 4,
+      "free_articles_checked": 5
     },
     {
       "name": "iDNES.cz",
@@ -361,7 +371,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 12,
       "selected": 5,
       "free_articles_checked": 5
     },
@@ -371,7 +381,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 10,
       "selected": 2,
       "free_articles_checked": 2
     },
@@ -381,7 +391,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 2,
+      "candidates": 3,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -391,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -441,7 +451,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     }
