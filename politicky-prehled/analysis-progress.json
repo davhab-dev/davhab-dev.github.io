@@ -3,6 +3,14 @@
   "current": null,
   "queue": [
     [
+      "https://www.denik.cz/svet/byvaly-sef-nvidie-huang-zvazuje-navrat-ministr-bessent-chce-reditele-zvenci/",
+      "Bývalý šéf Nvidie Huang zvažuje návrat. Ministr Bessent chce ředitele zvenčí"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/estonsko-po-zmarenem-pokusu-o-sabotaz-zbrojovky-zavre-hranicni-prechody-s-ruskem/2902340",
+      "Estonsko po zmařeném pokusu o sabotáž zbrojovky zavře hraniční přechody s Ruskem"
+    ],
+    [
       "https://www.ceskenoviny.cz/zpravy/politolog-protest-by-mohl-primet-babise-k-uprave-zakona-o-ruseni-poplatku/2902442",
       "Politolog: Protest by mohl přimět Babiše k úpravě zákona o rušení poplatků"
     ],
@@ -87,12 +95,12 @@
       "Estonsko uzavře hraniční přechody s Ruskem kvůli hrozbě sabotáže"
     ],
     [
-      "https://zpravy.aktualne.cz/zahranici/dva-tankery-v-hormuzskem-prulivu-narazily-na-miny-jeden-se-potopil-uvedl-iran/r~aaa29744c32c4c30784a4b659f83f945/",
-      "Dva tankery v Hormuzském průlivu narazily na miny, jeden se potopil, uvedl Írán"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/svet/utok-hutiu-u-jemenskeho-adenu-si-vyzadal-nejmene-pet-mrtvych-pise-afp-379638",
       "Jemenská vláda posiluje obranu Adenu, hútíové postupují"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/dva-tankery-v-hormuzskem-prulivu-narazily-na-miny-jeden-se-potopil-uvedl-iran/2902319",
+      "Dva tankery v Hormuzském průlivu narazily na miny, jeden se potopil, uvedl Írán"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/protivladni-demonstrace-na-letne-379631",
@@ -127,10 +135,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 30,
+    "initial_pending": 32,
     "completed": [],
     "deferred": [],
-    "remaining": 30
+    "remaining": 32
   },
   "samples_seconds": [
     51.274763,
