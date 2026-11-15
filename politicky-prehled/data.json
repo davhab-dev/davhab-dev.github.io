@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-11-15T03:58:10.469796+00:00",
+  "updated_at": "2026-11-15T05:00:31.066529+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Sněmovna se pře o novely trestního zákoníku. Opozici vadí roztříštěnost",
+      "summary": "Ve sněmovně panují spory ohledně novel trestního zákoníku. Koalice předložila do dolní komory vládní i poslanecké návrhy. Chce tak třeba zpřísnit tresty za týrání zvířat.…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-15T05:00:00+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/snemovna-se-pre-o-novely-trestniho-zakoniku-opozici-vadi-roztristenost-379619",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Bývalý americký generál varuje: Západ musí jasně podpořit ukrajinské vítězství",
+      "summary": "Bývalý velitel amerických pozemních sil v Evropě Ben Hodges ostře kritizoval přístup západních zemí k válce na Ukrajině. V rozhovoru pro Aktuálně.cz uvedl, že největší…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-15T05:30:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/byvaly-americky-general-varuje-zapad-musi-jasne-podporit-ukrajinske-vitezstvi/r~aaa2982bf69d429daaeff1d097444365/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Zdravější obědy už jen doporučením. Co se změní v jídelně vašeho dítěte",
+      "summary": "Více zeleniny či luštěnin, méně polotovarů. Tak měly vypadat obědy podle nových pravidel pro školní jídelny. Premiér Andrej Babiš (ANO) se je ale rozhodl zastavit…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-15T05:30:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/zdravejsi-obedy-uz-jen-doporucenim-co-se-zmeni-v-jidelne-vaseho-ditete/r~aaa29650f63e27722b54a4f6aefb1ab0/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Izraelská armáda zasáhla jednoho z velitelů vojenského křídla Hamásu",
       "summary": "Izraelská armáda oznámila, že podnikla úder na jednoho z velitelů vojenského křídla teroristického hnutí Hamás. Informovala o tom v noci na neděli agentura Reuters. Ta…",
@@ -213,16 +243,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Devět zemí EU žádá tvrdší pravidla pro slučování rodin uprchlíků. Česko je mezi nimi",
-      "summary": "Česká republika a osm dalších zemí požadují od Evropské unie nová, přísnější pravidla pro slučování rodin uprchlíků. Ve společném dopise Evropské komisi (EK) argumentují mimo…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-14T13:54:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/devet-zemi-vcetne-ceska-vyzyva-eu-k-uprave-pravidel-pro-slucovani-rodin-uprchliku/r~aaa299006a8273bc9edac39a5ed3d4e4/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Babiš: Díky účasti Polska při vyjednávání o Ukrajině bude u stolu i V4",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -253,16 +273,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Šéf stomatologické komory Šmucler rezignoval, představenstvo ho chtělo odvolat",
-      "summary": "Prezident České stomatologické komory (ČSK) Roman Šmucler v sobotu rezignoval. Představenstvo navrhovalo jeho odvolání. ČTK o tom v sobotu informovala tisková tajemnice ČSK Karolina Slavíčková.…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-14T11:14:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/roman-smucler-rezignoval-na-post-prezidenta-stomatologicke-komory/r~aaa29cbe51838710f8f9d3c6ae742597/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Kyberútok plošně neohrozil uživatelské účty, uvedla Univerzita Karlova",
       "summary": "Při nedávném kybernetickém útoku na Univerzitu Karlovu (UK) pachatel plošně neohrozil uživatelské účty ani nenarušil provoz centrálních informačních systémů. Univerzita poslala všem zhruba 55 tisícům…",
       "source": "ČT24",
@@ -273,22 +283,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Zvrat v jednání o míru na Ukrajině? Zelenskyj prolomil tabu, od USA zazněl lákavý návrh",
-      "summary": "Spojené státy se při rozhovorech o ukončení rusko-ukrajinské války z tohoto týdne dotazovaly ukrajinské strany, zda by se Kyjev byl ochoten vzdát Donbasu výměnou za…",
-      "source": "CNN Prima NEWS",
-      "category": "svet",
-      "published_at": "2026-11-14T10:58:48+01:00",
-      "url": "https://cnn.iprima.cz/prulom-v-jednani-o-miru-na-ukrajine-zelenskyj-prolomil-tabu-od-usa-zaznel-lakavy-navrh-527173",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Prezident České stomatologické komory Roman Šmucler rezignoval",
-      "summary": "Prezident České stomatologické komory (ČSK) Roman Šmucler v sobotu rezignoval. Představenstvo navrhovalo jeho odvolání, informovala v sobotu tisková tajemnice ČSK Karolina Slavíčková. Šmucler byl v…",
-      "source": "ČT24",
+      "title": "Prezident České stomatologické komory Šmucler rezignoval",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
       "category": "domaci",
-      "published_at": "2026-11-14T09:55:59+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/prezident-ceske-stomatologicke-komory-roman-smucler-rezignoval-379615",
+      "published_at": "2026-11-14T10:43:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/prezident-ceske-stomatologicke-komory-smucler-rezignoval/2902015",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -321,7 +321,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -332,7 +332,7 @@
       "feeds_total": 2,
       "status": "ok",
       "candidates": 11,
-      "selected": 4,
+      "selected": 5,
       "free_articles_checked": 8
     },
     {
@@ -341,7 +341,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 11,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -361,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 9,
       "selected": 7,
       "free_articles_checked": 7
     },
@@ -371,7 +371,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 13,
       "selected": 5,
       "free_articles_checked": 6
     },
@@ -392,8 +392,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 7,
-      "selected": 1,
-      "free_articles_checked": 1
+      "selected": 0,
+      "free_articles_checked": 0
     },
     {
       "name": "E15",
@@ -411,7 +411,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -461,7 +461,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     }
