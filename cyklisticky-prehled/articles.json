@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T22:00:41.775538+00:00",
+  "updated": "2026-11-15T23:00:07.382119+00:00",
   "articles": [
     {
       "title": "Lidl-Trek unveils new cyclo-cross team but Thibau Nys stays with father’s squad",
@@ -1847,15 +1847,6 @@
       "published": "2026-11-02T11:40:26+00:00"
     },
     {
-      "title": "Po sezóně - co zkontrolovat a čím to spravit",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/131998/po-sezone-co-zkontrolovat-a-cim-to-spravit.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-11-02"
-    },
-    {
       "title": "Výsledky: JANEV Cup 2026 #4 - Hlinsko",
       "summary": "",
       "url": "https://cyklorepublic.cz/clanky/01a19c59-e1d3-7369-846d-e2ccb10dcc38/vysledky-janev-cup-2026-4-hlinsko",
@@ -3150,6 +3141,15 @@
       "lang": "CS",
       "category": "Gravel",
       "published": "2025-11-17T08:05:12+00:00"
+    },
+    {
+      "title": "Kristýna Zemanová při debutu mezi elitou osmá v X20 Trofee v Lokerenu",
+      "summary": "",
+      "url": "https://cyklorepublic.cz/clanky/019a4a9e-c139-7112-bd7a-166730e32392/zemanova-zvladla-premieru-mezi-elitou-v-lokerenu-dojela-osma-a-porazila-i-hvezdu-vas",
+      "source": "CykloRepublic.cz",
+      "lang": "CS",
+      "category": "Cyklistika",
+      "published": "2025-11-03"
     }
   ],
   "source_errors": [
