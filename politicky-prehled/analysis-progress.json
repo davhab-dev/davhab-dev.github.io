@@ -3,6 +3,18 @@
   "current": null,
   "queue": [
     [
+      "https://www.idnes.cz/zpravy/zahranicni/kim-cong-un-se-vzdal-sovetskeho-dedictvi-kldr-po-78-letech-pozmenila-vlajku.A261114_154758_zahranicni_jhr",
+      "Kim Čong-un se vzdal sovětského dědictví. KLDR po 78 letech pozměnila vlajku"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/pred-30-lety-se-konaly-prvni-volby-do-senatu-debaty-o-jeho-potrebnosti-trvaji-379637",
+      "Před 30 lety se konaly první volby do Senátu. Debaty o jeho potřebnosti trvají"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/zahranicni-agentury-demonstrace-na-letne-ap-afp-dpa.A261115_193936_zahranicni_onbu",
+      "Letná má přesah do zahraničí. Agentury píšou o „masivní“ demonstraci proti vládě"
+    ],
+    [
       "https://www.idnes.cz/zpravy/zahranicni/donald-trump-faa-kongres-joe-biden-sean-duffy-usa-letiste.A261115_191514_zahranicni_onbu",
       "„Může za to Biden.“ Trump se vyjádřil k výpadkům letů v USA, žádá modernizaci"
     ],
@@ -13,10 +25,6 @@
     [
       "https://zpravy.aktualne.cz/zahranici/letecky-provoz-nad-amerikou-utichl-muze-za-to-biden-prohlasil-trump-rekl-si-take-o-vic-penez/r~aaa29b98b5cfc6d9e40f024b7a24b8bc/",
       "Letecký provoz nad Amerikou utichl. Může za to Biden, prohlásil Trump. Řekl si také o víc peněz"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/drony-zasahly-tri-nakladni-lode-u-usti-dunaje-oznamilo-rumunsko.A261115_190157_zahranicni_remy",
-      "Drony zasáhly tři nákladní lodě u ústí Dunaje, oznámilo Rumunsko"
     ],
     [
       "https://www.denik.cz/svet/trump-z-vypadku-letu-v-usa-vini-bidena-zada-kongres-o-vice-penez-na-modernizaci/",
@@ -39,12 +47,12 @@
       "Letnou z roku 1989 nic nepřekoná. Jaké byly největší demonstrace v Česku"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/saman-chce-obetovat-60-velbloudu-putin-valka-ukrajina.A261112_133334_zahranicni_vanky",
-      "Šaman má recept na vítězství Ruska nad Ukrajinou. Chystá rituály s velbloudy"
-    ],
-    [
       "https://cnn.iprima.cz/uder-na-lodi-u-usti-dunaje-tri-se-ocitly-v-plamenech-o-utoku-informoval-rumunsky-premier-527244",
       "Úder na lodi u ústí Dunaje: Na třech vypukl požár, o útoku informoval rumunský premiér"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/drony-zasahly-tri-nakladni-lode-u-usti-dunaje-oznamilo-rumunsko-379642",
+      "Drony zasáhly tři nákladní lodě u ústí Dunaje, oznámilo Rumunsko"
     ],
     [
       "https://www.idnes.cz/zpravy/domaci/tomio-okamura-milion-chvilek-pro-demokracii-odvolani-demonstrace-letna.A261115_155607_domaci_ikro",
@@ -80,7 +88,7 @@
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/utok-hutiu-u-jemenskeho-adenu-si-vyzadal-nejmene-pet-mrtvych-pise-afp-379638",
-      "Jemenská vláda posiluje obranu Adenu. Útok hútíů si vyžádal mrtvé"
+      "Jemenská vláda posiluje obranu Adenu, hútíové postupují"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/protivladni-demonstrace-na-letne-379631",
@@ -97,10 +105,6 @@
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/temer-dve-tretiny-lidi-si-mysli-ze-je-dnes-lepe-nez-pred-rokem-1989-ukazal-pruzkum-379613",
       "Téměř dvě třetiny lidí si myslí, že je dnes lépe než před rokem 1989, ukázal průzkum"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/nedelni-debata-o-odolnosti-ceske-demokracie-379630",
-      "Macinka zpochybnil přínos demonstrací pro občany, Fiala ocenil aktivitu občanské společnosti"
     ],
     [
       "https://denikn.cz/newsletter/2257674/prezident-ceske-stomatologicke-komory-roman-smucler-rezignoval-microsoft-po-vypadku-obnovil-vsechny-sve-sluzby-deset-kroku-jak-spd-podkopala-ceskou-obranu/",
@@ -123,10 +127,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 29,
+    "initial_pending": 30,
     "completed": [],
     "deferred": [],
-    "remaining": 29
+    "remaining": 30
   },
   "samples_seconds": [
     51.274763,

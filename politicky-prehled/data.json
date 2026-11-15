@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-11-15T18:53:09.110897+00:00",
+  "updated_at": "2026-11-15T19:49:29.935253+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Kim Čong-un se vzdal sovětského dědictví. KLDR po 78 letech pozměnila vlajku",
+      "summary": "KLDR po 78 letech změnila poměr stran své státní vlajky. Severokorejský vůdce Kim Čong-un se tím vzdaluje od dřívějšího sovětského dědictví. Jeho krok pozorovatelé vnímají…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-15T19:46:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/kim-cong-un-se-vzdal-sovetskeho-dedictvi-kldr-po-78-letech-pozmenila-vlajku.A261114_154758_zahranicni_jhr",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Před 30 lety se konaly první volby do Senátu. Debaty o jeho potřebnosti trvají",
+      "summary": "Třicet let uplynulo v neděli od prvních voleb do Senátu. Lidé tehdy zvolili všech 81 zákonodárců. Od té doby se třetina horní parlamentní komory obměňuje…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-15T19:14:35+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/pred-30-lety-se-konaly-prvni-volby-do-senatu-debaty-o-jeho-potrebnosti-trvaji-379637",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Letná má přesah do zahraničí. Agentury píšou o „masivní“ demonstraci proti vládě",
+      "summary": "Řada zahraničních médií si všímá rozsáhlého nedělního protestu na pražské Letné proti změně financování veřejnoprávních médií v Česku. S odkazem na odhad pořadatelů píší o…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-15T18:58:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/zahranicni-agentury-demonstrace-na-letne-ap-afp-dpa.A261115_193936_zahranicni_onbu",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "„Může za to Biden.“ Trump se vyjádřil k výpadkům letů v USA, žádá modernizaci",
       "summary": "Americký prezident Donald Trump se v neděli poprvé vyjádřil k pátečnímu čtyřhodinovému výpadku letového provozu v celých Spojených státech, který i během víkendu komplikoval leteckou…",
@@ -29,16 +59,6 @@
       "category": "svet",
       "published_at": "2026-11-15T19:07:00+01:00",
       "url": "https://zpravy.aktualne.cz/zahranici/letecky-provoz-nad-amerikou-utichl-muze-za-to-biden-prohlasil-trump-rekl-si-take-o-vic-penez/r~aaa29b98b5cfc6d9e40f024b7a24b8bc/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Drony zasáhly tři nákladní lodě u ústí Dunaje, oznámilo Rumunsko",
-      "summary": "Bezpilotní prostředky zasáhly u ústí Dunaje tři nákladní lodě. Oznámil to dnes premiér Luca Niculescu s tím, že se tak stalo v sobotu. Posádky plavidel…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-15T18:05:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/drony-zasahly-tri-nakladni-lode-u-usti-dunaje-oznamilo-rumunsko.A261115_190157_zahranicni_remy",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -93,22 +113,22 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Šaman má recept na vítězství Ruska nad Ukrajinou. Chystá rituály s velbloudy",
-      "summary": "Pět velbloudů každý měsíc po dobu jednoho roku, celkem rovných šedesát obětí. Sibiřský šaman Artur Cybikov z Irkutské oblasti přišel s originálním receptem, jak zvrátit…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-15T17:33:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/saman-chce-obetovat-60-velbloudu-putin-valka-ukrajina.A261112_133334_zahranicni_vanky",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Úder na lodi u ústí Dunaje: Na třech vypukl požár, o útoku informoval rumunský premiér",
       "summary": "Bezpilotní letouny zasáhly u ústí Dunaje tři nákladní lodě. Oznámil to v neděli podle agentury Reuters rumunský premiér Luca Niculescu s tím, že se tak…",
       "source": "CNN Prima NEWS",
       "category": "svet",
       "published_at": "2026-11-15T18:30:58+01:00",
       "url": "https://cnn.iprima.cz/uder-na-lodi-u-usti-dunaje-tri-se-ocitly-v-plamenech-o-utoku-informoval-rumunsky-premier-527244",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Drony zasáhly tři nákladní lodě u ústí Dunaje, oznámilo Rumunsko",
+      "summary": "Bezpilotní prostředky zasáhly u ústí Dunaje tři nákladní lodě. Oznámil to v neděli podle agentury Reuters premiér Luca Niculescu s tím, že se tak stalo…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-15T17:26:43+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/drony-zasahly-tri-nakladni-lode-u-usti-dunaje-oznamilo-rumunsko-379642",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -193,7 +213,7 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Jemenská vláda posiluje obranu Adenu. Útok hútíů si vyžádal mrtvé",
+      "title": "Jemenská vláda posiluje obranu Adenu, hútíové postupují",
       "summary": "Útok hútíjských povstalců si nedaleko Adenu vyžádal životy nejméně pěti lidí. Dalších osm osob utrpělo zranění. S odkazem na tři vojenské a jeden vládní zdroj…",
       "source": "ČT24",
       "category": "svet",
@@ -239,16 +259,6 @@
       "category": "domaci",
       "published_at": "2026-11-15T11:34:18+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/temer-dve-tretiny-lidi-si-mysli-ze-je-dnes-lepe-nez-pred-rokem-1989-ukazal-pruzkum-379613",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Macinka zpochybnil přínos demonstrací pro občany, Fiala ocenil aktivitu občanské společnosti",
-      "summary": "Ministr zahraničí Petr Macinka (Motoristé) v Nedělní debatě zpochybnil přínos demonstrací spolku Milion chvilek pro demokracii pro občany. Expremiér Petr Fiala (ODS) naopak ocenil aktivitu…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-15T10:30:29+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/nedelni-debata-o-odolnosti-ceske-demokracie-379630",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -301,8 +311,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
-      "selected": 6,
+      "candidates": 13,
+      "selected": 7,
       "free_articles_checked": 7
     },
     {
@@ -321,7 +331,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 8,
       "selected": 4,
       "free_articles_checked": 8
     },
@@ -331,7 +341,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 8,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -361,7 +371,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 15,
       "selected": 4,
       "free_articles_checked": 5
     },
@@ -371,9 +381,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 16,
       "selected": 6,
-      "free_articles_checked": 7
+      "free_articles_checked": 8
     },
     {
       "name": "CNN Prima NEWS",
@@ -411,7 +421,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 3,
+      "candidates": 5,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -441,7 +451,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -451,7 +461,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     }
