@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-11-15T09:53:41.064445+00:00",
+  "updated_at": "2026-11-15T10:51:35.660560+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Profesionální štváči, říká Vondráček o Milionu chvilek. Rakušan na Letnou půjde",
+      "summary": "Předseda zahraničního výboru Poslanecké sněmovny Radek Vondráček (ANO) označil v Partii Terezie Tománkové na CNN Prima News spolek Milion chvilek pro demokracii, který pořádá nedělní…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-15T10:49:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/radek-vondracek-vit-rakusan-partie-terezie-tomankove-debata.A261115_103142_domaci_ikro",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Nedělní debata o odolnosti české demokracie",
+      "summary": "Tématem Nedělní debaty je tento týden nadcházející 37. výročí sametové revoluce a odolnost české demokracie. Pořad se zaměří rovněž na důvěru společnosti v autority a…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-15T10:30:29+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/nedelni-debata-o-odolnosti-ceske-demokracie-379630",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Na Letnou přicházejí první lidé. Milion chvilek očekává největší protest v historii",
+      "summary": "Pražská Letná se v neděli znovu promění v dějiště velkého protivládního protestu. Spolek Milion chvilek pro demokracii svolává demonstraci na obranu veřejnoprávních médií a očekává…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-15T10:30:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/letna-demonstrace-milion-chvilek-verejnopravni-media-mikulas-minar-vlada.A261112_123519_domaci_ikro",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Náladový Zelenskyj, puberťák Putin a podlézavý Trump. Biden vydává paměti",
+      "summary": "Ukrajinský prezident Volodymyr Zelenskyj dovede být náladový, uvedl ve svých nových pamětech americký exprezident Joe Biden. Zelenskyj podle něj také nebyl tak vděčný, jak očekával.…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-15T09:44:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-zelenskyj-biden-vdecnost-trump.A261115_102156_zahranicni_jhr",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Nehodu autobusu nepřežilo 12 lidí. Dalších 16 jich v Íránu utrpělo zranění",
       "summary": "Při nehodě autobusu v západním Íránu o víkendu zahynulo 12 lidí, dalších 16 utrpělo zranění. S odkazem na státní média o tom v neděli informovala…",
@@ -29,16 +69,6 @@
       "category": "svet",
       "published_at": "2026-11-15T07:37:00+00:00",
       "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-protidronova-technologie-evropa-vyvoj-valka.A261115_081025_zahranicni_jhr",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Letnou opět zaplní demonstranti. Milion chvilek očekává největší protest v historii",
-      "summary": "Pražská Letná se v neděli znovu promění v dějiště velkého protivládního protestu. Spolek Milion chvilek pro demokracii svolává demonstraci na obranu veřejnoprávních médií a očekává…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-15T07:13:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/letna-demonstrace-milion-chvilek-verejnopravni-media-mikulas-minar-vlada.A261112_123519_domaci_ikro",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -109,26 +139,6 @@
       "category": "domaci",
       "published_at": "2026-11-15T05:00:00+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/snemovna-se-pre-o-novely-trestniho-zakoniku-opozici-vadi-roztristenost-379619",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Bývalý americký generál varuje: Západ musí jasně podpořit ukrajinské vítězství",
-      "summary": "Bývalý velitel amerických pozemních sil v Evropě Ben Hodges ostře kritizoval přístup západních zemí k válce na Ukrajině. V rozhovoru pro Aktuálně.cz uvedl, že největší…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-15T05:30:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/byvaly-americky-general-varuje-zapad-musi-jasne-podporit-ukrajinske-vitezstvi/r~aaa2982bf69d429daaeff1d097444365/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Velká změna ve školních jídelnách. Co dostane vaše dítě na talíři?",
-      "summary": "Více zeleniny či luštěnin, méně polotovarů. Tak měly vypadat obědy podle nových pravidel pro školní jídelny. Premiér Andrej Babiš (ANO) se je ale rozhodl zastavit…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-15T05:30:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/zdravejsi-obedy-uz-jen-doporucenim-co-se-zmeni-v-jidelne-vaseho-ditete/r~aaa29650f63e27722b54a4f6aefb1ab0/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -223,26 +233,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Trojstranné summitové divadlo. Proč se Siovi na něm poměřovat příliš nechce",
-      "summary": "Nadcházející fórum Asijsko-pacifické hospodářské spolupráce (APEC) v čínském Šen-čenu by mohlo přinést diplomatickou událost první kategorie. Americký prezident Donald Trump a ruský vůdce Vladimir Putin…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-14T17:17:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/summit-tri-velmoci-bude-o-tom-ze-ho-putin-ma-nejvetsi-a-si-ze-vsech-nejmensi.A261114_175257_zahranicni_remy",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Moskva staví svůj megalomanský projekt. Desetkrát předčí Trumpovu tančírnu",
-      "summary": "Je to shoda náhod, ale děje se to. Americký prezident Donald Trump se chlubil, že tančírna, kterou buduje u Bílého domu předčí i čínskou síň…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-14T16:38:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/cirkus-miliardy-fronta-drony-moskva-rusko-stan-plan-putin.A261112_211803_zahranicni_sahu",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Babiš: Díky účasti Polska při vyjednávání o Ukrajině bude u stolu i V4",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -271,8 +261,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
-      "selected": 5,
+      "candidates": 10,
+      "selected": 6,
       "free_articles_checked": 7
     },
     {
@@ -281,7 +271,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -311,7 +301,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -321,9 +311,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 5,
-      "selected": 4,
-      "free_articles_checked": 4
+      "candidates": 3,
+      "selected": 2,
+      "free_articles_checked": 2
     },
     {
       "name": "Deník",
@@ -341,7 +331,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 12,
       "selected": 6,
       "free_articles_checked": 6
     },
@@ -351,7 +341,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
+      "candidates": 9,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -361,7 +351,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 2,
+      "candidates": 3,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -371,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 16,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -381,7 +371,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 3,
+      "candidates": 2,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -411,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 9,
       "selected": 0,
       "free_articles_checked": 0
     },
