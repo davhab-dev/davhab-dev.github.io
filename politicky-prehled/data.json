@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T05:00:31.066529+00:00",
+  "updated_at": "2026-11-15T05:57:57.213727+00:00",
   "window_hours": 24,
   "articles": [
     {
@@ -321,7 +321,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -341,7 +341,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -351,7 +351,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 16,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -371,7 +371,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 12,
       "selected": 5,
       "free_articles_checked": 6
     },
@@ -381,7 +381,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 15,
       "selected": 6,
       "free_articles_checked": 6
     },
@@ -391,7 +391,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
+      "candidates": 6,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -421,7 +421,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 4,
+      "candidates": 3,
       "selected": 1,
       "free_articles_checked": 1
     },
