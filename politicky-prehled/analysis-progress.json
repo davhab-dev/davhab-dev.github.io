@@ -3,6 +3,22 @@
   "current": null,
   "queue": [
     [
+      "https://denikn.cz/newsletter/2257674/prezident-ceske-stomatologicke-komory-roman-smucler-rezignoval-microsoft-po-vypadku-obnovil-vsechny-sve-sluzby-deset-kroku-jak-spd-podkopala-ceskou-obranu/",
+      "Ranních 5 minut: Prezident České stomatologické komory Šmucler rezignoval | Microsoft po výpadku obnovil všechny své služby"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/iran-tvrdi-ze-podnikl-dronovy-utok-na-americky-radarovy-system-v-bahrajnu/r~aaa29f4bb2c9a55431960a83e729d8e3/",
+      "Írán tvrdí, že podnikl dronový útok na americký radarový systém v Bahrajnu"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/izrael-oznamil-uder-na-velitele-vojenskeho-kridla-hamasu-pri-utoku-v-gaze-zemrel/r~aaa29992aad0d58e3a857c62e6a71696/",
+      "Izrael oznámil úder na velitele vojenského křídla Hamásu, při útoku v Gaze zemřel"
+    ],
+    [
+      "https://www.denik.cz/evropa/slovensku-ted-vladne-exministr-zivotniho-prostredi-a-poslanec-tomas-taraba/",
+      "Slovensku teď vládne exministr životního prostředí a poslanec Tomáš Taraba"
+    ],
+    [
       "https://ct24.ceskatelevize.cz/clanek/domaci/snemovna-se-pre-o-novely-trestniho-zakoniku-opozici-vadi-roztristenost-379619",
       "Sněmovna se pře o novely trestního zákoníku. Opozici vadí roztříštěnost"
     ],
@@ -91,32 +107,24 @@
       "Příchod zimy zhoršuje situaci v Gaze. Obnova zničeného území zůstává omezená"
     ],
     [
-      "https://zpravy.aktualne.cz/domaci/evropa-urcila-vyjednavaci-tym-pro-ukrajinu-babis-ocenuje-roli-polska/r~aaa29377e16833177eb1389f1ae5a83d/",
-      "Poláci jsou důležití. Babiš i Rakušan oceňují složení evropského týmu pro Ukrajinu"
-    ],
-    [
-      "https://zpravy.aktualne.cz/zahranici/znicime-vsechno-polsky-general-ostre-pohrozil-rusku-co-je-potreba-k-valce/r~aaa2960b4c7a7fa724977be3d7c3f891/",
-      "„Zničíme všechno.“ Polský generál ostře pohrozil Rusku. Co je potřeba k válce?"
-    ],
-    [
       "https://www.ceskenoviny.cz/zpravy/babis-diky-ucasti-polska-pri-vyjednavani-o-ukrajine-bude-u-stolu-i-v4/2902056",
       "Babiš: Díky účasti Polska při vyjednávání o Ukrajině bude u stolu i V4"
-    ],
-    [
-      "https://www.denik.cz/evropa/zelenskyj-usa-zjistovaly-zda-by-se-ukrajina-vzdala-donbasu-za-clenstvi-v-nato/",
-      "Zelenskyj: USA zjišťovaly, zda by se Ukrajina vzdala Donbasu za členství v NATO"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/-kupka-ods-musi-projit-zmenami-prostor-dostanou-nove-tvare/2901416",
       "Kupka: ODS musí projít změnami, prostor dostanou nové tváře"
     ],
     [
+      "https://zpravy.aktualne.cz/domaci/roman-smucler-rezignoval-na-post-prezidenta-stomatologicke-komory/r~aaa29cbe51838710f8f9d3c6ae742597/",
+      "Šéf stomatologické komory Šmucler rezignoval, představenstvo ho chtělo odvolat"
+    ],
+    [
       "https://ct24.ceskatelevize.cz/clanek/domaci/kyberutok-plosne-neohrozil-uzivatelske-ucty-uvedla-univerzita-karlova-379616",
       "Kyberútok plošně neohrozil uživatelské účty, uvedla Univerzita Karlova"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/prezident-ceske-stomatologicke-komory-smucler-rezignoval/2902015",
-      "Prezident České stomatologické komory Šmucler rezignoval"
+      "https://www.ceskenoviny.cz/zpravy/usa-zjistovaly-zda-by-se-ukrajina-vzdala-donbasu-za-clenstvi-v-nato/2902017",
+      "USA zjišťovaly, zda by se Ukrajina vzdala Donbasu za členství v NATO"
     ],
     [
       "https://denikn.cz/newsletter/2257160/data-ukazuji-jakemu-tlaku-bude-babis-celit-pri-protestech-stovek-tisic-lidi-univerzita-karlova-resi-kyberneticky-utok-evropu-zastoupi-na-jednanich-o-ukrajine-pet-zemi/",
@@ -127,10 +135,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 30,
+    "initial_pending": 32,
     "completed": [],
     "deferred": [],
-    "remaining": 30
+    "remaining": 32
   },
   "samples_seconds": [
     51.274763,

@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-11-15T05:57:57.213727+00:00",
+  "updated_at": "2026-11-15T07:11:23.182160+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Ranních 5 minut: Prezident České stomatologické komory Šmucler rezignoval | Microsoft po výpadku obnovil všechny své služby",
+      "summary": "",
+      "source": "Deník N",
+      "category": "domaci",
+      "published_at": "2026-11-15T07:08:17+00:00",
+      "url": "https://denikn.cz/newsletter/2257674/prezident-ceske-stomatologicke-komory-roman-smucler-rezignoval-microsoft-po-vypadku-obnovil-vsechny-sve-sluzby-deset-kroku-jak-spd-podkopala-ceskou-obranu/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Írán tvrdí, že podnikl dronový útok na americký radarový systém v Bahrajnu",
+      "summary": "Íránské revoluční gardy oznámily, že podnikly dronový útok na americký radarový systém protivzdušné obrany na vrtulníkové základně v Bahrajnu. Spojené státy ani Bahrajn se k…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-15T07:53:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/iran-tvrdi-ze-podnikl-dronovy-utok-na-americky-radarovy-system-v-bahrajnu/r~aaa29f4bb2c9a55431960a83e729d8e3/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Izrael oznámil úder na velitele vojenského křídla Hamásu, při útoku v Gaze zemřel",
+      "summary": "Izraelská armáda oznámila, že podnikla úder na jednoho z velitelů vojenského křídla teroristického hnutí Hamás. Informovala o tom v noci na neděli agentura Reuters, která…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-15T07:18:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/izrael-oznamil-uder-na-velitele-vojenskeho-kridla-hamasu-pri-utoku-v-gaze-zemrel/r~aaa29992aad0d58e3a857c62e6a71696/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Slovensku teď vládne exministr životního prostředí a poslanec Tomáš Taraba",
+      "summary": "Vláda Roberta Fica ztratila většinu v parlamentu. Kvůli skupině poslanců kolem odvolaného ministra životního prostředí Tomáše Taraby už neprošel vládě v parlamentu klíčový zákon.",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-15T07:00:00+01:00",
+      "url": "https://www.denik.cz/evropa/slovensku-ted-vladne-exministr-zivotniho-prostredi-a-poslanec-tomas-taraba/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Sněmovna se pře o novely trestního zákoníku. Opozici vadí roztříštěnost",
       "summary": "Ve sněmovně panují spory ohledně novel trestního zákoníku. Koalice předložila do dolní komory vládní i poslanecké návrhy. Chce tak třeba zpřísnit tresty za týrání zvířat.…",
@@ -223,42 +263,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Poláci jsou důležití. Babiš i Rakušan oceňují složení evropského týmu pro Ukrajinu",
-      "summary": "Premiér Andrej Babiš (ANO) oceňuje, že se Evropská rada dohodla a bude součástí mezinárodních jednání o Ukrajině. Zastoupení zemí má za vyvážené a považuje za…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-14T14:39:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/evropa-urcila-vyjednavaci-tym-pro-ukrajinu-babis-ocenuje-roli-polska/r~aaa29377e16833177eb1389f1ae5a83d/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "„Zničíme všechno.“ Polský generál ostře pohrozil Rusku. Co je potřeba k válce?",
-      "summary": "Polský generál Jarosław Gromadziński si myslí, že Rusové neplánují přímý útok na NATO. Stále víc ovšem tlačí na evropské společnosti dezinformacemi a sabotážemi. V rozhovoru…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-14T13:58:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/znicime-vsechno-polsky-general-ostre-pohrozil-rusku-co-je-potreba-k-valce/r~aaa2960b4c7a7fa724977be3d7c3f891/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Babiš: Díky účasti Polska při vyjednávání o Ukrajině bude u stolu i V4",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
       "category": "domaci",
       "published_at": "2026-11-14T13:47:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/babis-diky-ucasti-polska-pri-vyjednavani-o-ukrajine-bude-u-stolu-i-v4/2902056",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Zelenskyj: USA zjišťovaly, zda by se Ukrajina vzdala Donbasu za členství v NATO",
-      "summary": "Spojené státy se tento týden při rozhovorech o ukončení rusko-ukrajinské války dotazovaly ukrajinské strany, zda by se Kyjev byl ochoten vzdát Donbasu výměnou za členství…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-14T13:35:00+01:00",
-      "url": "https://www.denik.cz/evropa/zelenskyj-usa-zjistovaly-zda-by-se-ukrajina-vzdala-donbasu-za-clenstvi-v-nato/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -273,6 +283,16 @@
       "importance_kind": "pending"
     },
     {
+      "title": "Šéf stomatologické komory Šmucler rezignoval, představenstvo ho chtělo odvolat",
+      "summary": "Prezident České stomatologické komory (ČSK) Roman Šmucler v sobotu rezignoval. Představenstvo navrhovalo jeho odvolání. ČTK o tom v sobotu informovala tisková tajemnice ČSK Karolina Slavíčková.…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-14T11:14:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/roman-smucler-rezignoval-na-post-prezidenta-stomatologicke-komory/r~aaa29cbe51838710f8f9d3c6ae742597/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
       "title": "Kyberútok plošně neohrozil uživatelské účty, uvedla Univerzita Karlova",
       "summary": "Při nedávném kybernetickém útoku na Univerzitu Karlovu (UK) pachatel plošně neohrozil uživatelské účty ani nenarušil provoz centrálních informačních systémů. Univerzita poslala všem zhruba 55 tisícům…",
       "source": "ČT24",
@@ -283,12 +303,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Prezident České stomatologické komory Šmucler rezignoval",
+      "title": "USA zjišťovaly, zda by se Ukrajina vzdala Donbasu za členství v NATO",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-14T10:43:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/prezident-ceske-stomatologicke-komory-smucler-rezignoval/2902015",
+      "category": "svet",
+      "published_at": "2026-11-14T10:50:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/usa-zjistovaly-zda-by-se-ukrajina-vzdala-donbasu-za-clenstvi-v-nato/2902017",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -321,7 +341,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -331,7 +351,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 12,
       "selected": 5,
       "free_articles_checked": 8
     },
@@ -341,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 11,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -351,7 +371,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -361,9 +381,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
-      "selected": 7,
-      "free_articles_checked": 7
+      "candidates": 8,
+      "selected": 8,
+      "free_articles_checked": 8
     },
     {
       "name": "Deník",
@@ -381,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 13,
       "selected": 6,
       "free_articles_checked": 6
     },
@@ -401,7 +421,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 3,
+      "candidates": 2,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -421,9 +441,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 3,
-      "selected": 1,
-      "free_articles_checked": 1
+      "candidates": 4,
+      "selected": 2,
+      "free_articles_checked": 2
     },
     {
       "name": "Respekt",
