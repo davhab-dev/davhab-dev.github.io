@@ -3,12 +3,24 @@
   "current": null,
   "queue": [
     [
-      "https://www.idnes.cz/zpravy/domaci/debata-vlada-ct-protest-letna-poplatky-macinka-fiala-okamura.A261115_102231_domaci_sahu",
-      "Kdo chce Čechy na Ukrajině, může tam jít jako první, odmítl Okamura výtky opozice"
+      "https://www.idnes.cz/zpravy/domaci/letna-demonstrace-milion-chvilek-verejnopravni-media-mikulas-minar-vlada.A261112_123519_domaci_ikro",
+      "„Tohle je začátek demise“. Letenskou pláň plní demonstrující na podporu ČT a ČRo"
     ],
     [
-      "https://www.idnes.cz/zpravy/domaci/letna-demonstrace-milion-chvilek-verejnopravni-media-mikulas-minar-vlada.A261112_123519_domaci_ikro",
-      "Na Letnou přicházejí první demonstranti. Cestu na protest komplikuje stržená trolej"
+      "https://www.idnes.cz/zpravy/domaci/debata-vlada-ct-protest-letna-poplatky-macinka-fiala-okamura.A261115_102231_domaci_sahu",
+      "Minář distribuuje miliony bůhvíkam a pro lidi neudělají nic, řekl Macinka o spolku"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/zavoral-odmita-dobrovolne-poplatky-rozpocet-medii-na-nich-nelze-stavet/r~aaa29215d5b90abdc2645369cf5c2ca5/",
+      "Zavoral odmítá dobrovolné poplatky. Rozpočet médií na nich nelze stavět"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/zelenskyj-uvedl-ze-ruskym-utokum-pomaha-omezeni-provozu-starshieldu/2902285",
+      "Zelenskyj uvedl, že ruským útokům pomáhá omezení provozu Starshieldu"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/zeme-jihovychodni-asie-resi-americka-cla-a-vztahy-k-cine-379633",
+      "Země jihovýchodní Asie řeší americká cla a vztahy k Číně"
     ],
     [
       "https://www.idnes.cz/zpravy/domaci/radek-vondracek-vit-rakusan-partie-terezie-tomankove-debata.A261115_103142_domaci_ikro",
@@ -20,11 +32,11 @@
     ],
     [
       "https://www.denik.cz/cesko/on-line-letna-proti-436-demonstranti-v-praze-podpori-nezavislost-medii/",
-      "ON-LINE: Letná proti 4:36. Demonstranti v Praze podpoří nezávislost médií"
+      "ON-LINE: Letná proti 4:36. Do Prahy zamířili demonstranti z různých koutů Česka"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/nedelni-debata-o-odolnosti-ceske-demokracie-379630",
-      "Nedělní debata se věnuje zapojení Česka do zajištění míru na Ukrajině"
+      "Nedělní debata se věnuje stavu české demokracie"
     ],
     [
       "https://www.idnes.cz/zpravy/zahranicni/ukrajina-zelenskyj-biden-vdecnost-trump.A261115_102156_zahranicni_jhr",
@@ -59,10 +71,6 @@
       "Ukrajina vyvíjí protidronové technologie mnohem rychleji než Evropa, míní expert"
     ],
     [
-      "https://zpravy.aktualne.cz/zahranici/izrael-oznamil-uder-na-velitele-vojenskeho-kridla-hamasu-pri-utoku-v-gaze-zemrel/r~aaa29992aad0d58e3a857c62e6a71696/",
-      "Izrael oznámil úder na velitele vojenského křídla Hamásu, při útoku v Gaze zemřel"
-    ],
-    [
       "https://www.denik.cz/evropa/slovensku-ted-vladne-exministr-zivotniho-prostredi-a-poslanec-tomas-taraba/",
       "Slovensku teď vládne exministr životního prostředí a poslanec Tomáš Taraba"
     ],
@@ -91,16 +99,8 @@
       "Putin nechce jednat o konci války na Ukrajině, uvedl Macron"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/svet/v-meklenbursku-prednim-pomoransku-povladnou-spd-levice-a-zeleni-vysachovali-afd-379624",
-      "V Meklenbursku – Předním Pomořansku povládnou SPD, Levice a Zelení, vyšachovali AfD"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/babis-diky-ucasti-polska-pri-vyjednavani-o-ukrajine-bude-u-stolu-i-v4/2902056",
-      "Babiš: Díky účasti Polska při vyjednávání o Ukrajině bude u stolu i V4"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/-kupka-ods-musi-projit-zmenami-prostor-dostanou-nove-tvare/2901416",
-      "Kupka: ODS musí projít změnami, prostor dostanou nové tváře"
+      "https://www.denik.cz/evropa/afd-je-v-meklenbursku-prednim-pomoransku-mimo-hru-povladnou-levice-a-zeleni/",
+      "AfD je v Meklenbursku-Předním Pomořansku mimo hru. Povládnou Levice a Zelení"
     ]
   ],
   "needs_sources": [],

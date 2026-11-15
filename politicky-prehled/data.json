@@ -1,24 +1,54 @@
 {
-  "updated_at": "2026-11-15T11:49:11.046461+00:00",
+  "updated_at": "2026-11-15T12:59:34.960906+00:00",
   "window_hours": 24,
   "articles": [
     {
-      "title": "Kdo chce Čechy na Ukrajině, může tam jít jako první, odmítl Okamura výtky opozice",
-      "summary": "Tématem úvodu Nedělní debaty na ČT se stala neúčast českých vojáků na spojeneckém cvičení v Polsku, které simuluje dohled nad budoucím mírem na Ukrajině. Zatímco…",
+      "title": "„Tohle je začátek demise“. Letenskou pláň plní demonstrující na podporu ČT a ČRo",
+      "summary": "Pražská Letná se dnes opět stává dějištěm velkého protivládního protestu. Spolek Milion chvilek pro demokracii svolal demonstraci na obranu veřejnoprávních médií a očekává mimořádně vysokou…",
       "source": "iDNES.cz",
       "category": "domaci",
-      "published_at": "2026-11-15T11:40:00+00:00",
+      "published_at": "2026-11-15T12:54:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/letna-demonstrace-milion-chvilek-verejnopravni-media-mikulas-minar-vlada.A261112_123519_domaci_ikro",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Minář distribuuje miliony bůhvíkam a pro lidi neudělají nic, řekl Macinka o spolku",
+      "summary": "Hlavními tématy Nedělní debaty na ČT se stala chystaná demonstrace na Letné a neúčast českých vojáků na cvičení v Polsku. Podle opozice jsou protesty vizitkou…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-15T12:52:00+00:00",
       "url": "https://www.idnes.cz/zpravy/domaci/debata-vlada-ct-protest-letna-poplatky-macinka-fiala-okamura.A261115_102231_domaci_sahu",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
     {
-      "title": "Na Letnou přicházejí první demonstranti. Cestu na protest komplikuje stržená trolej",
-      "summary": "Pražská Letná se v neděli znovu promění v dějiště velkého protivládního protestu. Spolek Milion chvilek pro demokracii svolává demonstraci na obranu veřejnoprávních médií a očekává…",
-      "source": "iDNES.cz",
+      "title": "Zavoral odmítá dobrovolné poplatky. Rozpočet médií na nich nelze stavět",
+      "summary": "Dobrovolné platby za veřejnoprávní média mohou být jen malou částí systému, je to totálně nesystémový krok. V pořadu Poledne s Moravcem to řekl generální ředitel…",
+      "source": "Aktuálně.cz",
       "category": "domaci",
-      "published_at": "2026-11-15T11:40:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/letna-demonstrace-milion-chvilek-verejnopravni-media-mikulas-minar-vlada.A261112_123519_domaci_ikro",
+      "published_at": "2026-11-15T13:29:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/zavoral-odmita-dobrovolne-poplatky-rozpocet-medii-na-nich-nelze-stavet/r~aaa29215d5b90abdc2645369cf5c2ca5/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Zelenskyj uvedl, že ruským útokům pomáhá omezení provozu Starshieldu",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-15T12:52:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/zelenskyj-uvedl-ze-ruskym-utokum-pomaha-omezeni-provozu-starshieldu/2902285",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Země jihovýchodní Asie řeší americká cla a vztahy k Číně",
+      "summary": "Ve filipínské metropoli Manile v neděli začal 49. summit Sdružení zemí jihovýchodní Asie (ASEAN). Lídři jihovýchodní Asie se podle návrhů závěrečných prohlášení zaměří na válku…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-15T11:51:02+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/zeme-jihovychodni-asie-resi-americka-cla-a-vztahy-k-cine-379633",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -43,7 +73,7 @@
       "importance_kind": "pending"
     },
     {
-      "title": "ON-LINE: Letná proti 4:36. Demonstranti v Praze podpoří nezávislost médií",
+      "title": "ON-LINE: Letná proti 4:36. Do Prahy zamířili demonstranti z různých koutů Česka",
       "summary": "Ruce pryč od médií! Heslo nedělní demonstrace na Letenské pláni v Praze odkazuje na smysl akce pořádané spolkem Milion chvilek pro demokracii. Lidé protestují proti…",
       "source": "Deník",
       "category": "domaci",
@@ -53,7 +83,7 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Nedělní debata se věnuje zapojení Česka do zajištění míru na Ukrajině",
+      "title": "Nedělní debata se věnuje stavu české demokracie",
       "summary": "Tématem Nedělní debaty je tento týden nadcházející 37. výročí sametové revoluce a odolnost české demokracie. Pořad se zaměří rovněž na důvěru společnosti v autority a…",
       "source": "ČT24",
       "category": "domaci",
@@ -143,16 +173,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Izrael oznámil úder na velitele vojenského křídla Hamásu, při útoku v Gaze zemřel",
-      "summary": "Izraelská armáda oznámila, že podnikla úder na jednoho z velitelů vojenského křídla teroristického hnutí Hamás. Informovala o tom v noci na neděli agentura Reuters, která…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-15T07:18:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/izrael-oznamil-uder-na-velitele-vojenskeho-kridla-hamasu-pri-utoku-v-gaze-zemrel/r~aaa29992aad0d58e3a857c62e6a71696/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Slovensku teď vládne exministr životního prostředí a poslanec Tomáš Taraba",
       "summary": "Vláda Roberta Fica ztratila většinu v parlamentu. Kvůli skupině poslanců kolem odvolaného ministra životního prostředí Tomáše Taraby už neprošel vládě v parlamentu klíčový zákon.",
       "source": "Deník",
@@ -223,32 +243,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "V Meklenbursku – Předním Pomořansku povládnou SPD, Levice a Zelení, vyšachovali AfD",
-      "summary": "V Meklenbursku – Předním Pomořansku, jedné z nejméně obydlených spolkových zemí na severu Německa, povládnou sociální demokraté (SPD) se Zelenými a stranou Levice. Podle agentury…",
-      "source": "ČT24",
+      "title": "AfD je v Meklenbursku-Předním Pomořansku mimo hru. Povládnou Levice a Zelení",
+      "summary": "V Meklenbursku-Předním Pomořansku, jedné z nejméně obydlených spolkových zemí na severu Německa, povládnou sociální demokraté (SPD) se Zelenými a stranou Levice. Podle agentury DPA dnes…",
+      "source": "Deník",
       "category": "svet",
-      "published_at": "2026-11-14T19:00:11+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/v-meklenbursku-prednim-pomoransku-povladnou-spd-levice-a-zeleni-vysachovali-afd-379624",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Babiš: Díky účasti Polska při vyjednávání o Ukrajině bude u stolu i V4",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-14T13:47:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/babis-diky-ucasti-polska-pri-vyjednavani-o-ukrajine-bude-u-stolu-i-v4/2902056",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Kupka: ODS musí projít změnami, prostor dostanou nové tváře",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-14T13:19:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/-kupka-ods-musi-projit-zmenami-prostor-dostanou-nove-tvare/2901416",
+      "published_at": "2026-11-14T19:56:53+01:00",
+      "url": "https://www.denik.cz/evropa/afd-je-v-meklenbursku-prednim-pomoransku-mimo-hru-povladnou-levice-a-zeleni/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     }
@@ -261,7 +261,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 12,
       "selected": 7,
       "free_articles_checked": 7
     },
@@ -271,7 +271,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -281,9 +281,9 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 7,
-      "selected": 5,
-      "free_articles_checked": 7
+      "candidates": 6,
+      "selected": 4,
+      "free_articles_checked": 6
     },
     {
       "name": "Novinky.cz",
@@ -291,7 +291,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
+      "candidates": 8,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -301,7 +301,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -321,8 +321,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
-      "selected": 3,
+      "candidates": 12,
+      "selected": 4,
       "free_articles_checked": 4
     },
     {
@@ -361,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -401,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 9,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -411,7 +411,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     }
