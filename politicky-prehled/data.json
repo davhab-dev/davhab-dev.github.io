@@ -1,7 +1,177 @@
 {
-  "updated_at": "2026-11-16T06:24:49.967346+00:00",
+  "updated_at": "2026-11-16T09:47:14.105099+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Robopsi s puškou na hřbetě. Salvadorští vojáci nasadili na Haiti nečekanou zbraň",
+      "summary": "Salvadorští vojáci spolu s haitskou policií a armádou minulý týden získali zpět z rukou gangů národní stadion v metropoli Port-au-Prince. Salvadorský prezident Nayib Bukele zveřejnil…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-16T09:34:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/salvadorsti-vojaci-vyuzivaji-na-haiti-pri-operacich-i-roboticke-psy.A261116_091421_zahranicni_sahu",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Reuters: Pět zemí EU oznámí plán posílat zamítnuté žadatele o azyl do Rwandy",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-16T10:25:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/reuters-pet-zemi-eu-oznami-plan-posilat-zamitnute-zadatele-o-azyl-do-rwandy/2902575",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Andrea Pfeffer Ferklová z ANO se potřetí stala primátorkou Karlových Varů",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-16T10:05:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/andrea-pfeffer-ferklova-z-ano-se-potreti-stala-primatorkou-karlovych-varu/2902567",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "EU dnes schválí sankce proti ruským osobám a firmám, uvedla McEnteeová",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-16T09:54:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/eu-dnes-schvali-sankce-proti-ruskym-osobam-a-firmam-uvedla-mcenteeova/2900980",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Politická šikana živě: Speciál k 17. listopadu",
+      "summary": "Sledujte speciální živé vysílání Politické šikany na Aktuálně.cz a YouTube k listopadovým událostem. Nedělní demonstrace Milionu chvilek pro demokracii na pražské Letné a oslavy 17.…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-16T09:43:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/politicka-sikana-zive-special-k-17-listopadu/r~aaa299ccc23ee3836caf1e44780b9d5e/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Musk a tisíce dalších žádají návrat šéfa Nvidie. Ministr financí je proti",
+      "summary": "Elon Musk a další významné osobnosti technologického světa se postavili za bývalého šéfa Nvidie Jensena Huanga. Petici požadující jeho návrat do čela výrobce čipů podepsalo…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-16T08:34:00+00:00",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/byvaly-sef-nvidie-huang-zvazuje-navrat-bessent-ministr-financi.A261116_072710_eko-zahranicni_sahu",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Mistr světa ve fotbale kandiduje na prezidenta za AfD, volá po přímé volbě",
+      "summary": "Alternativa pro Německo (AfD) vyšle do lednové prezidentské volby jako svého kandidáta bývalého fotbalistu a mistra světa z roku 1990 Thomase Bertholda. Oznámili to předsedové…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-16T08:32:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/afd-alternativa-pro-nemecko-berthold-prezident-volby.A261116_085650_zahranicni_jhr",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Ruské požadavky jsou záminkou k pokračování války, uvedla Kallasová",
+      "summary": "Rusové podle šéfky unijní diplomacie Kaji Kallasové znovu předkládají požadavky, které vznesli už před začátkem invaze v roce 2022, a přidávají k nim další. Jde…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-16T09:25:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/ruske-pozadavky-jsou-zaminkou-k-pokracovani-valky-uvedla-kallasova/r~aaa29bcd26049dfccfb6278de41d8546/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Slovenská opozice se spojila proti Ficovi. Slibuje návrat do Evropy",
+      "summary": "Nejsilnější slovenské opoziční hnutí Progresivní Slovensko (PS) a neparlamentní strana Demokraté exministra obrany Jaroslava Nadě půjdou společně jako koalice do příštích parlamentních voleb, které jsou…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-16T08:22:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/slovenska-opozice-se-spojila-proti-ficovi-slibuje-navrat-do-evropy.A261116_090038_zahranicni_sahu",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Hosté Událostí, komentářů týdne debatovali o protestu na Letné i situaci v ODS",
+      "summary": "Hosté Událostí, komentářů týdne diskutovali o protestním shromáždění na Letné, kde stovky tisíc lidí vyjádřily podporu veřejnoprávním médiím. Věnovali se i situaci v ODS, kde…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-16T08:18:56+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/hoste-udalosti-komentaru-tydne-debatovali-o-protestu-na-letne-i-situaci-v-ods-379645",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Babiš nezvažuje, že by vyhověl požadavkům z demonstrace na Letné",
+      "summary": "Premiér Andrej Babiš (ANO) nezvažuje, že vyhoví požadavkům spolku Milion chvilek z nedělní demonstrace na Letné na odvolání předsedy SPD Tomia Okamury z čela sněmovny…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-16T08:09:48+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/babis-nezvazuje-ze-by-vyhovel-pozadavkum-z-demonstrace-na-letne-379650",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Na zrušení poplatků je široká koaliční shoda, říká Nerušil. Grolich chce záruky nezávislosti",
+      "summary": "Vláda by podle poslance Josefa Nerušila (SPD) neměla stáhnout návrh na změnu financování České televize a Českého rozhlasu, protože je na něm široká koaliční shoda.…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-16T08:09:34+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/na-zruseni-poplatku-je-siroka-koalicni-shoda-rika-nerusil-grolich-chce-zaruky-nezavislosti-379644",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Ukrajinci zasáhli Krymský most, provoz je omezen",
+      "summary": "Ruské ministerstvo obrany tvrdí, že jeho protivzdušná obrana za uplynulou noc zneškodnila 1336 ukrajinských dronů. Jde zřejmě o nejvyšší počet od začátku ruské invaze na…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-16T08:03:20+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/ukrajinci-zautocili-na-krymsky-most-doslo-k-omezeni-provozu-379651",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Babiš odmítl požadavky demonstrantů. Odvolání Okamury ani Zůny nezvažuji, řekl",
+      "summary": "Premiér Andrej Babiš (ANO) nezvažuje, že vyhoví požadavkům spolku Milion chvilek z nedělní demonstrace na Letné na odvolání předsedy SPD Tomia Okamury z čela Sněmovny…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-16T07:40:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/andrej-babis-letna-pozadavky-tomio-okamura-demonstrace-ministerstvo-obrany.A261116_080806_domaci_ikro",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Babiš míří do Izraele. Posílit protivzdušnou obranu chce co nejdřív",
+      "summary": "Od naší zpravodajky v Izraeli – Premiér Andrej Babiš (ANO) společně se čtyřmi ministry a náčelníkem generálního štábu Miroslavem Hlaváčem míří do Izraele. „Jedu tam…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-16T07:16:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/andrej-babis-premier-cesta-izrael-demonstrace-protivzdusna-obrana-17-listopad.A261116_060952_domaci_ikro",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Babiš: Požadavky z Letné zvažovat nebudu, vláda poplatky zruší",
+      "summary": "Premiér Andrej Babiš (ANO) nezvažuje, že vyhoví požadavkům spolku Milion chvilek z nedělní demonstrace na Letné na odvolání předsedy SPD Tomia Okamury z čela Sněmovny…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-16T08:09:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/babis-pozadavky-z-letne-zvazovat-nebudu-vlada-poplatky-zrusi/r~aaa29e75455a8fa7abedf8b716908e6d/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Britský princ Harry navštívil Ukrajinu, setkal se s veterány i pacienty",
+      "summary": "Britský princ Harry o víkendu navštívil Ukrajinu, kde se setkal se zraněnými vojáky a těmi, kdo jim pomáhají. Šlo o čtvrtou cestu mladšího syna krále…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-16T07:25:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/britsky-princ-harry-navstivil-ukrajinu-setkal-se-s-veterany-i-pacienty/r~aaa2917cb60ae9bc359ad5553a91f64f/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Rusko v noci zneškodnilo 1336 ukrajinských dronů, jde zřejmě o rekord",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
@@ -33,26 +203,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Teploty až ke čtrnácti stupňům, pak přijde zlom. O víkendu se ochladí a nasněží",
-      "summary": "Nový týden ovládne ve střední Evropě čerstvé západní oceánské proudění. Přechod frontálních systémů přinese teplejší a větrné počasí s odpoledními teplotami kolem 10 °C, ale…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-16T05:51:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/snih-pocasi-vitr-dest-hory-vikend-mraz-oceanske-proudeni.A261116_061626_domaci_sahu",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Babiš míří do Izraele. Posílit protivzdušnou obranu chce co nejdřív",
-      "summary": "Premiér Andrej Babiš (ANO) společně se čtyřmi ministry a náčelníkem generálního štábu Miroslavem Hlaváčem míří do Izraele. „Jedu tam na pozvání tamního premiéra Benjamina Netanjahua.…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-16T05:30:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/andrej-babis-premier-cesta-izrael-demonstrace-protivzdusna-obrana-17-listopad.A261116_060952_domaci_ikro",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Vláda projedná růst náhrad příjmu po úrazu v práci či službě a nemoci z povolání",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -63,52 +213,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Salvadorská armáda chce s místními silami potlačit gangy, nasadila i robotické psy",
+      "title": "Salvadorská armáda chce na Haiti s místními silami potlačit gangy, má i robotické psy",
       "summary": "Salvadorští vojáci spolu s haitskou policií a armádou minulý týden získali zpět z rukou gangů národní stadion v metropoli Port-au-Prince. Salvadorský prezident Nayib Bukele na…",
       "source": "ČT24",
       "category": "svet",
       "published_at": "2026-11-16T04:40:55+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/salvadorska-armada-chce-s-mistnimi-silami-potlacit-gangy-nasadila-i-roboticke-psy-379648",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Nová americká základna v Polsku? Varšava hlásí pokrok",
-      "summary": "Diskuse o nové americké základně v Polsku nabírá na intenzitě, avšak finální rozhodnutí ještě nepadlo. Varšava ale podle ministra obrany vidí v projektu strategickou pojistku…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-16T05:30:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/nova-americka-zakladna-v-polsku-varsava-hlasi-pokrok-rozhodnuti-ale-jeste-nepadlo/r~aaa2995cae71b45e2d8b1b23e71b4f0f/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Scénář, který si v ANO neumí představit. Politik opět vytáhl budoucnost bez Babiše",
-      "summary": "Hnutí ANO bez Andreje Babiše – to je situace, kterou si zatím nikdo moc neumí představit. Jednoho dne ale nastane. A jak to bude vypadat,…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-16T05:30:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/scenar-ktery-si-v-ano-neumi-predstavit-politik-opet-vytahl-budoucnost-bez-babise/r~aaa297d8e74e7a8cd5721debcde913d7/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Kolik bere váš starosta ve velkém městě. Podívali jsme se na odměny vládců městských částí",
-      "summary": "Primátoři největších českých měst si měsíčně vydělají přes 150 tisíc korun hrubého. Ale i vládci některých jejich částí si přijdou na částky výrazně překračující stotisícovou…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-16T05:30:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/kolik-budou-brat-novi-starostove-mestskych-casti-zname-odmeny-ve-velkych-mestech/r~aaa29fcdfec42f46504d46ca98d2967a/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Hrozba pro Evropu je reálná. Exministr ohrožené země položil krutou otázku",
-      "summary": "Ukrajina stále drží, otázka je ale, jak dlouho. A případný mír - ke kterému po jednání v Abú Dhabí nejsme blíž - nemusí být levný…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-16T05:30:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/kolik-mrtvych-deti-jsme-jeste-ochotni-akceptovat-jestrab-z-litvy-pohrozil-evrope/r~aaa299f6c34106c1f1d2c0231291fa4e/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -133,192 +243,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Britský princ Harry navštívil Ukrajinu, setkal se zraněnými válečnými veterány",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-16T01:42:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/britsky-princ-harry-navstivil-ukrajinu-setkal-se-zranenymi-valecnymi-veterany/2902492",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "ŽIVĚ: Briefing premiéra Babiše před odletem do Izraele",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-16T00:35:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/zive-briefing-premiera-babise-pred-odletem-do-izraele/2900513",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Prezident Pavel jmenuje nového předsedu Vrchního soudu v Olomouci",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-16T00:08:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/prezident-pavel-jmenuje-noveho-predsedu-vrchniho-soudu-v-olomouci/2902481",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Kubáček k Letné: Slova o autokracii jsou úlet. Prvotní myšlenka demonstrace se posunula",
       "summary": "Podle politologa Jana Kubáčka se prvotní myšlenka nedělní demonstrace za veřejnoprávní média lehce změnila. Při jedné z historicky největších masových demonstrací v historii Česka se,…",
       "source": "CNN Prima NEWS",
       "category": "domaci",
       "published_at": "2026-11-15T23:48:41+01:00",
       "url": "https://cnn.iprima.cz/kubacek-k-letne-slova-o-autokracii-jsou-ulet-prvotni-myslenka-demonstrace-se-posunula-527247",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "\"Masivní demonstrace.\" Svět si všímá nedělního protestu na Letné",
-      "summary": "Řada zahraničních médií si všímá nedělního rozsáhlého protestu na pražské Letné proti změně financování veřejnoprávních médií v Česku. S odkazem na odhad pořadatelů píší o…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-15T23:04:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/masivni-demonstrace-svet-si-vsima-nedelniho-protestu-na-letne/r~aaa29c0bcb5203b9589059049d250851/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Bývalý šéf Nvidie Huang zvažuje návrat. Ministr Bessent chce ředitele zvenčí",
-      "summary": "Bývalý šéf společnosti Nvidia Jensen Huang zvažuje návrat do jejího čela a tuto možnost již probíral se svými nejbližšími spolupracovníky, napsal dnes list Financial Times…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-15T22:31:23+01:00",
-      "url": "https://www.denik.cz/svet/byvaly-sef-nvidie-huang-zvazuje-navrat-ministr-bessent-chce-reditele-zvenci/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Estonsko po zmařeném pokusu o sabotáž zbrojovky zavře hraniční přechody s Ruskem",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-15T22:24:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/estonsko-po-zmarenem-pokusu-o-sabotaz-zbrojovky-zavre-hranicni-prechody-s-ruskem/2902340",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Politolog: Protest by mohl přimět Babiše k úpravě zákona o rušení poplatků",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-15T21:32:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/politolog-protest-by-mohl-primet-babise-k-uprave-zakona-o-ruseni-poplatku/2902442",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Provládní jednotky posílí obranu Adenu před Húsíi. Stáhnou se z Báb al-Mandabu",
-      "summary": "Jemenské provládní jednotky dnes ohlásily, že posílí obranu Adenu, který je jejich přechodným hlavním městem. Stáhnou se však z okolí průlivu Báb al-Mandab, odkud se…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-15T21:12:50+01:00",
-      "url": "https://www.denik.cz/svet/provladni-jednotky-posili-obranu-adenu-pred-husii-stahnou-se-z-bab-al-mandabu/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Nepřítel před branami. Húsiové jsou jen pár desítek kilometrů od Adenu",
-      "summary": "Jemenské provládní jednotky v neděli ohlásily, že posílí obranu Adenu, který je jejich přechodným hlavním městem. Stáhnou se však z okolí průlivu Báb al-Mandab, odkud…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-15T20:06:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/husiove-jemen-provladni-jednotky-ustup-60-kilometru.A261115_210658_zahranicni_onbu",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Kim Čong-un se vzdal sovětského dědictví. KLDR po 78 letech pozměnila vlajku",
-      "summary": "KLDR po 78 letech změnila poměr stran své státní vlajky. Severokorejský vůdce Kim Čong-un se tím vzdaluje od dřívějšího sovětského dědictví. Jeho krok pozorovatelé vnímají…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-15T19:46:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/kim-cong-un-se-vzdal-sovetskeho-dedictvi-kldr-po-78-letech-pozmenila-vlajku.A261114_154758_zahranicni_jhr",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Před 30 lety se konaly první volby do Senátu. Debaty o jeho potřebnosti trvají",
-      "summary": "Třicet let uplynulo v neděli od prvních voleb do Senátu. Lidé tehdy zvolili všech 81 zákonodárců. Od té doby se třetina horní parlamentní komory obměňuje…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-15T19:14:35+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/pred-30-lety-se-konaly-prvni-volby-do-senatu-debaty-o-jeho-potrebnosti-trvaji-379637",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Letná má přesah do zahraničí. Agentury píšou o „masivní“ demonstraci proti vládě",
-      "summary": "Řada zahraničních médií si všímá rozsáhlého nedělního protestu na pražské Letné proti změně financování veřejnoprávních médií v Česku. S odkazem na odhad pořadatelů píší o…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-15T18:58:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/zahranicni-agentury-demonstrace-na-letne-ap-afp-dpa.A261115_193936_zahranicni_onbu",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "„Může za to Biden.“ Trump se vyjádřil k výpadkům letů v USA, žádá modernizaci",
-      "summary": "Americký prezident Donald Trump se v neděli poprvé vyjádřil k pátečnímu čtyřhodinovému výpadku letového provozu v celých Spojených státech, který i během víkendu komplikoval leteckou…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-15T18:42:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/donald-trump-faa-kongres-joe-biden-sean-duffy-usa-letiste.A261115_191514_zahranicni_onbu",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Trump z výpadku letů v USA viní Bidena, žádá Kongres o více peněz na modernizaci",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-15T18:54:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/trump-z-vypadku-letu-v-usa-vini-bidena-zada-kongres-o-vice-penez-na-modernizaci/2902382",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Drony zasáhly tři nákladní lodě u ústí Dunaje, oznámilo Rumunsko",
-      "summary": "Bezpilotní prostředky zasáhly u ústí Dunaje tři nákladní lodě. Oznámil to v neděli podle agentury Reuters premiér Luca Niculescu s tím, že se tak stalo…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-15T17:26:43+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/drony-zasahly-tri-nakladni-lode-u-usti-dunaje-oznamilo-rumunsko-379642",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Estonsko uzavře hraniční přechody s Ruskem kvůli hrozbě sabotáže",
-      "summary": "Estonsko uzavře od 1. prosince všechny hraniční přechody s Ruskem, oznámil ministr zahraničí Margus Tsahkna nedlouho poté, co bezpečnostní složky ohlásily, že zmařily sabotážní útok…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-15T15:54:55+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/estonsko-uzavre-od-1-prosince-hranicni-prechody-s-ruskem-kvuli-hrozbe-sabotaze-379640",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Protestující zaplnili Letenskou pláň, postavili se „silovému vládnutí“",
-      "summary": "Spolek Milion chvilek žádá vládu o stažení zákona, který ruší poplatky za veřejnoprávní média. Chce skutečný dialog a jiný styl vládnutí. Na demonstraci na pražské…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-15T12:57:27+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/protivladni-demonstrace-na-letne-379631",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Ranních 5 minut: Prezident České stomatologické komory Šmucler rezignoval | Microsoft po výpadku obnovil všechny své služby",
-      "summary": "",
-      "source": "Deník N",
-      "category": "domaci",
-      "published_at": "2026-11-15T07:08:17+00:00",
-      "url": "https://denikn.cz/newsletter/2257674/prezident-ceske-stomatologicke-komory-roman-smucler-rezignoval-microsoft-po-vypadku-obnovil-vsechny-sve-sluzby-deset-kroku-jak-spd-podkopala-ceskou-obranu/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     }
@@ -331,9 +261,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 17,
       "selected": 7,
-      "free_articles_checked": 8
+      "free_articles_checked": 7
     },
     {
       "name": "iROZHLAS",
@@ -341,7 +271,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -351,8 +281,8 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 12,
-      "selected": 8,
+      "candidates": 15,
+      "selected": 5,
       "free_articles_checked": 8
     },
     {
@@ -361,7 +291,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -371,7 +301,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 18,
+      "candidates": 11,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -381,8 +311,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
-      "selected": 6,
+      "candidates": 6,
+      "selected": 5,
       "free_articles_checked": 6
     },
     {
@@ -392,8 +322,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 19,
-      "selected": 3,
-      "free_articles_checked": 3
+      "selected": 1,
+      "free_articles_checked": 2
     },
     {
       "name": "iDNES.cz",
@@ -401,9 +331,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 9,
       "selected": 6,
-      "free_articles_checked": 8
+      "free_articles_checked": 7
     },
     {
       "name": "CNN Prima NEWS",
@@ -421,7 +351,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 4,
+      "candidates": 3,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -431,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -441,9 +371,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 5,
-      "selected": 1,
-      "free_articles_checked": 1
+      "candidates": 4,
+      "selected": 0,
+      "free_articles_checked": 0
     },
     {
       "name": "Respekt",
@@ -471,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -481,7 +411,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 11,
       "selected": 0,
       "free_articles_checked": 0
     }
