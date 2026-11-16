@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-11-16T20:02:06.942949+00:00",
+  "updated_at": "2026-11-16T20:56:42.494581+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Dron vychýlil oblouk Krymského mostu a ochromil silniční dopravu",
+      "summary": "Ukrajinský dronový útok v pondělí poškodil oblouk Krymského mostu, který spojuje okupovaný poloostrov s ruskou pevninou. Silniční doprava na něm zůstala ochromená a na obou…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-16T20:34:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-rusko-valka-kyrm-most-kercsky-utok.A261116_172305_zahranicni_dtt",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "„Dohoda bude vyžadovat náročná rozhodnutí.“ Kushner přesto v jednáních o míru vnímá pokrok",
+      "summary": "Jednání s Ukrajinou a evropskými partnery dosáhla za uplynulý rok významného pokroku pro budoucnost Ukrajiny. Na síti X to napsal zvláštní vyslanec a zeť amerického…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-16T21:18:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/dohoda-bude-vyzadovat-narocna-rozhodnuti-kushner-presto-v-jednanich-o-miru-vnima-pokrok/r~aaa29510d52cc1a85e9d1f355241be4f/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Pokrok pro Ukrajinu, hodnotí telefonáty s Kyjevem i Moskvou vyslanec USA Kushner",
       "summary": "Jednání s Ukrajinou a evropskými partnery dosáhla za uplynulý rok významného pokroku pro budoucnost Ukrajiny. Na síti X to napsal zvláštní vyslanec a zeť amerického…",
@@ -83,16 +103,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Německo chce v případě nouze opět zapojit uhelné elektrárny, zní z médií",
-      "summary": "Německá vláda chystá návrh zákona, podle něhož by se v případě nouze do sítě dočasně znovu zapojily některé uhelné elektrárny a elektrárny na topný olej.…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-16T19:00:00+00:00",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/nemecko-chce-v-pripade-nouze-opet-zapojit-uhelne-elektrarny-pisi-media.A261116_094131_eko-zahranicni_ven",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Babiš navrhuje urychlit nákup protivzdušné obrany. Nechce čekat do roku 2030",
       "summary": "Česká republika by se měla snažit pořídit další systémy protivzdušné obrany co nejdříve a nečekat až do roku 2030. Po pondělním jednání s izraelským premiérem…",
       "source": "Deník",
@@ -103,7 +113,7 @@
       "importance_kind": "pending"
     },
     {
-      "title": "„Kdyby se něco stalo.“ Babiš chce izraelský štít, jeho plán má ale několik trhlin",
+      "title": "„Kdyby se něco stalo.“ Babiš chce izraelský štít, jeho plán má ale několik háčků",
       "summary": "Andrej Babiš (ANO) vyrazil do Izraele s početnou delegací a velkým plánem: posílit českou protivzdušnou obranu izraelskými technologiemi. Premiér opakovaně mluví o slavném systému Iron…",
       "source": "Aktuálně.cz",
       "category": "domaci",
@@ -119,16 +129,6 @@
       "category": "svet",
       "published_at": "2026-11-16T19:43:00+01:00",
       "url": "https://zpravy.aktualne.cz/ekonomika/kanadsky-premier-pohrozil-trumpovi-obrati-se-na-cinu-pokud-selzou-jednani-s-usa/r~aaa29132f9c22198d78429ecc938f7b3/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Nejprve evropský akt o médiích, pak konec poplatků. Klempíř jednal s eurokomisařem",
-      "summary": "Ministr kultury Oto Klempíř (za Motoristy) se domnívá, že jednání o změně financování České televize a Českého rozhlasu by nemělo pokračovat, dokud poslanci nezačnou projednávat…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-16T18:15:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/klempir-ct-a-cro-zmena-financovani-medii.A261116_132817_domaci_aoc",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -311,7 +311,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 16,
       "selected": 7,
       "free_articles_checked": 8
     },
@@ -321,7 +321,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 18,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -331,7 +331,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 22,
+      "candidates": 21,
       "selected": 5,
       "free_articles_checked": 8
     },
@@ -341,7 +341,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -351,7 +351,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -361,8 +361,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
-      "selected": 7,
+      "candidates": 9,
+      "selected": 8,
       "free_articles_checked": 8
     },
     {
@@ -382,7 +382,7 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 15,
-      "selected": 6,
+      "selected": 5,
       "free_articles_checked": 7
     },
     {
@@ -391,7 +391,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 14,
       "selected": 2,
       "free_articles_checked": 2
     },
@@ -461,7 +461,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     }
