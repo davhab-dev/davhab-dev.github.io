@@ -1,7 +1,77 @@
 {
-  "updated_at": "2026-11-16T17:21:34.806552+00:00",
+  "updated_at": "2026-11-16T19:02:19.762992+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Babiš navrhuje urychlit nákup protivzdušné obrany. Nechce čekat do roku 2030",
+      "summary": "Česká republika by se měla snažit pořídit další systémy protivzdušné obrany co nejdříve a nečekat až do roku 2030. Po pondělním jednání s izraelským premiérem…",
+      "source": "Deník",
+      "category": "domaci",
+      "published_at": "2026-11-16T19:53:54+01:00",
+      "url": "https://www.denik.cz/cesko/babis-navrhuje-urychlit-nakup-protivzdusne-obrany-nechce-cekat-do-roku-2030/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "„Kdyby se něco stalo.“ Babiš chce izraelský štít, jeho plán má ale několik trhlin",
+      "summary": "Andrej Babiš (ANO) vyrazil do Izraele s početnou delegací a velkým plánem: posílit českou protivzdušnou obranu izraelskými technologiemi. Premiér opakovaně mluví o slavném systému Iron…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-16T19:52:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/kdyby-se-neco-stalo-babis-chce-izraelsky-stit-jeho-plan-ma-ale-nekolik-trhlin/r~aaa29f2025109f9c7dbaba5dca48ceec/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Upřednostníme čínské automobilky před americkými, varoval kanadský premiér",
+      "summary": "Kanada by mohla spolupracovat s čínskými automobilkami, pokud obchodní rozhovory s prezidentem Spojených států Donaldem Trumpem neumožní zachování integrovaného severoamerického automobilového průmyslu, řekl kanadský premiér…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-16T18:51:00+00:00",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/kanada-cinske-automobilky-pokud-selzou-usa-trump-carney.A261116_192902_eko-zahranicni_lupr",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Kanadský premiér pohrozil Trumpovi. Obrátí se na čínské automobilky, pokud selžou jednání s USA",
+      "summary": "Kanada by mohla spolupracovat s čínskými automobilkami, pokud obchodní rozhovory s prezidentem Spojených států Donaldem Trumpem neumožní zachování integrovaného severoamerického automobilového průmyslu. V pondělí to…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-16T19:43:00+01:00",
+      "url": "https://zpravy.aktualne.cz/ekonomika/kanadsky-premier-pohrozil-trumpovi-obrati-se-na-cinu-pokud-selzou-jednani-s-usa/r~aaa29132f9c22198d78429ecc938f7b3/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Nejprve evropský akt o médiích, pak konec poplatků. Klempíř jednal s eurokomisařem",
+      "summary": "Ministr kultury Oto Klempíř (za Motoristy) se domnívá, že jednání o změně financování České televize a Českého rozhlasu by nemělo pokračovat, dokud poslanci nezačnou projednávat…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-16T18:15:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/klempir-ct-a-cro-zmena-financovani-medii.A261116_132817_domaci_aoc",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Šéfové opozice reagují na Mináře. Odpověděli, jak se chystají na vládnutí po Babišovi",
+      "summary": "Přestože předseda Milionu chvilek pro demokracii Mikuláš Minář tepal na nedělní Letné především Andreje Babiše a další vládní politiky, několik kritických slov pronesl také na…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-16T18:39:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/sefove-opozice-reaguji-na-minare-odpovedeli-jak-se-chystaji-na-vladnuti-po-babisovi/r~aaa292ce58266aff07c80aa7ef10658e/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Ukrajina provedla dosud největší dronový útok na Rusko. Zasáhla Kerčský most",
+      "summary": "Ukrajinské drony zasáhly Kerčský most, který spojuje okupovaný Krymský poloostrov s Ruskem. Útok dočasně omezil silniční dopravu na této strategické dopravní tepně. Podle ruských představitelů…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-16T18:30:00+01:00",
+      "url": "https://www.denik.cz/evropa/ukrajina-valka-utok-kercsky-most-rusko-nalet-drony/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Dron vychýlil oblouk Krymského mostu. Silniční doprava stojí už hodiny",
       "summary": "Ukrajinský dronový útok v pondělí poškodil oblouk Krymského mostu, který spojuje okupovaný poloostrov s ruskou pevninou. Silniční doprava přes něj stojí už dvanáct hodin a…",
@@ -103,42 +173,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Nejprve evropský akt o médiích, pak konec poplatků. Klempíř jednal s eurokomisařem",
-      "summary": "Ministr kultury Oto Klempíř (za Motoristy) se domnívá, že jednání o změně financování České televize a Českého rozhlasu by nemělo pokračovat, dokud poslanci nezačnou projednávat…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-16T15:57:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/klempir-ct-a-cro-zmena-financovani-medii.A261116_132817_domaci_aoc",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Pětice evropských států chce deportace do Rwandy, první už příští rok",
-      "summary": "Rakousko, Německo, Nizozemsko, Dánsko a Řecko chtějí ve Rwandě deportační středisko pro odmítnuté žadatele o azyl, které není možné vyhostit do jejich zemí původu. Společně…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-16T15:54:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/petice-evropskych-statu-chce-deportace-do-rwandy-prvni-uz-pristi-rok.A261116_162610_zahranicni_bro",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Putin slevuje, mohl by být neústupnější, prohlásil Trump. Ukrajina bude tématem setkání v Číně",
       "summary": "Ruský prezident Vladimir Putin v otázce Ukrajiny trochu ustupuje, uvedl v pondělí americký prezident Donald Trump s tím, že Putin by mohl být neústupnější. Trump…",
       "source": "Aktuálně.cz",
       "category": "svet",
       "published_at": "2026-11-16T16:43:00+01:00",
       "url": "https://zpravy.aktualne.cz/zahranici/putin-slevuje-mohl-by-byt-neustupnejsi-prohlasil-trump-ukrajina-bude-tematem-setkani-v-cine/r~aaa291336c945f14cf7667382dedc97a/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Bylo plno, komentoval poslanec SPD protest. Pak ale Letnou zaplnil ovcemi",
-      "summary": "Na Letnou dorazilo v neděli podle organizátorů kolem 400 tisíc lidí. Poslanec SPD Josef Nerušil ale zaplněné prostranství pojal po svém. Na sociálních sítích sdílel…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-16T15:39:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/josef-nerusil-tomio-okamura-letna-demonstrace-milion-chvilek.A261116_134432_domaci_ikro",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -163,18 +203,8 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Centrální banka v Polsku zastavila platby z účtů ústavního soudu. Neví, kdo ho reprezentuje",
-      "summary": "Rozruch mezi polskými politiky a právníky vyvolalo rozhodnutí centrální banky (NBP) pozastavit veškeré platby z účtů ústavního soudu kvůli nejasnosti, která skupina soudců má instituci…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-16T16:13:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/centralni-banka-v-polsku-zastavila-platby-z-uctu-ustavniho-soudu-nevi-kdo-ho-reprezentuje/r~aaa29db10b15172a07e4db58eee4f5fb/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Brífink Andreje Babiše po jednání s Netanjahuem",
-      "summary": "Český premiér Andrej Babiš přistál v izraelském Tel Avivu, kde zahájil třídenní pracovní návštěvu Izraele. V pondělí odpoledne jednal s izraelským premiérem Benjaminem Netanjahuem. O…",
+      "title": "Babiš jedná v Izraeli, chce urychlit dodávky dalších systémů protivzdušné obrany",
+      "summary": "Premiér Andrej Babiš (ANO) zahájil v pondělí třídenní návštěvu Izraele, první den se setkal s premiérem Benjaminem Netanjahuem. Po jednání řekl premiér novinářům, že chce…",
       "source": "ČT24",
       "category": "svet",
       "published_at": "2026-11-16T15:06:45+00:00",
@@ -223,16 +253,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Klempíř chce jednání o veřejnoprávních médiích odložit, vysvětlil proč",
-      "summary": "Ministr kultury Oto Klempíř (za Motoristy) se domnívá, že jednání o změně financování České televize a Českého rozhlasu by nemělo pokračovat, dokud poslanci nezačnou projednávat…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-16T13:49:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/klempir-chce-jednani-o-verejnopravnich-mediich-odlozit-vysvetlil-proc/r~aaa298279c865d633ec491c0f1f6c0c0/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Debatě o financování ČT a ČRo má předcházet diskuse o EMFA, domnívá se Klempíř",
       "summary": "Ministr kultury Oto Klempíř (za Motoristy) se domnívá, že jednání o změně financování České televize (ČT) a Českého rozhlasu (ČRo) by nemělo pokračovat, dokud poslanci…",
       "source": "Deník",
@@ -251,16 +271,6 @@
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/skoro-polovina-cechu-povazuje-agresi-ruska-vuci-nato-za-pravdepodobnou-zjistil-pruzkum-379657",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
-    },
-    {
-      "title": "Uzavření hranic s Ruskem nepřinese Estonsku nic dobrého, uvedl Kreml",
-      "summary": "Estonsko uzavřením hranice s Ruskem staví zeď, což mu nepřinese nic dobrého. Podle ruské státní agentury TASS to v pondělí uvedl mluvčí Kremlu Dmitrij Peskov.…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-16T11:47:06+01:00",
-      "url": "https://www.denik.cz/evropa/uzavreni-hranic-s-ruskem-neprinese-estonsku-nic-dobreho-uvedl-kreml/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
     }
   ],
   "unavailable_sources": [],
@@ -271,7 +281,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 16,
       "selected": 6,
       "free_articles_checked": 8
     },
@@ -281,7 +291,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -301,7 +311,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 11,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -311,7 +321,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -321,8 +331,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
-      "selected": 6,
+      "candidates": 10,
+      "selected": 7,
       "free_articles_checked": 8
     },
     {
@@ -332,8 +342,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 14,
-      "selected": 2,
-      "free_articles_checked": 2
+      "selected": 3,
+      "free_articles_checked": 3
     },
     {
       "name": "iDNES.cz",
@@ -341,8 +351,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
-      "selected": 6,
+      "candidates": 12,
+      "selected": 5,
       "free_articles_checked": 7
     },
     {
@@ -351,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 12,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -361,7 +371,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 6,
+      "candidates": 5,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -371,7 +381,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -381,7 +391,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 3,
+      "candidates": 4,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -411,7 +421,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -421,7 +431,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     }
