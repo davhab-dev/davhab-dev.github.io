@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-16T07:06:03.798185+00:00",
+  "updated": "2026-11-16T09:58:56.471198+00:00",
   "articles": [
+    {
+      "title": "Fotogalerie: JANEV Cup Jičín 2026 objektivem Miloše Lubase",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/fotogalerie-janev-cup-jicin-2026-objektivem-milose-lubase/kategorie/technika",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-16"
+    },
     {
       "title": "TEST: Avona Callis 32 – Když gravel přeroste do nové dimenze",
       "summary": "",
@@ -8,6 +17,15 @@
       "source": "MTBS.cz",
       "lang": "CS",
       "category": "Gravel",
+      "published": "2026-11-16"
+    },
+    {
+      "title": "McNulty chce pomoct Pogačarovi vyhrát šestou Tour de France. Titul mistra světa na jeho přístupu nic nemění",
+      "summary": "",
+      "url": "https://www.roadcycling.cz/clanek/mcnulty-chce-pomoct-pogacarovi-vyhrat-sestou-tour-de-france-titul-mistra-sveta-na-jeho-pristupu-nic-nemeni",
+      "source": "RoadCycling.cz",
+      "lang": "CS",
+      "category": "Závody",
       "published": "2026-11-16"
     },
     {
@@ -839,15 +857,6 @@
       "published": "2026-11-11"
     },
     {
-      "title": "Tým TotalEnergies je zachráněn! Nejlepší závodníci francouzský celek opustili, ale podařilo se sehnat nového sponzora, společnost XEFI",
-      "summary": "",
-      "url": "https://www.roadcycling.cz/clanek/tym-totalenergies-je-zachranen-nejlepsi-zavodnici-francouzsky-celek-opustili-ale-podarilo-se-sehnat-noveho-sponzora-spolecnost-xefi",
-      "source": "RoadCycling.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": "2026-11-11"
-    },
-    {
       "title": "🎒 Acepac Saddle Bag MKIII recenze: 600 km s podsedlovou bikepackingovou brašnou 16 l",
       "summary": "Dnes se s Vámi podělím o zkušenost s podsedlovou brašnou. Vůbec poprvé jsem totiž místo klasických brašen na nosič vyzkoušel bikepackingové brašny a postupně Vám v příspěvcích tady popíšu své postřehy o každé z nich. 🚴 Z",
       "url": "https://cyklocestovatel.cz/acepac-saddle-bag/",
@@ -1100,15 +1109,6 @@
       "published": "2026-11-09T10:00:00+00:00"
     },
     {
-      "title": "Fotogalerie: Mistrovství Evropy v cyklokrosu - Zeddam 2026 - neděle",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/fotogalerie-mistrovstvi-evropy-v-cyklokrosu-zeddam-2026-nedele/kategorie/zavody",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": "2026-11-09"
-    },
-    {
       "title": "Vrstvení jako základ – jak se obléct na podzim",
       "summary": "",
       "url": "https://www.mtbiker.cz/clanky/132080/vrstveni-jako-zaklad-jak-se-oblect-na-podzim.html",
@@ -1124,6 +1124,15 @@
       "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Cyklistika",
+      "published": "2026-11-09"
+    },
+    {
+      "title": "Fotogalerie: Mistrovství Evropy v cyklokrosu - Zeddam 2026 - neděle",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/fotogalerie-mistrovstvi-evropy-v-cyklokrosu-zeddam-2026-nedele/kategorie/zavody",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "Závody",
       "published": "2026-11-09"
     },
     {
@@ -3141,15 +3150,6 @@
       "lang": "CS",
       "category": "MTB",
       "published": "2025-12-14T16:34:35+00:00"
-    },
-    {
-      "title": "Dárky pro cyklisty a bikery: 30 tipů, kterými můžete překvapit",
-      "summary": "Dal jsem dohromady 30 tipů na dárky pro bikery v cenovém rozmezí 0 Kč – 2000 Kč. Jsou to přitom",
-      "url": "https://www.trailhunter.cz/darky-pro-cyklisty-a-bikery-30-tipu-kterymi-muzete-prekvapit/",
-      "source": "TrailHunter.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2025-12-05T09:44:24+00:00"
     }
   ],
   "source_errors": [
