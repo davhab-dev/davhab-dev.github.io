@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-11-16T20:56:42.494581+00:00",
+  "updated_at": "2026-11-16T21:55:35.849474+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Paraguayský exprezident za deset dní vyměnil palác za vojenskou věznici",
+      "summary": "Paraguayský exprezident Sebastiano Peña dnes nastoupil do vazby do vojenské věznice. Stalo se tak jen několik dnů poté, co ho Senát 6. listopadu zbavil prezidentské…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-16T22:31:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/paraguaysky-exprezident-za-deset-dni-vymenil-palac-za-vojenskou-veznici/r~aaa2924dc2d4be478eca8ccbe3b247d5/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Zvláštní vyslanec Kushner telefonoval s Kyjevem i Moskvou. Mluví o pokroku",
+      "summary": "Jednání s Ukrajinou a evropskými partnery dosáhla za uplynulý rok významného pokroku pro budoucnost Ukrajiny. Na síti X to v pondělí 16. listopadu napsal zvláštní…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-16T22:00:13+01:00",
+      "url": "https://www.denik.cz/svet/zvlastni-vyslanec-kushner-telefonoval-s-kyjevem-i-moskvou-mluvi-o-pokroku/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Izraelci nahráli na internet miliony fotografií. Chtějí tak sledovat Palestince",
+      "summary": "Izraelská armáda nahrála na cloudovou platformu společnosti Amazon přibližně 3,5 milionu fotografií, které měla využívat k rozpoznávání obličejů Palestinců a sledování jejich pohybu. Podle deníku…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-16T20:40:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/izrael-nahral-na-internet-miliony-fotografii-palestincu.A261116_212351_zahranicni_lupr",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Dron vychýlil oblouk Krymského mostu a ochromil silniční dopravu",
       "summary": "Ukrajinský dronový útok v pondělí poškodil oblouk Krymského mostu, který spojuje okupovaný poloostrov s ruskou pevninou. Silniční doprava na něm zůstala ochromená a na obou…",
@@ -49,16 +79,6 @@
       "category": "svet",
       "published_at": "2026-11-16T20:29:28+01:00",
       "url": "https://cnn.iprima.cz/svet-po-putinovi-rusti-oligarchove-planuji-prolomit-ticho-a-vratit-se-k-moci-527313",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Nevěrný Huang zpátky do vedení Nvidie? Donald Trump by jeho návrat přivítal",
-      "summary": "Šéf Bílého domu Donald Trump naznačil, že by přivítal návrat bývalého šéfa technologické společnosti Nvidia Jensena Huanga zpět funkce. Huang, který minulý týden rezignoval kvůli…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-16T19:24:00+00:00",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/trump-navrat-jensen-huang-nvidia-milenka-spionaz-vedeni-ceo.A261116_193844_zahranicni_lysa",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -223,16 +243,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Putin slevuje, mohl by být neústupnější, prohlásil Trump. Ukrajina bude tématem setkání v Číně",
-      "summary": "Ruský prezident Vladimir Putin v otázce Ukrajiny trochu ustupuje, uvedl v pondělí americký prezident Donald Trump s tím, že Putin by mohl být neústupnější. Trump…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-16T16:43:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/putin-slevuje-mohl-by-byt-neustupnejsi-prohlasil-trump-ukrajina-bude-tematem-setkani-v-cine/r~aaa291336c945f14cf7667382dedc97a/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Putin ohledně Ukrajiny slevuje, řekl Trump",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -321,7 +331,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 18,
+      "candidates": 17,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -331,7 +341,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 21,
+      "candidates": 20,
       "selected": 5,
       "free_articles_checked": 8
     },
@@ -341,7 +351,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -371,9 +381,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
-      "selected": 3,
-      "free_articles_checked": 3
+      "candidates": 14,
+      "selected": 4,
+      "free_articles_checked": 4
     },
     {
       "name": "iDNES.cz",
@@ -391,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 15,
       "selected": 2,
       "free_articles_checked": 2
     },

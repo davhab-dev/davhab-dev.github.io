@@ -3,6 +3,18 @@
   "current": null,
   "queue": [
     [
+      "https://zpravy.aktualne.cz/zahranici/paraguaysky-exprezident-za-deset-dni-vymenil-palac-za-vojenskou-veznici/r~aaa2924dc2d4be478eca8ccbe3b247d5/",
+      "Paraguayský exprezident za deset dní vyměnil palác za vojenskou věznici"
+    ],
+    [
+      "https://www.denik.cz/svet/zvlastni-vyslanec-kushner-telefonoval-s-kyjevem-i-moskvou-mluvi-o-pokroku/",
+      "Zvláštní vyslanec Kushner telefonoval s Kyjevem i Moskvou. Mluví o pokroku"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/izrael-nahral-na-internet-miliony-fotografii-palestincu.A261116_212351_zahranicni_lupr",
+      "Izraelci nahráli na internet miliony fotografií. Chtějí tak sledovat Palestince"
+    ],
+    [
       "https://www.idnes.cz/zpravy/zahranicni/ukrajina-rusko-valka-kyrm-most-kercsky-utok.A261116_172305_zahranicni_dtt",
       "Dron vychýlil oblouk Krymského mostu a ochromil silniční dopravu"
     ],
@@ -21,10 +33,6 @@
     [
       "https://cnn.iprima.cz/svet-po-putinovi-rusti-oligarchove-planuji-prolomit-ticho-a-vratit-se-k-moci-527313",
       "Putinovi už říkají dědeček. Ruští oligarchové chtějí zpět divoká 90. léta, plán má však háček"
-    ],
-    [
-      "https://www.idnes.cz/ekonomika/zahranicni/trump-navrat-jensen-huang-nvidia-milenka-spionaz-vedeni-ceo.A261116_193844_zahranicni_lysa",
-      "Nevěrný Huang zpátky do vedení Nvidie? Donald Trump by jeho návrat přivítal"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-zveda-platy-uredniku-obce-si-stezuji-ze-na-ne-nedostanou-dost-penez-navic-379676",
@@ -91,10 +99,6 @@
       "Evropa má vůči Moskvě jasné požadavky, uvedla šéfka unijní diplomacie"
     ],
     [
-      "https://zpravy.aktualne.cz/zahranici/putin-slevuje-mohl-by-byt-neustupnejsi-prohlasil-trump-ukrajina-bude-tematem-setkani-v-cine/r~aaa291336c945f14cf7667382dedc97a/",
-      "Putin slevuje, mohl by být neústupnější, prohlásil Trump. Ukrajina bude tématem setkání v Číně"
-    ],
-    [
       "https://www.ceskenoviny.cz/zpravy/putin-ohledne-ukrajiny-slevuje-rekl-trump/2902738",
       "Putin ohledně Ukrajiny slevuje, řekl Trump"
     ],
@@ -127,10 +131,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 30,
+    "initial_pending": 31,
     "completed": [],
     "deferred": [],
-    "remaining": 30
+    "remaining": 31
   },
   "samples_seconds": [
     51.274763,
