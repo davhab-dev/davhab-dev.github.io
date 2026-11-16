@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T17:50:56.801850+00:00",
+  "updated": "2026-11-16T18:43:49.445032+00:00",
   "articles": [
     {
       "title": "Drones clear a hurdle for use in anti-doping control transport",
@@ -99,6 +99,15 @@
       "lang": "EN",
       "category": "MTB",
       "published": "2026-11-16T09:00:00+00:00"
+    },
+    {
+      "title": "KYB vstupuje do MTB s upsidedown vidlicí",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/kyb-vstupuje-do-mtb-s-upsidedown-vidlici/kategorie/doplnky",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-16"
     },
     {
       "title": "Zemanová dvakrát v top 10, Bažant šestý. Belgický víkend ovládli Brand a Nys",
@@ -1109,15 +1118,6 @@
       "published": "2026-11-10"
     },
     {
-      "title": "Schody u Lidlu jako recept na evropské zlato? Thibau Nys kráčí ve stopách slavného otce",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/schody-u-lidlu-jako-recept-na-evropske-zlato-thibau-nys-kraci-ve-stopach-slavneho-otce/kategorie/cyklokros-mistrovstvi-evropy",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-11-10"
-    },
-    {
       "title": "Vrchařská prověrka, elektrokolo Touroll S2",
       "summary": "",
       "url": "https://cykl.cz/vrcharska-proverka-elektrokolo-touroll-s2",
@@ -1142,6 +1142,15 @@
       "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Cyklistika",
+      "published": "2026-11-10"
+    },
+    {
+      "title": "Schody u Lidlu jako recept na evropské zlato? Thibau Nys kráčí ve stopách slavného otce",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/schody-u-lidlu-jako-recept-na-evropske-zlato-thibau-nys-kraci-ve-stopach-slavneho-otce/kategorie/cyklokros-mistrovstvi-evropy",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
       "published": "2026-11-10"
     },
     {
@@ -3141,15 +3150,6 @@
       "lang": "CS",
       "category": "Cyklistika",
       "published": "2026-05-17"
-    },
-    {
-      "title": "Kokpit od Leatt",
-      "summary": "",
-      "url": "https://cykl.cz/kokpit-od-leatt",
-      "source": "Cykl.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
-      "published": "2026-05-14"
     }
   ],
   "source_errors": [
