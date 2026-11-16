@@ -3,32 +3,88 @@
   "current": null,
   "queue": [
     [
-      "https://zpravy.aktualne.cz/domaci/vrchni-soud-v-olomouci-povede-rostislav-krhut-jmenoval-ho-prezident-pavel/r~aaa29f00b3b3fcf18fdbf56fe82de67c/",
-      "Vrchní soud v Olomouci povede Rostislav Krhut, jmenoval ho prezident Pavel"
+      "https://ct24.ceskatelevize.cz/clanek/svet/babis-zahajil-navstevu-izraele-bude-jednat-o-protivzdusne-obrane-379666",
+      "Babiš zahájil návštěvu Izraele, bude jednat o protivzdušné obraně"
     ],
     [
-      "https://www.idnes.cz/zpravy/domaci/stem-rusko-valka-nato-pruzkum-cesi-pomoc-vojaci.A261116_115226_domaci_ikro",
-      "Rusko zaútočí na NATO, obává se polovina Čechů. Polsku by pomohla většina"
+      "https://www.ceskenoviny.cz/zpravy/slovenska-inspekce-stiha-policistku-ktera-obvinila-nynejsiho-ministra/2902731",
+      "Slovenská inspekce stíhá policistku, která obvinila nynějšího ministra"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/valcime-nebot-chceme-mir-na-staleti-zed-na-hranici-se-estonsku-vymsti-rika-kreml.A261116_120313_zahranicni_bro",
-      "Válčíme, neboť chceme mír na staletí. Zeď na hranici se Estonsku vymstí, říká Kreml"
+      "https://ct24.ceskatelevize.cz/clanek/svet/uzavreni-estonsko-ruske-hranice-bude-pro-narvu-bolestivou-ranou-mini-exstarostka-379664",
+      "Uzavření estonsko-ruské hranice bude pro Narvu bolestivou ranou, míní exstarostka"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/sikorski-rusko-polsko-valka-na-ukrajine-evropa-zachody.A261116_151240_zahranicni_jhr",
+      "Radši dobývají cizí města, než aby lidem zařídili záchody. Sikorski se vysmál Rusku"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/rusky-vliv-na-madagaskaru-sili-hraje-se-i-o-klicovy-pruliv-379656",
+      "Ruský vliv na Madagaskaru sílí, hraje se i o klíčový průliv"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/francouzsti-vojaci-ve-valce-na-ukrajine-utajene-pusobeni.A261116_145045_zahranicni_lupr",
+      "Operace Volja. Francouzští vojáci již několik měsíců tajně působí na Ukrajině"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/tancila-s-putinem-bydli-v-rusku-exministryni-pry-chteji-v-rakousku-odebrat-obcanstvi/r~aaa293ae4f731a8d3628a27f5a018570/",
+      "Tančila s Putinem, bydlí v Rusku. Exministryni prý chtějí v Rakousku odebrat občanství"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/chteji-mi-vzit-rakouske-obcanstvi-stezuje-si-z-ruska-exministryne-kneisslova.A261116_150527_zahranicni_bro",
+      "Chtějí mi vzít rakouské občanství, stěžuje si z Ruska exministryně Kneisslová"
     ],
     [
       "https://www.idnes.cz/zpravy/domaci/dohledovy-urad-socdem-pokutu-90-tisic-kc-chyby-ucetnictvi.A261116_113633_domaci_sahu",
       "Úřad odhalil chyby v účetnictví SOCDEM. Strana zaplatí pokutu 90 tisíc korun"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/rusko-v-noci-zneskodnilo-1336-ukrajinskych-dronu-jde-zrejme-o-rekord.A261116_071752_zahranicni_sahu",
-      "Ukrajina zasáhla Moskvu i Krymský most. Rusko hlásí rekord sestřelených dronů"
+      "https://www.ceskenoviny.cz/zpravy/francouzsti-vojaci-pusobi-utajene-na-ukrajine-tvrdi-zdroje-rfi-a-afp/2902699",
+      "Francouzští vojáci působí utajeně na Ukrajině, tvrdí zdroje RFI a AFP"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/klempir-chce-nejprve-probrat-evropsky-akt-o-svobode-medii-az-pak-poplatky-za-ct-a-cro-379662",
+      "Klempíř chce nejprve probrat Evropský akt o svobodě médií, až pak poplatky za ČT a ČRo"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/ruska-sprava-planuje-zabavit-pres-1100-domu-v-okupovane-casti-chersonske-oblasti-379663",
+      "Ruská správa plánuje zabavit přes 1100 domů v okupované části Chersonské oblasti"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/klempir-ct-a-cro-zmena-financovani-medii.A261116_132817_domaci_aoc",
+      "Klempíř chce vyčkat s jednáním o zrušení poplatků ČT a rozhlasu"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/andrej-babis-premier-cesta-izrael-demonstrace-protivzdusna-obrana-17-listopad.A261116_060952_domaci_ikro",
+      "Babiš je na návštěvě Izraele. Posílit protivzdušnou obranu chce co nejdřív"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/klempir-chce-jednani-o-verejnopravnich-mediich-odlozit-vysvetlil-proc/r~aaa298279c865d633ec491c0f1f6c0c0/",
+      "Klempíř chce jednání o veřejnoprávních médiích odložit, vysvětlil proč"
+    ],
+    [
+      "https://www.denik.cz/cesko/debate-o-financovani-ct-a-cro-ma-predchazet-diskuse-o-emfa-domniva-se-klempir/",
+      "Debatě o financování ČT a ČRo má předcházet diskuse o EMFA, domnívá se Klempíř"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/skoro-polovina-cechu-povazuje-agresi-ruska-vuci-nato-za-pravdepodobnou-zjistil-pruzkum-379657",
+      "Skoro polovina Čechů považuje agresi Ruska vůči NATO za pravděpodobnou, zjistil průzkum"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/ministri-eu-schvalili-dalsi-sankce-proti-rusku-na-seznam-pribylo-145-jmen-/2900980",
+      "Ministři EU schválili další sankce proti Rusku, na seznam přibylo 145 jmen"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/rusko-chce-mir-na-staleti-rekl-peskov-ukrajine-ale-neda-prilezitost-vylecit-si-rany/r~aaa294d87fbe8297ceb05e2cec77da75/",
+      "Rusko chce mír na staletí, řekl Peskov. Ukrajině ale nedá příležitost „vyléčit si rány“"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/vrchni-soud-v-olomouci-povede-rostislav-krhut-jmenoval-ho-prezident-pavel/r~aaa29f00b3b3fcf18fdbf56fe82de67c/",
+      "Vrchní soud v Olomouci povede Rostislav Krhut, jmenoval ho prezident Pavel"
     ],
     [
       "https://zpravy.aktualne.cz/domaci/na-okamuru-a-babise-miri-kvuli-armadnim-zakazkam-zaloba-exministryne-zautocila/r~aaa29c00b8dc1321ccd2837597027e3c/",
       "Na Okamuru a Babiše míří kvůli armádním zakázkám žaloba. Exministryně zaútočila"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/peskov-rusko-chce-mir-na-staleti-proto-pokracuje-v-operaci-proti-ukrajine/2902622",
-      "Peskov: Rusko chce mír na staletí, proto pokračuje v operaci proti Ukrajině"
     ],
     [
       "https://www.denik.cz/evropa/uzavreni-hranic-s-ruskem-neprinese-estonsku-nic-dobreho-uvedl-kreml/",
@@ -39,82 +95,22 @@
       "Pavel jmenoval Krhuta novým šéfem vrchního soudu v Olomouci"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/svet/kyjev-neni-na-zimu-pripraveny-obavaji-se-jeho-obcane-a-vini-klycka-379577",
-      "Kyjev není na zimu připravený, obávají se jeho občané a viní Klyčka"
-    ],
-    [
       "https://zpravy.aktualne.cz/zahranici/zustali-tu-pohrobci-sssr-v-pobalti-se-stalo-to-pred-cim-varovaly-tajne-sluzby/r~aaa29bca92e4eefaed03d99ef26869fa/",
       "Zůstali tu pohrobci SSSR. V Pobaltí se stalo to, před čím varovaly tajné služby"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/princ-harry-navstivil-ukrajinu-setkal-zranenymi-veterany.A261116_102219_zahranicni_sahu",
-      "„Ukrajina zvítězí.“ Princ Harry přijel do Lvova, podpořil handicapované veterány"
-    ],
-    [
       "https://www.denik.cz/evropa/polske-urady-zadrzely-tri-mlade-polaky-chystajici-utok-i-vyhrozujiciho-rusa/",
       "Polské úřady zadržely tři mladé Poláky chystající útok i vyhrožujícího Rusa"
-    ],
-    [
-      "https://zpravy.aktualne.cz/zahranici/skupina-mladych-polaku-chystala-teroristicky-utok-vybusniny-si-vyrabeli-doma/r~aaa29e3dd7f9a6272f65df6b8f74c318/",
-      "Skupina mladých Poláků chystala teroristický útok, výbušniny si vyráběli doma"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/salvadorsti-vojaci-vyuzivaji-na-haiti-pri-operacich-i-roboticke-psy.A261116_091421_zahranicni_sahu",
-      "Robopsi s puškou na hřbetě. Salvadorští vojáci nasadili na Haiti nečekanou zbraň"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/reuters-pet-zemi-eu-oznami-plan-posilat-zamitnute-zadatele-o-azyl-do-rwandy/2902575",
-      "Reuters: Pět zemí EU oznámí plán posílat zamítnuté žadatele o azyl do Rwandy"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/andrea-pfeffer-ferklova-z-ano-se-potreti-stala-primatorkou-karlovych-varu/2902567",
-      "Andrea Pfeffer Ferklová z ANO se potřetí stala primátorkou Karlových Varů"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/eu-dnes-schvali-sankce-proti-ruskym-osobam-a-firmam-uvedla-mcenteeova/2900980",
-      "EU dnes schválí sankce proti ruským osobám a firmám, uvedla McEnteeová"
-    ],
-    [
-      "https://zpravy.aktualne.cz/domaci/politicka-sikana-zive-special-k-17-listopadu/r~aaa299ccc23ee3836caf1e44780b9d5e/",
-      "Politická šikana: Speciál k 17. listopadu"
-    ],
-    [
-      "https://zpravy.aktualne.cz/zahranici/ruske-pozadavky-jsou-zaminkou-k-pokracovani-valky-uvedla-kallasova/r~aaa29bcd26049dfccfb6278de41d8546/",
-      "Ruské požadavky jsou záminkou k pokračování války, uvedla Kallasová"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/hoste-udalosti-komentaru-tydne-debatovali-o-protestu-na-letne-i-situaci-v-ods-379645",
-      "Hosté Událostí, komentářů týdne debatovali o protestu na Letné i situaci v ODS"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/babis-nezvazuje-ze-by-vyhovel-pozadavkum-z-demonstrace-na-letne-379650",
-      "Babiš nezvažuje, že by vyhověl požadavkům z demonstrace na Letné"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/na-zruseni-poplatku-je-siroka-koalicni-shoda-rika-nerusil-grolich-chce-zaruky-nezavislosti-379644",
-      "Na zrušení poplatků je široká koaliční shoda, říká Nerušil. Grolich chce záruky nezávislosti"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/ukrajinci-zautocili-na-krymsky-most-doslo-k-omezeni-provozu-379651",
-      "Ukrajinci zasáhli Krymský most, provoz je omezen"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/rusko-v-noci-zneskodnilo-1336-ukrajinskych-dronu-jde-zrejme-o-rekord/2902511",
-      "Rusko v noci zneškodnilo 1336 ukrajinských dronů, jde zřejmě o rekord"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/legalizace-svarcsystemu-nebo-zpresneni-definice-novelu-zakoniku-prace-provazi-spory-379555",
-      "„Legalizace“ švarcsystému, nebo zpřesnění definice? Novelu zákoníku práce provází spory"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 26,
+    "initial_pending": 25,
     "completed": [],
     "deferred": [],
-    "remaining": 26
+    "remaining": 25
   },
   "samples_seconds": [
     51.274763,
