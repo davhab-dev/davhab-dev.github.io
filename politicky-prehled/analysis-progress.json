@@ -3,6 +3,10 @@
   "current": null,
   "queue": [
     [
+      "https://ct24.ceskatelevize.cz/clanek/svet/nekolik-statu-zada-izrael-aby-neomezoval-pomoc-pro-pasmo-gazy-379646",
+      "Několik států žádá Izrael, aby neomezoval pomoc pro Pásmo Gazy"
+    ],
+    [
       "https://cnn.iprima.cz/kubacek-k-letne-slova-o-autokracii-jsou-ulet-prvotni-myslenka-demonstrace-se-posunula-527247",
       "Kubáček k Letné: Slova o autokracii jsou úlet. Prvotní myšlenka demonstrace se posunula"
     ],
@@ -115,14 +119,6 @@
       "Zelenskyj uvedl, že ruským útokům pomáhá omezení provozu Starshieldu"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/svet/zeme-jihovychodni-asie-resi-americka-cla-a-vztahy-k-cine-379633",
-      "Země jihovýchodní Asie řeší americká cla a vztahy k Číně"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/temer-dve-tretiny-lidi-si-mysli-ze-je-dnes-lepe-nez-pred-rokem-1989-ukazal-pruzkum-379613",
-      "Téměř dvě třetiny lidí si myslí, že je dnes lépe než před rokem 1989, ukázal průzkum"
-    ],
-    [
       "https://denikn.cz/newsletter/2257674/prezident-ceske-stomatologicke-komory-roman-smucler-rezignoval-microsoft-po-vypadku-obnovil-vsechny-sve-sluzby-deset-kroku-jak-spd-podkopala-ceskou-obranu/",
       "Ranních 5 minut: Prezident České stomatologické komory Šmucler rezignoval | Microsoft po výpadku obnovil všechny své služby"
     ],
@@ -135,10 +131,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 32,
+    "initial_pending": 31,
     "completed": [],
     "deferred": [],
-    "remaining": 32
+    "remaining": 31
   },
   "samples_seconds": [
     51.274763,
