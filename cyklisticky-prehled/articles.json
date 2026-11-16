@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T20:39:58.430939+00:00",
+  "updated": "2026-11-16T21:39:05.993434+00:00",
   "articles": [
     {
       "title": "'For the moment, I'm not able to win the Tour' – Paul Seixas hints at potential 2027 season debut race with immediate return to Tour de France not guaranteed",
@@ -1127,6 +1127,15 @@
       "published": "2026-11-10"
     },
     {
+      "title": "Vrchařská prověrka, elektrokolo Touroll S2",
+      "summary": "",
+      "url": "https://cykl.cz/vrcharska-proverka-elektrokolo-touroll-s2",
+      "source": "Cykl.cz",
+      "lang": "CS",
+      "category": "Technika",
+      "published": "2026-11-10"
+    },
+    {
       "title": "Gravel v Česku a v zahraničí: Dvě naprosto odlišné disciplíny",
       "summary": "",
       "url": "https://www.mtbiker.cz/clanky/132086/gravel-v-cesku-a-v-zahranici-dve-naprosto-odlisne-discipliny.html",
@@ -1142,15 +1151,6 @@
       "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Cyklistika",
-      "published": "2026-11-10"
-    },
-    {
-      "title": "Vrchařská prověrka, elektrokolo Touroll S2",
-      "summary": "",
-      "url": "https://cykl.cz/vrcharska-proverka-elektrokolo-touroll-s2",
-      "source": "Cykl.cz",
-      "lang": "CS",
-      "category": "Technika",
       "published": "2026-11-10"
     },
     {
@@ -1935,6 +1935,15 @@
       "lang": "CS",
       "category": "Gravel",
       "published": "2026-11-03T08:00:00+00:00"
+    },
+    {
+      "title": "Raymon Vamok Base – spousta zábavy i v základu (unboxing)",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132066/raymon-vamok-base-spousta-zabavy-i-v-zakladu-unboxing.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-03"
     },
     {
       "title": "Giro d’Italia 2027 odhalilo trasu. Vrací se legendární Mortirolo, Gavia i Zoncolan",
@@ -2990,19 +2999,19 @@
       "published": "2026-09-24T22:45:49+00:00"
     },
     {
-      "title": "Jen sto kusů. Specialized představil exkluzivní repliku kola Remca Evenepoela",
+      "title": "Dvakrát Double Black",
       "summary": "",
-      "url": "https://cyklorepublic.cz/clanky/01a0ca0e-c934-722a-a187-ab090b7e9792/zlaty-sberatelsky-skvost-specialized-posila-do-prodeje-repliku-remcova-kola-v-limitovane-edici",
-      "source": "CykloRepublic.cz",
+      "url": "https://cykl.cz/dvakrat-double-black",
+      "source": "Cykl.cz",
       "lang": "CS",
       "category": "Cyklistika",
       "published": "2026-09-22"
     },
     {
-      "title": "Dvakrát Double Black",
+      "title": "Jen sto kusů. Specialized představil exkluzivní repliku kola Remca Evenepoela",
       "summary": "",
-      "url": "https://cykl.cz/dvakrat-double-black",
-      "source": "Cykl.cz",
+      "url": "https://cyklorepublic.cz/clanky/01a0ca0e-c934-722a-a187-ab090b7e9792/zlaty-sberatelsky-skvost-specialized-posila-do-prodeje-repliku-remcova-kola-v-limitovane-edici",
+      "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Cyklistika",
       "published": "2026-09-22"
@@ -3141,19 +3150,9 @@
       "lang": "CS",
       "category": "Cyklistika",
       "published": "2026-05-27"
-    },
-    {
-      "title": "PUKY pro holky i kluky",
-      "summary": "",
-      "url": "https://cykl.cz/puky-pro-holky-i-kluky",
-      "source": "Cykl.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
-      "published": "2026-05-19"
     }
   ],
   "source_errors": [
-    "NaKole.cz: HTTP Error 403: Forbidden",
-    "Cykl.cz: <urlopen error [Errno 111] Connection refused>"
+    "NaKole.cz: HTTP Error 403: Forbidden"
   ]
 }
