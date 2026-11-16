@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T02:44:49.793328+00:00",
+  "updated": "2026-11-16T03:55:12.578544+00:00",
   "articles": [
     {
       "title": "Lidl-Trek unveils new cyclo-cross team but Thibau Nys stays with father’s squad",
@@ -983,6 +983,15 @@
       "published": "2026-11-10"
     },
     {
+      "title": "Vrchařská prověrka, elektrokolo Touroll S2",
+      "summary": "",
+      "url": "https://cykl.cz/vrcharska-proverka-elektrokolo-touroll-s2",
+      "source": "Cykl.cz",
+      "lang": "CS",
+      "category": "Technika",
+      "published": "2026-11-10"
+    },
+    {
       "title": "Gravel v Česku a v zahraničí: Dvě naprosto odlišné disciplíny",
       "summary": "",
       "url": "https://www.mtbiker.cz/clanky/132086/gravel-v-cesku-a-v-zahranici-dve-naprosto-odlisne-discipliny.html",
@@ -998,15 +1007,6 @@
       "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Cyklistika",
-      "published": "2026-11-10"
-    },
-    {
-      "title": "Vrchařská prověrka, elektrokolo Touroll S2",
-      "summary": "",
-      "url": "https://cykl.cz/vrcharska-proverka-elektrokolo-touroll-s2",
-      "source": "Cykl.cz",
-      "lang": "CS",
-      "category": "Technika",
       "published": "2026-11-10"
     },
     {
@@ -2828,19 +2828,19 @@
       "published": "2026-09-24T22:45:49+00:00"
     },
     {
-      "title": "Jen sto kusů. Specialized představil exkluzivní repliku kola Remca Evenepoela",
+      "title": "Dvakrát Double Black",
       "summary": "",
-      "url": "https://cyklorepublic.cz/clanky/01a0ca0e-c934-722a-a187-ab090b7e9792/zlaty-sberatelsky-skvost-specialized-posila-do-prodeje-repliku-remcova-kola-v-limitovane-edici",
-      "source": "CykloRepublic.cz",
+      "url": "https://cykl.cz/dvakrat-double-black",
+      "source": "Cykl.cz",
       "lang": "CS",
       "category": "Cyklistika",
       "published": "2026-09-22"
     },
     {
-      "title": "Dvakrát Double Black",
+      "title": "Jen sto kusů. Specialized představil exkluzivní repliku kola Remca Evenepoela",
       "summary": "",
-      "url": "https://cykl.cz/dvakrat-double-black",
-      "source": "Cykl.cz",
+      "url": "https://cyklorepublic.cz/clanky/01a0ca0e-c934-722a-a187-ab090b7e9792/zlaty-sberatelsky-skvost-specialized-posila-do-prodeje-repliku-remcova-kola-v-limitovane-edici",
+      "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Cyklistika",
       "published": "2026-09-22"
@@ -3153,7 +3153,6 @@
     }
   ],
   "source_errors": [
-    "NaKole.cz: HTTP Error 403: Forbidden",
-    "Cykl.cz: <urlopen error [Errno 111] Connection refused>"
+    "NaKole.cz: HTTP Error 403: Forbidden"
   ]
 }
