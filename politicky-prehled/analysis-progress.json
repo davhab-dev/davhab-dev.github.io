@@ -3,8 +3,76 @@
   "current": null,
   "queue": [
     [
+      "https://www.idnes.cz/zpravy/zahranicni/ukrajina-rusko-valka-kyrm-most-kercsky-utok.A261116_172305_zahranicni_dtt",
+      "Dron vychýlil oblouk Krymského mostu. Silniční doprava stojí už hodiny"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/le-penova-nastinila-kroky-vuci-ukrajine-pokud-by-byla-prezidentkou-chce-schuzku-se-zelenskym/r~aaa2983874a91a6501d185560c9429f8/",
+      "Le Penová nastínila kroky vůči Ukrajině, bude-li prezidentkou. Chce schůzku se Zelenským"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/dialog-babise-s-chvilkari-uznal-by-je-za-sobe-rovne-mini-experti-a-odhaluji-paradox/r~aaa29ed479ad296187c1cc7b6d8c570c/",
+      "Dialog Babiše s „chvilkaři“? Uznal by je za sobě rovné, míní experti a odhalují paradox"
+    ],
+    [
+      "https://cnn.iprima.cz/demokracii-nemuze-nahradit-ulice-varuje-kulidakis-porazenym-po-letne-je-i-kupka-mini-schmarcz-527294",
+      "Prohrál nejen Babiš, ale i Kupka, řekl Schmarcz k Letné. Kulidakis varoval před vládou ulice"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/le-penova-v-pripade-zvoleni-slibila-dostat-francouzskym-zavazkum-vuci-kyjevu/2902774",
+      "Le Penová v případě zvolení slíbila dostát francouzským závazkům vůči Kyjevu"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/politolozka-nepredpoklada-zmenu-ve-vlade-dokud-ma-koalice-vetsinu/2902767",
+      "Politoložka nepředpokládá změnu ve vládě, dokud má koalice většinu"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/valcime-nebot-chceme-mir-na-staleti-zed-na-hranici-se-estonsku-vymsti-rika-kreml.A261116_120313_zahranicni_bro",
+      "Válčíme, neboť chceme mír na staletí. Zeď na hranici se Estonsku vymstí, říká Kreml"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/moskva-obvinila-zenu-z-bomboveho-utoku-mluvci-premier-ukrajina.A261116_171017_zahranicni_lupr",
+      "Moskva obvinila mladou ženu z atentátu na bývalého mluvčího premiéra Ukrajiny"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/pet-zemi-eu-chysta-deportacni-stredisko-ve-rwande-fungovat-by-mohlo-pristi-rok-379675",
+      "Pět zemí EU chystá deportační středisko ve Rwandě, fungovat by mohlo příští rok"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/evropa-ma-vuci-moskve-jasne-pozadavky-uvedla-sefka-unijni-diplomacie/2902759",
+      "Evropa má vůči Moskvě jasné požadavky, uvedla šéfka unijní diplomacie"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/klempir-ct-a-cro-zmena-financovani-medii.A261116_132817_domaci_aoc",
+      "Nejprve evropský akt o médiích, pak konec poplatků. Klempíř jednal s eurokomisařem"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/petice-evropskych-statu-chce-deportace-do-rwandy-prvni-uz-pristi-rok.A261116_162610_zahranicni_bro",
+      "Pětice evropských států chce deportace do Rwandy, první už příští rok"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/putin-slevuje-mohl-by-byt-neustupnejsi-prohlasil-trump-ukrajina-bude-tematem-setkani-v-cine/r~aaa291336c945f14cf7667382dedc97a/",
+      "Putin slevuje, mohl by být neústupnější, prohlásil Trump. Ukrajina bude tématem setkání v Číně"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/josef-nerusil-tomio-okamura-letna-demonstrace-milion-chvilek.A261116_134432_domaci_ikro",
+      "Bylo plno, komentoval poslanec SPD protest. Pak ale Letnou zaplnil ovcemi"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/prekvapiva-slova-o-zelenskem-i-trumpovi-biden-prichazi-s-pametmi/r~aaa29a7c7d33ef461209d7ffd983100c/",
+      "Překvapivá slova o Zelenském i Trumpovi. Biden přichází s paměťmi"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/putin-ohledne-ukrajiny-slevuje-rekl-trump/2902738",
+      "Putin ohledně Ukrajiny slevuje, řekl Trump"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/centralni-banka-v-polsku-zastavila-platby-z-uctu-ustavniho-soudu-nevi-kdo-ho-reprezentuje/r~aaa29db10b15172a07e4db58eee4f5fb/",
+      "Centrální banka v Polsku zastavila platby z účtů ústavního soudu. Neví, kdo ho reprezentuje"
+    ],
+    [
       "https://ct24.ceskatelevize.cz/clanek/svet/babis-zahajil-navstevu-izraele-bude-jednat-o-protivzdusne-obrane-379666",
-      "Babiš zahájil návštěvu Izraele, bude jednat o protivzdušné obraně"
+      "Brífink Andreje Babiše po jednání s Netanjahuem"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/slovenska-inspekce-stiha-policistku-ktera-obvinila-nynejsiho-ministra/2902731",
@@ -15,48 +83,12 @@
       "Uzavření estonsko-ruské hranice bude pro Narvu bolestivou ranou, míní exstarostka"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/sikorski-rusko-polsko-valka-na-ukrajine-evropa-zachody.A261116_151240_zahranicni_jhr",
-      "Radši dobývají cizí města, než aby lidem zařídili záchody. Sikorski se vysmál Rusku"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/svet/rusky-vliv-na-madagaskaru-sili-hraje-se-i-o-klicovy-pruliv-379656",
       "Ruský vliv na Madagaskaru sílí, hraje se i o klíčový průliv"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/francouzsti-vojaci-ve-valce-na-ukrajine-utajene-pusobeni.A261116_145045_zahranicni_lupr",
-      "Operace Volja. Francouzští vojáci již několik měsíců tajně působí na Ukrajině"
-    ],
-    [
-      "https://zpravy.aktualne.cz/zahranici/tancila-s-putinem-bydli-v-rusku-exministryni-pry-chteji-v-rakousku-odebrat-obcanstvi/r~aaa293ae4f731a8d3628a27f5a018570/",
-      "Tančila s Putinem, bydlí v Rusku. Exministryni prý chtějí v Rakousku odebrat občanství"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/chteji-mi-vzit-rakouske-obcanstvi-stezuje-si-z-ruska-exministryne-kneisslova.A261116_150527_zahranicni_bro",
-      "Chtějí mi vzít rakouské občanství, stěžuje si z Ruska exministryně Kneisslová"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/dohledovy-urad-socdem-pokutu-90-tisic-kc-chyby-ucetnictvi.A261116_113633_domaci_sahu",
-      "Úřad odhalil chyby v účetnictví SOCDEM. Strana zaplatí pokutu 90 tisíc korun"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/francouzsti-vojaci-pusobi-utajene-na-ukrajine-tvrdi-zdroje-rfi-a-afp/2902699",
-      "Francouzští vojáci působí utajeně na Ukrajině, tvrdí zdroje RFI a AFP"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/domaci/klempir-chce-nejprve-probrat-evropsky-akt-o-svobode-medii-az-pak-poplatky-za-ct-a-cro-379662",
       "Klempíř chce nejprve probrat Evropský akt o svobodě médií, až pak poplatky za ČT a ČRo"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/ruska-sprava-planuje-zabavit-pres-1100-domu-v-okupovane-casti-chersonske-oblasti-379663",
-      "Ruská správa plánuje zabavit přes 1100 domů v okupované části Chersonské oblasti"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/klempir-ct-a-cro-zmena-financovani-medii.A261116_132817_domaci_aoc",
-      "Klempíř chce vyčkat s jednáním o zrušení poplatků ČT a rozhlasu"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/andrej-babis-premier-cesta-izrael-demonstrace-protivzdusna-obrana-17-listopad.A261116_060952_domaci_ikro",
-      "Babiš je na návštěvě Izraele. Posílit protivzdušnou obranu chce co nejdřív"
     ],
     [
       "https://zpravy.aktualne.cz/domaci/klempir-chce-jednani-o-verejnopravnich-mediich-odlozit-vysvetlil-proc/r~aaa298279c865d633ec491c0f1f6c0c0/",
@@ -71,46 +103,18 @@
       "Skoro polovina Čechů považuje agresi Ruska vůči NATO za pravděpodobnou, zjistil průzkum"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/ministri-eu-schvalili-dalsi-sankce-proti-rusku-na-seznam-pribylo-145-jmen-/2900980",
-      "Ministři EU schválili další sankce proti Rusku, na seznam přibylo 145 jmen"
-    ],
-    [
-      "https://zpravy.aktualne.cz/zahranici/rusko-chce-mir-na-staleti-rekl-peskov-ukrajine-ale-neda-prilezitost-vylecit-si-rany/r~aaa294d87fbe8297ceb05e2cec77da75/",
-      "Rusko chce mír na staletí, řekl Peskov. Ukrajině ale nedá příležitost „vyléčit si rány“"
-    ],
-    [
-      "https://zpravy.aktualne.cz/domaci/vrchni-soud-v-olomouci-povede-rostislav-krhut-jmenoval-ho-prezident-pavel/r~aaa29f00b3b3fcf18fdbf56fe82de67c/",
-      "Vrchní soud v Olomouci povede Rostislav Krhut, jmenoval ho prezident Pavel"
-    ],
-    [
-      "https://zpravy.aktualne.cz/domaci/na-okamuru-a-babise-miri-kvuli-armadnim-zakazkam-zaloba-exministryne-zautocila/r~aaa29c00b8dc1321ccd2837597027e3c/",
-      "Na Okamuru a Babiše míří kvůli armádním zakázkám žaloba. Exministryně zaútočila"
-    ],
-    [
       "https://www.denik.cz/evropa/uzavreni-hranic-s-ruskem-neprinese-estonsku-nic-dobreho-uvedl-kreml/",
       "Uzavření hranic s Ruskem nepřinese Estonsku nic dobrého, uvedl Kreml"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/pavel-jmenoval-krhuta-novym-sefem-vrchniho-soudu-v-olomouci/2902481",
-      "Pavel jmenoval Krhuta novým šéfem vrchního soudu v Olomouci"
-    ],
-    [
-      "https://zpravy.aktualne.cz/zahranici/zustali-tu-pohrobci-sssr-v-pobalti-se-stalo-to-pred-cim-varovaly-tajne-sluzby/r~aaa29bca92e4eefaed03d99ef26869fa/",
-      "Zůstali tu pohrobci SSSR. V Pobaltí se stalo to, před čím varovaly tajné služby"
-    ],
-    [
-      "https://www.denik.cz/evropa/polske-urady-zadrzely-tri-mlade-polaky-chystajici-utok-i-vyhrozujiciho-rusa/",
-      "Polské úřady zadržely tři mladé Poláky chystající útok i vyhrožujícího Rusa"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 25,
+    "initial_pending": 26,
     "completed": [],
     "deferred": [],
-    "remaining": 25
+    "remaining": 26
   },
   "samples_seconds": [
     51.274763,
