@@ -1,6 +1,33 @@
 {
-  "updated": "2026-11-16T16:30:33.646201+00:00",
+  "updated": "2026-11-16T17:50:56.801850+00:00",
   "articles": [
+    {
+      "title": "Drones clear a hurdle for use in anti-doping control transport",
+      "summary": "ITA announces study that supports feasibility of unmanned transport of doping control samples",
+      "url": "https://www.cyclingnews.com/pro-cycling/doping/drones-clear-a-hurdle-for-use-in-anti-doping-control-transport/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-16T17:28:52+00:00"
+    },
+    {
+      "title": "'An important signal for women's cycling' – FDJ United-Suez welcome major new title sponsor as TotalEnergies takes big step into women’s WorldTour",
+      "summary": "Five-year deal will be the longest in team's history, as energy brands arrives in 'really, really fast' deal",
+      "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/an-important-signal-for-womens-cycling-fdj-united-suez-welcome-major-new-title-sponsor-as-totalenergies-takes-big-step-into-womens-worldtour/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-16T17:05:02+00:00"
+    },
+    {
+      "title": "Alza.cz a Trail Hunter: Pomozme si navzájem!",
+      "summary": "Potřebujete něco na Alze? Budu vděčný, když na ni zaběhnete přes tento odkaz: www.alza.cz/?idp=23219 To číslo za lomítkem mimozemšťanovi řekne,",
+      "url": "https://www.trailhunter.cz/alza-trail-hunter/",
+      "source": "TrailHunter.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-16T16:45:48+00:00"
+    },
     {
       "title": "'I've never stopped believing in what I can achieve' – Four-time Olympic medalist Chloé Dygert circles back to US-based TWENTY28 squad to reignite career ahead of LA Games",
       "summary": "After six seasons at Women's WorldTour level, Dygert commits on two-year deal with Continental team",
@@ -792,6 +819,15 @@
       "lang": "EN",
       "category": "Závody",
       "published": "2026-11-11T16:59:14+00:00"
+    },
+    {
+      "title": "Trail Hunter kolo: Speciální edice Merida One-Twenty s výbavou podle Trail Huntera",
+      "summary": "Stvořil jsem pro vás kolo. Takové, se kterým si užijete traily, skoky i výlety.",
+      "url": "https://www.trailhunter.cz/trail-hunter-kolo/",
+      "source": "TrailHunter.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-11T16:55:15+00:00"
     },
     {
       "title": "Stay warm with our top winter cycling clothing recommendations",
@@ -2846,21 +2882,21 @@
       "published": "2026-10-08T08:00:00+00:00"
     },
     {
-      "title": "Van Rysel odhalil model RCR-XC, který má 32palcová kola a váží méně než devětadvacítka",
-      "summary": "",
-      "url": "https://cyklorepublic.cz/clanky/01a11c92-d72c-7184-b700-cf14910ebe46/van-rysel-odhalil-nove-mtb-rcr-xc-ma-32palcova-kola-a-vazi-mene-nez-devetadvacitka",
-      "source": "CykloRepublic.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
-      "published": "2026-10-08"
-    },
-    {
       "title": "Evropský cykloprůmysl chce zakázat čipování elektrokol",
       "summary": "",
       "url": "https://mtbs.cz/clanek/evropsky-cykloprumysl-chce-zakazat-cipovani-elektrokol/kategorie/servis",
       "source": "MTBS.cz",
       "lang": "CS",
       "category": "Technika",
+      "published": "2026-10-08"
+    },
+    {
+      "title": "Van Rysel odhalil model RCR-XC, který má 32palcová kola a váží méně než devětadvacítka",
+      "summary": "",
+      "url": "https://cyklorepublic.cz/clanky/01a11c92-d72c-7184-b700-cf14910ebe46/van-rysel-odhalil-nove-mtb-rcr-xc-ma-32palcova-kola-a-vazi-mene-nez-devetadvacitka",
+      "source": "CykloRepublic.cz",
+      "lang": "CS",
+      "category": "Cyklistika",
       "published": "2026-10-08"
     },
     {
@@ -3114,42 +3150,6 @@
       "lang": "CS",
       "category": "Cyklistika",
       "published": "2026-05-14"
-    },
-    {
-      "title": "Brýle 3F Spark jr. - nejen pro juniory",
-      "summary": "",
-      "url": "https://cykl.cz/bryle-3f-spark-jr-nejen-pro-juniory",
-      "source": "Cykl.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
-      "published": "2026-05-11"
-    },
-    {
-      "title": "Bafang RG E510: 5stupňová automatická a manuální nábojová převodovka pro elektrokola",
-      "summary": "",
-      "url": "https://cykl.cz/bafang-rg-e510-5stupnova-automaticka-a-manualni-nabojova-prevodovka-pro-elektrokola",
-      "source": "Cykl.cz",
-      "lang": "CS",
-      "category": "Technika",
-      "published": "2026-05-07"
-    },
-    {
-      "title": "Superior a Rock Machine Day na Spořilově",
-      "summary": "",
-      "url": "https://cykl.cz/superior-a-rock-machine-day-na-sporilove",
-      "source": "Cykl.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
-      "published": "2026-05-06"
-    },
-    {
-      "title": "Author Silikonový chránič",
-      "summary": "",
-      "url": "https://cykl.cz/author-silikonovy-chranic",
-      "source": "Cykl.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
-      "published": "2026-05-01"
     }
   ],
   "source_errors": [
