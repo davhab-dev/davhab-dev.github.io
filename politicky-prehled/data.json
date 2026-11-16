@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-11-16T22:54:28.376798+00:00",
+  "updated_at": "2026-11-16T23:50:04.514183+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Ruský balistický útok v Kyjevě zasáhl dva mosty",
+      "summary": "Ruské balistické střely v noci z pondělí na úterý zasáhly dva důležité mosty v Kyjevě. Podle starosty ukrajinské metropole Vitalije Klyčka byla poškozena i kritická…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-16T23:39:01+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusky-balisticky-utok-v-kyjeve-zasahl-dva-mosty-379678",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Na začátku všeho byl herní čip. Jak Huangova firma ovládla celý svět",
+      "summary": "Byl nedotknutelnou ikonou technologického světa a symbolem úspěchu éry umělé inteligence. Jensen Huang proměnil malou firmu vzniklou v kalifornském fastfoodu v nejhodnotnější společnost planety, jejíž…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-16T23:00:00+00:00",
+      "url": "https://www.idnes.cz/ekonomika/domaci/nvidia-konec-jensen-huang-cipy-spion.A261113_105108_ekonomika_base",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Paraguayský exprezident za deset dní vyměnil palác za vojenskou věznici",
       "summary": "Paraguayský exprezident Sebastiano Peña dnes nastoupil do vazby do vojenské věznice. Stalo se tak jen několik dnů poté, co ho Senát 6. listopadu zbavil prezidentské…",
@@ -89,16 +109,6 @@
       "category": "domaci",
       "published_at": "2026-11-16T19:14:49+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-zveda-platy-uredniku-obce-si-stezuji-ze-na-ne-nedostanou-dost-penez-navic-379676",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Babiš se sešel s Netanjahuem. V Izraeli zahájil jednání o protivzdušné obraně",
-      "summary": "Od naší zpravodajky v Izraeli – Předseda vlády Andrej Babiš (ANO) se v Izraeli setkal s izraelským premiérem Benjaminem Netanjahuem. Český ministerský předseda chce v…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-16T19:09:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/babis-izrael-benjamin-netanjahu-herzog-eisenkot-cesta.A261116_185911_domaci_linh",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -273,16 +283,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Rusko se dvoří Madagaskaru. USA varují před „sahelským modelem“",
-      "summary": "Spojené státy varovaly Madagaskar před prohlubováním vazeb s Moskvou. Po loňském převzetí moci armádou Rusko dodává africké zemi zbraně a na ostrově působí jeho polovojenské…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-16T14:40:00+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusky-vliv-na-madagaskaru-sili-hraje-se-i-o-klicovy-pruliv-379656",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Klempíř chce nejprve probrat Evropský akt o svobodě médií, až pak poplatky za ČT a ČRo",
       "summary": "Ministr kultury Oto Klempíř (za Motoristy) se domnívá, že jednání o změně financování České televize (ČT) a Českého rozhlasu (ČRo) by nemělo pokračovat, dokud poslanci…",
       "source": "ČT24",
@@ -301,16 +301,6 @@
       "url": "https://www.denik.cz/cesko/debate-o-financovani-ct-a-cro-ma-predchazet-diskuse-o-emfa-domniva-se-klempir/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
-    },
-    {
-      "title": "Skoro polovina Čechů považuje agresi Ruska vůči NATO za pravděpodobnou, zjistil průzkum",
-      "summary": "Že Rusko v nejbližších měsících uskuteční agresivní akci vůči některé ze zemí NATO, považuje za pravděpodobné 49 procent Čechů, vyplývá z průzkumu agentury STEM. Vojenskou…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-16T12:01:29+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/skoro-polovina-cechu-povazuje-agresi-ruska-vuci-nato-za-pravdepodobnou-zjistil-pruzkum-379657",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
     }
   ],
   "unavailable_sources": [],
@@ -321,8 +311,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
-      "selected": 7,
+      "candidates": 17,
+      "selected": 6,
       "free_articles_checked": 8
     },
     {
@@ -391,7 +381,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 16,
       "selected": 5,
       "free_articles_checked": 7
     },
@@ -401,7 +391,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 16,
       "selected": 2,
       "free_articles_checked": 2
     },
@@ -411,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 5,
+      "candidates": 4,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -451,7 +441,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 1,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -461,7 +451,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },

@@ -3,6 +3,14 @@
   "current": null,
   "queue": [
     [
+      "https://ct24.ceskatelevize.cz/clanek/svet/rusky-balisticky-utok-v-kyjeve-zasahl-dva-mosty-379678",
+      "Ruský balistický útok v Kyjevě zasáhl dva mosty"
+    ],
+    [
+      "https://www.idnes.cz/ekonomika/domaci/nvidia-konec-jensen-huang-cipy-spion.A261113_105108_ekonomika_base",
+      "Na začátku všeho byl herní čip. Jak Huangova firma ovládla celý svět"
+    ],
+    [
       "https://zpravy.aktualne.cz/zahranici/paraguaysky-exprezident-za-deset-dni-vymenil-palac-za-vojenskou-veznici/r~aaa2924dc2d4be478eca8ccbe3b247d5/",
       "Paraguayský exprezident za deset dní vyměnil palác za vojenskou věznici"
     ],
@@ -37,10 +45,6 @@
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-zveda-platy-uredniku-obce-si-stezuji-ze-na-ne-nedostanou-dost-penez-navic-379676",
       "Vláda zvedá platy úředníků. Obce si stěžují, že na ně nedostanou dost peněz navíc"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/babis-izrael-benjamin-netanjahu-herzog-eisenkot-cesta.A261116_185911_domaci_linh",
-      "Babiš se sešel s Netanjahuem. V Izraeli zahájil jednání o protivzdušné obraně"
     ],
     [
       "https://zpravy.aktualne.cz/domaci/rehka-se-toho-nemel-ucastnit-babisuv-muz-pred-soudem-dronar-zada-penize-a-omluvu/r~aaa299562f9f4502a4734f1921e85ce5/",
@@ -111,30 +115,22 @@
       "Uzavření estonsko-ruské hranice bude pro Narvu bolestivou ranou, míní exstarostka"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/svet/rusky-vliv-na-madagaskaru-sili-hraje-se-i-o-klicovy-pruliv-379656",
-      "Rusko se dvoří Madagaskaru. USA varují před „sahelským modelem“"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/domaci/klempir-chce-nejprve-probrat-evropsky-akt-o-svobode-medii-az-pak-poplatky-za-ct-a-cro-379662",
       "Klempíř chce nejprve probrat Evropský akt o svobodě médií, až pak poplatky za ČT a ČRo"
     ],
     [
       "https://www.denik.cz/cesko/debate-o-financovani-ct-a-cro-ma-predchazet-diskuse-o-emfa-domniva-se-klempir/",
       "Debatě o financování ČT a ČRo má předcházet diskuse o EMFA, domnívá se Klempíř"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/skoro-polovina-cechu-povazuje-agresi-ruska-vuci-nato-za-pravdepodobnou-zjistil-pruzkum-379657",
-      "Skoro polovina Čechů považuje agresi Ruska vůči NATO za pravděpodobnou, zjistil průzkum"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 31,
+    "initial_pending": 30,
     "completed": [],
     "deferred": [],
-    "remaining": 31
+    "remaining": 30
   },
   "samples_seconds": [
     51.274763,
