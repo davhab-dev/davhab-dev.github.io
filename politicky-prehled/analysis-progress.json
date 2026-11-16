@@ -3,12 +3,68 @@
   "current": null,
   "queue": [
     [
+      "https://www.ceskenoviny.cz/zpravy/rusko-v-noci-zneskodnilo-1336-ukrajinskych-dronu-jde-zrejme-o-rekord/2902511",
+      "Rusko v noci zneškodnilo 1336 ukrajinských dronů, jde zřejmě o rekord"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/babis-miri-do-izraele-jednat-bude-s-premierem-netanjahuem/r~aaa29250dbcebf404365f51c5abaadc6/",
+      "Babiš míří do Izraele, jednat bude s premiérem Netanjahuem"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/legalizace-svarcsystemu-nebo-zpresneni-definice-novelu-zakoniku-prace-provazi-spory-379555",
+      "„Legalizace“ švarcsystému, nebo zpřesnění definice? Novelu zákoníku práce provází spory"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/snih-pocasi-vitr-dest-hory-vikend-mraz-oceanske-proudeni.A261116_061626_domaci_sahu",
+      "Teploty až ke čtrnácti stupňům, pak přijde zlom. O víkendu se ochladí a nasněží"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/andrej-babis-premier-cesta-izrael-demonstrace-protivzdusna-obrana-17-listopad.A261116_060952_domaci_ikro",
+      "Babiš míří do Izraele. Posílit protivzdušnou obranu chce co nejdřív"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/vlada-projedna-rust-nahrad-prijmu-po-urazu-v-praci-ci-sluzbe-a-nemoci-z-povolani/2902503",
+      "Vláda projedná růst náhrad příjmu po úrazu v práci či službě a nemoci z povolání"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/salvadorska-armada-chce-s-mistnimi-silami-potlacit-gangy-nasadila-i-roboticke-psy-379648",
+      "Salvadorská armáda chce s místními silami potlačit gangy, nasadila i robotické psy"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/nova-americka-zakladna-v-polsku-varsava-hlasi-pokrok-rozhodnuti-ale-jeste-nepadlo/r~aaa2995cae71b45e2d8b1b23e71b4f0f/",
+      "Nová americká základna v Polsku? Varšava hlásí pokrok"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/scenar-ktery-si-v-ano-neumi-predstavit-politik-opet-vytahl-budoucnost-bez-babise/r~aaa297d8e74e7a8cd5721debcde913d7/",
+      "Scénář, který si v ANO neumí představit. Politik opět vytáhl budoucnost bez Babiše"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/kolik-budou-brat-novi-starostove-mestskych-casti-zname-odmeny-ve-velkych-mestech/r~aaa29fcdfec42f46504d46ca98d2967a/",
+      "Kolik bere váš starosta ve velkém městě. Podívali jsme se na odměny vládců městských částí"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/kolik-mrtvych-deti-jsme-jeste-ochotni-akceptovat-jestrab-z-litvy-pohrozil-evrope/r~aaa299f6c34106c1f1d2c0231291fa4e/",
+      "Hrozba pro Evropu je reálná. Exministr ohrožené země položil krutou otázku"
+    ],
+    [
       "https://www.denik.cz/evropa/nemecko-armada-vojaci-sexualni-obtezovani-nasili/",
       "Nadřízený ji nazval čerstvým masem. Německé vojačky čelí sexuálnímu obtěžování"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/nekolik-statu-zada-izrael-aby-neomezoval-pomoc-pro-pasmo-gazy-379646",
       "Několik států žádá Izrael, aby neomezoval pomoc pro Pásmo Gazy"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/britsky-princ-harry-navstivil-ukrajinu-setkal-se-zranenymi-valecnymi-veterany/2902492",
+      "Britský princ Harry navštívil Ukrajinu, setkal se zraněnými válečnými veterány"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/zive-briefing-premiera-babise-pred-odletem-do-izraele/2900513",
+      "ŽIVĚ: Briefing premiéra Babiše před odletem do Izraele"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/prezident-pavel-jmenuje-noveho-predsedu-vrchniho-soudu-v-olomouci/2902481",
+      "Prezident Pavel jmenuje nového předsedu Vrchního soudu v Olomouci"
     ],
     [
       "https://cnn.iprima.cz/kubacek-k-letne-slova-o-autokracii-jsou-ulet-prvotni-myslenka-demonstrace-se-posunula-527247",
@@ -55,60 +111,16 @@
       "„Může za to Biden.“ Trump se vyjádřil k výpadkům letů v USA, žádá modernizaci"
     ],
     [
-      "https://zpravy.aktualne.cz/zahranici/letecky-provoz-nad-amerikou-utichl-muze-za-to-biden-prohlasil-trump-rekl-si-take-o-vic-penez/r~aaa29b98b5cfc6d9e40f024b7a24b8bc/",
-      "Letecký provoz nad Amerikou utichl. Může za to Biden, prohlásil Trump. Řekl si také o víc peněz"
-    ],
-    [
-      "https://www.denik.cz/svet/trump-z-vypadku-letu-v-usa-vini-bidena-zada-kongres-o-vice-penez-na-modernizaci/",
-      "Trump z výpadku letů v USA viní Bidena. Žádá Kongres o více peněz na modernizaci"
-    ],
-    [
-      "https://www.denik.cz/cesko/praha-letna-demonstrace-media-vlada-ostre-vzkazy/",
-      "Babiši, sledujeme vás. Oto, odjeďte. Na Letné zazněly vzkazy i ostrá slova"
-    ],
-    [
-      "https://zpravy.aktualne.cz/galerie-a-videa/skoda-tyhle-fotky-minout-planouci-ohne-muzi-v-cernem-nebo-radost-z-jizdy/r~aaa296e1ac92f3462d6a7a3aaf7025a3/",
-      "Škoda tyhle fotky minout: Planoucí ohně, muži v černém nebo radost z jízdy"
-    ],
-    [
-      "https://zpravy.aktualne.cz/domaci/jinde-by-uz-byli-v-panice-expert-popisuje-na-co-doplaci-babis-a-proc-sili-stan/r~aaa29ee2ac9df7ef90b5040c9a61765c/",
-      "„Jinde by už byli v panice.“ Expert popisuje, na co doplácí Babiš a proč sílí STAN"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/nejvetsi-demonstrace-v-cesku.A260321_152024_domaci_skr",
-      "Letnou z roku 1989 nic nepřekoná. Jaké byly největší demonstrace v Česku"
-    ],
-    [
-      "https://cnn.iprima.cz/uder-na-lodi-u-usti-dunaje-tri-se-ocitly-v-plamenech-o-utoku-informoval-rumunsky-premier-527244",
-      "Úder na lodi u ústí Dunaje: Na třech vypukl požár, o útoku informoval rumunský premiér"
+      "https://www.ceskenoviny.cz/zpravy/trump-z-vypadku-letu-v-usa-vini-bidena-zada-kongres-o-vice-penez-na-modernizaci/2902382",
+      "Trump z výpadku letů v USA viní Bidena, žádá Kongres o více peněz na modernizaci"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/drony-zasahly-tri-nakladni-lode-u-usti-dunaje-oznamilo-rumunsko-379642",
       "Drony zasáhly tři nákladní lodě u ústí Dunaje, oznámilo Rumunsko"
     ],
     [
-      "https://zpravy.aktualne.cz/zahranici/konec-sabotazi-a-zastrasovani-estonsko-zavre-hranicni-prechody-s-ruskem/r~aaa2946687d9497071682ae7323144d2/",
-      "Konec sabotáží a zastrašování. Estonsko zavře hraniční přechody s Ruskem"
-    ],
-    [
-      "https://cnn.iprima.cz/estonsko-uzavre-od-1-prosince-hranice-s-ruskem-kvuli-hrozbe-sabotaze-proti-estonske-zbrojovce-527241",
-      "Ruská rozvědka nařídila sabotážní útok, tvrdí Estonci. Kvůli hrozbě uzavřeli hranice"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/babis-respektuji-pravo-lidi-protestovat-s-duvody-nesouhlasim-poplatky-zrusime/2902344",
-      "Babiš: Respektuji právo lidí protestovat, s důvody nesouhlasím, poplatky zrušíme"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/svet/estonsko-uzavre-od-1-prosince-hranicni-prechody-s-ruskem-kvuli-hrozbe-sabotaze-379640",
       "Estonsko uzavře hraniční přechody s Ruskem kvůli hrozbě sabotáže"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/utok-hutiu-u-jemenskeho-adenu-si-vyzadal-nejmene-pet-mrtvych-pise-afp-379638",
-      "Jemenská vláda posiluje obranu Adenu, hútíové postupují"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/dva-tankery-v-hormuzskem-prulivu-narazily-na-miny-jeden-se-potopil-uvedl-iran/2902319",
-      "Dva tankery v Hormuzském průlivu narazily na miny, jeden se potopil, uvedl Írán"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/protivladni-demonstrace-na-letne-379631",
@@ -117,20 +129,16 @@
     [
       "https://denikn.cz/newsletter/2257674/prezident-ceske-stomatologicke-komory-roman-smucler-rezignoval-microsoft-po-vypadku-obnovil-vsechny-sve-sluzby-deset-kroku-jak-spd-podkopala-ceskou-obranu/",
       "Ranních 5 minut: Prezident České stomatologické komory Šmucler rezignoval | Microsoft po výpadku obnovil všechny své služby"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/ukrajina-vyviji-protidronove-technologie-mnohem-rychleji-nez-evropa-mini-expert/2902228",
-      "Ukrajina vyvíjí protidronové technologie mnohem rychleji než Evropa, míní expert"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 30,
+    "initial_pending": 32,
     "completed": [],
     "deferred": [],
-    "remaining": 30
+    "remaining": 32
   },
   "samples_seconds": [
     51.274763,
