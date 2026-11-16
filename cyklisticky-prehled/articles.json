@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-16T14:44:06.426159+00:00",
+  "updated": "2026-11-16T16:30:33.646201+00:00",
   "articles": [
+    {
+      "title": "'I've never stopped believing in what I can achieve' – Four-time Olympic medalist Chloé Dygert circles back to US-based TWENTY28 squad to reignite career ahead of LA Games",
+      "summary": "After six seasons at Women's WorldTour level, Dygert commits on two-year deal with Continental team",
+      "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/ive-never-stopped-believing-in-what-i-can-achieve-four-time-olympic-medalist-chloe-dygert-circles-back-to-us-based-twenty28-squad-to-reignite-career-ahead-of-la-games/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-16T15:44:50+00:00"
+    },
+    {
+      "title": "Temple Cycles' stock is up for auction with bikes, frames and components under the hammer",
+      "summary": "Road, gravel, city and electric bikes on sale with bids starting at £100 after Bristol brand's collapse",
+      "url": "https://www.bikeradar.com/news/temple-cycles-stock-up-for-auction",
+      "source": "BikeRadar",
+      "lang": "EN",
+      "category": "Gravel",
+      "published": "2026-11-16T14:51:46+00:00"
+    },
     {
       "title": "'I think I've learned so much from him on the Grand Tour aspect' – Remco Evenepoel enthusiastic about Grand Tour progress under new coach Tim Heemskerk",
       "summary": "'I feel like in one-day TTs, if I can bring them to Grand Tours as well, I'd gain even more'",
@@ -18,6 +36,15 @@
       "lang": "EN",
       "category": "Gravel",
       "published": "2026-11-16T14:23:47+00:00"
+    },
+    {
+      "title": "Exposure MaXx-D Mk17 front light review: this benchmark light has got even better with USB-C charging",
+      "summary": "A well-built and powerful front light packed full of useful features",
+      "url": "https://www.bikeradar.com/go-outdoors/gear/bike/accessories/lights/front-light/exposure-maxx-d-mk17",
+      "source": "BikeRadar MTB",
+      "lang": "EN",
+      "category": "Technika",
+      "published": "2026-11-16T14:00:00+00:00"
     },
     {
       "title": "Bikes prices continue to rise, but here are 5 budget brands that should be on your radar",
@@ -71,6 +98,15 @@
       "source": "MTBS.cz",
       "lang": "CS",
       "category": "Gravel",
+      "published": "2026-11-16"
+    },
+    {
+      "title": "RoadCast #17 - S Dominikou Wlodarczyk o nekonečných pádech a cestě mezi nejlepší závodnice světa",
+      "summary": "",
+      "url": "https://www.roadcycling.cz/clanek/roadcast-17-s-dominikou-wlodarczyk-o-nekonecnych-padech-a-ceste-mezi-nejlepsi-zavodnice-sveta",
+      "source": "RoadCycling.cz",
+      "lang": "CS",
+      "category": "Závody",
       "published": "2026-11-16"
     },
     {
@@ -443,6 +479,15 @@
       "published": "2026-11-13"
     },
     {
+      "title": "Novinky od Garminu: Edge 1060 s hlasovým ovládáním a trenažér Tacx Nēra, který se hýbe s vámi",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132120/novinky-od-garminu-edge-1060-s-hlasovym-ovladanim-a-trenazer-tacx-nera-ktery-se-hybe-s-vami.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-13"
+    },
+    {
       "title": "Evenepoel chce v příštím roce podávat vyrovnanější výkony a získat oba tituly mistra světa. Trasa Tour de France se mu líbí",
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/evenepoel-chce-v-pristim-roce-podavat-vyrovnanejsi-vykony-a-ziskat-oba-tituly-mistra-sveta-trasa-tour-de-france-se-mu-libi",
@@ -710,15 +755,6 @@
       "source": "RoadCycling.cz",
       "lang": "CS",
       "category": "Závody",
-      "published": "2026-11-12"
-    },
-    {
-      "title": "Příští mistrovství Evropy bude pro sprintery. Po deseti letech se šampionát vrací do dánského Herningu",
-      "summary": "",
-      "url": "https://www.roadcycling.cz/clanek/pristi-mistrovstvi-evropy-bude-pro-sprintery-po-deseti-letech-se-sampionat-vraci-do-danskeho-herningu",
-      "source": "RoadCycling.cz",
-      "lang": "CS",
-      "category": "Technika",
       "published": "2026-11-12"
     },
     {
@@ -1847,15 +1883,6 @@
       "published": "2026-11-03T08:00:00+00:00"
     },
     {
-      "title": "Raymon Vamok Base – spousta zábavy i v základu (unboxing)",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132066/raymon-vamok-base-spousta-zabavy-i-v-zakladu-unboxing.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-11-03"
-    },
-    {
       "title": "Giro d’Italia 2027 odhalilo trasu. Vrací se legendární Mortirolo, Gavia i Zoncolan",
       "summary": "",
       "url": "https://cyklorepublic.cz/clanky/01a1a184-2b5e-703e-8190-fa0bbe02a887/giro-ditalia-2027-odhalilo-trasu-vraci-se-legendarni-mortirolo-gavia-i-zoncolan",
@@ -2462,9 +2489,9 @@
       "title": "You can now watch the BikeRadar Podcast on the Apple Podcasts app",
       "summary": "We've added video to our Apple Podcasts feed",
       "url": "https://www.bikeradar.com/news/bikeradar-podcast-apple",
-      "source": "BikeRadar",
+      "source": "BikeRadar Gravel",
       "lang": "EN",
-      "category": "Technika",
+      "category": "Gravel",
       "published": "2026-10-20T15:00:00+00:00"
     },
     {
@@ -3123,33 +3150,6 @@
       "lang": "CS",
       "category": "Cyklistika",
       "published": "2026-05-01"
-    },
-    {
-      "title": "Odlehčení kola: Jak jsem ušetřil přes 1 kg na hmotnosti",
-      "summary": "Ve videu jsem ukázal, jak jsem na svém horském kole ušetřil přes 1 kg hmotnosti jen díky výměně komponent, které",
-      "url": "https://www.trailhunter.cz/odlehceni-kola/",
-      "source": "TrailHunter.cz",
-      "lang": "CS",
-      "category": "Technika",
-      "published": "2026-04-30T15:24:53+00:00"
-    },
-    {
-      "title": "HEAD Downey: Syrový enduro dravec s českým rodokmenem",
-      "summary": "Značka Head je pro většinu české veřejnosti synonymem pro lyžařské vybavení nebo tenisové rakety. V cyklistickém světě však nepůsobí jako",
-      "url": "https://www.trailhunter.cz/head-downey-syrovy-enduro-dravec-s-ceskym-rodokmenem/",
-      "source": "TrailHunter.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-04-14T06:35:13+00:00"
-    },
-    {
-      "title": "Bosch eShift: Jak funguje automatické řazení na elektrokole",
-      "summary": "Na elektrokolech se rozšiřují systémy automatického řazení. Podíváme se, jak funguje jeden z nich, a to Bosch eShift. Je to",
-      "url": "https://www.trailhunter.cz/bosch-eshift/",
-      "source": "TrailHunter.cz",
-      "lang": "CS",
-      "category": "Technika",
-      "published": "2026-03-14T18:10:26+00:00"
     }
   ],
   "source_errors": [
