@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T03:55:12.578544+00:00",
+  "updated": "2026-11-16T05:25:58.238347+00:00",
   "articles": [
     {
       "title": "Lidl-Trek unveils new cyclo-cross team but Thibau Nys stays with father’s squad",
@@ -339,6 +339,15 @@
       "summary": "",
       "url": "https://mtbs.cz/clanek/serial-life-time-grand-prix-dal-navysuje-odmeny-v-roce-2027-rozdeli-rekordnich-800-tisic-dolaru/kategorie/xcm-ostatni-zavody",
       "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-13"
+    },
+    {
+      "title": "Novinky od Garminu: Edge 1060 s hlasovým ovládáním a trenažér Tacx Nēra, který se hýbe s vámi",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132120/novinky-od-garminu-edge-1060-s-hlasovym-ovladanim-a-trenazer-tacx-nera-ktery-se-hybe-s-vami.html",
+      "source": "MTBIKER.cz",
       "lang": "CS",
       "category": "MTB",
       "published": "2026-11-13"
@@ -3141,15 +3150,6 @@
       "lang": "CS",
       "category": "Gravel",
       "published": "2025-11-17T08:05:12+00:00"
-    },
-    {
-      "title": "Kristýna Zemanová při debutu mezi elitou osmá v X20 Trofee v Lokerenu",
-      "summary": "",
-      "url": "https://cyklorepublic.cz/clanky/019a4a9e-c139-7112-bd7a-166730e32392/zemanova-zvladla-premieru-mezi-elitou-v-lokerenu-dojela-osma-a-porazila-i-hvezdu-vas",
-      "source": "CykloRepublic.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
-      "published": "2025-11-03"
     }
   ],
   "source_errors": [
