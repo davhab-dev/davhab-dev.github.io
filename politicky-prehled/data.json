@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-11-16T19:02:19.762992+00:00",
+  "updated_at": "2026-11-16T20:02:06.942949+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Pokrok pro Ukrajinu, hodnotí telefonáty s Kyjevem i Moskvou vyslanec USA Kushner",
+      "summary": "Jednání s Ukrajinou a evropskými partnery dosáhla za uplynulý rok významného pokroku pro budoucnost Ukrajiny. Na síti X to napsal zvláštní vyslanec a zeť amerického…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-16T19:45:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/kushner-po-telefonatech-s-kyjevem-a-moskvou-mluvi-o-pokroku.A261116_203236_zahranicni_lupr",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Pětice evropských států chce deportace do Rwandy, první už příští rok",
+      "summary": "Rakousko, Německo, Nizozemsko, Dánsko a Řecko chtějí ve Rwandě deportační středisko pro odmítnuté žadatele o azyl, které není možné vyhostit do jejich zemí původu. Společně…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-16T19:32:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/petice-evropskych-statu-chce-deportace-do-rwandy-prvni-uz-pristi-rok.A261116_162610_zahranicni_bro",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Putinovi už říkají dědeček. Ruští oligarchové chtějí zpět divoká 90. léta, plán má však háček",
+      "summary": "Ruští oligarchové se na dlouhá léta odmlčeli. Absenci přímé politické moci vyměnili za štědré financování od prezidenta Vladimira Putina. Podle analýzy BBC se atmosféra mezi…",
+      "source": "CNN Prima NEWS",
+      "category": "svet",
+      "published_at": "2026-11-16T20:29:28+01:00",
+      "url": "https://cnn.iprima.cz/svet-po-putinovi-rusti-oligarchove-planuji-prolomit-ticho-a-vratit-se-k-moci-527313",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Nevěrný Huang zpátky do vedení Nvidie? Donald Trump by jeho návrat přivítal",
+      "summary": "Šéf Bílého domu Donald Trump naznačil, že by přivítal návrat bývalého šéfa technologické společnosti Nvidia Jensena Huanga zpět funkce. Huang, který minulý týden rezignoval kvůli…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-16T19:24:00+00:00",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/trump-navrat-jensen-huang-nvidia-milenka-spionaz-vedeni-ceo.A261116_193844_zahranicni_lysa",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Vláda zvedá platy úředníků. Obce si stěžují, že na ně nedostanou dost peněz navíc",
+      "summary": "Svaz měst a obcí kritizuje způsob, jakým vláda zvedá platy úředníků státní správy. Obce s rozšířenou působností totiž za ně zaplatí od Nového roku miliony…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-16T19:14:49+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-zveda-platy-uredniku-obce-si-stezuji-ze-na-ne-nedostanou-dost-penez-navic-379676",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Babiš se sešel s Netanjahuem. V Izraeli zahájil jednání o protivzdušné obraně",
+      "summary": "Od naší zpravodajky v Izraeli – Předseda vlády Andrej Babiš (ANO) se v Izraeli setkal s izraelským premiérem Benjaminem Netanjahuem. Český ministerský předseda chce v…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-16T19:09:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/babis-izrael-benjamin-netanjahu-herzog-eisenkot-cesta.A261116_185911_domaci_linh",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "„Řehka se toho neměl účastnit.“ Babišův muž před soudem, dronař žádá peníze a omluvu",
+      "summary": "Den před státním svátkem zažil nevelký Okresní soud v Lounech neobvyklé vzrušení. V jedné z malých jednacích síní se tu sešla bývalá ministryně Jana Černochová,…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-16T20:07:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/rehka-se-toho-nemel-ucastnit-babisuv-muz-pred-soudem-dronar-zada-penize-a-omluvu/r~aaa299562f9f4502a4734f1921e85ce5/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Zelenskyj varuje před novými masivními útoky na Ukrajinu",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-16T20:01:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/zelenskyj-varuje-pred-novymi-masivnimi-utoky-na-ukrajinu/2902810",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Německo chce v případě nouze opět zapojit uhelné elektrárny, zní z médií",
+      "summary": "Německá vláda chystá návrh zákona, podle něhož by se v případě nouze do sítě dočasně znovu zapojily některé uhelné elektrárny a elektrárny na topný olej.…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-16T19:00:00+00:00",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/nemecko-chce-v-pripade-nouze-opet-zapojit-uhelne-elektrarny-pisi-media.A261116_094131_eko-zahranicni_ven",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Babiš navrhuje urychlit nákup protivzdušné obrany. Nechce čekat do roku 2030",
       "summary": "Česká republika by se měla snažit pořídit další systémy protivzdušné obrany co nejdříve a nečekat až do roku 2030. Po pondělním jednání s izraelským premiérem…",
@@ -19,16 +109,6 @@
       "category": "domaci",
       "published_at": "2026-11-16T19:52:00+01:00",
       "url": "https://zpravy.aktualne.cz/domaci/kdyby-se-neco-stalo-babis-chce-izraelsky-stit-jeho-plan-ma-ale-nekolik-trhlin/r~aaa29f2025109f9c7dbaba5dca48ceec/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Upřednostníme čínské automobilky před americkými, varoval kanadský premiér",
-      "summary": "Kanada by mohla spolupracovat s čínskými automobilkami, pokud obchodní rozhovory s prezidentem Spojených států Donaldem Trumpem neumožní zachování integrovaného severoamerického automobilového průmyslu, řekl kanadský premiér…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-16T18:51:00+00:00",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/kanada-cinske-automobilky-pokud-selzou-usa-trump-carney.A261116_192902_eko-zahranicni_lupr",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -69,16 +149,6 @@
       "category": "svet",
       "published_at": "2026-11-16T18:30:00+01:00",
       "url": "https://www.denik.cz/evropa/ukrajina-valka-utok-kercsky-most-rusko-nalet-drony/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Dron vychýlil oblouk Krymského mostu. Silniční doprava stojí už hodiny",
-      "summary": "Ukrajinský dronový útok v pondělí poškodil oblouk Krymského mostu, který spojuje okupovaný poloostrov s ruskou pevninou. Silniční doprava přes něj stojí už dvanáct hodin a…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-16T16:57:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-rusko-valka-kyrm-most-kercsky-utok.A261116_172305_zahranicni_dtt",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -133,26 +203,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Válčíme, neboť chceme mír na staletí. Zeď na hranici se Estonsku vymstí, říká Kreml",
-      "summary": "Rusko chce mír na staletí, a proto pokračuje ve své operaci proti Ukrajině, řekl mluvčí Kremlu Dmitrij Peskov. Míru podle něj brání Evropská unie svou…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-16T16:20:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/valcime-nebot-chceme-mir-na-staleti-zed-na-hranici-se-estonsku-vymsti-rika-kreml.A261116_120313_zahranicni_bro",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Moskva obvinila mladou ženu z atentátu na bývalého mluvčího premiéra Ukrajiny",
-      "summary": "Ruské úřady zadržely ženu podezřelou z podílu na pátečním bombovém útoku na automobil Sergeje Zavorotného, bývalého tiskového mluvčího ukrajinského premiéra Mykoly Azarova. Podle vyšetřovatelů žena…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-16T16:10:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/moskva-obvinila-zenu-z-bomboveho-utoku-mluvci-premier-ukrajina.A261116_171017_zahranicni_lupr",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Pět zemí EU chystá deportační středisko ve Rwandě, fungovat by mohlo příští rok",
       "summary": "Rakousko, Německo, Nizozemsko, Dánsko a Řecko chtějí ve Rwandě deportační středisko pro odmítnuté žadatele o azyl, které není možné vyhostit do jejich zemí původu. Podle…",
       "source": "ČT24",
@@ -183,16 +233,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Překvapivá slova o Zelenském i Trumpovi. Biden přichází s paměťmi",
-      "summary": "Zelenskyj byl v soukromých rozhovorech náladový a tvrdohlavý a „ne tak vděčný, jak bych čekal“. Putin mluvil ublíženým, nafoukaným tónem, na schůzkách se hrbil a…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-16T16:37:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/prekvapiva-slova-o-zelenskem-i-trumpovi-biden-prichazi-s-pametmi/r~aaa29a7c7d33ef461209d7ffd983100c/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Putin ohledně Ukrajiny slevuje, řekl Trump",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -213,16 +253,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Slovenská inspekce stíhá policistku, která obvinila nynějšího ministra",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-16T15:57:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/slovenska-inspekce-stiha-policistku-ktera-obvinila-nynejsiho-ministra/2902731",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Uzavření estonsko-ruské hranice bude pro Narvu bolestivou ranou, míní exstarostka",
       "summary": "Plánované uzavření estonsko-ruské hranice od 1. prosince bude bolestivou ranou pro pohraniční město Narva. Podle bývalé starostky Katri Raikové sice rozhodnutí není překvapivé, místní obyvatelé…",
       "source": "ČT24",
@@ -233,7 +263,7 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Ruský vliv na Madagaskaru sílí, hraje se i o klíčový průliv",
+      "title": "Rusko se dvoří Madagaskaru. USA varují před „sahelským modelem“",
       "summary": "Spojené státy varovaly Madagaskar před prohlubováním vazeb s Moskvou. Po loňském převzetí moci armádou Rusko dodává africké zemi zbraně a na ostrově působí jeho polovojenské…",
       "source": "ČT24",
       "category": "svet",
@@ -281,8 +311,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
-      "selected": 6,
+      "candidates": 17,
+      "selected": 7,
       "free_articles_checked": 8
     },
     {
@@ -291,7 +321,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -301,7 +331,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 21,
+      "candidates": 22,
       "selected": 5,
       "free_articles_checked": 8
     },
@@ -311,7 +341,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -331,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 8,
       "selected": 7,
       "free_articles_checked": 8
     },
@@ -341,7 +371,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 13,
       "selected": 3,
       "free_articles_checked": 3
     },
@@ -351,8 +381,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
-      "selected": 5,
+      "candidates": 15,
+      "selected": 6,
       "free_articles_checked": 7
     },
     {
@@ -361,9 +391,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
-      "selected": 1,
-      "free_articles_checked": 1
+      "candidates": 13,
+      "selected": 2,
+      "free_articles_checked": 2
     },
     {
       "name": "E15",
@@ -381,7 +411,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -391,7 +421,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 4,
+      "candidates": 3,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -421,7 +451,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -431,7 +461,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     }

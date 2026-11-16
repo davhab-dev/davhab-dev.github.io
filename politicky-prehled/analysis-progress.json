@@ -3,16 +3,48 @@
   "current": null,
   "queue": [
     [
+      "https://www.idnes.cz/zpravy/zahranicni/kushner-po-telefonatech-s-kyjevem-a-moskvou-mluvi-o-pokroku.A261116_203236_zahranicni_lupr",
+      "Pokrok pro Ukrajinu, hodnotí telefonáty s Kyjevem i Moskvou vyslanec USA Kushner"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/petice-evropskych-statu-chce-deportace-do-rwandy-prvni-uz-pristi-rok.A261116_162610_zahranicni_bro",
+      "Pětice evropských států chce deportace do Rwandy, první už příští rok"
+    ],
+    [
+      "https://cnn.iprima.cz/svet-po-putinovi-rusti-oligarchove-planuji-prolomit-ticho-a-vratit-se-k-moci-527313",
+      "Putinovi už říkají dědeček. Ruští oligarchové chtějí zpět divoká 90. léta, plán má však háček"
+    ],
+    [
+      "https://www.idnes.cz/ekonomika/zahranicni/trump-navrat-jensen-huang-nvidia-milenka-spionaz-vedeni-ceo.A261116_193844_zahranicni_lysa",
+      "Nevěrný Huang zpátky do vedení Nvidie? Donald Trump by jeho návrat přivítal"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-zveda-platy-uredniku-obce-si-stezuji-ze-na-ne-nedostanou-dost-penez-navic-379676",
+      "Vláda zvedá platy úředníků. Obce si stěžují, že na ně nedostanou dost peněz navíc"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/babis-izrael-benjamin-netanjahu-herzog-eisenkot-cesta.A261116_185911_domaci_linh",
+      "Babiš se sešel s Netanjahuem. V Izraeli zahájil jednání o protivzdušné obraně"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/rehka-se-toho-nemel-ucastnit-babisuv-muz-pred-soudem-dronar-zada-penize-a-omluvu/r~aaa299562f9f4502a4734f1921e85ce5/",
+      "„Řehka se toho neměl účastnit.“ Babišův muž před soudem, dronař žádá peníze a omluvu"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/zelenskyj-varuje-pred-novymi-masivnimi-utoky-na-ukrajinu/2902810",
+      "Zelenskyj varuje před novými masivními útoky na Ukrajinu"
+    ],
+    [
+      "https://www.idnes.cz/ekonomika/zahranicni/nemecko-chce-v-pripade-nouze-opet-zapojit-uhelne-elektrarny-pisi-media.A261116_094131_eko-zahranicni_ven",
+      "Německo chce v případě nouze opět zapojit uhelné elektrárny, zní z médií"
+    ],
+    [
       "https://www.denik.cz/cesko/babis-navrhuje-urychlit-nakup-protivzdusne-obrany-nechce-cekat-do-roku-2030/",
       "Babiš navrhuje urychlit nákup protivzdušné obrany. Nechce čekat do roku 2030"
     ],
     [
       "https://zpravy.aktualne.cz/domaci/kdyby-se-neco-stalo-babis-chce-izraelsky-stit-jeho-plan-ma-ale-nekolik-trhlin/r~aaa29f2025109f9c7dbaba5dca48ceec/",
       "„Kdyby se něco stalo.“ Babiš chce izraelský štít, jeho plán má ale několik trhlin"
-    ],
-    [
-      "https://www.idnes.cz/ekonomika/zahranicni/kanada-cinske-automobilky-pokud-selzou-usa-trump-carney.A261116_192902_eko-zahranicni_lupr",
-      "Upřednostníme čínské automobilky před americkými, varoval kanadský premiér"
     ],
     [
       "https://zpravy.aktualne.cz/ekonomika/kanadsky-premier-pohrozil-trumpovi-obrati-se-na-cinu-pokud-selzou-jednani-s-usa/r~aaa29132f9c22198d78429ecc938f7b3/",
@@ -29,10 +61,6 @@
     [
       "https://www.denik.cz/evropa/ukrajina-valka-utok-kercsky-most-rusko-nalet-drony/",
       "Ukrajina provedla dosud největší dronový útok na Rusko. Zasáhla Kerčský most"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/ukrajina-rusko-valka-kyrm-most-kercsky-utok.A261116_172305_zahranicni_dtt",
-      "Dron vychýlil oblouk Krymského mostu. Silniční doprava stojí už hodiny"
     ],
     [
       "https://zpravy.aktualne.cz/zahranici/le-penova-nastinila-kroky-vuci-ukrajine-pokud-by-byla-prezidentkou-chce-schuzku-se-zelenskym/r~aaa2983874a91a6501d185560c9429f8/",
@@ -55,14 +83,6 @@
       "Politoložka nepředpokládá změnu ve vládě, dokud má koalice většinu"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/valcime-nebot-chceme-mir-na-staleti-zed-na-hranici-se-estonsku-vymsti-rika-kreml.A261116_120313_zahranicni_bro",
-      "Válčíme, neboť chceme mír na staletí. Zeď na hranici se Estonsku vymstí, říká Kreml"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/moskva-obvinila-zenu-z-bomboveho-utoku-mluvci-premier-ukrajina.A261116_171017_zahranicni_lupr",
-      "Moskva obvinila mladou ženu z atentátu na bývalého mluvčího premiéra Ukrajiny"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/svet/pet-zemi-eu-chysta-deportacni-stredisko-ve-rwande-fungovat-by-mohlo-pristi-rok-379675",
       "Pět zemí EU chystá deportační středisko ve Rwandě, fungovat by mohlo příští rok"
     ],
@@ -75,10 +95,6 @@
       "Putin slevuje, mohl by být neústupnější, prohlásil Trump. Ukrajina bude tématem setkání v Číně"
     ],
     [
-      "https://zpravy.aktualne.cz/zahranici/prekvapiva-slova-o-zelenskem-i-trumpovi-biden-prichazi-s-pametmi/r~aaa29a7c7d33ef461209d7ffd983100c/",
-      "Překvapivá slova o Zelenském i Trumpovi. Biden přichází s paměťmi"
-    ],
-    [
       "https://www.ceskenoviny.cz/zpravy/putin-ohledne-ukrajiny-slevuje-rekl-trump/2902738",
       "Putin ohledně Ukrajiny slevuje, řekl Trump"
     ],
@@ -87,16 +103,12 @@
       "Babiš jedná v Izraeli, chce urychlit dodávky dalších systémů protivzdušné obrany"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/slovenska-inspekce-stiha-policistku-ktera-obvinila-nynejsiho-ministra/2902731",
-      "Slovenská inspekce stíhá policistku, která obvinila nynějšího ministra"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/svet/uzavreni-estonsko-ruske-hranice-bude-pro-narvu-bolestivou-ranou-mini-exstarostka-379664",
       "Uzavření estonsko-ruské hranice bude pro Narvu bolestivou ranou, míní exstarostka"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/rusky-vliv-na-madagaskaru-sili-hraje-se-i-o-klicovy-pruliv-379656",
-      "Ruský vliv na Madagaskaru sílí, hraje se i o klíčový průliv"
+      "Rusko se dvoří Madagaskaru. USA varují před „sahelským modelem“"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/klempir-chce-nejprve-probrat-evropsky-akt-o-svobode-medii-az-pak-poplatky-za-ct-a-cro-379662",
@@ -115,10 +127,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 27,
+    "initial_pending": 30,
     "completed": [],
     "deferred": [],
-    "remaining": 27
+    "remaining": 30
   },
   "samples_seconds": [
     51.274763,
