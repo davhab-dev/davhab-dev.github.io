@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-16T09:58:56.471198+00:00",
+  "updated": "2026-11-16T11:42:16.427996+00:00",
   "articles": [
+    {
+      "title": "My first bike was a Marin – here's why the brand's 40th anniversary is so important",
+      "summary": "Marin celebrates four decades in the bike-making business",
+      "url": "https://www.bikeradar.com/features/opinion/marin-bikes-40th-anniversary",
+      "source": "BikeRadar MTB",
+      "lang": "EN",
+      "category": "MTB",
+      "published": "2026-11-16T09:00:00+00:00"
+    },
     {
       "title": "Fotogalerie: JANEV Cup Jičín 2026 objektivem Miloše Lubase",
       "summary": "",
@@ -17,6 +26,15 @@
       "source": "MTBS.cz",
       "lang": "CS",
       "category": "Gravel",
+      "published": "2026-11-16"
+    },
+    {
+      "title": "Měli bychom méně myslet na body a víc vyhrávat, kritizuje Scaroni přístup týmu XDS Astana",
+      "summary": "",
+      "url": "https://www.roadcycling.cz/clanek/meli-bychom-mene-myslet-na-body-a-vic-vyhravat-kritizuje-scaroni-pristup-tymu-xds-astana",
+      "source": "RoadCycling.cz",
+      "lang": "CS",
+      "category": "Závody",
       "published": "2026-11-16"
     },
     {
@@ -842,15 +860,6 @@
       "title": "Podcast: Olympijský mýtus a cyklistika pod 5 kruhy",
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/podcast-olympijsky-mytus-a-cyklistika-pod-5-kruhy",
-      "source": "RoadCycling.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": "2026-11-11"
-    },
-    {
-      "title": "Věčný potížista Van Schip ukončuje závodní kariéru a tvrdí, že s UCI se nedá domluvit",
-      "summary": "",
-      "url": "https://www.roadcycling.cz/clanek/vecny-potizista-van-schip-ukoncuje-zavodni-karieru-a-tvrdi-ze-s-uci-se-neda-domluvit",
       "source": "RoadCycling.cz",
       "lang": "CS",
       "category": "Závody",
@@ -3141,15 +3150,6 @@
       "lang": "CS",
       "category": "Technika",
       "published": "2026-01-13T15:06:16+00:00"
-    },
-    {
-      "title": "Canyon Spectral Al 6: Recenze univerzálního kola na traily",
-      "summary": "Canyon je německý výrobce kol, který je prodává téměř výhradně internet, a často díky tomu nabídne za dané peníze víc,",
-      "url": "https://www.trailhunter.cz/canyon-spectral-al-6-test/",
-      "source": "TrailHunter.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2025-12-14T16:34:35+00:00"
     }
   ],
   "source_errors": [
