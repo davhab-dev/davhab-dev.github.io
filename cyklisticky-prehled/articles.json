@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-16T18:43:49.445032+00:00",
+  "updated": "2026-11-16T19:47:22.753866+00:00",
   "articles": [
+    {
+      "title": "'For the moment, I'm not able to win the Tour' – Paul Seixas hints at potential 2027 season debut race with immediate return to Tour de France not guaranteed",
+      "summary": "20-year-old French superstar headlined Tour criterium in Saitama but it's not guaranteed he will return next season",
+      "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/for-the-moment-im-not-able-to-win-the-tour-paul-seixas-hints-at-potential-2027-season-debut-race-with-immediate-return-to-tour-de-france-not-guaranteed/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-16T18:47:07+00:00"
+    },
     {
       "title": "Drones clear a hurdle for use in anti-doping control transport",
       "summary": "ITA announces study that supports feasibility of unmanned transport of doping control samples",
@@ -134,6 +143,15 @@
       "source": "MTBS.cz",
       "lang": "CS",
       "category": "Gravel",
+      "published": "2026-11-16"
+    },
+    {
+      "title": "Nečekaný přestup olympijské šampionky! Dygert se vrací tam, kde všechno začalo, a sní o zlatu v Los Angeles",
+      "summary": "",
+      "url": "https://www.roadcycling.cz/clanek/necekany-prestup-olympijske-sampionky-dygert-se-vraci-tam-kde-vsechno-zacalo-a-sni-o-zlatu-v-los-angeles",
+      "source": "RoadCycling.cz",
+      "lang": "CS",
+      "category": "Závody",
       "published": "2026-11-16"
     },
     {
@@ -782,15 +800,6 @@
       "source": "RoadCycling.cz",
       "lang": "CS",
       "category": "Gravel",
-      "published": "2026-11-12"
-    },
-    {
-      "title": "Z proslulého hlubokého bláta Jaarmarktcrossu vylovili Mason a Bakker první vítězství v Superprestige. Boroš dojel šestnáctý",
-      "summary": "",
-      "url": "https://www.roadcycling.cz/clanek/z-prosluleho-hlubokeho-blata-jaarmarktcrossu-vylovili-mason-a-bakker-prvni-vitezstvi-v-superprestige-boros-dojel-sestnacty",
-      "source": "RoadCycling.cz",
-      "lang": "CS",
-      "category": "Závody",
       "published": "2026-11-12"
     },
     {
@@ -3141,15 +3150,6 @@
       "lang": "CS",
       "category": "Cyklistika",
       "published": "2026-05-19"
-    },
-    {
-      "title": "Integrálka LEATT GRAVITY 5.0 – Zkoušejte své hranice, ne štěstí",
-      "summary": "",
-      "url": "https://cykl.cz/integralka-leatt-gravity-5-0-zkousejte-sve-hranice-ne-stesti",
-      "source": "Cykl.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
-      "published": "2026-05-17"
     }
   ],
   "source_errors": [
