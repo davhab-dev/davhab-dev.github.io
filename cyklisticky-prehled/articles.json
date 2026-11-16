@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-16T05:25:58.238347+00:00",
+  "updated": "2026-11-16T07:06:03.798185+00:00",
   "articles": [
+    {
+      "title": "TEST: Avona Callis 32 – Když gravel přeroste do nové dimenze",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/avona-callis-test/kategorie/testy-recenze",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "Gravel",
+      "published": "2026-11-16"
+    },
     {
       "title": "Lidl-Trek unveils new cyclo-cross team but Thibau Nys stays with father’s squad",
       "summary": "Fleur Mons and Blanka Vas to race CX in new team this winter",
@@ -1100,15 +1109,6 @@
       "published": "2026-11-09"
     },
     {
-      "title": "TEST: Vittoria Mazza Trail – Poctivých 2000 km v terénu!",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/test-vittoria-mazza-trail-poctivych-2000-km-v-terenu/kategorie/testy-recenze",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Technika",
-      "published": "2026-11-09"
-    },
-    {
       "title": "Vrstvení jako základ – jak se obléct na podzim",
       "summary": "",
       "url": "https://www.mtbiker.cz/clanky/132080/vrstveni-jako-zaklad-jak-se-oblect-na-podzim.html",
@@ -1124,6 +1124,15 @@
       "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Cyklistika",
+      "published": "2026-11-09"
+    },
+    {
+      "title": "TEST: Vittoria Mazza Trail – Poctivých 2000 km v terénu!",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/test-vittoria-mazza-trail-poctivych-2000-km-v-terenu/kategorie/testy-recenze",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "Technika",
       "published": "2026-11-09"
     },
     {
@@ -2756,6 +2765,15 @@
       "published": "2026-10-08T08:00:00+00:00"
     },
     {
+      "title": "Evropský cykloprůmysl chce zakázat čipování elektrokol",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/evropsky-cykloprumysl-chce-zakazat-cipovani-elektrokol/kategorie/servis",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "Technika",
+      "published": "2026-10-08"
+    },
+    {
       "title": "Van Rysel odhalil model RCR-XC, který má 32palcová kola a váží méně než devětadvacítka",
       "summary": "",
       "url": "https://cyklorepublic.cz/clanky/01a11c92-d72c-7184-b700-cf14910ebe46/van-rysel-odhalil-nove-mtb-rcr-xc-ma-32palcova-kola-a-vazi-mene-nez-devetadvacitka",
@@ -3132,24 +3150,6 @@
       "lang": "CS",
       "category": "MTB",
       "published": "2025-12-05T09:44:24+00:00"
-    },
-    {
-      "title": "Lehké elektrokolo do terénu: KTM Macina Scarp SX",
-      "summary": "Otestovali jsme jeden z nejlehčích celoodpružených e-biků na trhu. Nejvyšší specifikace tohoto kola se dostane dokonce na 16,5 kg, námi",
-      "url": "https://www.trailhunter.cz/ktm-macina-scarp-sx/",
-      "source": "TrailHunter.cz",
-      "lang": "CS",
-      "category": "Technika",
-      "published": "2025-11-22T18:47:20+00:00"
-    },
-    {
-      "title": "Merida Mission: gravel postavený pro závoďáky",
-      "summary": "Merida reaguje na rostoucí trend gravelových závodů: mezi řadu Scultura Endurance GR a Silex vráží jako klín zbrusu nový model",
-      "url": "https://www.trailhunter.cz/merida-mission/",
-      "source": "TrailHunter.cz",
-      "lang": "CS",
-      "category": "Gravel",
-      "published": "2025-11-17T08:05:12+00:00"
     }
   ],
   "source_errors": [
