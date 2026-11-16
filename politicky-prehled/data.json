@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-16T03:02:45.947710+00:00",
+  "updated_at": "2026-11-16T04:21:43.924991+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Nadřízený ji nazval čerstvým masem. Německé vojačky čelí sexuálnímu obtěžování",
+      "summary": "Narážky, obtěžování či dokonce násilí. Podle interního šetření je v německé armádě značně rozšířené nevhodné chování se sexuálním podtextem. Oběťmi jsou nejčastěji ženy, problémy ale…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-16T04:30:00+01:00",
+      "url": "https://www.denik.cz/evropa/nemecko-armada-vojaci-sexualni-obtezovani-nasili/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Několik států žádá Izrael, aby neomezoval pomoc pro Pásmo Gazy",
       "summary": "Spojené království, Itálie, Austrálie a Kanada zveřejnily vyzývají Izrael, aby neomezoval proudění humanitární pomoci do Pásma Gazy. V prohlášení to uvedli ministři zahraničí jednotlivých zemí.…",
@@ -203,16 +213,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "OBRAZEM: Největší demonstrace od roku 1989. Takto to vypadalo v neděli na Letné",
-      "summary": "Odhadem zhruba 400 tisíc lidí z různých míst republiky v neděli 15. listopadu vyjádřilo v Praze nesouhlas s kroky vlády Andreje Babiše. Organizátoři ze spolku…",
-      "source": "Deník",
-      "category": "domaci",
-      "published_at": "2026-11-15T18:10:00+01:00",
-      "url": "https://www.denik.cz/cesko/obrazem-nejvetsi-demonstrace-od-roku-1989-takto-to-vypadalo-v-nedeli-na-letne/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Konec sabotáží a zastrašování. Estonsko zavře hraniční přechody s Ruskem",
       "summary": "Estonsko uzavře od 1. prosince všechny hraniční přechody s Ruskem, oznámil na sociální síti ministr zahraničí Margus Tsahkna. Důvodem jsou podle něj jasné důkazy, že…",
       "source": "Aktuálně.cz",
@@ -283,16 +283,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Zelenskyj uvedl, že ruským útokům pomáhá omezení provozu Starshieldu",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-15T12:52:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/zelenskyj-uvedl-ze-ruskym-utokum-pomaha-omezeni-provozu-starshieldu/2902285",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Ranních 5 minut: Prezident České stomatologické komory Šmucler rezignoval | Microsoft po výpadku obnovil všechny své služby",
       "summary": "",
       "source": "Deník N",
@@ -321,7 +311,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 13,
       "selected": 6,
       "free_articles_checked": 7
     },
@@ -342,7 +332,7 @@
       "feeds_total": 2,
       "status": "ok",
       "candidates": 8,
-      "selected": 6,
+      "selected": 5,
       "free_articles_checked": 8
     },
     {
@@ -361,7 +351,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 17,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -391,7 +381,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 15,
       "selected": 5,
       "free_articles_checked": 8
     },
@@ -411,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 5,
+      "candidates": 4,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -421,7 +411,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 9,
       "selected": 0,
       "free_articles_checked": 0
     },

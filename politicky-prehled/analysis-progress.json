@@ -3,6 +3,10 @@
   "current": null,
   "queue": [
     [
+      "https://www.denik.cz/evropa/nemecko-armada-vojaci-sexualni-obtezovani-nasili/",
+      "Nadřízený ji nazval čerstvým masem. Německé vojačky čelí sexuálnímu obtěžování"
+    ],
+    [
       "https://ct24.ceskatelevize.cz/clanek/svet/nekolik-statu-zada-izrael-aby-neomezoval-pomoc-pro-pasmo-gazy-379646",
       "Několik států žádá Izrael, aby neomezoval pomoc pro Pásmo Gazy"
     ],
@@ -83,10 +87,6 @@
       "Drony zasáhly tři nákladní lodě u ústí Dunaje, oznámilo Rumunsko"
     ],
     [
-      "https://www.denik.cz/cesko/obrazem-nejvetsi-demonstrace-od-roku-1989-takto-to-vypadalo-v-nedeli-na-letne/",
-      "OBRAZEM: Největší demonstrace od roku 1989. Takto to vypadalo v neděli na Letné"
-    ],
-    [
       "https://zpravy.aktualne.cz/zahranici/konec-sabotazi-a-zastrasovani-estonsko-zavre-hranicni-prechody-s-ruskem/r~aaa2946687d9497071682ae7323144d2/",
       "Konec sabotáží a zastrašování. Estonsko zavře hraniční přechody s Ruskem"
     ],
@@ -115,10 +115,6 @@
       "Protestující zaplnili Letenskou pláň, postavili se „silovému vládnutí“"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/zelenskyj-uvedl-ze-ruskym-utokum-pomaha-omezeni-provozu-starshieldu/2902285",
-      "Zelenskyj uvedl, že ruským útokům pomáhá omezení provozu Starshieldu"
-    ],
-    [
       "https://denikn.cz/newsletter/2257674/prezident-ceske-stomatologicke-komory-roman-smucler-rezignoval-microsoft-po-vypadku-obnovil-vsechny-sve-sluzby-deset-kroku-jak-spd-podkopala-ceskou-obranu/",
       "Ranních 5 minut: Prezident České stomatologické komory Šmucler rezignoval | Microsoft po výpadku obnovil všechny své služby"
     ],
@@ -131,10 +127,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 31,
+    "initial_pending": 30,
     "completed": [],
     "deferred": [],
-    "remaining": 31
+    "remaining": 30
   },
   "samples_seconds": [
     51.274763,
