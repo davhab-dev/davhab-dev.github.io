@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-17T12:47:09.178914+00:00",
+  "updated": "2026-11-17T14:04:07.589425+00:00",
   "articles": [
+    {
+      "title": "Wout van Aert seeking damages in bizarre case of Belgian municipal employee who illegally accessed personal information of 30 pro cyclists",
+      "summary": "Public prosecutors request a sentence of 120 hours of community service for the man, who also reportedly accessed data of Mathieu van der Poel, Remco Evenepoel and others",
+      "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/wout-van-aert-seeking-damages-in-bizarre-case-of-belgian-municipal-employee-who-illegally-accessed-personal-information-of-30-pro-cyclists/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Servis",
+      "published": "2026-11-17T13:35:56+00:00"
+    },
     {
       "title": "Just seven weeks after launching, the new season-opening Canary Islands race has been called off",
       "summary": "Organisers will work through next year to meet 'organisational, logistical, and safety conditions' to debut the event in 2028",
@@ -3141,15 +3150,6 @@
       "lang": "CS",
       "category": "MTB",
       "published": "2026-07-21T20:31:30+00:00"
-    },
-    {
-      "title": "Elektro-skládačka Touroll S2",
-      "summary": "",
-      "url": "https://cykl.cz/elektro-skladacka-touroll-s2-5167",
-      "source": "Cykl.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
-      "published": "2026-07-06"
     }
   ],
   "source_errors": [
