@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T21:59:28.494697+00:00",
+  "updated_at": "2026-11-17T22:59:57.166355+00:00",
   "window_hours": 24,
   "articles": [
     {
@@ -301,9 +301,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 15,
       "selected": 6,
-      "free_articles_checked": 8
+      "free_articles_checked": 7
     },
     {
       "name": "iROZHLAS",
@@ -311,7 +311,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 17,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -381,7 +381,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 9,
       "selected": 2,
       "free_articles_checked": 2
     },
