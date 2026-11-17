@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-17T02:56:39.755937+00:00",
+  "updated_at": "2026-11-17T04:00:06.903808+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Při střelbě u Jericha zahynula Palestinka, palestinská televize viní izraelské osadníky",
+      "summary": "Jedna starší Palestinka v noci na úterý zahynula a deset dalších osob utrpělo zranění nedaleko Jericha na okupovaném Západním břehu Jordánu při střelbě, kterou oficiální…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-17T02:58:05+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/pri-strelbe-osadniku-u-jericha-zahynula-palestinka-uvedla-palestinska-televize-379679",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Ruský balistický útok v Kyjevě zasáhl dva mosty",
       "summary": "Ruské balistické střely v noci z pondělí na úterý zasáhly dva důležité mosty v Kyjevě. Podle starosty ukrajinské metropole Vitalije Klyčka byla poškozena i kritická…",
@@ -273,16 +283,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Uzavření estonsko-ruské hranice bude pro Narvu bolestivou ranou, míní exstarostka",
-      "summary": "Plánované uzavření estonsko-ruské hranice od 1. prosince bude bolestivou ranou pro pohraniční město Narva. Podle bývalé starostky Katri Raikové sice rozhodnutí není překvapivé, místní obyvatelé…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-16T14:55:00+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/uzavreni-estonsko-ruske-hranice-bude-pro-narvu-bolestivou-ranou-mini-exstarostka-379664",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Klempíř chce nejprve probrat Evropský akt o svobodě médií, až pak poplatky za ČT a ČRo",
       "summary": "Ministr kultury Oto Klempíř (za Motoristy) se domnívá, že jednání o změně financování České televize (ČT) a Českého rozhlasu (ČRo) by nemělo pokračovat, dokud poslanci…",
       "source": "ČT24",
@@ -411,7 +411,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
