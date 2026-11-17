@@ -1,14 +1,54 @@
 {
-  "updated_at": "2026-11-17T06:08:22.505054+00:00",
+  "updated_at": "2026-11-17T07:29:45.376873+00:00",
   "window_hours": 24,
   "articles": [
     {
-      "title": "Začínají oslavy 17. listopadu, na Národní letos bude chybět premiér",
-      "summary": "Česko si 17. listopadu připomíná výročí sametové revoluce a Den boje za svobodu a demokracii. Hlavní program s názvem Korzo Národní se uskuteční od 10…",
-      "source": "Aktuálně.cz",
+      "title": "U pamětní desky na Národní je věnec Poslanecké sněmovny",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
       "category": "domaci",
-      "published_at": "2026-11-17T07:05:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/zacinaji-oslavy-17-listopadu-na-narodni-letos-bude-chybet-premier/r~aaa29bc84cc2b51b541c48f803082428/",
+      "published_at": "2026-11-17T08:23:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/-u-pametni-desky-na-narodni-je-venec-poslanecke-snemovny/2902607",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Vondráček, Nacher i Malá. Na Národní třídu přicházejí první politici, lidé je vypískali",
+      "summary": "Česko si v úterý připomíná výročí sametové revoluce. Od pádu komunistického režimu letos uplynulo 37 let. Centrem oslav se jako tradičně stane Praha a především…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-17T07:23:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/17-listopad-oslavy-akce-vystoupeni-politiku.A261116_085543_domaci_vank",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Část Krymského mostu se po ukrajinském úderu zřítila do moře",
+      "summary": "Jedna ze silničních částí Krymského mostu se včetně oblouku po nočním ukrajinském zásahu zřítila do moře. Tvrdí to telegramový kanál Exilenova+ s tím, že to…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-17T07:12:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/krymsky-most-ukrajinsky-uder-cast-se-zritila-do-more.A261117_080055_zahranicni_lupr",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Babiš: Dnešní den je o svobodě říkat pravdu i volit si vládu, kterou lidé chtějí",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-17T08:02:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/babis-dnesni-den-je-o-svobode-rikat-pravdu-i-volit-si-vladu-kterou-lide-chteji/2902886",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Manžel Cichanouské se stal jejím kritikem, běloruskému režimu situace vyhovuje",
+      "summary": "Klíčová postava běloruské opozice z roku 2020 a politický vězeň Sjarhej Cichanouski se vrátil ke svým aktivitám na sociálních sítích. Už na nich nekritizuje pouze…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-17T07:00:00+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/manzel-cichanouske-se-stal-jejim-kritikem-beloruskemu-rezimu-situace-vyhovuje-379653",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -17,18 +57,38 @@
       "summary": "Kyjev v pondělí večer čelil útoku ruských balistických střel, aktivovány byly systémy protivzdušné obrany, uvedl starosta Vitalij Kličko. Obyvatele hlavního města vyzval, aby se odebrali…",
       "source": "iDNES.cz",
       "category": "svet",
-      "published_at": "2026-11-17T05:52:00+00:00",
+      "published_at": "2026-11-17T06:31:00+00:00",
       "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-opet-uderila-na-krymsky-most-moskevskou-oblast-zasypala-drony.A261117_061017_zahranicni_vank",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
     {
-      "title": "Lidé si připomínají výročí 17. listopadu, Národní třída bude bez Babiše",
-      "summary": "Česko si v úterý připomíná výročí sametové revoluce. Od pádu komunistického režimu letos uplynulo 37 let. Centrem oslav se jako tradičně stane Praha a především…",
-      "source": "iDNES.cz",
+      "title": "Ruská letadla narušila vzdušný prostor Japonska. Tokio vyslalo stíhačky",
+      "summary": "Dvě pravděpodobně ruská letadla v úterý narušila japonský vzdušný prostor u prefektury Fukuoka na jihozápadě země. Informovaly o tom agentury Kjódó a Reuters s odvoláním…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-17T07:20:01+01:00",
+      "url": "https://www.denik.cz/svet/ruska-letadla-narusila-vzdusny-prostor-japonska-tokio-vyslalo-stihacky/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Část Krymského mostu se podle Exilenova+ zřítila do moře",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-17T07:18:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/cast-krymskeho-mostu-se-podle-exilenova+-zritila-do-more/2902810",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Začínají oslavy 17. listopadu, na Národní letos bude chybět premiér",
+      "summary": "Česko si 17. listopadu připomíná výročí sametové revoluce a Den boje za svobodu a demokracii. Hlavní program s názvem Korzo Národní se uskuteční od 10…",
+      "source": "Aktuálně.cz",
       "category": "domaci",
-      "published_at": "2026-11-17T05:49:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/17-listopad-oslavy-akce-vystoupeni-politiku.A261116_085543_domaci_vank",
+      "published_at": "2026-11-17T07:05:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/zacinaji-oslavy-17-listopadu-na-narodni-letos-bude-chybet-premier/r~aaa29bc84cc2b51b541c48f803082428/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -123,16 +183,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Izraelci nahráli na internet miliony fotografií. Chtějí tak sledovat Palestince",
-      "summary": "Izraelská armáda nahrála na cloudovou platformu společnosti Amazon přibližně 3,5 milionu fotografií, které měla využívat k rozpoznávání obličejů Palestinců a sledování jejich pohybu. Podle deníku…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-16T20:40:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/izrael-nahral-na-internet-miliony-fotografii-palestincu.A261116_212351_zahranicni_lupr",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "„Dohoda bude vyžadovat náročná rozhodnutí.“ Kushner přesto v jednáních o míru vnímá pokrok",
       "summary": "Jednání s Ukrajinou a evropskými partnery dosáhla za uplynulý rok významného pokroku pro budoucnost Ukrajiny. Na síti X to napsal zvláštní vyslanec a zeť amerického…",
       "source": "Aktuálně.cz",
@@ -163,26 +213,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "„Řehka se toho neměl účastnit.“ Babišův muž před soudem, dronař žádá peníze a omluvu",
-      "summary": "Den před státním svátkem zažil nevelký Okresní soud v Lounech neobvyklé vzrušení. V jedné z malých jednacích síní se tu sešla bývalá ministryně Jana Černochová,…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-16T20:07:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/rehka-se-toho-nemel-ucastnit-babisuv-muz-pred-soudem-dronar-zada-penize-a-omluvu/r~aaa299562f9f4502a4734f1921e85ce5/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Zelenskyj varuje před novými masivními útoky na Ukrajinu",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-16T20:01:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/zelenskyj-varuje-pred-novymi-masivnimi-utoky-na-ukrajinu/2902810",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Babiš navrhuje urychlit nákup protivzdušné obrany. Nechce čekat do roku 2030",
       "summary": "Česká republika by se měla snažit pořídit další systémy protivzdušné obrany co nejdříve a nečekat až do roku 2030. Po pondělním jednání s izraelským premiérem…",
       "source": "Deník",
@@ -193,32 +223,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "„Kdyby se něco stalo.“ Babiš chce izraelský štít, jeho plán má ale několik háčků",
-      "summary": "Andrej Babiš (ANO) vyrazil do Izraele s početnou delegací a velkým plánem: posílit českou protivzdušnou obranu izraelskými technologiemi. Premiér opakovaně mluví o slavném systému Iron…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-16T19:52:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/kdyby-se-neco-stalo-babis-chce-izraelsky-stit-jeho-plan-ma-ale-nekolik-trhlin/r~aaa29f2025109f9c7dbaba5dca48ceec/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Ukrajina provedla dosud největší dronový útok na Rusko. Zasáhla Kerčský most",
       "summary": "Ukrajinské drony zasáhly Kerčský most, který spojuje okupovaný Krymský poloostrov s Ruskem. Útok dočasně omezil silniční dopravu na této strategické dopravní tepně. Podle ruských představitelů…",
       "source": "Deník",
       "category": "svet",
       "published_at": "2026-11-16T18:30:00+01:00",
       "url": "https://www.denik.cz/evropa/ukrajina-valka-utok-kercsky-most-rusko-nalet-drony/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Prohrál nejen Babiš, ale i Kupka, řekl Schmarcz k Letné. Kulidakis varoval před vládou ulice",
-      "summary": "Komentátor Martin Schmarcz ve vysílání CNN Prima NEWS uvedl, že nedělní demonstrace pořádaná spolkem Milion chvilek pro demokracii na pražské Letné může být varováním nejen…",
-      "source": "CNN Prima NEWS",
-      "category": "domaci",
-      "published_at": "2026-11-16T17:43:35+01:00",
-      "url": "https://cnn.iprima.cz/demokracii-nemuze-nahradit-ulice-varuje-kulidakis-porazenym-po-letne-je-i-kupka-mini-schmarcz-527294",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -239,16 +249,6 @@
       "category": "domaci",
       "published_at": "2026-11-16T17:20:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/politolozka-nepredpoklada-zmenu-ve-vlade-dokud-ma-koalice-vetsinu/2902767",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Pět zemí EU chystá deportační středisko ve Rwandě, fungovat by mohlo příští rok",
-      "summary": "Rakousko, Německo, Nizozemsko, Dánsko a Řecko chtějí ve Rwandě deportační středisko pro odmítnuté žadatele o azyl, které není možné vyhostit do jejich zemí původu. Podle…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-16T16:08:22+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/pet-zemi-eu-chysta-deportacni-stredisko-ve-rwande-fungovat-by-mohlo-pristi-rok-379675",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -291,7 +291,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -302,7 +302,7 @@
       "feeds_total": 2,
       "status": "ok",
       "candidates": 18,
-      "selected": 5,
+      "selected": 7,
       "free_articles_checked": 8
     },
     {
@@ -321,7 +321,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 18,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -331,9 +331,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 6,
-      "selected": 6,
-      "free_articles_checked": 6
+      "candidates": 4,
+      "selected": 4,
+      "free_articles_checked": 4
     },
     {
       "name": "Deník",
@@ -341,9 +341,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
-      "selected": 3,
-      "free_articles_checked": 3
+      "candidates": 14,
+      "selected": 4,
+      "free_articles_checked": 4
     },
     {
       "name": "iDNES.cz",
@@ -361,9 +361,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
-      "selected": 2,
-      "free_articles_checked": 2
+      "candidates": 13,
+      "selected": 1,
+      "free_articles_checked": 1
     },
     {
       "name": "E15",

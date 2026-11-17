@@ -3,16 +3,40 @@
   "current": null,
   "queue": [
     [
-      "https://zpravy.aktualne.cz/domaci/zacinaji-oslavy-17-listopadu-na-narodni-letos-bude-chybet-premier/r~aaa29bc84cc2b51b541c48f803082428/",
-      "Začínají oslavy 17. listopadu, na Národní letos bude chybět premiér"
+      "https://www.ceskenoviny.cz/zpravy/-u-pametni-desky-na-narodni-je-venec-poslanecke-snemovny/2902607",
+      "U pamětní desky na Národní je věnec Poslanecké sněmovny"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/17-listopad-oslavy-akce-vystoupeni-politiku.A261116_085543_domaci_vank",
+      "Vondráček, Nacher i Malá. Na Národní třídu přicházejí první politici, lidé je vypískali"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/krymsky-most-ukrajinsky-uder-cast-se-zritila-do-more.A261117_080055_zahranicni_lupr",
+      "Část Krymského mostu se po ukrajinském úderu zřítila do moře"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/babis-dnesni-den-je-o-svobode-rikat-pravdu-i-volit-si-vladu-kterou-lide-chteji/2902886",
+      "Babiš: Dnešní den je o svobodě říkat pravdu i volit si vládu, kterou lidé chtějí"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/manzel-cichanouske-se-stal-jejim-kritikem-beloruskemu-rezimu-situace-vyhovuje-379653",
+      "Manžel Cichanouské se stal jejím kritikem, běloruskému režimu situace vyhovuje"
     ],
     [
       "https://www.idnes.cz/zpravy/zahranicni/ukrajina-opet-uderila-na-krymsky-most-moskevskou-oblast-zasypala-drony.A261117_061017_zahranicni_vank",
       "Ukrajina opět udeřila na Krymský most. Moskevskou oblast zasypala drony"
     ],
     [
-      "https://www.idnes.cz/zpravy/domaci/17-listopad-oslavy-akce-vystoupeni-politiku.A261116_085543_domaci_vank",
-      "Lidé si připomínají výročí 17. listopadu, Národní třída bude bez Babiše"
+      "https://www.denik.cz/svet/ruska-letadla-narusila-vzdusny-prostor-japonska-tokio-vyslalo-stihacky/",
+      "Ruská letadla narušila vzdušný prostor Japonska. Tokio vyslalo stíhačky"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/cast-krymskeho-mostu-se-podle-exilenova+-zritila-do-more/2902810",
+      "Část Krymského mostu se podle Exilenova+ zřítila do moře"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/zacinaji-oslavy-17-listopadu-na-narodni-letos-bude-chybet-premier/r~aaa29bc84cc2b51b541c48f803082428/",
+      "Začínají oslavy 17. listopadu, na Národní letos bude chybět premiér"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/evropska-komise-tlaci-cesko-do-schvaleni-sesti-smernic-379673",
@@ -51,10 +75,6 @@
       "Zvláštní vyslanec Kushner telefonoval s Kyjevem i Moskvou. Mluví o pokroku"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/izrael-nahral-na-internet-miliony-fotografii-palestincu.A261116_212351_zahranicni_lupr",
-      "Izraelci nahráli na internet miliony fotografií. Chtějí tak sledovat Palestince"
-    ],
-    [
       "https://zpravy.aktualne.cz/zahranici/dohoda-bude-vyzadovat-narocna-rozhodnuti-kushner-presto-v-jednanich-o-miru-vnima-pokrok/r~aaa29510d52cc1a85e9d1f355241be4f/",
       "„Dohoda bude vyžadovat náročná rozhodnutí.“ Kushner přesto v jednáních o míru vnímá pokrok"
     ],
@@ -67,28 +87,12 @@
       "Vláda zvedá platy úředníků. Obce si stěžují, že na ně nedostanou dost peněz navíc"
     ],
     [
-      "https://zpravy.aktualne.cz/domaci/rehka-se-toho-nemel-ucastnit-babisuv-muz-pred-soudem-dronar-zada-penize-a-omluvu/r~aaa299562f9f4502a4734f1921e85ce5/",
-      "„Řehka se toho neměl účastnit.“ Babišův muž před soudem, dronař žádá peníze a omluvu"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/zelenskyj-varuje-pred-novymi-masivnimi-utoky-na-ukrajinu/2902810",
-      "Zelenskyj varuje před novými masivními útoky na Ukrajinu"
-    ],
-    [
       "https://www.denik.cz/cesko/babis-navrhuje-urychlit-nakup-protivzdusne-obrany-nechce-cekat-do-roku-2030/",
       "Babiš navrhuje urychlit nákup protivzdušné obrany. Nechce čekat do roku 2030"
     ],
     [
-      "https://zpravy.aktualne.cz/domaci/kdyby-se-neco-stalo-babis-chce-izraelsky-stit-jeho-plan-ma-ale-nekolik-trhlin/r~aaa29f2025109f9c7dbaba5dca48ceec/",
-      "„Kdyby se něco stalo.“ Babiš chce izraelský štít, jeho plán má ale několik háčků"
-    ],
-    [
       "https://www.denik.cz/evropa/ukrajina-valka-utok-kercsky-most-rusko-nalet-drony/",
       "Ukrajina provedla dosud největší dronový útok na Rusko. Zasáhla Kerčský most"
-    ],
-    [
-      "https://cnn.iprima.cz/demokracii-nemuze-nahradit-ulice-varuje-kulidakis-porazenym-po-letne-je-i-kupka-mini-schmarcz-527294",
-      "Prohrál nejen Babiš, ale i Kupka, řekl Schmarcz k Letné. Kulidakis varoval před vládou ulice"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/le-penova-v-pripade-zvoleni-slibila-dostat-francouzskym-zavazkum-vuci-kyjevu/2902774",
@@ -97,10 +101,6 @@
     [
       "https://www.ceskenoviny.cz/zpravy/politolozka-nepredpoklada-zmenu-ve-vlade-dokud-ma-koalice-vetsinu/2902767",
       "Politoložka nepředpokládá změnu ve vládě, dokud má koalice většinu"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/pet-zemi-eu-chysta-deportacni-stredisko-ve-rwande-fungovat-by-mohlo-pristi-rok-379675",
-      "Pět zemí EU chystá deportační středisko ve Rwandě, fungovat by mohlo příští rok"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/evropa-ma-vuci-moskve-jasne-pozadavky-uvedla-sefka-unijni-diplomacie/2902759",
