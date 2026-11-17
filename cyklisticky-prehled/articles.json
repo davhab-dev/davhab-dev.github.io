@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-17T16:23:27.510053+00:00",
+  "updated": "2026-11-17T17:29:01.349694+00:00",
   "articles": [
+    {
+      "title": "'Now time to get serious' – Tadej Pogačar wraps up off-season of travelling, running, and fellow pro's wedding, as 2027 preparations set to begin",
+      "summary": "Slovenian set to start ramping up his time on the bike ahead of UAE Team Emirates-XRG training camp in December",
+      "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/now-time-to-get-serious-tadej-pogacar-wraps-up-off-season-of-travelling-running-and-fellow-pros-wedding-as-2027-preparations-set-to-begin/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Trénink",
+      "published": "2026-11-17T17:08:10+00:00"
+    },
+    {
+      "title": "Rapha Pro Team Shadow winter glove review: A good addition to the Shadow range but perhaps not the best value",
+      "summary": "The Rapha Shadow range was expanded for this winter",
+      "url": "https://www.cyclingnews.com/cycling-kit-accessories/clothing-shoes/rapha-pro-team-shadown-winter-gloves-review/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Technika",
+      "published": "2026-11-17T16:46:34+00:00"
+    },
     {
       "title": "I'm a pro mechanic and these are the 5 bike-cleaning products you need to own",
       "summary": "These are the five items every rider needs to own to care for their bike properly post-ride",
@@ -65,6 +83,15 @@
       "published": "2026-11-17T10:00:00+00:00"
     },
     {
+      "title": "Od školáků až k profesionálům. Štybarova Czech Cycling Academy bilancuje první rok",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/od-skolaku-az-k-profesionalum-stybarova-czech-cycling-academy-bilancuje-prvni-rok/kategorie/clanky-ostatni",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-17"
+    },
+    {
       "title": "Šéf Treku Burke otevřeně o cenách, elektrokolech i budoucnosti cyklistického průmyslu",
       "summary": "",
       "url": "https://mtbs.cz/clanek/sef-treku-burke-otevrene-o-cenach-elektrokolech-i-budoucnosti-cyklistickeho-prumyslu/kategorie/servis",
@@ -80,6 +107,15 @@
       "source": "MTBS.cz",
       "lang": "CS",
       "category": "Gravel",
+      "published": "2026-11-17"
+    },
+    {
+      "title": "Carapaz zvažuje návrat na Giro d'Italia. Má tam větší šanci na úspěch než na Tour de France",
+      "summary": "",
+      "url": "https://www.roadcycling.cz/clanek/carapaz-zvazuje-navrat-na-giro-ditalia-ma-tam-vetsi-sanci-na-uspech-nez-na-tour-de-france",
+      "source": "RoadCycling.cz",
+      "lang": "CS",
+      "category": "Závody",
       "published": "2026-11-17"
     },
     {
@@ -884,15 +920,6 @@
       "published": "2026-11-12"
     },
     {
-      "title": "Virtuální cyklistickou výzvu Indoor Classics pokřtili polský silniční šampion Kwiatkowski, oblíbený herec Adamczyk i fotbalový šutér Koller, který se těší na 32palcový gravel",
-      "summary": "",
-      "url": "https://www.roadcycling.cz/clanek/virtualni-cyklistickou-vyzvu-indoor-classics-pokrtili-polsky-silnicni-sampion-kwiatkowski-oblibeny-herec-adamczyk-i-fotbalovy-suter-koller-ktery-se-tesi-na-32palcovy-gravel",
-      "source": "RoadCycling.cz",
-      "lang": "CS",
-      "category": "Gravel",
-      "published": "2026-11-12"
-    },
-    {
       "title": "Canyon představil limitku Spectral:ON CF LTD. 1 500 W, 150 Nm a 20,8 kilogramu",
       "summary": "",
       "url": "https://cyklorepublic.cz/clanky/01a1d128-f836-703d-b4b0-7b6cb31d9525/canyon-predstavil-limitku-spectralon-cf-ltd-1-500-w-150-nm-a-208-kilogramu",
@@ -1055,21 +1082,21 @@
       "published": "2026-11-11"
     },
     {
-      "title": "Kauza Schreiber nekončí! Lucembursko žádá evropské zlato zpět, závodnice kritizuje předsedu jury",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/kauza-schreiber-nekonci-lucembursko-zada-evropske-zlato-zpet-zavodnice-kritizuje-predsedu-jury/kategorie/cyklokros-mistrovstvi-evropy",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": "2026-11-11"
-    },
-    {
       "title": "Zjisti, jaký potřebuješ olej nebo vosk - já se ptám a ty odpovídáš",
       "summary": "",
       "url": "https://www.mtbiker.cz/clanky/132090/zjisti-jaky-potrebujes-olej-nebo-vosk-ja-se-ptam-a-ty-odpovidas.html",
       "source": "MTBIKER.cz",
       "lang": "CS",
       "category": "MTB",
+      "published": "2026-11-11"
+    },
+    {
+      "title": "Kauza Schreiber nekončí! Lucembursko žádá evropské zlato zpět, závodnice kritizuje předsedu jury",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/kauza-schreiber-nekonci-lucembursko-zada-evropske-zlato-zpet-zavodnice-kritizuje-predsedu-jury/kategorie/cyklokros-mistrovstvi-evropy",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "Závody",
       "published": "2026-11-11"
     },
     {
@@ -3123,33 +3150,6 @@
       "lang": "CS",
       "category": "Cyklistika",
       "published": "2026-09-15T19:43:58+00:00"
-    },
-    {
-      "title": "Nino Schurter hlásí vážné zranění. Švýcarský fenomén těžce havaroval na koloběžce",
-      "summary": "",
-      "url": "https://cyklorepublic.cz/clanky/01a07d1a-fb56-7340-a8ca-ae7364693252/nino-schurter-hlasi-vazne-zraneni-svycarsky-fenomen-tezce-havaroval-na-kolobezce",
-      "source": "CykloRepublic.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
-      "published": "2026-09-07"
-    },
-    {
-      "title": "Český pohár MTB zná své vítěze. Celkový triumf slaví Zatloukal a Tvarůžková",
-      "summary": "",
-      "url": "https://cyklorepublic.cz/clanky/01a07593-93a4-7079-8738-b156711129ee/cesky-pohar-mtb-zna-sve-viteze-celkovy-triumf-slavi-zatloukal-a-tvaruzkova",
-      "source": "CykloRepublic.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
-      "published": "2026-09-06"
-    },
-    {
-      "title": "🚴 Alpe-Adria na kole: jak se dostat na start, jak zpátky domů a jak si přitom nezničit nervy",
-      "summary": "Cyklotrasa Alpe-Adria (Ciclovia Alpe Adria Radweg, zkráceně CAAR) je jedna z těch tras, kterou vám doporučí každý, kdo ji jel. A má to svůj důvod: začínáte v Salzburgu mezi kopci, končíte v Gradu s nohama v Jadranu, a me",
-      "url": "https://cyklocestovatel.cz/alpe-adria-na-kole-jak-na-start-jak-zpatky-domu/",
-      "source": "Cyklocestovatel.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
-      "published": "2026-09-02T20:35:47+00:00"
     }
   ],
   "source_errors": [
