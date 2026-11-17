@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T06:28:02.797748+00:00",
+  "updated": "2026-11-17T08:11:20.221760+00:00",
   "articles": [
     {
       "title": "TEST: Avona Callis 32 – Když gravel přeroste do nové dimenze",
@@ -117,6 +117,15 @@
       "lang": "EN",
       "category": "MTB",
       "published": "2026-11-16T09:00:00+00:00"
+    },
+    {
+      "title": "Jsem diesel, ale chci do top 5! Daniel Turek se chystá na své třetí MS ve virtuální cyklistice",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/jsem-diesel-ale-chci-do-top-5-daniel-turek-se-chysta-na-sve-treti-ms-ve-virtualni-cyklistice/kategorie/tymy-a-kluby",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-16"
     },
     {
       "title": "KYB vstupuje do MTB s upsidedown vidlicí",
@@ -387,6 +396,15 @@
       "lang": "EN",
       "category": "Gravel",
       "published": "2026-11-14T07:00:00+00:00"
+    },
+    {
+      "title": "Jak na bikepacking: Chystáme se na první závod",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132093/jak-na-bikepacking-chystame-se-na-prvni-zavod.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "Gravel",
+      "published": "2026-11-14"
     },
     {
       "title": "Hladíková a Konwa ovládli v závěru Jičín a oba vedou také pořadí českého poháru v cyklokrosu",
@@ -1118,15 +1136,6 @@
       "published": "2026-11-10T09:27:16+00:00"
     },
     {
-      "title": "Ostrava naváže na Las Vegas! Po 11 letech světový pohár v cyklokrosu znovu odstartuje pod reflektory",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/ostrava-navaze-na-las-vegas-po-11-letech-svetovy-pohar-v-cyklokrosu-znovu-odstartuje-pod-reflektory/kategorie/cyklokros-svetovy-pohar",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Technika",
-      "published": "2026-11-10"
-    },
-    {
       "title": "Vrchařská prověrka, elektrokolo Touroll S2",
       "summary": "",
       "url": "https://cykl.cz/vrcharska-proverka-elektrokolo-touroll-s2",
@@ -1151,6 +1160,15 @@
       "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Cyklistika",
+      "published": "2026-11-10"
+    },
+    {
+      "title": "Ostrava naváže na Las Vegas! Po 11 letech světový pohár v cyklokrosu znovu odstartuje pod reflektory",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/ostrava-navaze-na-las-vegas-po-11-letech-svetovy-pohar-v-cyklokrosu-znovu-odstartuje-pod-reflektory/kategorie/cyklokros-svetovy-pohar",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "Technika",
       "published": "2026-11-10"
     },
     {
@@ -3132,24 +3150,6 @@
       "lang": "CS",
       "category": "Gravel",
       "published": "2026-05-28"
-    },
-    {
-      "title": "Vylepšená bezdušová ochrana, Tannus",
-      "summary": "",
-      "url": "https://cykl.cz/vylepsena-bezdusova-ochrana-tannus",
-      "source": "Cykl.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
-      "published": "2026-05-27"
-    },
-    {
-      "title": "PUKY pro holky i kluky",
-      "summary": "",
-      "url": "https://cykl.cz/puky-pro-holky-i-kluky",
-      "source": "Cykl.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
-      "published": "2026-05-19"
     }
   ],
   "source_errors": [
