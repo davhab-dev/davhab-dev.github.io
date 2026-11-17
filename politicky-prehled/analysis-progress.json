@@ -3,6 +3,18 @@
   "current": null,
   "queue": [
     [
+      "https://ct24.ceskatelevize.cz/clanek/svet/zelenskyj-zada-spojence-o-strely-patriot-nemely-by-dle-nej-zustavat-ve-skladech-379695",
+      "Zelenskyj žádá spojence o střely Patriot, neměly by dle něj zůstávat ve skladech"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/17-listopad-oslavy-akce-vystoupeni-politiku.A261116_085543_domaci_vank",
+      "Přeplněná Národní třída tleskala hymně, pískalo se na ministry i prezidenta"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/symbol-svobody-ci-ztrata-suverenity-na-narodni-tride-se-stretly-odlisne-nazory.A261117_122643_domaci_meli",
+      "Symbol svobody či ztráta suverenity. Na Národní třídě se střetly různorodé názory"
+    ],
+    [
       "https://www.idnes.cz/zpravy/zahranicni/valka-na-ukrajine-starshield-ukrajina-zelenskyj.A261117_155204_zahranicni_aya",
       "NATO chce obnovit systém Starshield, Ukrajina však stále bojuje s výpadky"
     ],
@@ -67,16 +79,8 @@
       "Část Krymského mostu se zřítila do moře. Zablokovala námořní dopravu"
     ],
     [
-      "https://www.idnes.cz/zpravy/domaci/vyroci-sametova-revoluce-narodni-trida-ods-kupka-vondra.A261117_121220_domaci_lupr",
-      "Babiš se schoval, kritizoval Vondra na Národní třídě. Zmínil mocenskou aroganci"
-    ],
-    [
       "https://www.ceskenoviny.cz/zpravy/kosovsky-exprezident-thaci-dostal-v-haagu-17-mesicu-za-ovlivnovani-svedku/2903032",
       "Kosovský exprezident Thaçi dostal v Haagu 17 měsíců za ovlivňování svědků"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/srbsko-novy-parlament-prvni-zasedani-vetsinu-maji-studenti.A261117_140610_zahranicni_lupr",
-      "První krok k sestavení vlády. V Srbsku zasedl nový parlament, většinu mají studenti"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/sef-top-09-havel-oznacil-babisovu-neucast-na-narodni-tride-za-zbabelou-pozu/2903026",
@@ -107,34 +111,26 @@
       "Hútíové ovládli severní pobřeží strategické úžiny Báb al-Mandab. Vládní protiofenziva neuspěla"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/svet/izrael-chrani-evropu-pred-prilivem-dzihadistu-rekl-herzog-pri-schuzce-s-babisem-379686",
-      "Izrael chrání Evropu před přílivem džihádistů, řekl Herzog při schůzce s Babišem"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/vlada-musi-naslouchat-pozadavkum-demonstrantu-z-letne-uvedl-kupka/2902972",
-      "Vláda musí naslouchat požadavkům demonstrantů z Letné, uvedl Kupka"
-    ],
-    [
       "https://www.denik.cz/evropa/zelenskyj-potvrdil-utok-na-krymsky-most-ukrajina-se-mstila-za-ruske-udery/",
       "Zelenskyj potvrdil útok na Krymský most. Ukrajina se mstila za ruské údery"
     ],
     [
-      "https://www.denik.cz/cesko/svoboda-a-demokracie-nejsou-samozrejmost-rekli-politici-ano-na-narodni-tride/",
-      "Svoboda a demokracie nejsou samozřejmost, řekli politici ANO na Národní třídě"
+      "https://cnn.iprima.cz/havluv-odkaz-je-dulezity-rika-korejsky-starosta-17-listopad-pripomenou-i-na-druhe-strane-sveta-527316",
+      "Havlův odkaz je živý i zde, říká korejský starosta. 17. listopad si připomíná i druhá strana světa"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/u-hlavniho-nadrazi-v-praze-se-srazily-dva-vlaky-na-miste-jsou-podle-policie-zraneni-379684",
-      "Srážka vlaků v Praze si vyžádala přes čtyřicet zraněných"
+      "https://www.denik.cz/cesko/svoboda-a-demokracie-nejsou-samozrejmost-rekli-politici-ano-na-narodni-tride/",
+      "Svoboda a demokracie nejsou samozřejmost, řekli politici ANO na Národní třídě"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 31,
+    "initial_pending": 30,
     "completed": [],
     "deferred": [],
-    "remaining": 31
+    "remaining": 30
   },
   "samples_seconds": [
     51.274763,
