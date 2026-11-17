@@ -3,12 +3,28 @@
   "current": null,
   "queue": [
     [
+      "https://www.idnes.cz/zpravy/zahranicni/petice-evropskych-statu-chce-deportace-do-rwandy-prvni-uz-pristi-rok.A261116_162610_zahranicni_bro",
+      "Pětice evropských států chce deportace do Rwandy, první už příští rok"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/17-listopad-oslavy-akce-vystoupeni-politiku.A261116_085543_domaci_vank",
+      "Lidé si připomenou výročí 17. listopadu, Národní třída bude bez Babiše"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/rusko-tvrdi-ze-u-moskvy-znicilo-na-800-ukrajinskych-dronu.A261117_054835_zahranicni_air",
+      "Rusko tvrdí, že u Moskvy zničilo na 800 ukrajinských dronů"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/studie-odhalila-slabinu-evropske-obrany-nato-muze-v-pripade-valky-neprijemne-narazit/r~aaa29fecd7f4c3aa9b775e3d0dfbdcad/",
+      "Studie odhalila slabinu evropské obrany. NATO může v případě války nepříjemně narazit"
+    ],
+    [
       "https://ct24.ceskatelevize.cz/clanek/svet/pri-strelbe-osadniku-u-jericha-zahynula-palestinka-uvedla-palestinska-televize-379679",
       "Při střelbě u Jericha zahynula Palestinka, palestinská televize viní izraelské osadníky"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/rusky-balisticky-utok-v-kyjeve-zasahl-dva-mosty-379678",
-      "Ruský balistický útok v Kyjevě zasáhl dva mosty"
+      "Rusko v noci útočilo na Kyjev, podle Klyčka zasáhlo dva důležité mosty"
     ],
     [
       "https://www.idnes.cz/ekonomika/domaci/nvidia-konec-jensen-huang-cipy-spion.A261113_105108_ekonomika_base",
@@ -33,14 +49,6 @@
     [
       "https://zpravy.aktualne.cz/zahranici/dohoda-bude-vyzadovat-narocna-rozhodnuti-kushner-presto-v-jednanich-o-miru-vnima-pokrok/r~aaa29510d52cc1a85e9d1f355241be4f/",
       "„Dohoda bude vyžadovat náročná rozhodnutí.“ Kushner přesto v jednáních o míru vnímá pokrok"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/kushner-po-telefonatech-s-kyjevem-a-moskvou-mluvi-o-pokroku.A261116_203236_zahranicni_lupr",
-      "Pokrok pro Ukrajinu, hodnotí telefonáty s Kyjevem i Moskvou vyslanec USA Kushner"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/petice-evropskych-statu-chce-deportace-do-rwandy-prvni-uz-pristi-rok.A261116_162610_zahranicni_bro",
-      "Pětice evropských států chce deportace do Rwandy, první už příští rok"
     ],
     [
       "https://cnn.iprima.cz/svet-po-putinovi-rusti-oligarchove-planuji-prolomit-ticho-a-vratit-se-k-moci-527313",
@@ -71,20 +79,8 @@
       "Kanadský premiér pohrozil Trumpovi. Obrátí se na čínské automobilky, pokud selžou jednání s USA"
     ],
     [
-      "https://zpravy.aktualne.cz/domaci/sefove-opozice-reaguji-na-minare-odpovedeli-jak-se-chystaji-na-vladnuti-po-babisovi/r~aaa292ce58266aff07c80aa7ef10658e/",
-      "Šéfové opozice reagují na Mináře. Odpověděli, jak se chystají na vládnutí po Babišovi"
-    ],
-    [
       "https://www.denik.cz/evropa/ukrajina-valka-utok-kercsky-most-rusko-nalet-drony/",
       "Ukrajina provedla dosud největší dronový útok na Rusko. Zasáhla Kerčský most"
-    ],
-    [
-      "https://zpravy.aktualne.cz/zahranici/le-penova-nastinila-kroky-vuci-ukrajine-pokud-by-byla-prezidentkou-chce-schuzku-se-zelenskym/r~aaa2983874a91a6501d185560c9429f8/",
-      "Le Penová nastínila kroky vůči Ukrajině, bude-li prezidentkou. Chce schůzku se Zelenským"
-    ],
-    [
-      "https://zpravy.aktualne.cz/domaci/dialog-babise-s-chvilkari-uznal-by-je-za-sobe-rovne-mini-experti-a-odhaluji-paradox/r~aaa29ed479ad296187c1cc7b6d8c570c/",
-      "Dialog Babiše s „chvilkaři“? Uznal by je za sobě rovné, míní experti a odhalují paradox"
     ],
     [
       "https://cnn.iprima.cz/demokracii-nemuze-nahradit-ulice-varuje-kulidakis-porazenym-po-letne-je-i-kupka-mini-schmarcz-527294",
@@ -127,10 +123,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 30,
+    "initial_pending": 29,
     "completed": [],
     "deferred": [],
-    "remaining": 30
+    "remaining": 29
   },
   "samples_seconds": [
     51.274763,
