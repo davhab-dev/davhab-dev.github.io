@@ -3,16 +3,28 @@
   "current": null,
   "queue": [
     [
-      "https://www.idnes.cz/zpravy/zahranicni/petice-evropskych-statu-chce-deportace-do-rwandy-prvni-uz-pristi-rok.A261116_162610_zahranicni_bro",
-      "Pětice evropských států chce deportace do Rwandy, první už příští rok"
+      "https://zpravy.aktualne.cz/domaci/zacinaji-oslavy-17-listopadu-na-narodni-letos-bude-chybet-premier/r~aaa29bc84cc2b51b541c48f803082428/",
+      "Začínají oslavy 17. listopadu, na Národní letos bude chybět premiér"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/ukrajina-opet-uderila-na-krymsky-most-moskevskou-oblast-zasypala-drony.A261117_061017_zahranicni_vank",
+      "Ukrajina opět udeřila na Krymský most. Moskevskou oblast zasypala drony"
     ],
     [
       "https://www.idnes.cz/zpravy/domaci/17-listopad-oslavy-akce-vystoupeni-politiku.A261116_085543_domaci_vank",
-      "Lidé si připomenou výročí 17. listopadu, Národní třída bude bez Babiše"
+      "Lidé si připomínají výročí 17. listopadu, Národní třída bude bez Babiše"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/rusko-tvrdi-ze-u-moskvy-znicilo-na-800-ukrajinskych-dronu.A261117_054835_zahranicni_air",
-      "Rusko tvrdí, že u Moskvy zničilo na 800 ukrajinských dronů"
+      "https://ct24.ceskatelevize.cz/clanek/svet/evropska-komise-tlaci-cesko-do-schvaleni-sesti-smernic-379673",
+      "Evropská komise tlačí Česko do schválení šesti směrnic"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/ruska-obrana-znicila-kolem-800-dronu-miricich-na-moskvu.A261117_054835_zahranicni_air",
+      "Ruská obrana zničila kolem 800 dronů mířících na Moskvu"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/petice-evropskych-statu-chce-deportace-do-rwandy-prvni-uz-pristi-rok.A261116_162610_zahranicni_bro",
+      "Pětice evropských států chce deportace do Rwandy, první už příští rok"
     ],
     [
       "https://zpravy.aktualne.cz/zahranici/studie-odhalila-slabinu-evropske-obrany-nato-muze-v-pripade-valky-neprijemne-narazit/r~aaa29fecd7f4c3aa9b775e3d0dfbdcad/",
@@ -43,10 +55,6 @@
       "Izraelci nahráli na internet miliony fotografií. Chtějí tak sledovat Palestince"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/ukrajina-rusko-valka-kyrm-most-kercsky-utok.A261116_172305_zahranicni_dtt",
-      "Dron vychýlil oblouk Krymského mostu a ochromil silniční dopravu"
-    ],
-    [
       "https://zpravy.aktualne.cz/zahranici/dohoda-bude-vyzadovat-narocna-rozhodnuti-kushner-presto-v-jednanich-o-miru-vnima-pokrok/r~aaa29510d52cc1a85e9d1f355241be4f/",
       "„Dohoda bude vyžadovat náročná rozhodnutí.“ Kushner přesto v jednáních o míru vnímá pokrok"
     ],
@@ -75,10 +83,6 @@
       "„Kdyby se něco stalo.“ Babiš chce izraelský štít, jeho plán má ale několik háčků"
     ],
     [
-      "https://zpravy.aktualne.cz/ekonomika/kanadsky-premier-pohrozil-trumpovi-obrati-se-na-cinu-pokud-selzou-jednani-s-usa/r~aaa29132f9c22198d78429ecc938f7b3/",
-      "Kanadský premiér pohrozil Trumpovi. Obrátí se na čínské automobilky, pokud selžou jednání s USA"
-    ],
-    [
       "https://www.denik.cz/evropa/ukrajina-valka-utok-kercsky-most-rusko-nalet-drony/",
       "Ukrajina provedla dosud největší dronový útok na Rusko. Zasáhla Kerčský most"
     ],
@@ -105,28 +109,16 @@
     [
       "https://www.ceskenoviny.cz/zpravy/putin-ohledne-ukrajiny-slevuje-rekl-trump/2902738",
       "Putin ohledně Ukrajiny slevuje, řekl Trump"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/babis-zahajil-navstevu-izraele-bude-jednat-o-protivzdusne-obrane-379666",
-      "Babiš jedná v Izraeli, chce urychlit dodávky dalších systémů protivzdušné obrany"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/klempir-chce-nejprve-probrat-evropsky-akt-o-svobode-medii-az-pak-poplatky-za-ct-a-cro-379662",
-      "Klempíř chce nejprve probrat Evropský akt o svobodě médií, až pak poplatky za ČT a ČRo"
-    ],
-    [
-      "https://www.denik.cz/cesko/debate-o-financovani-ct-a-cro-ma-predchazet-diskuse-o-emfa-domniva-se-klempir/",
-      "Debatě o financování ČT a ČRo má předcházet diskuse o EMFA, domnívá se Klempíř"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 29,
+    "initial_pending": 27,
     "completed": [],
     "deferred": [],
-    "remaining": 29
+    "remaining": 27
   },
   "samples_seconds": [
     51.274763,

@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-11-17T05:05:50.388848+00:00",
+  "updated_at": "2026-11-17T06:08:22.505054+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Začínají oslavy 17. listopadu, na Národní letos bude chybět premiér",
+      "summary": "Česko si 17. listopadu připomíná výročí sametové revoluce a Den boje za svobodu a demokracii. Hlavní program s názvem Korzo Národní se uskuteční od 10…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-17T07:05:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/zacinaji-oslavy-17-listopadu-na-narodni-letos-bude-chybet-premier/r~aaa29bc84cc2b51b541c48f803082428/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Ukrajina opět udeřila na Krymský most. Moskevskou oblast zasypala drony",
+      "summary": "Kyjev v pondělí večer čelil útoku ruských balistických střel, aktivovány byly systémy protivzdušné obrany, uvedl starosta Vitalij Kličko. Obyvatele hlavního města vyzval, aby se odebrali…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-17T05:52:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-opet-uderila-na-krymsky-most-moskevskou-oblast-zasypala-drony.A261117_061017_zahranicni_vank",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Lidé si připomínají výročí 17. listopadu, Národní třída bude bez Babiše",
+      "summary": "Česko si v úterý připomíná výročí sametové revoluce. Od pádu komunistického režimu letos uplynulo 37 let. Centrem oslav se jako tradičně stane Praha a především…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-17T05:49:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/17-listopad-oslavy-akce-vystoupeni-politiku.A261116_085543_domaci_vank",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Evropská komise tlačí Česko do schválení šesti směrnic",
+      "summary": "Česko nestihne včas schválit všechny unijní směrnice, které požaduje Evropská komise. Ta kvůli šesti předlohám vede od září se státem řízení. Čas na nápravu dala…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-17T05:30:00+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/evropska-komise-tlaci-cesko-do-schvaleni-sesti-smernic-379673",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Ruská obrana zničila kolem 800 dronů mířících na Moskvu",
+      "summary": "Ruská protivzdušná obrana podle starosty Sergeje Sobjanina během pondělního večera a noci zničila zhruba 800 dronů mířících na Moskevskou oblast, dočasně byl omezen provoz na…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-17T05:28:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ruska-obrana-znicila-kolem-800-dronu-miricich-na-moskvu.A261117_054835_zahranicni_air",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Pětice evropských států chce deportace do Rwandy, první už příští rok",
       "summary": "Rakousko, Německo, Nizozemsko, Dánsko a Řecko chtějí ve Rwandě deportační středisko pro odmítnuté žadatele o azyl, které není možné vyhostit do jejich zemí původu. Společně…",
@@ -9,26 +59,6 @@
       "category": "svet",
       "published_at": "2026-11-17T05:03:00+00:00",
       "url": "https://www.idnes.cz/zpravy/zahranicni/petice-evropskych-statu-chce-deportace-do-rwandy-prvni-uz-pristi-rok.A261116_162610_zahranicni_bro",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Lidé si připomenou výročí 17. listopadu, Národní třída bude bez Babiše",
-      "summary": "Česko si v úterý připomene výročí sametové revoluce. Od pádu komunistického režimu letos uplynulo 37 let. Centrem oslav se jako tradičně stane Praha a především…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-17T05:00:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/17-listopad-oslavy-akce-vystoupeni-politiku.A261116_085543_domaci_vank",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Rusko tvrdí, že u Moskvy zničilo na 800 ukrajinských dronů",
-      "summary": "Ruská protivzdušná obrana podle starosty Moskvy Sergeje Sobjanina během pondělního večera a noci zničila zhruba 800 dronů mířících do Moskevské oblasti, což dočasně vedlo i…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-17T04:56:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/rusko-tvrdi-ze-u-moskvy-znicilo-na-800-ukrajinskych-dronu.A261117_054835_zahranicni_air",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -103,16 +133,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Dron vychýlil oblouk Krymského mostu a ochromil silniční dopravu",
-      "summary": "Ukrajinský dronový útok v pondělí poškodil oblouk Krymského mostu, který spojuje okupovaný poloostrov s ruskou pevninou. Silniční doprava na něm zůstala ochromená a na obou…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-16T20:34:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-rusko-valka-kyrm-most-kercsky-utok.A261116_172305_zahranicni_dtt",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "„Dohoda bude vyžadovat náročná rozhodnutí.“ Kushner přesto v jednáních o míru vnímá pokrok",
       "summary": "Jednání s Ukrajinou a evropskými partnery dosáhla za uplynulý rok významného pokroku pro budoucnost Ukrajiny. Na síti X to napsal zvláštní vyslanec a zeť amerického…",
       "source": "Aktuálně.cz",
@@ -179,16 +199,6 @@
       "category": "domaci",
       "published_at": "2026-11-16T19:52:00+01:00",
       "url": "https://zpravy.aktualne.cz/domaci/kdyby-se-neco-stalo-babis-chce-izraelsky-stit-jeho-plan-ma-ale-nekolik-trhlin/r~aaa29f2025109f9c7dbaba5dca48ceec/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Kanadský premiér pohrozil Trumpovi. Obrátí se na čínské automobilky, pokud selžou jednání s USA",
-      "summary": "Kanada by mohla spolupracovat s čínskými automobilkami, pokud obchodní rozhovory s prezidentem Spojených států Donaldem Trumpem neumožní zachování integrovaného severoamerického automobilového průmyslu. V pondělí to…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-16T19:43:00+01:00",
-      "url": "https://zpravy.aktualne.cz/ekonomika/kanadsky-premier-pohrozil-trumpovi-obrati-se-na-cinu-pokud-selzou-jednani-s-usa/r~aaa29132f9c22198d78429ecc938f7b3/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -261,36 +271,6 @@
       "url": "https://www.ceskenoviny.cz/zpravy/putin-ohledne-ukrajiny-slevuje-rekl-trump/2902738",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
-    },
-    {
-      "title": "Babiš jedná v Izraeli, chce urychlit dodávky dalších systémů protivzdušné obrany",
-      "summary": "Premiér Andrej Babiš (ANO) zahájil v pondělí třídenní návštěvu Izraele, první den se setkal s premiérem Benjaminem Netanjahuem. Po jednání řekl premiér novinářům, že chce…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-16T15:06:45+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/babis-zahajil-navstevu-izraele-bude-jednat-o-protivzdusne-obrane-379666",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Klempíř chce nejprve probrat Evropský akt o svobodě médií, až pak poplatky za ČT a ČRo",
-      "summary": "Ministr kultury Oto Klempíř (za Motoristy) se domnívá, že jednání o změně financování České televize (ČT) a Českého rozhlasu (ČRo) by nemělo pokračovat, dokud poslanci…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-16T13:28:34+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/klempir-chce-nejprve-probrat-evropsky-akt-o-svobode-medii-az-pak-poplatky-za-ct-a-cro-379662",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Debatě o financování ČT a ČRo má předcházet diskuse o EMFA, domnívá se Klempíř",
-      "summary": "Ministr kultury Oto Klempíř (za Motoristy) se domnívá, že jednání o změně financování České televize (ČT) a Českého rozhlasu (ČRo) by nemělo pokračovat, dokud poslanci…",
-      "source": "Deník",
-      "category": "domaci",
-      "published_at": "2026-11-16T13:47:59+01:00",
-      "url": "https://www.denik.cz/cesko/debate-o-financovani-ct-a-cro-ma-predchazet-diskuse-o-emfa-domniva-se-klempir/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
     }
   ],
   "unavailable_sources": [],
@@ -301,8 +281,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
-      "selected": 6,
+      "candidates": 16,
+      "selected": 5,
       "free_articles_checked": 8
     },
     {
@@ -311,7 +291,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 18,
+      "candidates": 16,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -321,7 +301,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 19,
+      "candidates": 18,
       "selected": 5,
       "free_articles_checked": 8
     },
@@ -331,7 +311,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -361,9 +341,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
-      "selected": 4,
-      "free_articles_checked": 4
+      "candidates": 13,
+      "selected": 3,
+      "free_articles_checked": 3
     },
     {
       "name": "iDNES.cz",
@@ -391,7 +371,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 5,
+      "candidates": 6,
       "selected": 0,
       "free_articles_checked": 0
     },
