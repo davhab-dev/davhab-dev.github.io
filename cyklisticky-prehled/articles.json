@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T10:50:49.549438+00:00",
+  "updated": "2026-11-17T11:39:11.192205+00:00",
   "articles": [
     {
       "title": "Just seven weeks after launching, the new season-opening Canary Islands race has been called off",
@@ -1973,15 +1973,6 @@
       "published": "2026-11-03T08:00:00+00:00"
     },
     {
-      "title": "Raymon Vamok Base – spousta zábavy i v základu (unboxing)",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132066/raymon-vamok-base-spousta-zabavy-i-v-zakladu-unboxing.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-11-03"
-    },
-    {
       "title": "Giro d’Italia 2027 odhalilo trasu. Vrací se legendární Mortirolo, Gavia i Zoncolan",
       "summary": "",
       "url": "https://cyklorepublic.cz/clanky/01a1a184-2b5e-703e-8190-fa0bbe02a887/giro-ditalia-2027-odhalilo-trasu-vraci-se-legendarni-mortirolo-gavia-i-zoncolan",
@@ -3150,6 +3141,15 @@
       "lang": "CS",
       "category": "Cyklistika",
       "published": "2026-06-17"
+    },
+    {
+      "title": "Přilba Catlike Kompact´o II",
+      "summary": "",
+      "url": "https://cykl.cz/prilba-catlike-kompact-o-ii",
+      "source": "Cykl.cz",
+      "lang": "CS",
+      "category": "Technika",
+      "published": "2026-06-11"
     }
   ],
   "source_errors": [
