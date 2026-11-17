@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-17T22:59:57.166355+00:00",
+  "updated_at": "2026-11-17T23:55:56.144516+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Novým předsedou Knesetu se stal Eisenkotův spojenec Kahana",
+      "summary": "Novým předsedou izraelského parlamentu se stal Matan Kahana ze středové strany Jašar. Je spojencem Gadiho Eisenkota, kterého izraelský prezident pověřil sestavením vlády. Kahana získal 66…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-17T23:26:45+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/novym-predsedou-knesetu-se-stal-eisenkotuv-spojenec-kahana-379699",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Ředitelé Post Bellum Kroupa a Polovková podpořili nezávislá média a Ukrajinu",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
@@ -263,16 +273,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Hútíové ovládli severní pobřeží strategické úžiny Báb al-Mandab. Vládní protiofenziva neuspěla",
-      "summary": "Jemenští hútíové oznámili, že ovládli celé severní pobřeží strategické úžiny Báb al-Mandab, která představuje jednu z klíčových námořních tras světového obchodu. Vládním jednotkám se ani…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-17T10:55:12+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/hutiove-ovladli-severni-pobrezi-strategicke-uziny-bab-al-mandab-vladni-protiofenziva-neuspela-379682",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Zelenskyj potvrdil útok na Krymský most. Ukrajina se mstila za ruské údery",
       "summary": "Ukrajinský prezident Volodymyr Zelenskyj potvrdil noční útok na Krymský most, který spojuje ruskou pevninu s okupovaným poloostrovem Krym. Zelenskyj na síti X napsal, že úder…",
       "source": "Deník",
@@ -311,7 +311,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 18,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -371,7 +371,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 11,
       "selected": 6,
       "free_articles_checked": 6
     },
@@ -431,7 +431,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 2,
+      "candidates": 3,
       "selected": 0,
       "free_articles_checked": 0
     },
