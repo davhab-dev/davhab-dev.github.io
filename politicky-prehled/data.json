@@ -1,14 +1,134 @@
 {
-  "updated_at": "2026-11-17T13:17:03.919801+00:00",
+  "updated_at": "2026-11-17T14:59:47.915244+00:00",
   "window_hours": 24,
   "articles": [
     {
-      "title": "Šéf TOP 09 Havel označil Babišovu neúčast na Národní třídě za zbabělou pózu",
+      "title": "Muniční iniciativa zajišťuje Ukrajině přes 60 procent munice, uvedl Landovský",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-17T15:53:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/municni-iniciativa-zajistuje-ukrajine-pres-60-procent-munice-uvedl-landovsky/2903051",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Babiš nevyloučil spolupráci Eisenkota s Netanjahuem v nové izraelské vládě",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-17T15:42:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/babis-nevyloucil-spolupraci-eisenkota-s-netanjahuem-v-nove-izraelske-vlade/2903046",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Personální rošáda v armádě. Dvě důležité sekce dostanou nové šéfy",
+      "summary": "Brigádní generál Petr Šnajdárek nastoupí od ledna nadcházejícího roku do čela sekce rozvoje sil ministerstva obrany. Skončí ve funkci ředitele sekce komunikačních a informačních systémů,…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-17T15:37:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/personalni-rosada-v-armade-dve-dulezite-sekce-dostanou-nove-sefy/r~aaa29155f46b0bd81a95107b855b60bd/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Generál Šnajdárek od ledna povede sekci rozvoje sil ministerstva obrany, řekl Zůna",
+      "summary": "Brigádní generál Petr Šnajdárek nastoupí od ledna nadcházejícího roku do čela sekce rozvoje sil ministerstva obrany. Skončí ve funkci ředitele sekce komunikačních a informačních systémů,…",
+      "source": "ČT24",
       "category": "domaci",
-      "published_at": "2026-11-17T14:13:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/sef-top-09-havel-oznacil-babisovu-neucast-na-narodni-tride-za-zbabelou-pozu/2903026",
+      "published_at": "2026-11-17T14:32:07+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/general-snajdarek-od-ledna-povede-sekci-rozvoje-sil-ministerstva-obrany-rekl-zuna-379692",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Severní Makedonie překazila atentát v Řecku. Podezírá íránskou síť",
+      "summary": "Úřady v Severní Makedonii dnes uvedly, že překazily atentát na osobu v sousedním Řecku a rozbily síť spojenou s Íránem. Informovala o tom agentura AFP.",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-17T15:24:00+01:00",
+      "url": "https://www.denik.cz/evropa/severni-makedonie-prekazila-atentat-v-recku-podezira-iranskou-sit/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Šachy na ministerstvu obrany. Rozvoj sil povede generál Šnajdárek",
+      "summary": "Brigádní generál Petr Šnajdárek nastoupí od ledna nadcházejícího roku do čela sekce rozvoje sil ministerstva obrany. Skončí ve funkci ředitele sekce komunikačních a informačních systémů,…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-17T14:23:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/zuna-general-snajdarek-od-ledna-povede-sekci-rozvoje-sil-ministerstva-obrany.A261117_151705_domaci_aoc",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "V Srbsku poprvé zasedl nový parlament. Zástupce studentů vítaly stovky lidí",
+      "summary": "V Srbsku zasedl nový parlament, který vzešel z předčasných voleb z 25. října. Většinu v něm mají poslanci zvolení za studentské hnutí. Jsou mezi nimi…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-17T14:13:04+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/v-srbsku-poprve-zasedl-novy-parlament-zastupce-studentu-vitaly-stovky-lidi-379690",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "V Srbsku končí Vučičova vláda. Nový parlament ovládlo studentské hnutí",
+      "summary": "V Srbsku v úterý zasedl nový parlament, který vzešel z předčasných voleb z 25. října. Většinu v něm mají poslanci zvolení na kandidátce studentského hnutí,…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-17T15:09:43+01:00",
+      "url": "https://www.denik.cz/evropa/v-srbsku-konci-vucicova-vlada-novy-parlament-ovladlo-studentske-hnuti/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Překažený íránský atentát v zemi EU. Severní Makedonie oznámila odhalení sítě podezřelých",
+      "summary": "Úřady v Severní Makedonii v úterý uvedly, že překazily atentát na osobu v sousedním Řecku a rozbily síť spojenou s Íránem. Informovala o tom agentura…",
+      "source": "CNN Prima NEWS",
+      "category": "svet",
+      "published_at": "2026-11-17T15:01:53+01:00",
+      "url": "https://cnn.iprima.cz/prekazeny-iransky-atentat-v-zemi-eu-527360",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Jak Putin přebírá evropské podniky. Jejich peníze i výrobky míří armádě",
+      "summary": "Ruské pobočky evropských firem, nad nimiž převzal kontrolu Kreml, posílají miliardy rublů na podporu Putinovy armády. Peníze slouží k nákupu dronů a dalšího vybavení pro…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-17T14:00:00+00:00",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/jak-putin-prebira-evropske-podniky-jejich-penize-i-vyrobky-miri-armade.A261113_150211_eko-zahranicni_jla",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Trump pohrozil Íránu tvrdou odvetou za případný útok. Teherán obvinění odmítá",
+      "summary": "Pokud by Írán zaútočil na Washington, zaplatil by za to vysokou cenu, prohlásil v úterý americký prezident Donald Trump podle stanice CNN po příletu do…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-17T14:59:03+01:00",
+      "url": "https://www.denik.cz/svet/trump-pohrozil-iranu-tvrdou-odvetou-za-pripadny-utok-teheran-obvineni-odmita/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Chystali atentát v Evropě. Tajné služby odhalily síť napojenou na Írán",
+      "summary": "Úřady v Severní Makedonii v úterý uvedly, že překazily atentát na osobu v sousedním Řecku a rozbily síť spojenou s Íránem. Informovala o tom agentura…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-17T14:57:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/chystali-atentat-v-evrope-tajne-sluzby-odhalily-sit-napojenou-na-iran/r~aaa2920792a5e39fbb79cf68f3c00ea8/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Část Krymského mostu se zřítila do moře. Zablokovala námořní dopravu",
+      "summary": "Jedna ze silničních částí Krymského mostu se včetně oblouku po nočním ukrajinském zásahu zřítila do moře. Tvrdí to telegramový kanál Exilenova+ s tím, že to…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-17T13:53:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/krymsky-most-ukrajinsky-uder-cast-se-zritila-do-more.A261117_080055_zahranicni_lupr",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -17,8 +137,58 @@
       "summary": "Podle předsedy ODS Martina Kupky je v dnešní době připomínka 17. listopadu a sametové revoluce ještě důležitější než dříve. „Svoboda není jednou provždy vybojovaná, v…",
       "source": "iDNES.cz",
       "category": "domaci",
-      "published_at": "2026-11-17T13:03:00+00:00",
+      "published_at": "2026-11-17T13:52:00+00:00",
       "url": "https://www.idnes.cz/zpravy/domaci/vyroci-sametova-revoluce-narodni-trida-ods-kupka-vondra.A261117_121220_domaci_lupr",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Kosovský exprezident Thaçi dostal v Haagu 17 měsíců za ovlivňování svědků",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-17T14:47:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/kosovsky-exprezident-thaci-dostal-v-haagu-17-mesicu-za-ovlivnovani-svedku/2903032",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "První krok k sestavení vlády. V Srbsku zasedl nový parlament, většinu mají studenti",
+      "summary": "V Srbsku v úterý zasedl nový parlament, který vzešel z předčasných voleb z 25. října. Většinu v něm mají poslanci zvolení na kandidátce studentského hnutí.…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-17T13:45:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/srbsko-novy-parlament-prvni-zasedani-vetsinu-maji-studenti.A261117_140610_zahranicni_lupr",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Írán zaútočil na základnu USA v Bahrajnu. Můžou zaplatit vysokou cenu, hlásí Trump",
+      "summary": "Íránské revoluční gardy se přihlásily k dronovému útoku na radarový systém na americké letecké základně Šajch Ísa v Bahrajnu krátce poté, co v hlavním městě…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-17T13:42:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/iran-utok-drony-bahrajn-trump-usa-valka.A261117_140523_zahranicni_jhr",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Déšť a hrstka účastníků. Okamura při pietě v Ruzyni varoval před ztrátou demokracie",
+      "summary": "Zatímco na Národní třídě a dalších místech Prahy si lidé připomínají hlavně výročí sametové revoluce, v ruzyňských kasárnách se pozornost obrátila ještě o padesát let…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-17T13:26:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/tomio-okamura-ruzyne-kasarny-17-listopad-demokracie.A261117_123615_domaci_ikro",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Šéf TOP 09 Havel označil Babišovu neúčast na Národní třídě za zbabělou pózu",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-17T14:13:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/sef-top-09-havel-oznacil-babisovu-neucast-na-narodni-tride-za-zbabelou-pozu/2903026",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -53,82 +223,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Klempíř kritizuje pískot na Národní třídě. Původně tvrdil, že na oslavy dorazí",
-      "summary": "Ministr kultury Oto Klempíř (Motoristé sobě) na konci října v rozhovoru pro iDNES.cz tvrdil, že 17. listopadu dorazí k památníku na Národní třídě. Jenže tak…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-17T12:19:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/klempir-kritizuje-piskot-na-narodni-tride-puvodne-tvrdil-ze-na-oslavy-dorazi.A261117_124247_domaci_vank",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Přeplněná Národní třída tleskala hymně, pískalo se na ministry i prezidenta",
-      "summary": "Česko si v úterý připomíná 37 let od sametové revoluce. Centrem oslav se jako tradičně stala Praha a především Národní třída, kam od rána postupně…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-17T12:11:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/17-listopad-oslavy-akce-vystoupeni-politiku.A261116_085543_domaci_vank",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Před vládními kolegy dal přednost „vlastním“. Pak Plaga zkritizoval Klempíře",
       "summary": "Poměrně kritický byl na Národní třídě ministr školství Robert Plaga (za ANO). A to na adresu ministerstva kultury pod vedením Oty Klempíře (za Motoristy). Důvodem…",
       "source": "Aktuálně.cz",
       "category": "domaci",
       "published_at": "2026-11-17T13:05:00+01:00",
       "url": "https://zpravy.aktualne.cz/domaci/pred-vladnimi-kolegy-dal-prednost-vlastnim-pak-plaga-zkritizoval-klempire/r~aaa2971bd10492b86b15b81b542fa99a/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Zahraniční studenti se odvracejí od amerických univerzit. Školám vysychají příjmy",
-      "summary": "Politika Trumpovy administrativy již druhým rokem odrazuje zahraniční studenty od studia ve Spojených státech. Počet nově zapsaných letos na podzim opět poklesl, zjistil průzkum. Mezi…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-17T12:00:00+00:00",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/zahranicni-studenti-se-odvraceji-od-americkych-univerzit-skolam-vysychaji-prijmy.A261116_123224_eko-zahranicni_jadv",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Slovensko bude dál odebírat ruskou ropu. Sankce USA zatím nehrozí, tvrdí Bratislava",
-      "summary": "Slovensko bude moci dalších 120 dnů odebírat ruskou ropu a platit za ni bez rizika amerických sankcí, uvedlo slovenské ministerstvo hospodářství po jednáních ministryně Denisy…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-17T11:59:00+00:00",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/slovensko-bude-odebirat-ruskou-ropu-bez-rizika-sankci-usa.A261117_113442_eko-zahranicni_lupr",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Část Krymského mostu se zřítila do moře. Zablokovala námořní dopravu",
-      "summary": "Jedna ze silničních částí Krymského mostu se včetně oblouku po nočním ukrajinském zásahu zřítila do moře. Tvrdí to telegramový kanál Exilenova+ s tím, že to…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-17T11:45:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/krymsky-most-ukrajinsky-uder-cast-se-zritila-do-more.A261117_080055_zahranicni_lupr",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Studenti u Hlávkovy koleje tepali politiky. Zneužili pietu, čílí se Vondráček",
-      "summary": "Oslavy 17. listopadu u Hlávkovy koleje, kterým přihlížely asi tři stovky lidí, zasáhly do aktuální politiky. Předsedkyně vysokoškoláků kritizovala politickou reprezentaci, Evropská studentská unie apelovala…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-17T11:43:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/predsedkyne-vysokoskolaku-kritizovala-politiky-ti-mluvi-o-zneuziti-piety.A261117_072813_domaci_sahu",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Kimova návštěva u čínských hranic vyvolává otázky. Trump naznačuje setkání",
-      "summary": "Americký prezident Donald Trump naznačil, že v Číně by se mohl setkat se severokorejským vůdcem Kim Čong-unem. Podle něj ale záleží na Pekingu. Spekulace, že…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-17T11:36:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/cina-trump-usa-severni-korea-kim-cong-un.A261117_112328_zahranicni_jhr",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -193,92 +293,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Spojenci budou jednat s USA o přezkumu počtu amerických vojáků v Evropě",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-17T10:54:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/spojenci-budou-jednat-s-usa-o-prezkumu-poctu-americkych-vojaku-v-evrope/2902946",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Ukrajina zasáhla Krymský most. Část konstrukce se měla zřítit do moře",
-      "summary": "Jedna ze silničních částí Krymského mostu se včetně oblouku po nočním ukrajinském zásahu zřítila do moře. Tvrdí to telegramový kanál Exilenova+ s tím, že to…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-17T10:37:09+01:00",
-      "url": "https://www.denik.cz/evropa/ukrajina-zasahla-krymsky-most-cast-konstrukce-se-mela-zritit-do-more/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Havlův odkaz je živý i zde, říká korejský starosta. 17. listopad si připomíná i druhá strana světa",
-      "summary": "Svátek 17. listopadu si jako Den boje za svobodu a demokracii připomínají lidé především v Česku a na Slovensku. V úterý si na odkaz přední…",
-      "source": "CNN Prima NEWS",
-      "category": "svet",
-      "published_at": "2026-11-17T10:22:18+01:00",
-      "url": "https://cnn.iprima.cz/havluv-odkaz-je-dulezity-rika-korejsky-starosta-17-listopad-pripomenou-i-na-druhe-strane-sveta-527316",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Írán zaútočil drony na americkou základnu v Bahrajnu. Zemí otřásly výbuchy",
-      "summary": "Íránské revoluční gardy se v úterý přihlásily k dronovému útoku na americkou leteckou základnu Šajch Ísa v Bahrajnu krátce poté, co v hlavním městě Manámě…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-17T10:00:46+01:00",
-      "url": "https://www.denik.cz/svet/iran-zautocil-drony-na-americkou-zakladnu-v-bahrajnu-zemi-otrasly-vybuchy/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "V Bahrajnu zazněly výbuchy, Írán se přihlásil k útoku na americkou základnu",
-      "summary": "Íránské revoluční gardy se v úterý přihlásily k dronovému útoku na americkou leteckou základnu Šajch Ísa v Bahrajnu krátce poté, co v hlavním městě Manámě…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-17T09:26:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/v-bahrajnu-zaznely-vybuchy-iran-se-prihlasil-k-utoku-na-americkou-zakladnu/r~aaa29d09f8a4c9dd6f164a06f7f3cd0a/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "ON-LINE: Na Národní v Praze přišli zástupci vlády i opozice, některé vypískali",
-      "summary": "Občané České republiky si v úterý 17. listopadu připomínají události z let 1939 a 1989. Tradiční piety v Praze na Národní třídě se od rána…",
-      "source": "Deník",
-      "category": "domaci",
-      "published_at": "2026-11-17T09:16:54+01:00",
-      "url": "https://www.denik.cz/cesko/17-listopad-online-pieta-happening-vzpominky-akce/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Svoboda a demokracie nejsou samozřejmost, řekli politici ANO na Národní třídě",
       "summary": "Podle některých politiků vládního hnutí ANO je třeba připomínat, že svoboda a demokracie nejsou samozřejmostí. Řekli to dnes novinářům při pietě k výročí studentské demonstrace…",
       "source": "Deník",
       "category": "domaci",
       "published_at": "2026-11-17T09:00:20+01:00",
       "url": "https://www.denik.cz/cesko/svoboda-a-demokracie-nejsou-samozrejmost-rekli-politici-ano-na-narodni-tride/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Média: Část Krymského mostu se po zásahu střelou Flamingo zřítila do moře",
-      "summary": "Jedna ze silničních částí Krymského mostu se včetně oblouku po nočním ukrajinském zásahu zřítila do moře.",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-17T08:49:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/medie-cast-krymskeho-mostu-se-po-zasahu-strelou-flamingo-zritila-do-more/r~aaa297d7fa743194d0f97bb6a973db47/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Manžel Cichanouské se stal jejím kritikem, běloruskému režimu situace vyhovuje",
-      "summary": "Klíčová postava běloruské opozice z roku 2020 a politický vězeň Sjarhej Cichanouski se vrátil ke svým aktivitám na sociálních sítích. Už na nich nekritizuje pouze…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-17T07:00:00+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/manzel-cichanouske-se-stal-jejim-kritikem-beloruskemu-rezimu-situace-vyhovuje-379653",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -293,18 +313,8 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Ruská letadla narušila vzdušný prostor Japonska. Tokio vyslalo stíhačky",
-      "summary": "Dvě pravděpodobně ruská letadla v úterý narušila japonský vzdušný prostor u prefektury Fukuoka na jihozápadě země. Informovaly o tom agentury Kjódó a Reuters s odvoláním…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-17T07:20:01+01:00",
-      "url": "https://www.denik.cz/svet/ruska-letadla-narusila-vzdusny-prostor-japonska-tokio-vyslalo-stihacky/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Pavla vítal potlesk i pískot, Fialovi lidé říkali, ať se vrátí. Slaví se nejen na Národní",
-      "summary": "Lidé by si neměli idealizovat minulost a věřit, že před rokem 1989 bylo lépe. Novinářům to v úterý na Národní třídě řekl prezident Petr Pavel.…",
+      "summary": "Tisíce lidí si v úterý v Praze na Národní třídě připomínají výročí sametové revoluce, která v roce 1989 vyústila v pád komunistického režimu. Vzpomínkové akce…",
       "source": "Aktuálně.cz",
       "category": "domaci",
       "published_at": "2026-11-17T07:05:00+01:00",
@@ -321,8 +331,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
-      "selected": 5,
+      "candidates": 13,
+      "selected": 6,
       "free_articles_checked": 8
     },
     {
@@ -331,7 +341,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -342,7 +352,7 @@
       "feeds_total": 2,
       "status": "ok",
       "candidates": 25,
-      "selected": 6,
+      "selected": 8,
       "free_articles_checked": 8
     },
     {
@@ -351,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -371,9 +381,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
+      "candidates": 8,
       "selected": 5,
-      "free_articles_checked": 5
+      "free_articles_checked": 6
     },
     {
       "name": "Deník",
@@ -381,9 +391,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
-      "selected": 6,
-      "free_articles_checked": 6
+      "candidates": 15,
+      "selected": 5,
+      "free_articles_checked": 7
     },
     {
       "name": "iDNES.cz",
@@ -391,8 +401,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
-      "selected": 8,
+      "candidates": 18,
+      "selected": 7,
       "free_articles_checked": 8
     },
     {
@@ -403,7 +413,7 @@
       "status": "ok",
       "candidates": 11,
       "selected": 1,
-      "free_articles_checked": 1
+      "free_articles_checked": 2
     },
     {
       "name": "E15",
@@ -421,7 +431,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 7,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -431,7 +441,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 3,
+      "candidates": 4,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -441,7 +451,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 7,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -461,7 +471,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 11,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -471,7 +481,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 18,
+      "candidates": 19,
       "selected": 0,
       "free_articles_checked": 0
     }
