@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T08:11:20.221760+00:00",
+  "updated": "2026-11-17T09:28:50.527495+00:00",
   "articles": [
     {
       "title": "TEST: Avona Callis 32 – Když gravel přeroste do nové dimenze",
@@ -396,15 +396,6 @@
       "lang": "EN",
       "category": "Gravel",
       "published": "2026-11-14T07:00:00+00:00"
-    },
-    {
-      "title": "Jak na bikepacking: Chystáme se na první závod",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132093/jak-na-bikepacking-chystame-se-na-prvni-zavod.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "Gravel",
-      "published": "2026-11-14"
     },
     {
       "title": "Hladíková a Konwa ovládli v závěru Jičín a oba vedou také pořadí českého poháru v cyklokrosu",
@@ -3150,6 +3141,15 @@
       "lang": "CS",
       "category": "Gravel",
       "published": "2026-05-28"
+    },
+    {
+      "title": "Vylepšená bezdušová ochrana, Tannus",
+      "summary": "",
+      "url": "https://cykl.cz/vylepsena-bezdusova-ochrana-tannus",
+      "source": "Cykl.cz",
+      "lang": "CS",
+      "category": "Cyklistika",
+      "published": "2026-05-27"
     }
   ],
   "source_errors": [
