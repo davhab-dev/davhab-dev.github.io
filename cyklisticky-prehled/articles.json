@@ -1,6 +1,33 @@
 {
-  "updated": "2026-11-17T09:28:50.527495+00:00",
+  "updated": "2026-11-17T10:50:49.549438+00:00",
   "articles": [
+    {
+      "title": "Just seven weeks after launching, the new season-opening Canary Islands race has been called off",
+      "summary": "Organisers will work through next year to meet 'organisational, logistical, and safety conditions' to debut the event in 2028",
+      "url": "https://www.cyclingnews.com/pro-cycling/racing/just-seven-weeks-after-launching-the-new-season-opening-canary-islands-race-has-been-called-off/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-17T10:25:05+00:00"
+    },
+    {
+      "title": "'Our ambition is to build the fastest kit in the world' – Rapha returns to the WorldTour as racing kit supplier to Red Bull-Bora-Hansgrohe",
+      "summary": "British company had previously made racing kits for Team Sky, Canyon-SRAM, and EF Education",
+      "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/our-ambition-is-to-build-the-fastest-kit-in-the-world-rapha-returns-to-the-worldtour-as-racing-kit-supplier-to-red-bull-bora-hansgrohe/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-17T10:00:02+00:00"
+    },
+    {
+      "title": "\"We are ready to reset our image\" – Rapha returns to the WorldTour with Red Bull–BORA–hansgrohe after year of \"soul-searching\"",
+      "summary": "“We want to put Rapha back where it belongs,\" says chief product officer",
+      "url": "https://www.bikeradar.com/news/rapha-red-bull-bora-hansgrohe",
+      "source": "BikeRadar",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-17T10:00:00+00:00"
+    },
     {
       "title": "TEST: Avona Callis 32 – Když gravel přeroste do nové dimenze",
       "summary": "",
@@ -1946,6 +1973,15 @@
       "published": "2026-11-03T08:00:00+00:00"
     },
     {
+      "title": "Raymon Vamok Base – spousta zábavy i v základu (unboxing)",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132066/raymon-vamok-base-spousta-zabavy-i-v-zakladu-unboxing.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-03"
+    },
+    {
       "title": "Giro d’Italia 2027 odhalilo trasu. Vrací se legendární Mortirolo, Gavia i Zoncolan",
       "summary": "",
       "url": "https://cyklorepublic.cz/clanky/01a1a184-2b5e-703e-8190-fa0bbe02a887/giro-ditalia-2027-odhalilo-trasu-vraci-se-legendarni-mortirolo-gavia-i-zoncolan",
@@ -3114,42 +3150,6 @@
       "lang": "CS",
       "category": "Cyklistika",
       "published": "2026-06-17"
-    },
-    {
-      "title": "Přilba Catlike Kompact´o II",
-      "summary": "",
-      "url": "https://cykl.cz/prilba-catlike-kompact-o-ii",
-      "source": "Cykl.cz",
-      "lang": "CS",
-      "category": "Technika",
-      "published": "2026-06-11"
-    },
-    {
-      "title": "Každodenní batoh Ortlieb",
-      "summary": "",
-      "url": "https://cykl.cz/kazdodenni-batoh-ortlieb-5162",
-      "source": "Cykl.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
-      "published": "2026-06-03"
-    },
-    {
-      "title": "Nový Specialized Crux 5: Aerodynamický gravel inspirovaný Tarmacem SL8",
-      "summary": "",
-      "url": "https://cyklorepublic.cz/clanky/019e704f-655b-7354-8b37-f31725a4a72f/novy-specialized-crux-5-aerodynamicky-gravel-inspirovany-tarmacem-sl8",
-      "source": "CykloRepublic.cz",
-      "lang": "CS",
-      "category": "Gravel",
-      "published": "2026-05-28"
-    },
-    {
-      "title": "Vylepšená bezdušová ochrana, Tannus",
-      "summary": "",
-      "url": "https://cykl.cz/vylepsena-bezdusova-ochrana-tannus",
-      "source": "Cykl.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
-      "published": "2026-05-27"
     }
   ],
   "source_errors": [
