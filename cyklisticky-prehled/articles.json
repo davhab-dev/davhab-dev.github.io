@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-17T15:17:34.392039+00:00",
+  "updated": "2026-11-17T16:23:27.510053+00:00",
   "articles": [
+    {
+      "title": "I'm a pro mechanic and these are the 5 bike-cleaning products you need to own",
+      "summary": "These are the five items every rider needs to own to care for their bike properly post-ride",
+      "url": "https://www.bikeradar.com/advice/buyers-guides/bike-cleaning-products-you-need-to-own",
+      "source": "BikeRadar MTB",
+      "lang": "EN",
+      "category": "Servis",
+      "published": "2026-11-17T16:00:00+00:00"
+    },
+    {
+      "title": "'A special place in my heart' – Alexey Lutsenko returns home to XDS-Astana for a new role after racing retirement",
+      "summary": "Kazakhstani recently called time on his 14-year career and joins former team as a head coach",
+      "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/a-special-place-in-my-heart-alexey-lutsenko-returns-home-to-xds-astana-for-a-new-role-after-racing-retirement/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Technika",
+      "published": "2026-11-17T15:28:03+00:00"
+    },
     {
       "title": "Get up to 40% off top Hunt wheelsets at the guaranteed best Black Friday price",
       "summary": "Hunt’s Black Friday price guarantee lets you upgrade wheels now without missing out on any bigger discounts later",
@@ -450,6 +468,15 @@
       "lang": "EN",
       "category": "Gravel",
       "published": "2026-11-14T07:00:00+00:00"
+    },
+    {
+      "title": "Jak na bikepacking: Chystáme se na první závod",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132093/jak-na-bikepacking-chystame-se-na-prvni-zavod.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "Gravel",
+      "published": "2026-11-14"
     },
     {
       "title": "Hladíková a Konwa ovládli v závěru Jičín a oba vedou také pořadí českého poháru v cyklokrosu",
@@ -1181,6 +1208,15 @@
       "published": "2026-11-10T09:27:16+00:00"
     },
     {
+      "title": "Vrchařská prověrka, elektrokolo Touroll S2",
+      "summary": "",
+      "url": "https://cykl.cz/vrcharska-proverka-elektrokolo-touroll-s2",
+      "source": "Cykl.cz",
+      "lang": "CS",
+      "category": "Technika",
+      "published": "2026-11-10"
+    },
+    {
       "title": "Gravel v Česku a v zahraničí: Dvě naprosto odlišné disciplíny",
       "summary": "",
       "url": "https://www.mtbiker.cz/clanky/132086/gravel-v-cesku-a-v-zahranici-dve-naprosto-odlisne-discipliny.html",
@@ -1196,15 +1232,6 @@
       "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Cyklistika",
-      "published": "2026-11-10"
-    },
-    {
-      "title": "Vrchařská prověrka, elektrokolo Touroll S2",
-      "summary": "",
-      "url": "https://cykl.cz/vrcharska-proverka-elektrokolo-touroll-s2",
-      "source": "Cykl.cz",
-      "lang": "CS",
-      "category": "Technika",
       "published": "2026-11-10"
     },
     {
@@ -2921,7 +2948,7 @@
       "title": "How to pump up a bike tyre in six simple steps | Plus, everything you need to know about pumps, valves, pressure and more",
       "summary": "The ins and outs of getting your tyres pumped and primed",
       "url": "https://www.bikeradar.com/advice/workshop/how-to-pump-up-a-bike-tyre",
-      "source": "BikeRadar MTB",
+      "source": "BikeRadar Gravel",
       "lang": "EN",
       "category": "Technika",
       "published": "2026-10-09T10:00:00+00:00"
@@ -3062,19 +3089,19 @@
       "published": "2026-09-24T22:45:49+00:00"
     },
     {
-      "title": "Jen sto kusů. Specialized představil exkluzivní repliku kola Remca Evenepoela",
+      "title": "Dvakrát Double Black",
       "summary": "",
-      "url": "https://cyklorepublic.cz/clanky/01a0ca0e-c934-722a-a187-ab090b7e9792/zlaty-sberatelsky-skvost-specialized-posila-do-prodeje-repliku-remcova-kola-v-limitovane-edici",
-      "source": "CykloRepublic.cz",
+      "url": "https://cykl.cz/dvakrat-double-black",
+      "source": "Cykl.cz",
       "lang": "CS",
       "category": "Cyklistika",
       "published": "2026-09-22"
     },
     {
-      "title": "Dvakrát Double Black",
+      "title": "Jen sto kusů. Specialized představil exkluzivní repliku kola Remca Evenepoela",
       "summary": "",
-      "url": "https://cykl.cz/dvakrat-double-black",
-      "source": "Cykl.cz",
+      "url": "https://cyklorepublic.cz/clanky/01a0ca0e-c934-722a-a187-ab090b7e9792/zlaty-sberatelsky-skvost-specialized-posila-do-prodeje-repliku-remcova-kola-v-limitovane-edici",
+      "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Cyklistika",
       "published": "2026-09-22"
@@ -3123,37 +3150,9 @@
       "lang": "CS",
       "category": "Cyklistika",
       "published": "2026-09-02T20:35:47+00:00"
-    },
-    {
-      "title": "Tom Pidcock znovu mistrem světa v XCO! Rozhodl famózní útok z hloubi pole",
-      "summary": "",
-      "url": "https://cyklorepublic.cz/clanky/01a05422-b801-71ef-82c2-2864a1b3c0bc/tom-pidcock-znovu-mistrem-sveta-v-xco-z-34-mista-predvedl-neuveritelnou-stihaci-jizdu",
-      "source": "CykloRepublic.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
-      "published": "2026-08-30"
-    },
-    {
-      "title": "Hvězda formule 1 míří do Hlinska. Bottas pojede Světovou sérii v gravelu",
-      "summary": "",
-      "url": "https://cyklorepublic.cz/clanky/019f92a9-307c-7063-8ff0-8dd05b5d31da/hvezda-formule-1-miri-do-hlinska-bottas-pojede-svetovou-serii-v-gravelu",
-      "source": "CykloRepublic.cz",
-      "lang": "CS",
-      "category": "Gravel",
-      "published": "2026-07-24"
-    },
-    {
-      "title": "Schladming na kole: Užijte si nejen bikepark a nezapomeňte na Summer Card!",
-      "summary": "Do rakouského Schladmingu se rád vracím v zimě i v létě. Teď naposledy jsem vzal s sebou i kamery a",
-      "url": "https://www.trailhunter.cz/schladming-bikepark-summer-card/",
-      "source": "TrailHunter.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-07-21T20:31:30+00:00"
     }
   ],
   "source_errors": [
-    "NaKole.cz: HTTP Error 403: Forbidden",
-    "Cykl.cz: <urlopen error [Errno 111] Connection refused>"
+    "NaKole.cz: HTTP Error 403: Forbidden"
   ]
 }
