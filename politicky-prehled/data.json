@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-11-17T17:11:53.281104+00:00",
+  "updated_at": "2026-11-17T18:12:36.530651+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Lidé si připomněli sametovou revoluci, opozice vyzvala vládu k lepší komunikaci",
+      "summary": "Tisíce lidí si 17. listopadu v Praze na Národní třídě připomněly výročí sametové revoluce, která v roce 1989 vyústila v pád komunistického režimu. Piety a…",
+      "source": "Deník",
+      "category": "domaci",
+      "published_at": "2026-11-17T19:00:00+01:00",
+      "url": "https://www.denik.cz/cesko/lide-si-pripomneli-sametovou-revoluci-opozice-vyzvala-vladu-k-lepsi-komunikaci/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Turek kritizoval dnešní oslavy 17. listopadu na Národní třídě",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-17T18:44:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/turek-kritizoval-dnesni-oslavy-17-listopadu-na-narodni-tride/2903119",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Na Národní třídě se tleskalo hymně a pískalo na ministry i Pavla. Oslavy vrcholí",
+      "summary": "Česko si v úterý připomíná 37 let od sametové revoluce. Centrem oslav se jako tradičně stala Praha a především Národní třída, kam od rána postupně…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-17T17:40:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/17-listopad-oslavy-akce-vystoupeni-politiku.A261116_085543_domaci_vank",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Zelenskyj žádá spojence o střely Patriot. Američané kritizují údery v Rusku",
+      "summary": "Ukrajinský prezident Volodymyr Zelenskyj v úterý vyzval západní spojence, aby Ukrajině poskytli střely do protivzdušných systémů Patriot ze svých vlastních zásob. Tyto rakety by podle…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-17T17:19:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/zelenskyj-strely-patriot-ukrajina-nato-udsg-valka-na-ukrajine.A261117_173551_zahranicni_aya",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Zelenskyj žádá spojence o střely Patriot, neměly by dle něj zůstávat ve skladech",
       "summary": "Ukrajinský prezident Volodymyr Zelenskyj vyzval západní spojence, aby Ukrajině poskytli střely do protivzdušných systémů Patriot ze svých zásob. Tyto střely by podle něj neměly zůstávat…",
@@ -9,16 +49,6 @@
       "category": "svet",
       "published_at": "2026-11-17T16:53:15+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/zelenskyj-zada-spojence-o-strely-patriot-nemely-by-dle-nej-zustavat-ve-skladech-379695",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Přeplněná Národní třída tleskala hymně, pískalo se na ministry i prezidenta",
-      "summary": "Česko si v úterý připomíná 37 let od sametové revoluce. Centrem oslav se jako tradičně stala Praha a především Národní třída, kam od rána postupně…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-17T16:52:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/17-listopad-oslavy-akce-vystoupeni-politiku.A261116_085543_domaci_vank",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -183,16 +213,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Část Krymského mostu se zřítila do moře. Zablokovala námořní dopravu",
-      "summary": "Jedna ze silničních částí Krymského mostu se včetně oblouku po nočním ukrajinském zásahu zřítila do moře. Tvrdí to telegramový kanál Exilenova+ s tím, že to…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-17T13:53:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/krymsky-most-ukrajinsky-uder-cast-se-zritila-do-more.A261117_080055_zahranicni_lupr",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Kosovský exprezident Thaçi dostal v Haagu 17 měsíců za ovlivňování svědků",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -253,16 +273,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Slovenský ministr zahraničí obhajoval kontakty Bratislavy s Moskvou",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-17T12:08:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/slovensky-ministr-zahranici-obhajoval-kontakty-bratislavy-s-moskvou/2902981",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Hútíové ovládli severní pobřeží strategické úžiny Báb al-Mandab. Vládní protiofenziva neuspěla",
       "summary": "Jemenští hútíové oznámili, že ovládli celé severní pobřeží strategické úžiny Báb al-Mandab, která představuje jednu z klíčových námořních tras světového obchodu. Vládním jednotkám se ani…",
       "source": "ČT24",
@@ -293,12 +303,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Svoboda a demokracie nejsou samozřejmost, řekli politici ANO na Národní třídě",
-      "summary": "Podle některých politiků vládního hnutí ANO je třeba připomínat, že svoboda a demokracie nejsou samozřejmostí. Řekli to dnes novinářům při pietě k výročí studentské demonstrace…",
-      "source": "Deník",
+      "title": "Pavla vítal potlesk i pískot, Fialovi lidé říkali, ať se vrátí. Slaví se nejen na Národní",
+      "summary": "Tisíce lidí si v úterý v Praze na Národní třídě připomínají výročí sametové revoluce, která v roce 1989 vyústila v pád komunistického režimu. Vzpomínkové akce…",
+      "source": "Aktuálně.cz",
       "category": "domaci",
-      "published_at": "2026-11-17T09:00:20+01:00",
-      "url": "https://www.denik.cz/cesko/svoboda-a-demokracie-nejsou-samozrejmost-rekli-politici-ano-na-narodni-tride/",
+      "published_at": "2026-11-17T07:05:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/zacinaji-oslavy-17-listopadu-na-narodni-letos-bude-chybet-premier/r~aaa29bc84cc2b51b541c48f803082428/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     }
@@ -321,7 +331,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 18,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -351,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -361,9 +371,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
-      "selected": 5,
-      "free_articles_checked": 6
+      "candidates": 8,
+      "selected": 6,
+      "free_articles_checked": 7
     },
     {
       "name": "Deník",
@@ -381,7 +391,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 16,
       "selected": 7,
       "free_articles_checked": 8
     },
@@ -391,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 8,
       "selected": 2,
       "free_articles_checked": 2
     },
@@ -441,7 +451,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 0,
+      "candidates": 1,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -451,7 +461,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 11,
       "selected": 0,
       "free_articles_checked": 0
     },

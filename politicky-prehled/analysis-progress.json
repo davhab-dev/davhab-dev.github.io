@@ -3,12 +3,24 @@
   "current": null,
   "queue": [
     [
-      "https://ct24.ceskatelevize.cz/clanek/svet/zelenskyj-zada-spojence-o-strely-patriot-nemely-by-dle-nej-zustavat-ve-skladech-379695",
-      "Zelenskyj žádá spojence o střely Patriot, neměly by dle něj zůstávat ve skladech"
+      "https://www.denik.cz/cesko/lide-si-pripomneli-sametovou-revoluci-opozice-vyzvala-vladu-k-lepsi-komunikaci/",
+      "Lidé si připomněli sametovou revoluci, opozice vyzvala vládu k lepší komunikaci"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/turek-kritizoval-dnesni-oslavy-17-listopadu-na-narodni-tride/2903119",
+      "Turek kritizoval dnešní oslavy 17. listopadu na Národní třídě"
     ],
     [
       "https://www.idnes.cz/zpravy/domaci/17-listopad-oslavy-akce-vystoupeni-politiku.A261116_085543_domaci_vank",
-      "Přeplněná Národní třída tleskala hymně, pískalo se na ministry i prezidenta"
+      "Na Národní třídě se tleskalo hymně a pískalo na ministry i Pavla. Oslavy vrcholí"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/zelenskyj-strely-patriot-ukrajina-nato-udsg-valka-na-ukrajine.A261117_173551_zahranicni_aya",
+      "Zelenskyj žádá spojence o střely Patriot. Američané kritizují údery v Rusku"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/zelenskyj-zada-spojence-o-strely-patriot-nemely-by-dle-nej-zustavat-ve-skladech-379695",
+      "Zelenskyj žádá spojence o střely Patriot, neměly by dle něj zůstávat ve skladech"
     ],
     [
       "https://www.idnes.cz/zpravy/domaci/symbol-svobody-ci-ztrata-suverenity-na-narodni-tride-se-stretly-odlisne-nazory.A261117_122643_domaci_meli",
@@ -75,10 +87,6 @@
       "Chystali atentát v Evropě. Tajné služby odhalily síť napojenou na Írán"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/krymsky-most-ukrajinsky-uder-cast-se-zritila-do-more.A261117_080055_zahranicni_lupr",
-      "Část Krymského mostu se zřítila do moře. Zablokovala námořní dopravu"
-    ],
-    [
       "https://www.ceskenoviny.cz/zpravy/kosovsky-exprezident-thaci-dostal-v-haagu-17-mesicu-za-ovlivnovani-svedku/2903032",
       "Kosovský exprezident Thaçi dostal v Haagu 17 měsíců za ovlivňování svědků"
     ],
@@ -103,10 +111,6 @@
       "Před vládními kolegy dal přednost „vlastním“. Pak Plaga zkritizoval Klempíře"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/slovensky-ministr-zahranici-obhajoval-kontakty-bratislavy-s-moskvou/2902981",
-      "Slovenský ministr zahraničí obhajoval kontakty Bratislavy s Moskvou"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/svet/hutiove-ovladli-severni-pobrezi-strategicke-uziny-bab-al-mandab-vladni-protiofenziva-neuspela-379682",
       "Hútíové ovládli severní pobřeží strategické úžiny Báb al-Mandab. Vládní protiofenziva neuspěla"
     ],
@@ -119,18 +123,18 @@
       "Havlův odkaz je živý i zde, říká korejský starosta. 17. listopad si připomíná i druhá strana světa"
     ],
     [
-      "https://www.denik.cz/cesko/svoboda-a-demokracie-nejsou-samozrejmost-rekli-politici-ano-na-narodni-tride/",
-      "Svoboda a demokracie nejsou samozřejmost, řekli politici ANO na Národní třídě"
+      "https://zpravy.aktualne.cz/domaci/zacinaji-oslavy-17-listopadu-na-narodni-letos-bude-chybet-premier/r~aaa29bc84cc2b51b541c48f803082428/",
+      "Pavla vítal potlesk i pískot, Fialovi lidé říkali, ať se vrátí. Slaví se nejen na Národní"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 30,
+    "initial_pending": 31,
     "completed": [],
     "deferred": [],
-    "remaining": 30
+    "remaining": 31
   },
   "samples_seconds": [
     51.274763,
