@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T05:30:55.161320+00:00",
+  "updated": "2026-11-18T06:55:36.042771+00:00",
   "articles": [
     {
       "title": "Shimano EP810 – Lehčí, silnější a chytřejší! Bude to stačit?",
@@ -3107,6 +3107,15 @@
       "published": "2026-09-22"
     },
     {
+      "title": "Jen sto kusů. Specialized představil exkluzivní repliku kola Remca Evenepoela",
+      "summary": "",
+      "url": "https://cyklorepublic.cz/clanky/01a0ca0e-c934-722a-a187-ab090b7e9792/zlaty-sberatelsky-skvost-specialized-posila-do-prodeje-repliku-remcova-kola-v-limitovane-edici",
+      "source": "CykloRepublic.cz",
+      "lang": "CS",
+      "category": "Cyklistika",
+      "published": "2026-09-22"
+    },
+    {
       "title": "🚴 Parenzana: 120 kilometrů po bývalé úzkokolejce třemi státy – z Itálie přes Slovinsko až do Chorvatska 🇮🇹🇸🇮🇭🇷",
       "summary": "Máte rádi bývalé železniční tratě proměněné v cyklostezky? Já jich už projel pěknou řádku – Varhany, Bockl-Radweg, Cottura nad Terstem – ale tahle je jiná liga. Parenzana totiž nespojuje dvě města. Spojuje tři státy, moř",
       "url": "https://cyklocestovatel.cz/parenzana/",
@@ -3125,35 +3134,25 @@
       "published": "2026-09-15T19:43:58+00:00"
     },
     {
-      "title": "Schladming na kole: Užijte si nejen bikepark a nezapomeňte na Summer Card!",
-      "summary": "Do rakouského Schladmingu se rád vracím v zimě i v létě. Teď naposledy jsem vzal s sebou i kamery a",
-      "url": "https://www.trailhunter.cz/schladming-bikepark-summer-card/",
-      "source": "TrailHunter.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-07-21T20:31:30+00:00"
-    },
-    {
-      "title": "Elektro-skládačka Touroll S2",
+      "title": "Nino Schurter hlásí vážné zranění. Švýcarský fenomén těžce havaroval na koloběžce",
       "summary": "",
-      "url": "https://cykl.cz/elektro-skladacka-touroll-s2-5167",
-      "source": "Cykl.cz",
+      "url": "https://cyklorepublic.cz/clanky/01a07d1a-fb56-7340-a8ca-ae7364693252/nino-schurter-hlasi-vazne-zraneni-svycarsky-fenomen-tezce-havaroval-na-kolobezce",
+      "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Cyklistika",
-      "published": "2026-07-06"
+      "published": "2026-09-07"
     },
     {
-      "title": "Nexelo City, přilba nejen do města",
+      "title": "Český pohár MTB zná své vítěze. Celkový triumf slaví Zatloukal a Tvarůžková",
       "summary": "",
-      "url": "https://cykl.cz/nexelo-city-prilba-nejen-do-mesta",
-      "source": "Cykl.cz",
+      "url": "https://cyklorepublic.cz/clanky/01a07593-93a4-7079-8738-b156711129ee/cesky-pohar-mtb-zna-sve-viteze-celkovy-triumf-slavi-zatloukal-a-tvaruzkova",
+      "source": "CykloRepublic.cz",
       "lang": "CS",
-      "category": "Technika",
-      "published": "2026-07-01"
+      "category": "Cyklistika",
+      "published": "2026-09-06"
     }
   ],
   "source_errors": [
-    "NaKole.cz: HTTP Error 403: Forbidden",
-    "CykloRepublic.cz: <urlopen error [Errno 101] Network is unreachable>"
+    "NaKole.cz: HTTP Error 403: Forbidden"
   ]
 }
