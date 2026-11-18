@@ -3,6 +3,18 @@
   "current": null,
   "queue": [
     [
+      "https://www.ceskenoviny.cz/zpravy/prezident-petr-pavel-zahaji-navstevu-moravskoslezskeho-a-olomouckeho-kraje/2903722",
+      "Prezident Petr Pavel zahájí návštěvu Moravskoslezského a Olomouckého kraje"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/vlada-projedna-rust-nahrad-prijmu-po-urazu-v-praci-ci-sluzbe-a-nemoci-z-povolani/2902503",
+      "Vláda projedná růst náhrad příjmu po úrazu v práci či službě a nemoci z povolání"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/senat-rozhodne-o-svem-povolebnim-usporadani-vcetne-volby-vedeni-komory/2903719",
+      "Senát rozhodne o svém povolebním uspořádání včetně volby vedení komory"
+    ],
+    [
       "https://ct24.ceskatelevize.cz/clanek/svet/ukrajinske-udery-na-ruske-rafinerie-vyrazne-snizily-objem-zpracovani-ropy-pise-reuters-379739",
       "Ukrajinské údery na ruské rafinerie výrazně snížily objem zpracování ropy, píše Reuters"
     ],
@@ -103,26 +115,18 @@
       "Na Turka a Macinku by mohl mít dopad jen betonový panel, Letná těžko, říká Sokol"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/primatorem-chomutova-zvolili-zastupitele-radka-vysina-ano/2903257",
-      "Primátorem Chomutova zvolili zastupitelé Radka Vyšína (ANO)"
-    ],
-    [
       "https://zpravy.aktualne.cz/domaci/znovu-k-urnam-senatni-volby-na-zdarsku-se-budou-opakovat-soud-zjistil-pochybeni/r~aaa292fe450069ba57a9c7a41a5b6400/",
       "Měl dostat aspoň o dva hlasy více. Soud nařídil opakování supertěsné volby"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/senatni-volby-na-zdarsku-se-zopakuji-zucastni-se-cerny-klement-i-smarda/2903236",
-      "Senátní volby na Žďársku se zopakují, zúčastní se Černý, Klement i Šmarda"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 28,
+    "initial_pending": 29,
     "completed": [],
     "deferred": [],
-    "remaining": 28
+    "remaining": 29
   },
   "samples_seconds": [
     51.274763,
