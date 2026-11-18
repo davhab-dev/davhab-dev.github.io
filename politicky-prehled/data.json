@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-18T01:25:12.990466+00:00",
+  "updated_at": "2026-11-18T02:58:23.802043+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Policie při podzimních protestech ve Francii zadržela na 15 tisíc lidí",
+      "summary": "Francouzská policie při podzimních protestech zadržela zhruba 15.000 lidí. Podle agentury AFP to uvedl v úterý ministr spravedlnosti Gérald Darmanin. Zhruba polovina zadržených připadá na…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-18T02:27:13+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/policie-pri-podzimnich-protestech-ve-francii-zadrzela-na-15-tisic-lidi-379700",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Novým předsedou Knesetu se stal Eisenkotův spojenec Kahana",
       "summary": "Novým předsedou izraelského parlamentu se stal Matan Kahana ze středové strany Jašar. Je spojencem Gadiho Eisenkota, kterého izraelský prezident pověřil sestavením vlády. Kahana získal 66…",
@@ -209,16 +219,6 @@
       "category": "svet",
       "published_at": "2026-11-17T15:24:00+01:00",
       "url": "https://www.denik.cz/evropa/severni-makedonie-prekazila-atentat-v-recku-podezira-iranskou-sit/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "V Srbsku poprvé zasedl nový parlament. Zástupce studentů vítaly stovky lidí",
-      "summary": "V Srbsku zasedl nový parlament, který vzešel z předčasných voleb z 25. října. Většinu v něm mají poslanci zvolení za studentské hnutí. Jsou mezi nimi…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-17T14:13:04+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/v-srbsku-poprve-zasedl-novy-parlament-zastupce-studentu-vitaly-stovky-lidi-379690",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },

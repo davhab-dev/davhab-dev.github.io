@@ -1,0 +1,459 @@
+{
+  "updated_at": "2026-11-18T02:58:23.802043+00:00",
+  "window_hours": 24,
+  "articles": [
+    {
+      "title": "Policie při podzimních protestech ve Francii zadržela na 15 tisíc lidí",
+      "summary": "Francouzská policie při podzimních protestech zadržela zhruba 15.000 lidí. Podle agentury AFP to uvedl v úterý ministr spravedlnosti Gérald Darmanin. Zhruba polovina zadržených připadá na…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-18T02:27:13+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/policie-pri-podzimnich-protestech-ve-francii-zadrzela-na-15-tisic-lidi-379700",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Novým předsedou Knesetu se stal Eisenkotův spojenec Kahana",
+      "summary": "Novým předsedou izraelského parlamentu se stal Matan Kahana ze středové strany Jašar. Je spojencem Gadiho Eisenkota, kterého izraelský prezident pověřil sestavením vlády. Kahana získal 66…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-17T23:26:45+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/novym-predsedou-knesetu-se-stal-eisenkotuv-spojenec-kahana-379699",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Ředitelé Post Bellum Kroupa a Polovková podpořili nezávislá média a Ukrajinu",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-17T22:49:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/reditele-post-bellum-kroupa-a-polovkova-podporili-nezavisla-media-a-ukrajinu/2903194",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Lidé si připomněli sametovou revoluci, opozice vyzvala vládu k lepší komunikaci",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-17T22:45:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/-lide-si-pripomneli-sametovou-revoluci-opozice-vyzvala-vladu-k-lepsi-komunikaci/2902848",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Vyrazili na ryby, skončili s popáleninami. Američany žalují kvůli útoku dronu",
+      "summary": "Šestnáct ekvádorských rybářů podalo v pondělí u soudu v Pensylvánii žalobu na americkou vládu kvůli útoku dronu, který letos v březnu způsobil požár na jejich…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-17T22:39:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/vyrazili-na-ryby-skoncili-s-popaleninami-americany-zaluji-kvuli-utoku-dronu/r~aaa298e3cc64cffb3aba1ebc04bfda1d/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Na Národní třídě se tleskalo i pískalo. Oslavy vrcholily na Václavském náměstí",
+      "summary": "Česko si v úterý připomíná 37 let od sametové revoluce. Centrem oslav se jako tradičně stala Praha a především Národní třída, kam od rána postupně…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-17T21:02:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/17-listopad-oslavy-akce-vystoupeni-politiku.A261116_085543_domaci_vank",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Macinka žádá unijní ministry, aby nedávali víza ruským hokejistům",
+      "summary": "Ministr zahraničí Petr Macinka (Motoristé) požádal unijní šéfy diplomacie, aby ruským hokejistům a hokejistkám neudělovali víza, která by jim umožnila účast na sportovních turnajích. Uvedl…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-17T20:25:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/petr-macinka-rusko-hokej-hokejisti-sportovni-turnaje.A261117_195359_domaci_aya",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Fico čelil protestům na výročí sametové revoluce. Do ulic vyšly desetitisíce lidí",
+      "summary": "Dav lidí na opoziční demonstraci v Bratislavě v úterý provolával hesla namířená proti premiérovi Robertovi Ficovi i jeho straně Směr-sociální demokracie. Podle organizátorů přišlo téměř…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-17T20:29:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/fico-celil-protestum-na-vyroci-sametove-revoluce-do-ulic-vysly-desetitisice-lidi/r~aaa298cd431eb9365cbed72e47eba7a1/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "NATO chce obnovit systém Starshield, Ukrajina však stále bojuje s výpadky",
+      "summary": "Generální tajemník NATO Mark Rutte v úterý uvedl, že příslušné strany pracují na tom, aby byl satelitní systém Starshield, který Ukrajina využívá ke komunikaci na…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-17T19:17:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/valka-na-ukrajine-starshield-ukrajina-zelenskyj.A261117_155204_zahranicni_aya",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Zelenskyj žádá spojence o střely Patriot. Američané kritizují údery v Rusku",
+      "summary": "Ukrajinský prezident Volodymyr Zelenskyj v úterý vyzval západní spojence, aby Ukrajině poskytli střely do protivzdušných systémů Patriot ze svých vlastních zásob. Tyto rakety by podle…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-17T19:16:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/zelenskyj-strely-patriot-ukrajina-nato-udsg-valka-na-ukrajine.A261117_173551_zahranicni_aya",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Šéfmotorista za sebe na Národní třídu poslal jen mluvčího",
+      "summary": "Českou diplomacii na Národní třídě letos zastupoval poněkud netradiční vyslanec. Věnec za ministerstvo zahraničí přišel položit jeho tiskový mluvčí Adam Čörgő. Žádný z náměstků ani…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-17T20:14:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/za-macinkuv-resort-dorazil-jen-tiskovy-mluvci-na-narodni-polozil-venec/r~aaa292c37ce361c5c73cf070759e620f/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Tři scénáře pro pokračování Trumpovy války. Rychlé řešení nepřinesou, tvrdí analytici",
+      "summary": "Válka s Íránem si již vyžádala 15 mrtvých a více než 800 zraněných amerických vojáků. Washington utratil desítky miliard dolarů a konflikt nadále pokračuje. Spojené…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-17T19:56:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/analytici-vidi-pro-usa-v-iranu-tri-cesty-rychle-reseni-ale-neprinesou/r~aaa2986e9ef9b2d8237e4cc3656061a8/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Žádné výjimky pro ruské hokejisty. Macinka obeslal evropské ministry",
+      "summary": "Ministr zahraničí Petr Macinka (Motoristé) požádal unijní šéfy diplomacie, aby ruským hokejistům a hokejistkám neudělovali víza, která by jim umožnila účast na sportovních turnajích. Řekl…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-17T19:45:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/zadne-vyjimky-pro-ruske-hokejisty-macinka-obeslal-evropske-ministry/r~aaa29b3f13537d1e85c57c9a6143a609/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "„Organizovaná řada aktivistů,“ kritizuje Turek oslavy 17. listopadu na Národní třídě",
+      "summary": "Poslanec za Motoristy Filip Turek na sociálních sítích vyzval veřejnost, aby si úterní výročí 17. listopadu nenechala ukrást „aktivistickými řvouny“. Oslavy na Národní třídě označil…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-17T19:13:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/organizovana-rada-aktivistu-kritizuje-turek-oslavy-17-listopadu-na-narodni-tride/r~aaa298869b79a80e0d5178505c69aed9/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Zelenskyj žádá spojence o střely Patriot, neměly by dle něj zůstávat ve skladech",
+      "summary": "Ukrajinský prezident Volodymyr Zelenskyj vyzval západní spojence, aby Ukrajině poskytli střely do protivzdušných systémů Patriot ze svých zásob. Tyto střely by podle něj neměly zůstávat…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-17T16:53:15+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/zelenskyj-zada-spojence-o-strely-patriot-nemely-by-dle-nej-zustavat-ve-skladech-379695",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Symbol svobody či ztráta suverenity. Na Národní třídě se střetly různorodé názory",
+      "summary": "Na Národní třídě v průběhu dne docházelo k dílčím slovním potyčkám mezi lidmi. Předmětem poklidných i vyostřených debat byly hlavně rozdílné názory na domácí politiku…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-17T16:18:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/symbol-svobody-ci-ztrata-suverenity-na-narodni-tride-se-stretly-odlisne-nazory.A261117_122643_domaci_meli",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Muniční iniciativa zajišťuje Ukrajině přes 60 procent munice, uvedl Landovský",
+      "summary": "Muniční iniciativa zajišťuje více než 60 procent dělostřelecké munice pro Ukrajinu, uvedl po jednání ministrů obrany zemí Evropské unie (EU) v Bruselu Jakub Landovský z…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-17T15:19:49+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/municni-iniciativa-zajistuje-ukrajine-pres-60-procent-munice-uvedl-landovsky-379693",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Premiér Babiš uctil 17. listopad v Izraeli. Není důležité, kde jsem, řekl",
+      "summary": "Od naší zpravodajky v Izraeli – Dnešní svátek 17. listopadu uctil ministerský předseda Andrej Babiš u lavičky Václava Havla na půdě univerzity v Tel Avivu.…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-17T15:05:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/17-listopad-babis-navsteva-izrael-motoriste-macinka.A261117_152946_domaci_aya",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Exodus amerických vojáků z Evropy se zřejmě nekoná. Jedné zemi to ale Trump spočítá",
+      "summary": "Odchod amerických vojáků z Evropy bude podle všeho výrazně menší, než se původně čekalo. Místo 25 tisíc příslušníků by jich podle informací agentury Bloomberg měl…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-17T16:03:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/exodus-americkych-vojaku-z-evropy-se-zrejme-nekona-jedne-zemi-to-ale-trump-spocita/r~aaa29d9c5ed26597558151c86a1d6e22/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Babiš nevyloučil spolupráci Eisenkota s Netanjahuem v nové izraelské vládě",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-17T15:42:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/babis-nevyloucil-spolupraci-eisenkota-s-netanjahuem-v-nove-izraelske-vlade/2903046",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Generál Šnajdárek od ledna povede sekci rozvoje sil ministerstva obrany, řekl Zůna",
+      "summary": "Brigádní generál Petr Šnajdárek nastoupí od ledna nadcházejícího roku do čela sekce rozvoje sil ministerstva obrany. Skončí ve funkci ředitele sekce komunikačních a informačních systémů,…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-17T14:32:07+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/general-snajdarek-od-ledna-povede-sekci-rozvoje-sil-ministerstva-obrany-rekl-zuna-379692",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Severní Makedonie překazila atentát v Řecku. Podezírá íránskou síť",
+      "summary": "Úřady v Severní Makedonii dnes uvedly, že překazily atentát na osobu v sousedním Řecku a rozbily síť spojenou s Íránem. Informovala o tom agentura AFP.",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-17T15:24:00+01:00",
+      "url": "https://www.denik.cz/evropa/severni-makedonie-prekazila-atentat-v-recku-podezira-iranskou-sit/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "V Srbsku končí Vučičova vláda. Nový parlament ovládlo studentské hnutí",
+      "summary": "V Srbsku v úterý zasedl nový parlament, který vzešel z předčasných voleb z 25. října. Většinu v něm mají poslanci zvolení na kandidátce studentského hnutí,…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-17T15:09:43+01:00",
+      "url": "https://www.denik.cz/evropa/v-srbsku-konci-vucicova-vlada-novy-parlament-ovladlo-studentske-hnuti/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Překažený íránský atentát v zemi EU. Severní Makedonie oznámila odhalení sítě podezřelých",
+      "summary": "Úřady v Severní Makedonii v úterý uvedly, že překazily atentát na osobu v sousedním Řecku a rozbily síť spojenou s Íránem. Informovala o tom agentura…",
+      "source": "CNN Prima NEWS",
+      "category": "svet",
+      "published_at": "2026-11-17T15:01:53+01:00",
+      "url": "https://cnn.iprima.cz/prekazeny-iransky-atentat-v-zemi-eu-527360",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Trump pohrozil Íránu tvrdou odvetou za případný útok. Teherán obvinění odmítá",
+      "summary": "Pokud by Írán zaútočil na Washington, zaplatil by za to vysokou cenu, prohlásil v úterý americký prezident Donald Trump podle stanice CNN po příletu do…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-17T14:59:03+01:00",
+      "url": "https://www.denik.cz/svet/trump-pohrozil-iranu-tvrdou-odvetou-za-pripadny-utok-teheran-obvineni-odmita/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Kosovský exprezident Thaçi dostal v Haagu 17 měsíců za ovlivňování svědků",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-17T14:47:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/kosovsky-exprezident-thaci-dostal-v-haagu-17-mesicu-za-ovlivnovani-svedku/2903032",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Řečníci při pietě u Hlávkovy koleje v Praze připomněli nutnost bránit demokracii",
+      "summary": "Význam veřejnoprávních médií a demonstrací na podporu České televizi a Českému rozhlasu vyzdvihli v úterý zástupci vysokých škol při pietním shromáždění k výročí 17. listopadu…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-17T12:31:31+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/recnici-pri-piete-u-hlavkovy-koleje-v-praze-pripomneli-nutnost-branit-demokracii-379688",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Zelenskyj potvrdil útok na Krymský most. Ukrajina se mstila za ruské údery",
+      "summary": "Ukrajinský prezident Volodymyr Zelenskyj potvrdil noční útok na Krymský most, který spojuje ruskou pevninu s okupovaným poloostrovem Krym. Zelenskyj na síti X napsal, že úder…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-17T11:22:30+01:00",
+      "url": "https://www.denik.cz/evropa/zelenskyj-potvrdil-utok-na-krymsky-most-ukrajina-se-mstila-za-ruske-udery/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Havlův odkaz je živý i zde, říká korejský starosta. 17. listopad si připomíná i druhá strana světa",
+      "summary": "Svátek 17. listopadu si jako Den boje za svobodu a demokracii připomínají lidé především v Česku a na Slovensku. V úterý si na odkaz přední…",
+      "source": "CNN Prima NEWS",
+      "category": "svet",
+      "published_at": "2026-11-17T10:22:18+01:00",
+      "url": "https://cnn.iprima.cz/havluv-odkaz-je-dulezity-rika-korejsky-starosta-17-listopad-pripomenou-i-na-druhe-strane-sveta-527316",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    }
+  ],
+  "unavailable_sources": [],
+  "sources": [
+    {
+      "name": "ČT24",
+      "site": "https://ct24.ceskatelevize.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 15,
+      "selected": 6,
+      "free_articles_checked": 7
+    },
+    {
+      "name": "iROZHLAS",
+      "site": "https://www.irozhlas.cz/",
+      "feeds_ok": 2,
+      "feeds_total": 2,
+      "status": "ok",
+      "candidates": 18,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "ČTK / České noviny",
+      "site": "https://www.ceskenoviny.cz/",
+      "feeds_ok": 2,
+      "feeds_total": 2,
+      "status": "ok",
+      "candidates": 25,
+      "selected": 4,
+      "free_articles_checked": 8
+    },
+    {
+      "name": "Novinky.cz",
+      "site": "https://www.novinky.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 12,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "Seznam Zprávy",
+      "site": "https://www.seznamzpravy.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 9,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "Aktuálně.cz",
+      "site": "https://zpravy.aktualne.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 10,
+      "selected": 7,
+      "free_articles_checked": 7
+    },
+    {
+      "name": "Deník",
+      "site": "https://www.denik.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 14,
+      "selected": 4,
+      "free_articles_checked": 7
+    },
+    {
+      "name": "iDNES.cz",
+      "site": "https://www.idnes.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 11,
+      "selected": 6,
+      "free_articles_checked": 6
+    },
+    {
+      "name": "CNN Prima NEWS",
+      "site": "https://cnn.iprima.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 9,
+      "selected": 2,
+      "free_articles_checked": 2
+    },
+    {
+      "name": "E15",
+      "site": "https://www.e15.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 4,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "Forum 24",
+      "site": "https://www.forum24.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 8,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "Deník N",
+      "site": "https://denikn.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 3,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "Respekt",
+      "site": "https://www.respekt.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 5,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "Hospodářské noviny",
+      "site": "https://hn.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 3,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "TN.cz",
+      "site": "https://tn.nova.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 7,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "Blesk",
+      "site": "https://www.blesk.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 18,
+      "selected": 0,
+      "free_articles_checked": 0
+    }
+  ]
+}
