@@ -1,7 +1,127 @@
 {
-  "updated_at": "2026-11-18T06:17:09.744317+00:00",
+  "updated_at": "2026-11-18T08:24:36.446875+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Německo sníží daň z elektřiny a zavede cenový strop na paliva",
+      "summary": "Německo od příštího roku sníží daň z elektřiny a zavede cenový strop na pohonné hmoty. Při nočním jednání se na tom dohodly strany německé vládní…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-18T08:20:56+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/nemecko-snizi-dan-z-elektriny-a-zavede-cenovy-strop-na-paliva-379708",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Tenkrát v Jaltě. Velkou trojku fotil Stalinův fotograf, snímek málem zničil",
+      "summary": "O čtvrtečním setkání Trumpa, Putina a Si Ťin-pchinga se mluví jako o nové Jaltě. Je to nesmysl, ale ukazuje to, jak se legendární schůzka „Velké…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-18T08:17:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/fotografie-velke-trojky-stalina-churchilla-a-roosevelta-na-konferenci-v-jalte-1945.A250203_091623_zahranicni_aha",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Trojice stran v Praze podepíše koaliční smlouvu a sdělí obsazení klíčových postů",
+      "summary": "Pražské hnutí STAN, koalice SPOLU a Praha sobě v deset hodin na tiskové konferenci představí novou koaliční smlouvu a budoucí podobu jedenáctičlenné rady města. Nová…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-18T08:13:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/koalice-praha-magistrat-hlavacek-stan-radni-primator-smlouva.A261118_073801_domaci_sahu",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Výpadky, které postihly USA, mezi sebou nesouvisí, uvedl Rubio",
+      "summary": "Výpadky, které postihly v USA letectví či banky, mezi sebou nesouvisí, uvedl v noci na středu ministr zahraničí Marco Rubio. Podle něj technické problémy nebyly…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-18T08:02:44+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/vypadky-ktere-postihly-usa-mezi-sebou-nesouvisi-uvedl-rubio-379707",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Česko chystá nákup systémů protivzdušné obrany, řekl v Izraeli ministr Zůna",
+      "summary": "Od naší zpravodajky v Izraeli – Ministr obrany Jaromír Zůna (za SPD), který je součástí delegace premiéra Andreje Babiše (ANO) v Izraeli, se domnívá, že…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-18T07:56:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/zuna-cesko-by-mohlo-pristi-rok-vypsat-zakazku-na-protivzdusnou-obranu.A261118_075845_domaci_ijan",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Česko by mohlo vypsat zakázku na protivzdušnou obranu příští rok, uvedl Zůna",
+      "summary": "Česká republika by mohla příští rok vypsat veřejnou zakázku na pořízení nových systémů protivzdušné obrany, které by měly být schopné zasahovat taktické balistické střely, řekl…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-18T07:28:18+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/cesko-by-mohlo-vypsat-zakazku-na-protivzdusnou-obranu-pristi-rok-uvedl-zuna-379704",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Rusko a Čína chtějí spolupracovat na vytvoření multipolárního světa, řekli Putin a Si",
+      "summary": "Šéf Kremlu Vladimir Putin ve středu na bilaterální schůzi jednal se svým čínským protějškem Si Ťin-pchingem. Oba uvedli, že chtějí spolupracovat na vytvoření multipolárního světa.…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-18T07:26:29+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-a-cina-chteji-spolupracovat-na-vytvoreni-multipolarniho-sveta-rekli-putin-a-si-379703",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Po vzájemných útocích hlásí Ukrajina i Rusko raněné. Drony zasáhly dvě rafinerie",
+      "summary": "Nejméně šest raněných si vyžádaly ruské útoky na Dnipro na jihovýchodě Ukrajiny, oznámil ve středu náčelník oblastní správy Oleksandr Hanža. Čtyři zraněné hlásí po ukrajinském…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-18T07:24:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-rusko-krasnodarsky-kraj-izmajil-dnipro-hanza.A261118_080444_zahranicni_onbu",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Vypíšeme zakázku na nový systém protivzdušné obrany, vzkázal Zůna z Izraele",
+      "summary": "Česká republika by mohla příští rok vypsat veřejnou zakázku na pořízení nových systémů protivzdušné obrany, které by měly být schopné zasahovat taktické balistické střely. Českým…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-18T08:10:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/vypiseme-zakazku-na-novy-system-protivzdusne-obrany-vzkazal-zuna-z-izraele/r~aaa297e659ffa11cd438999db10a6dda/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "V Chomutově podepsala koaliční smlouvu čtyři uskupení, primátorem Vyšín z ANO",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-18T08:01:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/v-chomutove-podepsala-koalicni-smlouvu-ctyri-uskupeni-primatorem-vysin-z-ano/2903257",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Čínský prezident si přeje snazší obchod, bude jednat s Trumpem i Putinem",
+      "summary": "Čínský prezident Si Ťin-pching ve středu zahájil dvoudenní summit Asijsko-pacifického hospodářského společenství (APEC). V proslovu vyzval k odstranění celních a dalších bariér a řešení rozdílných…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-18T06:37:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/cinsky-prezident-si-tin-pching-vladimir-putin-apec-trump.A261118_070620_zahranicni_onbu",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Tají Bílý dům průšvih? Rubio odmítá souvislost mezi výpadky, které postihly USA",
+      "summary": "Výpadky, které postihly v USA letectví či banky, mezi sebou nesouvisí, uvedl v noci na středu ministr zahraničí Marco Rubio. Podle něj technické problémy nebyly…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-18T07:36:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/taji-bily-dum-prusvih-rubio-odmita-souvislost-mezi-vypadky-ktere-postihly-usa/r~aaa292cbef9ca495333d399d81c95f80/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "R5M: Česko si připomnělo výročí 17. listopadu | Po srážce vlaků v Praze jsou desítky zraněných | Ukrajina zasáhla Krymský most, Rusko útočilo na mosty v Kyjevě",
       "summary": "",
@@ -23,22 +143,22 @@
       "importance_kind": "pending"
     },
     {
-      "title": "„Může to Ukrajinu bolet.“ Trump, Putin a Si u jednoho stolu, možná dojde i „Rakeťák“",
+      "title": "V Itálii prošel zákon proti antisemitismu. Nahráváte cenzuře, brání se opozice",
+      "summary": "Italský parlament v úterý večer schválil nový zákon proti antisemitismu. Proti hlasovala levicová opozice, která se obává, že by zákon bylo možné použít pro cenzuru…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-18T05:59:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/italie-parlament-zakon-o-antisemitismu-ihra-bratri-italie.A261118_063335_zahranicni_onbu",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Čas jim ubíhá, chtějí změnit svět. Schůzka Trumpa, Putina a Siho děsí Evropu",
       "summary": "Tři světoví lídři nad 70 let, kteří drží v rukou 90 procent jaderných zbraní, budou jednat u jednoho stolu a za zavřenými dveřmi. A když…",
       "source": "Aktuálně.cz",
       "category": "svet",
       "published_at": "2026-11-18T06:52:00+01:00",
       "url": "https://zpravy.aktualne.cz/zahranici/muze-to-ukrajinu-bolet-trump-putin-a-si-u-jednoho-stolu-mozna-dojde-i-raketak/r~aaa29a4ac44274cd6a4e475bd75e5e15/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Výpadky v USA spolu nesouvisí, uvedl Rubio. Lidé si ale myslí, že úřady něco tají",
-      "summary": "Výpadky, které postihly v USA letectví či banky, mezi sebou nesouvisí, uvedl v noci na středu ministr zahraničí Marco Rubio. Podle něj technické problémy nebyly…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-18T05:41:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/usa-vypadky-letiste-banky-marco-rubio-obcane-faa.A261118_062538_zahranicni_onbu",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -53,22 +173,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Demokratka Peltolaová podle odhadů zvítězila v senátních volbách na Aljašce",
-      "summary": "Demokratka Mary Peltolaová získala senátorský mandát na Aljašce. Uvedly to v noci na středu agentura AP a stanice CNN na základě svých odhadů. Demokraté by…",
+      "title": "V Senátu USA budou mít demokraté 56 mandátů, podle odhadů získali i Aljašku",
+      "summary": "Demokratka Mary Peltolaová získala senátorský mandát na Aljašce, uvedly v noci na středu agentura AP a stanice CNN na základě svých odhadů. Pro demokraty to…",
       "source": "ČT24",
       "category": "svet",
       "published_at": "2026-11-18T04:59:00+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/demokratka-peltolaova-podle-odhadu-zvitezila-v-senatnich-volbach-na-aljasce-379701",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Aljaška patří demokratům. Kandidátce pomohla finta s jmény, tvrdí republikáni",
-      "summary": "Demokratka Mary Peltolaová získala senátorský mandát na Aljašce. Uvedly to ve středu agentura AP a stanice CNN na základě svých odhadů. Demokraté by tak v…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-18T04:43:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/peltolaova-vyhrala-senatorsky-mandat-na-aljasce-demokrate-maji-56-kresel.A261118_042436_zahranicni_air",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -93,32 +203,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Policie při podzimních protestech ve Francii zadržela na 15 tisíc lidí",
-      "summary": "Francouzská policie při podzimních protestech zadržela zhruba 15.000 lidí. Podle agentury AFP to uvedl v úterý ministr spravedlnosti Gérald Darmanin. Zhruba polovina zadržených připadá na…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-18T02:27:13+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/policie-pri-podzimnich-protestech-ve-francii-zadrzela-na-15-tisic-lidi-379700",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Výpadky, které postihly USA, mezi sebou nesouvisí, uvedl Rubio",
+      "title": "Policie při podzimních protestech ve Francii zadržela na 15.000 lidí",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
       "category": "svet",
-      "published_at": "2026-11-18T02:40:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/vypadky-ktere-postihly-usa-mezi-sebou-nesouvisi-uvedl-rubio/2903218",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Novým předsedou Knesetu se stal Eisenkotův spojenec Kahana",
-      "summary": "Novým předsedou izraelského parlamentu se stal Matan Kahana ze středové strany Jašar. Je spojencem Gadiho Eisenkota, kterého izraelský prezident pověřil sestavením vlády. Kahana získal 66…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-17T23:26:45+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/novym-predsedou-knesetu-se-stal-eisenkotuv-spojenec-kahana-379699",
+      "published_at": "2026-11-18T02:14:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/policie-pri-podzimnich-protestech-ve-francii-zadrzela-na-15000-lidi/2903217",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -134,101 +224,11 @@
     },
     {
       "title": "Lidé si připomněli sametovou revoluci, opozice vyzvala vládu k lepší komunikaci",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
+      "summary": "Tisíce lidí si 17. listopadu v Praze na Národní třídě připomněly výročí sametové revoluce, která v roce 1989 vyústila v pád komunistického režimu. Piety a…",
+      "source": "Deník",
       "category": "domaci",
-      "published_at": "2026-11-17T22:45:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/-lide-si-pripomneli-sametovou-revoluci-opozice-vyzvala-vladu-k-lepsi-komunikaci/2902848",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Vyrazili na ryby, skončili s popáleninami. Američany žalují kvůli útoku dronu",
-      "summary": "Šestnáct ekvádorských rybářů podalo v pondělí u soudu v Pensylvánii žalobu na americkou vládu kvůli útoku dronu, který letos v březnu způsobil požár na jejich…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-17T22:39:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/vyrazili-na-ryby-skoncili-s-popaleninami-americany-zaluji-kvuli-utoku-dronu/r~aaa298e3cc64cffb3aba1ebc04bfda1d/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Na Národní třídě se tleskalo i pískalo. Oslavy vrcholily na Václavském náměstí",
-      "summary": "Česko si v úterý připomíná 37 let od sametové revoluce. Centrem oslav se jako tradičně stala Praha a především Národní třída, kam od rána postupně…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-17T21:02:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/17-listopad-oslavy-akce-vystoupeni-politiku.A261116_085543_domaci_vank",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Macinka žádá unijní ministry, aby nedávali víza ruským hokejistům",
-      "summary": "Ministr zahraničí Petr Macinka (Motoristé) požádal unijní šéfy diplomacie, aby ruským hokejistům a hokejistkám neudělovali víza, která by jim umožnila účast na sportovních turnajích. Uvedl…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-17T20:25:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/petr-macinka-rusko-hokej-hokejisti-sportovni-turnaje.A261117_195359_domaci_aya",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Fico čelil protestům na výročí sametové revoluce. Do ulic vyšly desetitisíce lidí",
-      "summary": "Dav lidí na opoziční demonstraci v Bratislavě v úterý provolával hesla namířená proti premiérovi Robertovi Ficovi i jeho straně Směr-sociální demokracie. Podle organizátorů přišlo téměř…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-17T20:29:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/fico-celil-protestum-na-vyroci-sametove-revoluce-do-ulic-vysly-desetitisice-lidi/r~aaa298cd431eb9365cbed72e47eba7a1/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "NATO chce obnovit systém Starshield, Ukrajina však stále bojuje s výpadky",
-      "summary": "Generální tajemník NATO Mark Rutte v úterý uvedl, že příslušné strany pracují na tom, aby byl satelitní systém Starshield, který Ukrajina využívá ke komunikaci na…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-17T19:17:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/valka-na-ukrajine-starshield-ukrajina-zelenskyj.A261117_155204_zahranicni_aya",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Zelenskyj žádá spojence o střely Patriot. Američané kritizují údery v Rusku",
-      "summary": "Ukrajinský prezident Volodymyr Zelenskyj v úterý vyzval západní spojence, aby Ukrajině poskytli střely do protivzdušných systémů Patriot ze svých vlastních zásob. Tyto rakety by podle…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-17T19:16:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/zelenskyj-strely-patriot-ukrajina-nato-udsg-valka-na-ukrajine.A261117_173551_zahranicni_aya",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Šéfmotorista za sebe na Národní třídu poslal jen mluvčího",
-      "summary": "Českou diplomacii na Národní třídě letos zastupoval poněkud netradiční vyslanec. Věnec za ministerstvo zahraničí přišel položit jeho tiskový mluvčí Adam Čörgő. Žádný z náměstků ani…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-17T20:14:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/za-macinkuv-resort-dorazil-jen-tiskovy-mluvci-na-narodni-polozil-venec/r~aaa292c37ce361c5c73cf070759e620f/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Zelenskyj žádá spojence o střely Patriot, neměly by dle něj zůstávat ve skladech",
-      "summary": "Ukrajinský prezident Volodymyr Zelenskyj vyzval západní spojence, aby Ukrajině poskytli střely do protivzdušných systémů Patriot ze svých zásob. Tyto střely by podle něj neměly zůstávat…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-17T16:53:15+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/zelenskyj-zada-spojence-o-strely-patriot-nemely-by-dle-nej-zustavat-ve-skladech-379695",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Generál Šnajdárek od ledna povede sekci rozvoje sil ministerstva obrany, řekl Zůna",
-      "summary": "Brigádní generál Petr Šnajdárek nastoupí od ledna nadcházejícího roku do čela sekce rozvoje sil ministerstva obrany. Skončí ve funkci ředitele sekce komunikačních a informačních systémů,…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-17T14:32:07+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/general-snajdarek-od-ledna-povede-sekci-rozvoje-sil-ministerstva-obrany-rekl-zuna-379692",
+      "published_at": "2026-11-17T19:00:00+01:00",
+      "url": "https://www.denik.cz/cesko/lide-si-pripomneli-sametovou-revoluci-opozice-vyzvala-vladu-k-lepsi-komunikaci/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -281,7 +281,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 17,
       "selected": 5,
       "free_articles_checked": 7
     },
@@ -291,7 +291,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -301,7 +301,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 30,
+      "candidates": 28,
       "selected": 5,
       "free_articles_checked": 7
     },
@@ -311,7 +311,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -321,7 +321,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -331,9 +331,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
-      "selected": 5,
-      "free_articles_checked": 6
+      "candidates": 6,
+      "selected": 4,
+      "free_articles_checked": 5
     },
     {
       "name": "Deník",
@@ -341,8 +341,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
-      "selected": 4,
+      "candidates": 9,
+      "selected": 5,
       "free_articles_checked": 5
     },
     {
@@ -351,9 +351,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 13,
       "selected": 6,
-      "free_articles_checked": 6
+      "free_articles_checked": 8
     },
     {
       "name": "CNN Prima NEWS",
@@ -361,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 9,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -371,7 +371,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 2,
+      "candidates": 3,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -381,7 +381,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 6,
+      "candidates": 8,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -401,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 5,
+      "candidates": 3,
       "selected": 0,
       "free_articles_checked": 0
     },
