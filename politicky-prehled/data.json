@@ -1,7 +1,77 @@
 {
-  "updated_at": "2026-11-18T20:06:25.019826+00:00",
+  "updated_at": "2026-11-18T21:00:31.745443+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Japonská premiérka jednala s Putinem o zadrženém novináři i firmách v Rusku",
+      "summary": "Japonská premiérka Sanae Takaičiová se ve středu v Číně poprvé ve funkci setkala s ruským prezidentem Vladimirem Putinem. Krátce s ním jednala mimo jiné o…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-18T20:55:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/japonska-premierka-jednani-vladimir-putin-cina-rusko.A261118_212054_zahranicni_fohl",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Ministerstvo spravedlnosti chystá novelu rušící pravomoc vyšších soudů zavazovat nižší",
+      "summary": "Ministr spravedlnosti Jeroným Tejc (za ANO) prosazuje změnu trestního řádu, podle níž by odvolací soudy v budoucnu neměly říkat nižším instancím, jak mají hodnotit důkazy…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-18T20:29:55+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/ministerstvo-spravedlnosti-chysta-novelu-rusici-pravomoc-vyssich-soudu-zavazovat-nizsi-379734",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Německá banka udala Ficova syna pro podezření z praní peněz, premiér to odmítá",
+      "summary": "Syn slovenského premiéra Roberta Fica Michal si ve svých studijních dobách založil účet u německé Deutsche Bank. Ta mu jej však po roce zrušila a…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-18T20:26:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/nemecka-banka-zrusila-ficovu-synovi-ucet-a-udala-ho-pro-podezreni-z-prani-penez.A261118_133340_zahranicni_kha",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Další otřes na polském ústavním soudu, soudci zbavili předsedu imunity",
+      "summary": "Valné shromáždění soudců polského ústavního soudu ve středu zbavilo imunity muže, kterého polská opozice považuje za předsedu tohoto soudu, píše agentura Reuters. Na konci října…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-18T21:25:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/dalsi-otres-na-polskem-ustavnim-soudu-soudci-zbavili-predsedu-imunity/r~aaa29ea8d290abd7946190b550393fc6/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Kanada poskytne dalších 45 milionů. Půjdou na muniční iniciativu pro Ukrajinu",
+      "summary": "Kanada poskytne dalších 45 milionů kanadských dolarů (698,7 milionu Kč) na českou muniční iniciativu, čímž se její celkový závazek zvýší na více než 500 milionů…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-18T21:24:49+01:00",
+      "url": "https://www.denik.cz/svet/kanada-poskytne-dalsich-45-milionu-pujdou-na-municni-iniciativu-pro-ukrajinu/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Demokraté nominovali Jeffriese na post šéfa Sněmovny reprezentantů",
+      "summary": "Demokraté ve středu nominovali kongresmana Hakeema Jeffriese na post předsedy Sněmovny reprezentantů. Tím otevřeli cestu k tomu, aby se v lednu, až se sejde Kongres…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-18T20:20:05+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/demokrate-nominovali-jeffriese-na-post-sefa-snemovny-reprezentantu-379738",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Česko je v ruském žebříčku nepřátel šesté. První místo obsadila Francie",
+      "summary": "Česko se oproti minulému měsíci v říjnovém žebříčku nepřátelských zemí, který sestavil ruský list Vzgljad, propadlo ze čtvrtého místa na šesté. Dělí se o něj…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-18T20:04:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/cesko-je-v-ruskem-zebricku-nepratel-seste-prvni-misto-obsadila-francie.A261118_203541_zahranicni_ichuc",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Ukrajina a Rusko jednají o výměně zajatců. Zelenskyj vidí pozice na frontě jako silné",
       "summary": "Ukrajina s Ruskem dál jedná o výměně válečných zajatců, na níž se vyjednavači minulý týden rámcově dohodli v Abú Zabí. Podle ukrajinského ombudsmana Dmytra Lubince…",
@@ -19,16 +89,6 @@
       "category": "domaci",
       "published_at": "2026-11-18T20:40:00+01:00",
       "url": "https://zpravy.aktualne.cz/domaci/jednal-o-dukovanech-za-nasimi-zady-havlicka-rozladil-korejsky-vyjezd-jeho-predchudce/r~aaa29a5ba822ee88af00e218605e6e16/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "USA podepsaly vojenskou dohodu s Venezuelou. Podpoří výcvik její armády",
-      "summary": "Spojené státy uzavřely vojenskou dohodu s Venezuelou, oznámil ve středu americký ministr obrany Pete Hegseth během návštěvy Caracasu, aniž ji blíže specifikoval. Venezuelská prezidentka Delcy…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-18T19:38:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/usa-venezuela-vojenska-dohoda-caracas-hegseth-pentagon.A261118_191837_zahranicni_dtt",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -83,32 +143,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Demokraté nominovali do čela Sněmovny Jeffriese. Slíbil tvrdý boj proti korupci",
-      "summary": "Demokraté ve čtvrtek nominovali kongresmana Hakeema Jeffriese na post předsedy Sněmovny reprezentantů, čímž otevřeli cestu k tomu, aby se v lednu stal prvním černochem v…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-18T18:30:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/demokrate-jeffries-snemovna-reprezentantu-kongres-usa.A261118_190750_zahranicni_dtt",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "AfD chce v Sasku-Anhaltsku vypovědět smlouvy o veřejnoprávním vysílání",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
       "category": "svet",
       "published_at": "2026-11-18T19:18:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/afd-chce-v-sasku-anhaltsku-vypovedet-smlouvy-o-verejnopravnim-vysilani/2903627",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Podpora Ukrajiny není charita, řekl velvyslanec Zvaryč. S Řehkou křtil knihu",
-      "summary": "Role Česka v podpoře Ukrajiny i první roky ruské invaze. Ukrajinský velvyslanec v Praze Vasyl Zvaryč spolu se senátorem a bývalým náčelníkem generálního štábu Karlem…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-18T18:18:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/podpora-ukrajiny-neni-charita-rekl-velvyslanec-zvaryc-s-rehkou-krtil-knihu.A261118_163446_domaci_meli",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -173,16 +213,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Moskva chystala na polské hranici provokaci s velkým počtem obětí, tvrdí list",
-      "summary": "Ruské tajné služby připravovaly na hranici s Polskem provokaci s velkým počtem obětí a se svalováním viny na Ukrajinu, záškodnické akci ale zabránila preventivní operace…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-18T16:23:50+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/moskva-chystala-na-polske-hranici-provokaci-s-velkym-poctem-obeti-tvrdi-list-379729",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "V Amazonii vyfotili po desetiletích členy kmene Awá, z pralesa vyšli pro jídlo",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -209,16 +239,6 @@
       "category": "svet",
       "published_at": "2026-11-18T17:05:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/-trump-podle-ap-planuje-s-putinem-jednat-v-cine-samostatne-kreml-to-poprel/2901941",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Nová Jalta? Lídři se obávají setkání Trumpa, Putina a Si Ťin-pchinga. Bez Kyjeva",
-      "summary": "Americký prezident Donald Trump, ruský vůdce Vladimir Putin a čínský prezident Si Ťin-pching se ve čtvrtek 19. listopadu setkali v čínském Šen-čenu. Jejich jednání vyvolává…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-18T16:32:00+01:00",
-      "url": "https://www.denik.cz/svet/nova-jalta-lidri-se-obavaji-setkani-trumpa-putina-a-si-tin-pchinga-bez-kyjeva/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -261,16 +281,6 @@
       "url": "https://www.ceskenoviny.cz/zpravy/senatni-volby-na-zdarsku-se-zopakuji-zucastni-se-cerny-klement-i-smarda/2903236",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
-    },
-    {
-      "title": "Putinova spojka u dna. Operace Krymský most měla sedm fází, obešla se bez Muska",
-      "summary": "Ukrajinské síly po několikatýdenní přípravě zničily část Krymského mostu, který spojuje Rusko s okupovaným poloostrovem. V noci na 17. listopadu se do průlivu zřítil jeden…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-18T14:20:00+01:00",
-      "url": "https://www.denik.cz/evropa/utok-na-krymsky-most-kercsky-most-operace-starlink/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
     }
   ],
   "unavailable_sources": [],
@@ -282,7 +292,7 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 20,
-      "selected": 4,
+      "selected": 5,
       "free_articles_checked": 7
     },
     {
@@ -311,7 +321,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -331,9 +341,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 6,
-      "selected": 5,
-      "free_articles_checked": 5
+      "candidates": 7,
+      "selected": 6,
+      "free_articles_checked": 6
     },
     {
       "name": "Deník",
@@ -341,9 +351,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
-      "selected": 5,
-      "free_articles_checked": 5
+      "candidates": 14,
+      "selected": 4,
+      "free_articles_checked": 6
     },
     {
       "name": "iDNES.cz",
@@ -353,7 +363,7 @@
       "status": "ok",
       "candidates": 20,
       "selected": 4,
-      "free_articles_checked": 4
+      "free_articles_checked": 5
     },
     {
       "name": "CNN Prima NEWS",
@@ -361,7 +371,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 14,
       "selected": 2,
       "free_articles_checked": 2
     },
@@ -381,7 +391,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -391,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -421,7 +431,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -431,7 +441,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 18,
       "selected": 0,
       "free_articles_checked": 0
     }
