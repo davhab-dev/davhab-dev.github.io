@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-18T11:50:16.574478+00:00",
+  "updated": "2026-11-18T12:52:26.441755+00:00",
   "articles": [
+    {
+      "title": "'Significant for cycling in the country' – British Cycling Ventures adds backing to City of London Nocturne in a bid to expand across Britain",
+      "summary": "The 2027 event will take place in mid-June",
+      "url": "https://www.cyclingnews.com/pro-cycling/racing/significant-for-cycling-in-the-country-british-cycling-ventures-adds-backing-to-city-of-london-nocturne-in-a-bid-to-expand-across-britain/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-18T12:31:31+00:00"
+    },
+    {
+      "title": "\"Performance and endurance should work together\" – new Winspace C6 offers speed and comfort without breaking the bank",
+      "summary": "Winspace claims its new bike has fast handling and comfort for longer rides",
+      "url": "https://www.bikeradar.com/news/2026-winspace-c6",
+      "source": "BikeRadar",
+      "lang": "EN",
+      "category": "Technika",
+      "published": "2026-11-18T11:57:00+00:00"
+    },
     {
       "title": "One inspired transfer and one glaring miss – We analysed the data to see who won and lost in the women's 2025-2026 transfer market",
       "summary": "From Franzi Koch to Sandrine Tas, here are the moves that made the most for WorldTour and ProTeams",
@@ -488,6 +506,15 @@
       "published": "2026-11-15T05:30:40+00:00"
     },
     {
+      "title": "Liptovské bláznovstvá s činelem na zádech",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132124/liptovske-blaznovstva-s-cinelem-na-zadech.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-15"
+    },
+    {
       "title": "Bollekescross v Hamme, druhý díl X2O Trofee, podle českých závoďáků připravil dobře na Ostravu. Nejlepší tu byli Nys a Brand",
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/bollekescross-v-hamme-druhy-dil-x2o-trofee-podle-ceskych-zavodaku-pripravil-dobre-na-ostravu-nejlepsi-tu-byli-nys-a-brand",
@@ -927,15 +954,6 @@
       "lang": "EN",
       "category": "Závody",
       "published": "2026-11-12T10:37:56+00:00"
-    },
-    {
-      "title": "\"Performance and endurance should work together\" – the new Winspace C6 offers speed and comfort for riders who want it all",
-      "summary": "Winspace claims its new bike has fast handling and comfort for longer rides",
-      "url": "https://www.bikeradar.com/news/2026-winspace-c6",
-      "source": "BikeRadar",
-      "lang": "EN",
-      "category": "Technika",
-      "published": "2026-11-12T10:31:47+00:00"
     },
     {
       "title": "Rim brakes are a “guilty pleasure” – Pashley launches new Roadfinder SL Rim Brake Edition",
@@ -3132,24 +3150,6 @@
       "lang": "EN",
       "category": "Gravel",
       "published": "2026-10-07T13:00:00+00:00"
-    },
-    {
-      "title": "\"A V5Rs for the dirt\" – new Colnago G5-X is built for compliance, comfort and gravel racing",
-      "summary": "Colnago’s versatile off-road speed machine gets an overhaul, with new geometry and carbon layup schedule",
-      "url": "https://www.bikeradar.com/news/2027-colnago-g5-x",
-      "source": "BikeRadar Gravel",
-      "lang": "EN",
-      "category": "Gravel",
-      "published": "2026-10-07T08:00:00+00:00"
-    },
-    {
-      "title": "The best electric bike pumps 2026 reviewed and rated",
-      "summary": "We’ve expanded our test of the latest electric pumps to find the best options for all riders",
-      "url": "https://www.bikeradar.com/advice/buyers-guides/best-electric-bike-pump",
-      "source": "BikeRadar Gravel",
-      "lang": "EN",
-      "category": "Technika",
-      "published": "2026-10-06T15:30:00+00:00"
     }
   ],
   "source_errors": [
