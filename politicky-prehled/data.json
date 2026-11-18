@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-18T02:58:23.802043+00:00",
+  "updated_at": "2026-11-18T04:02:13.168900+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Mary Peltolaová získala senátorský mandát na Aljašce, demokraté mají 56 křesel",
+      "summary": "Demokratka Mary Peltolaová podle odhadů agentury AP a stanice CNN získala senátorský mandát na Aljašce, čímž si demokraté v novém Senátu zajistili většinu 56 křesel…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-18T03:42:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/mary-peltolaova-ziskala-senatorsky-mandat-na-aljasce-demokrate-maji-56-kresel.A261118_042436_zahranicni_air",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Policie při podzimních protestech ve Francii zadržela na 15 tisíc lidí",
       "summary": "Francouzská policie při podzimních protestech zadržela zhruba 15.000 lidí. Podle agentury AFP to uvedl v úterý ministr spravedlnosti Gérald Darmanin. Zhruba polovina zadržených připadá na…",
@@ -173,16 +183,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Premiér Babiš uctil 17. listopad v Izraeli. Není důležité, kde jsem, řekl",
-      "summary": "Od naší zpravodajky v Izraeli – Dnešní svátek 17. listopadu uctil ministerský předseda Andrej Babiš u lavičky Václava Havla na půdě univerzity v Tel Avivu.…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-17T15:05:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/17-listopad-babis-navsteva-izrael-motoriste-macinka.A261117_152946_domaci_aya",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Exodus amerických vojáků z Evropy se zřejmě nekoná. Jedné zemi to ale Trump spočítá",
       "summary": "Odchod amerických vojáků z Evropy bude podle všeho výrazně menší, než se původně čekalo. Místo 25 tisíc příslušníků by jich podle informací agentury Bloomberg měl…",
       "source": "Aktuálně.cz",
@@ -311,7 +311,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 18,
+      "candidates": 17,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -361,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 13,
       "selected": 4,
       "free_articles_checked": 7
     },
@@ -391,7 +391,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 4,
+      "candidates": 3,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -401,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 6,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -451,7 +451,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 18,
+      "candidates": 16,
       "selected": 0,
       "free_articles_checked": 0
     }
