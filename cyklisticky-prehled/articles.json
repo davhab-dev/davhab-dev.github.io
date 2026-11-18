@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T03:17:03.504509+00:00",
+  "updated": "2026-11-18T04:26:08.341319+00:00",
   "articles": [
     {
       "title": "TEST: Avona Callis 32 – Když gravel přeroste do nové dimenze",
@@ -414,6 +414,15 @@
       "lang": "EN",
       "category": "Závody",
       "published": "2026-11-15T05:30:40+00:00"
+    },
+    {
+      "title": "Liptovské bláznovstvá s činelem na zádech",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132124/liptovske-blaznovstva-s-cinelem-na-zadech.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-15"
     },
     {
       "title": "Bollekescross v Hamme, druhý díl X2O Trofee, podle českých závoďáků připravil dobře na Ostravu. Nejlepší tu byli Nys a Brand",
@@ -3141,15 +3150,6 @@
       "lang": "CS",
       "category": "MTB",
       "published": "2026-09-24T22:45:49+00:00"
-    },
-    {
-      "title": "Dvakrát Double Black",
-      "summary": "",
-      "url": "https://cykl.cz/dvakrat-double-black",
-      "source": "Cykl.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
-      "published": "2026-09-22"
     }
   ],
   "source_errors": [
