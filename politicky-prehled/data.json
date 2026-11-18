@@ -1,7 +1,87 @@
 {
-  "updated_at": "2026-11-18T08:24:36.446875+00:00",
+  "updated_at": "2026-11-18T10:13:00.958106+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Portlík, Scheinherr, Klecanda i Udženija. Lídr STAN představil složení rady v Praze",
+      "summary": "Hnutí STAN, koalice SPOLU pro Prahu a Praha sobě na tiskové konferenci oficiálně představily novou koaliční smlouvu a budoucí podobu jedenáctičlenné rady. Hlaváček potvrdil složení…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-18T10:09:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/koalice-praha-magistrat-hlavacek-stan-radni-primator-smlouva.A261118_073801_domaci_sahu",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Portlík, Scheinherr i Udženija. Pražská rada se už rýsuje, prioritou bude okruh a bydlení",
+      "summary": "Pražská koalice STAN, Spolu (ODS, TOP 09) a Prahy sobě představila složení nové rady. Primátorem bude Petr Hlaváček (STAN), jeho prvním náměstkem se stane Tomáš…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-18T10:41:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/portlik-scheinherr-i-udzenija-novy-primator-oznamil-slozeni-prazske-rady/r~aaa29a67015a520b016d331db04eccf5/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Soud oznámí rozhodnutí o stížnosti na senátní volby na Žďársku. Rozdíl tam byl jeden hlas",
+      "summary": "Nejvyšší správní soud (NSS) odpoledne oznámí, jak rozhodl o poslední dosud nevyřízené stížnosti na senátní volby. Podal ji Radek Černý (ODS), jenž na Žďársku o…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-18T09:38:23+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/soud-oznami-rozhodnuti-o-stiznosti-na-senatni-volby-na-zdarsku-rozdil-tam-byl-jeden-hlas-379710",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Merz si může oddechnout, ústavní soud zamítl žádost BSW o přepočítání voleb",
+      "summary": "Německý ústavní soud zamítl žádost strany Spojenectví sociální spravedlnosti a hospodářského rozumu (BSW) o přepočítání hlasů z loňských předčasných parlamentních voleb. Strana se do Spolkového…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-18T09:29:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/merz-si-muze-oddechnout-ustavni-soud-zamitl-zadost-bsw-o-prepocitani-voleb.A261118_102118_zahranicni_bro",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Hormuzem proplouvá stále více menších tankerů. Superlodě jsou častý terč",
+      "summary": "Íránský konflikt změnil podobu přepravy ropy z Perského zálivu. Zatímco obří tankery se kvůli útokům stávají stále rizikovější, menší lodě přebírají stále významnější část přepravy.…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-18T09:21:00+00:00",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/hormuzem-proplouva-stale-vice-mensich-tankeru-superlode-jsou-casty-terc.A261118_091836_eko-zahranicni_ven",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Reuters: Ukrajina propojila lidi s roboty, aby odrazila Rusy",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-18T10:12:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/reuters-ukrajina-propojila-lidi-s-roboty-aby-odrazila-rusy/2903304",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Británie se vrací k EU. Země se otevře pro evropské studenty",
+      "summary": "Ještě v polovině minulého roku se zdálo, že se ve Velké Británii k moci dostane xenofobní strana Reform UK Nigela Farage, jednoho ze strůjců odchodu…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-18T10:00:00+01:00",
+      "url": "https://www.denik.cz/evropa/britanie-se-vraci-k-eu-zeme-se-otevre-pro-evropske-studenty/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Oslovení Izraelci se rozcházejí v názoru na to, kdo by měl být příštím premiérem",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-18T09:59:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/osloveni-izraelci-se-rozchazeji-v-nazoru-na-to-kdo-by-mel-byt-pristim-premierem/2903296",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Německo sníží daň z elektřiny a zavede cenový strop na paliva",
       "summary": "Německo od příštího roku sníží daň z elektřiny a zavede cenový strop na pohonné hmoty. Při nočním jednání se na tom dohodly strany německé vládní…",
@@ -19,16 +99,6 @@
       "category": "svet",
       "published_at": "2026-11-18T08:17:00+00:00",
       "url": "https://www.idnes.cz/zpravy/zahranicni/fotografie-velke-trojky-stalina-churchilla-a-roosevelta-na-konferenci-v-jalte-1945.A250203_091623_zahranicni_aha",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Trojice stran v Praze podepíše koaliční smlouvu a sdělí obsazení klíčových postů",
-      "summary": "Pražské hnutí STAN, koalice SPOLU a Praha sobě v deset hodin na tiskové konferenci představí novou koaliční smlouvu a budoucí podobu jedenáctičlenné rady města. Nová…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-18T08:13:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/koalice-praha-magistrat-hlavacek-stan-radni-primator-smlouva.A261118_073801_domaci_sahu",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -73,7 +143,7 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Po vzájemných útocích hlásí Ukrajina i Rusko raněné. Drony zasáhly dvě rafinerie",
+      "title": "Ukrajina nepřestává v útocích, zasáhla dvě rafinerie na jihu Ruska",
       "summary": "Nejméně šest raněných si vyžádaly ruské útoky na Dnipro na jihovýchodě Ukrajiny, oznámil ve středu náčelník oblastní správy Oleksandr Hanža. Čtyři zraněné hlásí po ukrajinském…",
       "source": "iDNES.cz",
       "category": "svet",
@@ -103,17 +173,7 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Čínský prezident si přeje snazší obchod, bude jednat s Trumpem i Putinem",
-      "summary": "Čínský prezident Si Ťin-pching ve středu zahájil dvoudenní summit Asijsko-pacifického hospodářského společenství (APEC). V proslovu vyzval k odstranění celních a dalších bariér a řešení rozdílných…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-18T06:37:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/cinsky-prezident-si-tin-pching-vladimir-putin-apec-trump.A261118_070620_zahranicni_onbu",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Tají Bílý dům průšvih? Rubio odmítá souvislost mezi výpadky, které postihly USA",
+      "title": "Ameriku zasáhla série výpadků. Trumpova vláda čelí podezření, že něco tají",
       "summary": "Výpadky, které postihly v USA letectví či banky, mezi sebou nesouvisí, uvedl v noci na středu ministr zahraničí Marco Rubio. Podle něj technické problémy nebyly…",
       "source": "Aktuálně.cz",
       "category": "svet",
@@ -139,16 +199,6 @@
       "category": "svet",
       "published_at": "2026-11-18T07:00:00+01:00",
       "url": "https://www.denik.cz/evropa/putin-pozaduje-ustup-nato-pred-rok-1997-rika-analytik-filip-nerad/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "V Itálii prošel zákon proti antisemitismu. Nahráváte cenzuře, brání se opozice",
-      "summary": "Italský parlament v úterý večer schválil nový zákon proti antisemitismu. Proti hlasovala levicová opozice, která se obává, že by zákon bylo možné použít pro cenzuru…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-18T05:59:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/italie-parlament-zakon-o-antisemitismu-ihra-bratri-italie.A261118_063335_zahranicni_onbu",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -203,72 +253,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Policie při podzimních protestech ve Francii zadržela na 15.000 lidí",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-18T02:14:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/policie-pri-podzimnich-protestech-ve-francii-zadrzela-na-15000-lidi/2903217",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Ředitelé Post Bellum Kroupa a Polovková podpořili nezávislá média a Ukrajinu",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-17T22:49:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/reditele-post-bellum-kroupa-a-polovkova-podporili-nezavisla-media-a-ukrajinu/2903194",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Lidé si připomněli sametovou revoluci, opozice vyzvala vládu k lepší komunikaci",
       "summary": "Tisíce lidí si 17. listopadu v Praze na Národní třídě připomněly výročí sametové revoluce, která v roce 1989 vyústila v pád komunistického režimu. Piety a…",
       "source": "Deník",
       "category": "domaci",
       "published_at": "2026-11-17T19:00:00+01:00",
       "url": "https://www.denik.cz/cesko/lide-si-pripomneli-sametovou-revoluci-opozice-vyzvala-vladu-k-lepsi-komunikaci/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Severní Makedonie překazila atentát v Řecku. Podezírá íránskou síť",
-      "summary": "Úřady v Severní Makedonii dnes uvedly, že překazily atentát na osobu v sousedním Řecku a rozbily síť spojenou s Íránem. Informovala o tom agentura AFP.",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-17T15:24:00+01:00",
-      "url": "https://www.denik.cz/evropa/severni-makedonie-prekazila-atentat-v-recku-podezira-iranskou-sit/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "V Srbsku končí Vučičova vláda. Nový parlament ovládlo studentské hnutí",
-      "summary": "V Srbsku v úterý zasedl nový parlament, který vzešel z předčasných voleb z 25. října. Většinu v něm mají poslanci zvolení na kandidátce studentského hnutí,…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-17T15:09:43+01:00",
-      "url": "https://www.denik.cz/evropa/v-srbsku-konci-vucicova-vlada-novy-parlament-ovladlo-studentske-hnuti/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Překažený íránský atentát v zemi EU. Severní Makedonie oznámila odhalení sítě podezřelých",
-      "summary": "Úřady v Severní Makedonii v úterý uvedly, že překazily atentát na osobu v sousedním Řecku a rozbily síť spojenou s Íránem. Informovala o tom agentura…",
-      "source": "CNN Prima NEWS",
-      "category": "svet",
-      "published_at": "2026-11-17T15:01:53+01:00",
-      "url": "https://cnn.iprima.cz/prekazeny-iransky-atentat-v-zemi-eu-527360",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Trump pohrozil Íránu tvrdou odvetou za případný útok. Teherán obvinění odmítá",
-      "summary": "Pokud by Írán zaútočil na Washington, zaplatil by za to vysokou cenu, prohlásil v úterý americký prezident Donald Trump podle stanice CNN po příletu do…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-17T14:59:03+01:00",
-      "url": "https://www.denik.cz/svet/trump-pohrozil-iranu-tvrdou-odvetou-za-pripadny-utok-teheran-obvineni-odmita/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     }
@@ -281,8 +271,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
-      "selected": 5,
+      "candidates": 19,
+      "selected": 6,
       "free_articles_checked": 7
     },
     {
@@ -291,7 +281,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 16,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -301,7 +291,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 28,
+      "candidates": 22,
       "selected": 5,
       "free_articles_checked": 7
     },
@@ -311,7 +301,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 11,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -321,7 +311,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -331,8 +321,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 6,
-      "selected": 4,
+      "candidates": 5,
+      "selected": 5,
       "free_articles_checked": 5
     },
     {
@@ -341,9 +331,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
-      "selected": 5,
-      "free_articles_checked": 5
+      "candidates": 11,
+      "selected": 3,
+      "free_articles_checked": 3
     },
     {
       "name": "iDNES.cz",
@@ -351,7 +341,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 12,
       "selected": 6,
       "free_articles_checked": 8
     },
@@ -361,9 +351,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
-      "selected": 1,
-      "free_articles_checked": 1
+      "candidates": 10,
+      "selected": 0,
+      "free_articles_checked": 0
     },
     {
       "name": "E15",
@@ -371,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 3,
+      "candidates": 4,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -381,7 +371,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 11,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -391,7 +381,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 6,
+      "candidates": 7,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -411,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 3,
+      "candidates": 4,
       "selected": 0,
       "free_articles_checked": 0
     },

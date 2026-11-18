@@ -3,16 +3,44 @@
   "current": null,
   "queue": [
     [
+      "https://www.idnes.cz/zpravy/domaci/koalice-praha-magistrat-hlavacek-stan-radni-primator-smlouva.A261118_073801_domaci_sahu",
+      "Portlík, Scheinherr, Klecanda i Udženija. Lídr STAN představil složení rady v Praze"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/portlik-scheinherr-i-udzenija-novy-primator-oznamil-slozeni-prazske-rady/r~aaa29a67015a520b016d331db04eccf5/",
+      "Portlík, Scheinherr i Udženija. Pražská rada se už rýsuje, prioritou bude okruh a bydlení"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/soud-oznami-rozhodnuti-o-stiznosti-na-senatni-volby-na-zdarsku-rozdil-tam-byl-jeden-hlas-379710",
+      "Soud oznámí rozhodnutí o stížnosti na senátní volby na Žďársku. Rozdíl tam byl jeden hlas"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/merz-si-muze-oddechnout-ustavni-soud-zamitl-zadost-bsw-o-prepocitani-voleb.A261118_102118_zahranicni_bro",
+      "Merz si může oddechnout, ústavní soud zamítl žádost BSW o přepočítání voleb"
+    ],
+    [
+      "https://www.idnes.cz/ekonomika/zahranicni/hormuzem-proplouva-stale-vice-mensich-tankeru-superlode-jsou-casty-terc.A261118_091836_eko-zahranicni_ven",
+      "Hormuzem proplouvá stále více menších tankerů. Superlodě jsou častý terč"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/reuters-ukrajina-propojila-lidi-s-roboty-aby-odrazila-rusy/2903304",
+      "Reuters: Ukrajina propojila lidi s roboty, aby odrazila Rusy"
+    ],
+    [
+      "https://www.denik.cz/evropa/britanie-se-vraci-k-eu-zeme-se-otevre-pro-evropske-studenty/",
+      "Británie se vrací k EU. Země se otevře pro evropské studenty"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/osloveni-izraelci-se-rozchazeji-v-nazoru-na-to-kdo-by-mel-byt-pristim-premierem/2903296",
+      "Oslovení Izraelci se rozcházejí v názoru na to, kdo by měl být příštím premiérem"
+    ],
+    [
       "https://ct24.ceskatelevize.cz/clanek/svet/nemecko-snizi-dan-z-elektriny-a-zavede-cenovy-strop-na-paliva-379708",
       "Německo sníží daň z elektřiny a zavede cenový strop na paliva"
     ],
     [
       "https://www.idnes.cz/zpravy/zahranicni/fotografie-velke-trojky-stalina-churchilla-a-roosevelta-na-konferenci-v-jalte-1945.A250203_091623_zahranicni_aha",
       "Tenkrát v Jaltě. Velkou trojku fotil Stalinův fotograf, snímek málem zničil"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/koalice-praha-magistrat-hlavacek-stan-radni-primator-smlouva.A261118_073801_domaci_sahu",
-      "Trojice stran v Praze podepíše koaliční smlouvu a sdělí obsazení klíčových postů"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/vypadky-ktere-postihly-usa-mezi-sebou-nesouvisi-uvedl-rubio-379707",
@@ -32,7 +60,7 @@
     ],
     [
       "https://www.idnes.cz/zpravy/zahranicni/ukrajina-rusko-krasnodarsky-kraj-izmajil-dnipro-hanza.A261118_080444_zahranicni_onbu",
-      "Po vzájemných útocích hlásí Ukrajina i Rusko raněné. Drony zasáhly dvě rafinerie"
+      "Ukrajina nepřestává v útocích, zasáhla dvě rafinerie na jihu Ruska"
     ],
     [
       "https://zpravy.aktualne.cz/zahranici/vypiseme-zakazku-na-novy-system-protivzdusne-obrany-vzkazal-zuna-z-izraele/r~aaa297e659ffa11cd438999db10a6dda/",
@@ -43,12 +71,8 @@
       "V Chomutově podepsala koaliční smlouvu čtyři uskupení, primátorem Vyšín z ANO"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/cinsky-prezident-si-tin-pching-vladimir-putin-apec-trump.A261118_070620_zahranicni_onbu",
-      "Čínský prezident si přeje snazší obchod, bude jednat s Trumpem i Putinem"
-    ],
-    [
       "https://zpravy.aktualne.cz/zahranici/taji-bily-dum-prusvih-rubio-odmita-souvislost-mezi-vypadky-ktere-postihly-usa/r~aaa292cbef9ca495333d399d81c95f80/",
-      "Tají Bílý dům průšvih? Rubio odmítá souvislost mezi výpadky, které postihly USA"
+      "Ameriku zasáhla série výpadků. Trumpova vláda čelí podezření, že něco tají"
     ],
     [
       "https://denikn.cz/newsletter/2261038/cesko-si-pripomnelo-vyroci-17-listopadu-po-srazce-vlaku-v-praze-jsou-desitky-zranenych-ukrajina-zasahla-krymsky-most-rusko-utocilo-na-mosty-v-kyjeve/?ref=mpm",
@@ -57,10 +81,6 @@
     [
       "https://www.denik.cz/evropa/putin-pozaduje-ustup-nato-pred-rok-1997-rika-analytik-filip-nerad/",
       "Putin požaduje ústup NATO před rok 1997, říká analytik Filip Nerad"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/italie-parlament-zakon-o-antisemitismu-ihra-bratri-italie.A261118_063335_zahranicni_onbu",
-      "V Itálii prošel zákon proti antisemitismu. Nahráváte cenzuře, brání se opozice"
     ],
     [
       "https://zpravy.aktualne.cz/zahranici/muze-to-ukrajinu-bolet-trump-putin-a-si-u-jednoho-stolu-mozna-dojde-i-raketak/r~aaa29a4ac44274cd6a4e475bd75e5e15/",
@@ -83,42 +103,18 @@
       "Demokratka Peltolaová získala senátorský mandát na Aljašce, uvádí CNN a AP"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/policie-pri-podzimnich-protestech-ve-francii-zadrzela-na-15000-lidi/2903217",
-      "Policie při podzimních protestech ve Francii zadržela na 15.000 lidí"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/reditele-post-bellum-kroupa-a-polovkova-podporili-nezavisla-media-a-ukrajinu/2903194",
-      "Ředitelé Post Bellum Kroupa a Polovková podpořili nezávislá média a Ukrajinu"
-    ],
-    [
       "https://www.denik.cz/cesko/lide-si-pripomneli-sametovou-revoluci-opozice-vyzvala-vladu-k-lepsi-komunikaci/",
       "Lidé si připomněli sametovou revoluci, opozice vyzvala vládu k lepší komunikaci"
-    ],
-    [
-      "https://www.denik.cz/evropa/severni-makedonie-prekazila-atentat-v-recku-podezira-iranskou-sit/",
-      "Severní Makedonie překazila atentát v Řecku. Podezírá íránskou síť"
-    ],
-    [
-      "https://www.denik.cz/evropa/v-srbsku-konci-vucicova-vlada-novy-parlament-ovladlo-studentske-hnuti/",
-      "V Srbsku končí Vučičova vláda. Nový parlament ovládlo studentské hnutí"
-    ],
-    [
-      "https://cnn.iprima.cz/prekazeny-iransky-atentat-v-zemi-eu-527360",
-      "Překažený íránský atentát v zemi EU. Severní Makedonie oznámila odhalení sítě podezřelých"
-    ],
-    [
-      "https://www.denik.cz/svet/trump-pohrozil-iranu-tvrdou-odvetou-za-pripadny-utok-teheran-obvineni-odmita/",
-      "Trump pohrozil Íránu tvrdou odvetou za případný útok. Teherán obvinění odmítá"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 27,
+    "initial_pending": 26,
     "completed": [],
     "deferred": [],
-    "remaining": 27
+    "remaining": 26
   },
   "samples_seconds": [
     51.274763,
