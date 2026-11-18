@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-18T12:52:26.441755+00:00",
+  "updated": "2026-11-18T14:07:24.612217+00:00",
   "articles": [
+    {
+      "title": "'I'd say it’s costing people’s lives' – Safer technology is here, so why hasn’t the cycling industry implemented tougher helmet testing yet?",
+      "summary": "Manufacturer inertia, headform disputes and committee politics, we ask the experts why Europe’s helmet standard still doesn’t test for rotation, as some say manufacturers are 'not just thinking about how they protect peo",
+      "url": "https://www.cyclingnews.com/cycling-kit-accessories/helmets/id-say-its-costing-peoples-lives-safer-technology-is-here-so-why-hasnt-the-cycling-industry-implemented-tougher-helmet-testing-yet/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Technika",
+      "published": "2026-11-18T14:03:06+00:00"
+    },
+    {
+      "title": "Castelli Alpha 150 jacket review: Warm and comfortable, but not right for the deep freeze",
+      "summary": "The suggested temperature range is a little off, but it’s still a decent jacket if you get the layers right",
+      "url": "https://www.cyclingnews.com/cycling-kit-accessories/clothing-shoes/castelli-alpha-150-winter-jacket-review/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Technika",
+      "published": "2026-11-18T12:50:35+00:00"
+    },
     {
       "title": "'Significant for cycling in the country' – British Cycling Ventures adds backing to City of London Nocturne in a bid to expand across Britain",
       "summary": "The 2027 event will take place in mid-June",
@@ -54,6 +72,15 @@
       "lang": "CS",
       "category": "MTB",
       "published": "2026-11-18T05:00:00+00:00"
+    },
+    {
+      "title": "Bike24 překonal tržby 100 mil. eur za čtvrtletí. Opravdu roste, nebo jen roztáčí cenovou válku?",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/bike24-prekonal-trzby-100-mil-eur-za-ctvrtleti-opravdu-roste-nebo-jen-roztaci-cenovou-valku/kategorie/servis",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-18"
     },
     {
       "title": "TEST: Avona Callis 32 – Když gravel přeroste do nové dimenze",
@@ -504,15 +531,6 @@
       "lang": "EN",
       "category": "Závody",
       "published": "2026-11-15T05:30:40+00:00"
-    },
-    {
-      "title": "Liptovské bláznovstvá s činelem na zádech",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132124/liptovske-blaznovstva-s-cinelem-na-zadech.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-11-15"
     },
     {
       "title": "Bollekescross v Hamme, druhý díl X2O Trofee, podle českých závoďáků připravil dobře na Ostravu. Nejlepší tu byli Nys a Brand",
@@ -1001,15 +1019,6 @@
       "published": "2026-11-12"
     },
     {
-      "title": "Wolf Tooth Locked-In Bar Ends – Koncovky řídítek, které ovládly světové DH",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/wolf-tooth-locked-in-bar-ends-koncovky-riditek-ktere-ovladly-svetove-dh/kategorie/tech-news",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-11-12"
-    },
-    {
       "title": "Pouze 150 kusů na světě - limitovaná verze Canyon Spectral:ON CF LTD přináší výkon 1 500 W",
       "summary": "",
       "url": "https://www.mtbiker.cz/clanky/132119/pouze-150-kusu-na-svete-limitovana-verze-canyon-spectralon-cf-ltd-prinasi-vykon-1-500-w.html",
@@ -1034,6 +1043,15 @@
       "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Cyklistika",
+      "published": "2026-11-12"
+    },
+    {
+      "title": "Wolf Tooth Locked-In Bar Ends – Koncovky řídítek, které ovládly světové DH",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/wolf-tooth-locked-in-bar-ends-koncovky-riditek-ktere-ovladly-svetove-dh/kategorie/tech-news",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
       "published": "2026-11-12"
     },
     {
@@ -3132,24 +3150,6 @@
       "lang": "EN",
       "category": "MTB",
       "published": "2026-10-07T15:00:00+00:00"
-    },
-    {
-      "title": "Cadex’s first mountain bike wheels weigh 1,248g with bonded carbon spokes and buckets of lateral stiffness",
-      "summary": "The Max XC WheelSystem comes with an unusual carbon construction, a 120-tooth ratchet and some big claims about its stiffness",
-      "url": "https://www.bikeradar.com/news/cadex-max-xc-wheelsystem",
-      "source": "BikeRadar MTB",
-      "lang": "EN",
-      "category": "MTB",
-      "published": "2026-10-07T14:50:59+00:00"
-    },
-    {
-      "title": "Stargazing and bikepacking in Arizona was one of the best cycling experiences I've ever had",
-      "summary": "Sandy off-road climbs, soaring temperatures and starry skies in the Arizona desert",
-      "url": "https://www.bikeradar.com/features/routes-and-rides/arizona-bikepacking-stargazing-ride",
-      "source": "BikeRadar Gravel",
-      "lang": "EN",
-      "category": "Gravel",
-      "published": "2026-10-07T13:00:00+00:00"
     }
   ],
   "source_errors": [
