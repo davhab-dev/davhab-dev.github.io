@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-11-18T05:09:23.671192+00:00",
+  "updated_at": "2026-11-18T06:17:09.744317+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "R5M: Česko si připomnělo výročí 17. listopadu | Po srážce vlaků v Praze jsou desítky zraněných | Ukrajina zasáhla Krymský most, Rusko útočilo na mosty v Kyjevě",
+      "summary": "",
+      "source": "Deník N",
+      "category": "domaci",
+      "published_at": "2026-11-18T06:04:38+00:00",
+      "url": "https://denikn.cz/newsletter/2261038/cesko-si-pripomnelo-vyroci-17-listopadu-po-srazce-vlaku-v-praze-jsou-desitky-zranenych-ukrajina-zasahla-krymsky-most-rusko-utocilo-na-mosty-v-kyjeve/?ref=mpm",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Putin požaduje ústup NATO před rok 1997, říká analytik Filip Nerad",
+      "summary": "Čekalo se, že to bude trvat týdny, možná měsíce. Rozhodnutí ale padlo na summit Evropské unie v Dublinu během několika hodin. Evropský tým vyjednavačů s…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-18T07:00:00+01:00",
+      "url": "https://www.denik.cz/evropa/putin-pozaduje-ustup-nato-pred-rok-1997-rika-analytik-filip-nerad/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "„Může to Ukrajinu bolet.“ Trump, Putin a Si u jednoho stolu, možná dojde i „Rakeťák“",
+      "summary": "Tři světoví lídři nad 70 let, kteří drží v rukou 90 procent jaderných zbraní, budou jednat u jednoho stolu a za zavřenými dveřmi. A když…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-18T06:52:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/muze-to-ukrajinu-bolet-trump-putin-a-si-u-jednoho-stolu-mozna-dojde-i-raketak/r~aaa29a4ac44274cd6a4e475bd75e5e15/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Výpadky v USA spolu nesouvisí, uvedl Rubio. Lidé si ale myslí, že úřady něco tají",
+      "summary": "Výpadky, které postihly v USA letectví či banky, mezi sebou nesouvisí, uvedl v noci na středu ministr zahraničí Marco Rubio. Podle něj technické problémy nebyly…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-18T05:41:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/usa-vypadky-letiste-banky-marco-rubio-obcane-faa.A261118_062538_zahranicni_onbu",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Demokraté potvrdili jasnou většinu. Poslední stát USA sečetl hlasy do Senátu",
+      "summary": "Demokratka Mary Peltolaová získala senátorský mandát na Aljašce. Uvedly to ve středu agentura AP a stanice CNN na základě svých odhadů. Demokraté by tak v…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-18T06:15:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/demokrate-potvrdili-jasnou-vetsinu-posledni-stat-usa-secetl-hlasy-do-senatu/r~aaa2963f4b046b7d550a12cacf01a64d/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Demokratka Peltolaová podle odhadů zvítězila v senátních volbách na Aljašce",
       "summary": "Demokratka Mary Peltolaová získala senátorský mandát na Aljašce. Uvedly to v noci na středu agentura AP a stanice CNN na základě svých odhadů. Demokraté by…",
@@ -13,8 +63,8 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Peltolaová vyhrála senátorský mandát na Aljašce, demokraté mají 56 křesel",
-      "summary": "Demokratka Mary Peltolaová podle projekcí agentury AP a stanice CNN získala senátorský mandát na Aljašce, čímž si demokraté v novém složení Senátu zajistili většinu 56…",
+      "title": "Aljaška patří demokratům. Kandidátce pomohla finta s jmény, tvrdí republikáni",
+      "summary": "Demokratka Mary Peltolaová získala senátorský mandát na Aljašce. Uvedly to ve středu agentura AP a stanice CNN na základě svých odhadů. Demokraté by tak v…",
       "source": "iDNES.cz",
       "category": "svet",
       "published_at": "2026-11-18T04:43:00+00:00",
@@ -23,12 +73,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Čínský prezident vyzval na zahájení summitu společenství APEC k dialogu",
+      "title": "Čínský prezident vyzval na summitu společenství APEC k dialogu",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
       "category": "svet",
       "published_at": "2026-11-18T05:13:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/cinsky-prezident-vyzval-na-zahajeni-summitu-spolecenstvi-apec-k-dialogu/2903223",
+      "url": "https://www.ceskenoviny.cz/zpravy/cinsky-prezident-vyzval-na-summitu-spolecenstvi-apec-k-dialogu/2903223",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -163,52 +213,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Tři scénáře pro pokračování Trumpovy války. Rychlé řešení nepřinesou, tvrdí analytici",
-      "summary": "Válka s Íránem si již vyžádala 15 mrtvých a více než 800 zraněných amerických vojáků. Washington utratil desítky miliard dolarů a konflikt nadále pokračuje. Spojené…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-17T19:56:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/analytici-vidi-pro-usa-v-iranu-tri-cesty-rychle-reseni-ale-neprinesou/r~aaa2986e9ef9b2d8237e4cc3656061a8/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Žádné výjimky pro ruské hokejisty. Macinka obeslal evropské ministry",
-      "summary": "Ministr zahraničí Petr Macinka (Motoristé) požádal unijní šéfy diplomacie, aby ruským hokejistům a hokejistkám neudělovali víza, která by jim umožnila účast na sportovních turnajích. Řekl…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-17T19:45:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/zadne-vyjimky-pro-ruske-hokejisty-macinka-obeslal-evropske-ministry/r~aaa29b3f13537d1e85c57c9a6143a609/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "„Organizovaná řada aktivistů,“ kritizuje Turek oslavy 17. listopadu na Národní třídě",
-      "summary": "Poslanec za Motoristy Filip Turek na sociálních sítích vyzval veřejnost, aby si úterní výročí 17. listopadu nenechala ukrást „aktivistickými řvouny“. Oslavy na Národní třídě označil…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-17T19:13:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/organizovana-rada-aktivistu-kritizuje-turek-oslavy-17-listopadu-na-narodni-tride/r~aaa298869b79a80e0d5178505c69aed9/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Zelenskyj žádá spojence o střely Patriot, neměly by dle něj zůstávat ve skladech",
       "summary": "Ukrajinský prezident Volodymyr Zelenskyj vyzval západní spojence, aby Ukrajině poskytli střely do protivzdušných systémů Patriot ze svých zásob. Tyto střely by podle něj neměly zůstávat…",
       "source": "ČT24",
       "category": "svet",
       "published_at": "2026-11-17T16:53:15+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/zelenskyj-zada-spojence-o-strely-patriot-nemely-by-dle-nej-zustavat-ve-skladech-379695",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Symbol svobody či ztráta suverenity. Na Národní třídě se střetly různorodé názory",
-      "summary": "Na Národní třídě v průběhu dne docházelo k dílčím slovním potyčkám mezi lidmi. Předmětem poklidných i vyostřených debat byly hlavně rozdílné názory na domácí politiku…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-17T16:18:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/symbol-svobody-ci-ztrata-suverenity-na-narodni-tride-se-stretly-odlisne-nazory.A261117_122643_domaci_meli",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -243,42 +253,22 @@
       "importance_kind": "pending"
     },
     {
+      "title": "Překažený íránský atentát v zemi EU. Severní Makedonie oznámila odhalení sítě podezřelých",
+      "summary": "Úřady v Severní Makedonii v úterý uvedly, že překazily atentát na osobu v sousedním Řecku a rozbily síť spojenou s Íránem. Informovala o tom agentura…",
+      "source": "CNN Prima NEWS",
+      "category": "svet",
+      "published_at": "2026-11-17T15:01:53+01:00",
+      "url": "https://cnn.iprima.cz/prekazeny-iransky-atentat-v-zemi-eu-527360",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
       "title": "Trump pohrozil Íránu tvrdou odvetou za případný útok. Teherán obvinění odmítá",
       "summary": "Pokud by Írán zaútočil na Washington, zaplatil by za to vysokou cenu, prohlásil v úterý americký prezident Donald Trump podle stanice CNN po příletu do…",
       "source": "Deník",
       "category": "svet",
       "published_at": "2026-11-17T14:59:03+01:00",
       "url": "https://www.denik.cz/svet/trump-pohrozil-iranu-tvrdou-odvetou-za-pripadny-utok-teheran-obvineni-odmita/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Zelenskyj potvrdil útok na Krymský most. Ukrajina se mstila za ruské údery",
-      "summary": "Ukrajinský prezident Volodymyr Zelenskyj potvrdil noční útok na Krymský most, který spojuje ruskou pevninu s okupovaným poloostrovem Krym. Zelenskyj na síti X napsal, že úder…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-17T11:22:30+01:00",
-      "url": "https://www.denik.cz/evropa/zelenskyj-potvrdil-utok-na-krymsky-most-ukrajina-se-mstila-za-ruske-udery/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Havlův odkaz je živý i zde, říká korejský starosta. 17. listopad si připomíná i druhá strana světa",
-      "summary": "Svátek 17. listopadu si jako Den boje za svobodu a demokracii připomínají lidé především v Česku a na Slovensku. V úterý si na odkaz přední…",
-      "source": "CNN Prima NEWS",
-      "category": "svet",
-      "published_at": "2026-11-17T10:22:18+01:00",
-      "url": "https://cnn.iprima.cz/havluv-odkaz-je-dulezity-rika-korejsky-starosta-17-listopad-pripomenou-i-na-druhe-strane-sveta-527316",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Pavla vítal potlesk i pískot, Fialovi lidé říkali, ať se vrátí. Slaví se nejen na Národní",
-      "summary": "Tisíce lidí si v úterý v Praze na Národní třídě připomínají výročí sametové revoluce, která v roce 1989 vyústila v pád komunistického režimu. Vzpomínkové akce…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-17T07:05:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/zacinaji-oslavy-17-listopadu-na-narodni-letos-bude-chybet-premier/r~aaa29bc84cc2b51b541c48f803082428/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     }
@@ -291,7 +281,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 15,
       "selected": 5,
       "free_articles_checked": 7
     },
@@ -301,7 +291,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -331,7 +321,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -341,9 +331,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
-      "selected": 7,
-      "free_articles_checked": 7
+      "candidates": 7,
+      "selected": 5,
+      "free_articles_checked": 6
     },
     {
       "name": "Deník",
@@ -353,7 +343,7 @@
       "status": "ok",
       "candidates": 12,
       "selected": 4,
-      "free_articles_checked": 6
+      "free_articles_checked": 5
     },
     {
       "name": "iDNES.cz",
@@ -371,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 11,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -401,9 +391,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 3,
-      "selected": 0,
-      "free_articles_checked": 0
+      "candidates": 6,
+      "selected": 1,
+      "free_articles_checked": 1
     },
     {
       "name": "Respekt",
@@ -431,7 +421,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
+      "candidates": 8,
       "selected": 0,
       "free_articles_checked": 0
     },
