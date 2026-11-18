@@ -3,16 +3,48 @@
   "current": null,
   "queue": [
     [
+      "https://zpravy.aktualne.cz/zahranici/bezmoc-male-evropske-zeme-cizi-drony-bez-potizi-brazdi-jeji-nebe-z-incidentu-vini-rusko/r~aaa291dfe0af82f3620405f2e473dc59/",
+      "Bezmoc malé evropské země: cizí drony bez potíží brázdí její nebe. Z incidentu viní Rusko"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/cimicky-ma-nastoupit-do-vezeni-po-24-listopadu-obdrzel-vyzvu-od-soudu/2903603",
+      "Cimický má nastoupit do vězení po 24. listopadu, obdržel výzvu od soudu"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/castecne-zniceni-krymskeho-mostu-ma-symbolicky-i-logisticky-vyznam-379730",
+      "Částečné zničení Krymského mostu má symbolický i logistický význam"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/prvni-fotografie-po-30-letech-v-amazonii-vyfotili-cleny-izolovaneho-kmene-awa/r~aaa29afb5cb71747b36d040e161b4293/",
+      "První fotografie po 30 letech. V Amazonii vyfotili členy izolovaného kmene Awá"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/trump-si-a-putin-poprve-spolu-americky-a-rusky-vudce-si-pred-fotem-potrasli-rukama.A261118_141443_zahranicni_bro",
+      "„Velká trojka“ poprvé spolu. Trump si před focením třásl rukou s Putinem"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/moskva-chystala-na-polske-hranici-provokaci-s-velkym-poctem-obeti-tvrdi-list-379729",
+      "Moskva chystala na polské hranici provokaci s velkým počtem obětí, tvrdí list"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/pakistanec-trump-atentat-soud-usa-27-let.A261118_171140_zahranicni_dtt",
+      "Chtěl pomstít Solejmáního. Pákistánec dostal za plán atentátu na Trumpa 27 let"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/v-amazonii-vyfotili-po-desetiletich-cleny-kmene-awa-z-pralesa-vysli-pro-jidlo/2903581",
+      "V Amazonii vyfotili po desetiletích členy kmene Awá, z pralesa vyšli pro jídlo"
+    ],
+    [
+      "https://cnn.iprima.cz/trumpa-vital-si-tin-pching-putina-jen-sef-kancelare-rusko-hraje-na-summitu-druhe-housle-527463",
+      "Trumpa vítal Si Ťin-pching, Putina jen šéf kanceláře. Rusko hraje na summitu druhé housle"
+    ],
+    [
       "https://www.ceskenoviny.cz/zpravy/-trump-podle-ap-planuje-s-putinem-jednat-v-cine-samostatne-kreml-to-poprel/2901941",
       "Trump podle AP plánuje s Putinem jednat v Číně samostatně, Kreml to popřel"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/moskva-omezuje-financovani-krymu-tvrdi-ukrajinska-rozvedka-379725",
       "Moskva omezuje financování Krymu, tvrdí ukrajinská rozvědka"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/trump-si-a-putin-poprve-spolu-americky-a-rusky-vudce-si-pred-fotem-potrasli-rukama.A261118_141443_zahranicni_bro",
-      "„Velká trojka“ poprvé spolu. Trump si před focením třásl rukou s Putinem"
     ],
     [
       "https://www.denik.cz/svet/nova-jalta-lidri-se-obavaji-setkani-trumpa-putina-a-si-tin-pchinga-bez-kyjeva/",
@@ -32,15 +64,15 @@
     ],
     [
       "https://zpravy.aktualne.cz/domaci/znovu-k-urnam-senatni-volby-na-zdarsku-se-budou-opakovat-soud-zjistil-pochybeni/r~aaa292fe450069ba57a9c7a41a5b6400/",
-      "Znovu k urnám. Senátní volby na Žďársku se budou opakovat, soud zjistil pochybení"
+      "Měl dostat aspoň o dva hlasy více. Soud nařídil opakování supertěsné volby"
     ],
     [
       "https://www.idnes.cz/zpravy/zahranicni/nemecka-banka-zrusila-ficovu-synovi-ucet-a-udala-ho-pro-podezreni-z-prani-penez.A261118_133340_zahranicni_kha",
       "Německá banka zrušila Ficovu synovi účet a udala ho pro podezření z praní peněz"
     ],
     [
-      "https://www.idnes.cz/zpravy/domaci/zuna-cesko-by-mohlo-pristi-rok-vypsat-zakazku-na-protivzdusnou-obranu.A261118_075845_domaci_ijan",
-      "Česko chystá nákup systémů protivzdušné obrany. Babiš v Izraeli dostal nabídku"
+      "https://www.ceskenoviny.cz/zpravy/opakovanych-voleb-na-zdarsku-se-chteji-zucastnit-cerny-klement-i-smarda/2903236",
+      "Opakovaných voleb na Žďársku se chtějí zúčastnit Černý, Klement i Šmarda"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/cr-ma-podle-babise-od-izraele-nabidku-na-novy-obranny-system-spyder-all-in-one/2903254",
@@ -49,14 +81,6 @@
     [
       "https://www.ceskenoviny.cz/zpravy/ruskym-sportovcum-nebude-umoznen-vstup-do-cr-uvedl-metnar/2903489",
       "Ruským sportovcům nebude umožněn vstup do ČR, uvedl Metnar"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/ukrajina-zadrzela-podezreleho-z-bombovych-vyhruzek-skolam-informoval-eurojust-379720",
-      "Ukrajina zadržela podezřelého z bombových výhrůžek školám, informoval Eurojust"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/nemecky-svaz-novinaru-zada-aby-se-merz-pri-setkani-s-babisem-vyjadril-k-situaci-kolem-ct-a-cro-379719",
-      "Německý svaz novinářů žádá, aby se Merz při setkání s Babišem vyjádřil k situaci kolem ČT a ČRo"
     ],
     [
       "https://www.denik.cz/evropa/utok-na-krymsky-most-kercsky-most-operace-starlink/",
@@ -71,54 +95,26 @@
       "Lékař posílal lidi na nelegální transplantace ledvin. Dostal 12 let vězení"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/brifink-po-jednani-metnara-s-vedenim-hokejoveho-svazu-379717",
-      "Ruští sportovci do Česka vpuštěni nebudou, řekl Metnar"
-    ],
-    [
       "https://zpravy.aktualne.cz/zahranici/obrazem-trump-dorazil-na-summit-si-ho-objal-na-recepci-se-zdravili-s-putinem/r~aaa291132606601fd5e52b79f4d17130/",
       "Obrazem: Trump se už potkal s Putinem. Si objal amerického hosta na letišti"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/ve-vyberovem-rizeni-na-sefa-uohs-se-seslo-17-prihlasek/2902732",
-      "Ve výběrovém řízení na šéfa ÚOHS se sešlo 17 přihlášek"
     ],
     [
       "https://cnn.iprima.cz/z-kazatele-vudcem-zkazonosne-sekty-na-smrt-privedl-900-lidi-co-vedlo-k-masove-tragedii-527389",
       "Z kazatele vůdcem zkázonosné sekty. Jim Jones přivedl na smrt více než 900 lidí"
     ],
     [
-      "https://zpravy.aktualne.cz/domaci/zdrazime-mhd-a-parkovani-vzkazuje-prazska-koalice-rekla-kolik-ma-stat-rocni-kupon/r~aaa29030b688cdb5c1cc43963ea51c54/",
-      "Zdražíme MHD a parkování, vzkazuje nová pražská vláda. Roční kupon už má cenovku"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/prazska-koalice-planuje-zdrazeni-mhd-a-parkovani-ci-zklidneni-dopravy-v-centru/2903396",
-      "Pražská koalice plánuje zdražení MHD a parkování či zklidnění dopravy v centru"
-    ],
-    [
-      "https://zpravy.aktualne.cz/zahranici/mohla-svrhnout-merze-bananova-republika-zlobi-se-nemecka-politicka-na-ustavni-soud/r~aaa29b94ffff941cd4b5a9e62eb391a0/",
-      "Mohla svrhnout Merze. „Banánová republika,“ zlobí se německá politička na ústavní soud"
-    ],
-    [
       "https://www.denik.cz/evropa-pro-cechy/sance-ze-by-rusko-ukoncilo-valku-neni-v-procentech-ale-v-promile-rika-nerad/",
       "Šance, že by Rusko ukončilo válku, není v procentech, ale v promile, říká Nerad"
-    ],
-    [
-      "https://zpravy.aktualne.cz/zahranici/ostre-varovani-z-polska-rusove-chteli-zabijet-pod-falesnou-vlajkou-hrozi-evrope/r~aaa29c51b3d5361edf12b9e9b82d352b/",
-      "Moskva měla plán, který připomíná nacistickou provokaci. Poláci ho překazili"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/ek-navrhla-novou-pujcku-pro-ukrajinu-ve-vysi-45-miliard-eur/2903339",
-      "EK navrhla novou půjčku pro Ukrajinu ve výši 45 miliard eur"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 27,
+    "initial_pending": 26,
     "completed": [],
     "deferred": [],
-    "remaining": 27
+    "remaining": 26
   },
   "samples_seconds": [
     51.274763,
