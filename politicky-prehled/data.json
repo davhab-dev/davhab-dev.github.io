@@ -1,7 +1,77 @@
 {
-  "updated_at": "2026-11-18T15:04:27.640319+00:00",
+  "updated_at": "2026-11-18T16:08:55.925702+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Trump podle AP plánuje s Putinem jednat v Číně samostatně, Kreml to popřel",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-18T17:05:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/-trump-podle-ap-planuje-s-putinem-jednat-v-cine-samostatne-kreml-to-poprel/2901941",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Moskva omezuje financování Krymu, tvrdí ukrajinská rozvědka",
+      "summary": "Projektům výstavby nových vodních nádrží na Ruskem okupovaném Krymu, které oznámily tamní okupační úřady, hrozí kvůli nedostatku financí a korupci neúspěch. Plány se týkají výstavby…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-18T15:52:04+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/moskva-omezuje-financovani-krymu-tvrdi-ukrajinska-rozvedka-379725",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "„Velká trojka“ poprvé spolu. Trump si před focením třásl rukou s Putinem",
+      "summary": "Americký prezident Donald Trump, čínský hostitel Si Ťin-pching a ruský diktátor Vladimir Putin se v jihočínském Šen-čenu na summitu Asijsko-pacifického hospodářského společenství (APEC) setkali před…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-18T15:37:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/trump-si-a-putin-poprve-spolu-americky-a-rusky-vudce-si-pred-fotem-potrasli-rukama.A261118_141443_zahranicni_bro",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Nová Jalta? Lídři se obávají setkání Trumpa, Putina a Si Ťin-pchinga. Bez Kyjeva",
+      "summary": "Americký prezident Donald Trump, ruský vůdce Vladimir Putin a čínský prezident Si Ťin-pching se ve čtvrtek 19. listopadu setkali v čínském Šen-čenu. Jejich jednání vyvolává…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-18T16:32:00+01:00",
+      "url": "https://www.denik.cz/svet/nova-jalta-lidri-se-obavaji-setkani-trumpa-putina-a-si-tin-pchinga-bez-kyjeva/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Na Turka a Macinku by mohl mít dopad jen betonový panel, Letná těžko, říká Sokol",
+      "summary": "Demonstrace na Letné se zúčastnily stovky tisíc lidí, nejvíc v polistopadové historii. Její organizátoři z Milionu chvilek vznesli na vládu několik požadavků. Premiérova odpověď však…",
+      "source": "Deník",
+      "category": "domaci",
+      "published_at": "2026-11-18T16:27:46+01:00",
+      "url": "https://www.denik.cz/cesko/na-turka-a-macinku-by-mohl-mit-dopad-jen-betonovy-panel-letna-tezko-rika-sokol/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "„Jsme jako pštros, který strčí hlavu do písku,“ říká analytik o revoluci v energetice",
+      "summary": "V turecké Antalyi vrcholí klimatická konference COP31. Bez oficiální účasti Bílého domu, zato s devadesáti tisíci delegáty a nečekaným spojencem zelené transformace: geopolitikou. Jak válka…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-18T15:23:44+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/jsme-jako-pstros-ktery-strci-hlavu-do-pisku-rika-analytik-o-revoluci-v-energetice-379722",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Primátorem Chomutova zvolili zastupitelé Radka Vyšína (ANO)",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-18T16:00:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/primatorem-chomutova-zvolili-zastupitele-radka-vysina-ano/2903257",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Znovu k urnám. Senátní volby na Žďársku se budou opakovat, soud zjistil pochybení",
       "summary": "Hlasování v senátních volbách na Žďársku se zopakuje, a to od prvního kola a se stejnými kandidáty, rozhodl Nejvyšší správní soud (NSS) ve středu. Vyhověl…",
@@ -9,26 +79,6 @@
       "category": "domaci",
       "published_at": "2026-11-18T15:43:00+01:00",
       "url": "https://zpravy.aktualne.cz/domaci/znovu-k-urnam-senatni-volby-na-zdarsku-se-budou-opakovat-soud-zjistil-pochybeni/r~aaa292fe450069ba57a9c7a41a5b6400/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Trump bude s Putinem na summitu v Číně jednat samostatně",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-18T15:35:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/trump-bude-s-putinem-na-summitu-v-cine-jednat-samostatne/2901941",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "„Velká trojka“ poprvé spolu. Trump si třásl rukou s Putinem, budou jednat i ve dvou",
-      "summary": "Americký prezident Donald Trump, čínský hostitel Si Ťin-pching a ruský diktátor Vladimir Putin se v jihočínském Šen-čenu na summitu Asijsko-pacifického hospodářského společenství (APEC) setkali před…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-18T14:29:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/trump-si-a-putin-poprve-spolu-americky-a-rusky-vudce-si-pred-fotem-potrasli-rukama.A261118_141443_zahranicni_bro",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -53,32 +103,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Na Ukrajině zatkli podezřelého z bombových výhrůžek českým školám",
-      "summary": "Člověka podezřelého z bombových výhrůžek školám v Česku, na Slovensku a v Lotyšsku zadrželi v září ukrajinští kriminalisté. Informoval o tom Úřad evropské justiční spolupráce…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-18T14:14:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/na-ukrajine-zatkli-podezreleho-z-bombovych-vyhruzek-ceskym-skolam.A261118_145825_domaci_aoc",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "ČR má podle Babiše od Izraele nabídku na nový obranný systém Spyder All-in-One",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
       "category": "svet",
       "published_at": "2026-11-18T15:13:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/cr-ma-podle-babise-od-izraele-nabidku-na-novy-obranny-system-spyder-all-in-one/2903254",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Polsko míří k jaderným zbraním, s USA jedná o výcviku pilotů pro shazování pum",
-      "summary": "Polsko se přibližuje k americkým jaderným zbraním. Varšava jedná s Washingtonem o zapojení do programu jejich sdílení v rámci NATO, který by polským pilotům stíhaček…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-18T14:00:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/polsko-nato-usa-jaderne-zbrane-f-35-stihacka-pilot.A261118_142846_zahranicni_dtt",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -99,16 +129,6 @@
       "category": "svet",
       "published_at": "2026-11-18T13:53:47+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/ukrajina-zadrzela-podezreleho-z-bombovych-vyhruzek-skolam-informoval-eurojust-379720",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Inspirace a vzor pro ostatní. Pavel přijal na Hradě talentované studenty",
-      "summary": "Vítěze mezinárodních vědomostních soutěží i studenty prestižních zahraničních univerzit ve středu u příležitosti Mezinárodního dne studentstva přijal na pražském Hradě prezident Petr Pavel. Mezi 29…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-18T13:48:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/pavel-prijal-na-hrade-talentovane-studenty-a-studentky.A261118_141058_domaci_meli",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -223,16 +243,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Evropská komise navrhla novou půjčku pro Ukrajinu ve výši 45 miliard eur",
-      "summary": "Evropská komise (EK) navrhla novou půjčku pro Ukrajinu ve výši 45 miliard eur (1,1 bilionu korun) na rok 2027, oznámila v Bruselu předsedkyně Komise Ursula…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-18T11:20:53+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/evropska-komise-navrhla-novou-pujcku-pro-ukrajinu-ve-vysi-45-miliard-eur-379716",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Šance, že by Rusko ukončilo válku, není v procentech, ale v promile, říká Nerad",
       "summary": "V dalším dílu Evropy pro Čechy se vydáme až do Irska. V Dublinu se totiž v minulých dnech konal summit Evropského politického společenství, na který…",
       "source": "Deník",
@@ -253,42 +263,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Trůn pro Trumpa. Polský prezident mu tajně daroval jantarové křeslo",
-      "summary": "Polský prezident Karol Nawrocki dal svému americkému protějšku Donaldu Trumpovi k narozeninám dar, o kterém veřejnost ani polská diplomacie či polské velvyslanectví ve Washingtonu nevěděly.…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-18T11:39:35+01:00",
-      "url": "https://www.denik.cz/svet/trun-pro-trumpa-polsky-prezident-mu-tajne-daroval-jantarove-kreslo/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Senátní volby na Žďársku jsou neplatné, rozhodl soud",
-      "summary": "Nejvyšší správní soud označil výsledky senátních voleb na Žďársku za neplatné. Rozhodl na základě stížnosti, kterou podal Radek Černý (ODS), jenž tam o jediný hlas…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-18T09:38:23+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/soud-oznami-rozhodnuti-o-stiznosti-na-senatni-volby-na-zdarsku-rozdil-tam-byl-jeden-hlas-379710",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Reuters: Ukrajina propojila lidi s roboty, aby odrazila Rusy",
+      "title": "EK navrhla novou půjčku pro Ukrajinu ve výši 45 miliard eur",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
       "category": "svet",
-      "published_at": "2026-11-18T10:12:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/reuters-ukrajina-propojila-lidi-s-roboty-aby-odrazila-rusy/2903304",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Německo sníží daň z elektřiny a zavede cenový strop na paliva",
-      "summary": "Německo od příštího roku sníží daň z elektřiny a zavede cenový strop na pohonné hmoty. Při nočním jednání se na tom dohodly strany německé vládní…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-18T08:20:56+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/nemecko-snizi-dan-z-elektriny-a-zavede-cenovy-strop-na-paliva-379708",
+      "published_at": "2026-11-18T11:11:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/ek-navrhla-novou-pujcku-pro-ukrajinu-ve-vysi-45-miliard-eur/2903339",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     }
@@ -302,7 +282,7 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 18,
-      "selected": 6,
+      "selected": 5,
       "free_articles_checked": 6
     },
     {
@@ -311,7 +291,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 18,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -322,7 +302,7 @@
       "feeds_total": 2,
       "status": "ok",
       "candidates": 21,
-      "selected": 6,
+      "selected": 7,
       "free_articles_checked": 8
     },
     {
@@ -341,7 +321,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -362,8 +342,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 12,
-      "selected": 4,
-      "free_articles_checked": 4
+      "selected": 5,
+      "free_articles_checked": 5
     },
     {
       "name": "iDNES.cz",
@@ -371,9 +351,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
-      "selected": 6,
-      "free_articles_checked": 6
+      "candidates": 18,
+      "selected": 3,
+      "free_articles_checked": 3
     },
     {
       "name": "CNN Prima NEWS",
@@ -381,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 11,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -391,7 +371,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 5,
+      "candidates": 7,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -401,7 +381,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 16,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -411,7 +391,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -421,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 9,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -431,7 +411,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 4,
+      "candidates": 5,
       "selected": 0,
       "free_articles_checked": 0
     },
