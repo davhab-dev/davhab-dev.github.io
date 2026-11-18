@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-18T22:42:11.210973+00:00",
+  "updated": "2026-11-18T23:39:40.420554+00:00",
   "articles": [
+    {
+      "title": "TEST: Avona Callis 32 – Když gravel přeroste do nové dimenze",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/avona-callis-test/kategorie/testy-recenze",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "Gravel",
+      "published": "2026-11-19"
+    },
+    {
+      "title": "Roglič se rozhodl, v příštím roce bude závodit za NSN. Doplní Carapaze, Buitraga a Van Eetvelta",
+      "summary": "",
+      "url": "https://www.roadcycling.cz/clanek/roglic-se-rozhodl-v-pristim-roce-bude-zavodit-za-nsn-doplni-carapaze-buitraga-a-van-eetvelta",
+      "source": "RoadCycling.cz",
+      "lang": "CS",
+      "category": "Závody",
+      "published": "2026-11-19"
+    },
     {
       "title": "24 teams come together to form Collective Cycling Group, the latest venture aiming to 'unlock the value' of pro cycling",
       "summary": "Collective Cycling Group rises from the ashes of One Cycling with official announcement",
@@ -161,15 +179,6 @@
       "source": "MTBS.cz",
       "lang": "CS",
       "category": "MTB",
-      "published": "2026-11-18"
-    },
-    {
-      "title": "TEST: Avona Callis 32 – Když gravel přeroste do nové dimenze",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/avona-callis-test/kategorie/testy-recenze",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Gravel",
       "published": "2026-11-18"
     },
     {
@@ -908,15 +917,6 @@
       "source": "MTBIKER.cz",
       "lang": "CS",
       "category": "MTB",
-      "published": "2026-11-13"
-    },
-    {
-      "title": "Evenepoel chce v příštím roce podávat vyrovnanější výkony a získat oba tituly mistra světa. Trasa Tour de France se mu líbí",
-      "summary": "",
-      "url": "https://www.roadcycling.cz/clanek/evenepoel-chce-v-pristim-roce-podavat-vyrovnanejsi-vykony-a-ziskat-oba-tituly-mistra-sveta-trasa-tour-de-france-se-mu-libi",
-      "source": "RoadCycling.cz",
-      "lang": "CS",
-      "category": "Závody",
       "published": "2026-11-13"
     },
     {
@@ -2162,6 +2162,15 @@
       "published": "2026-11-05T08:08:29+00:00"
     },
     {
+      "title": "Luxusní značky, třeste se – test novinek Sportful 2026",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132085/luxusni-znacky-treste-se-test-novinek-sportful-2026.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-05"
+    },
+    {
       "title": "8 of the best mountain bike lights for night riding in 2026 tried and tested",
       "summary": "Seek out new trails after dark with the best MTB lights",
       "url": "https://www.bikeradar.com/advice/buyers-guides/best-mountain-bike-lights",
@@ -3141,15 +3150,6 @@
       "lang": "EN",
       "category": "Gravel",
       "published": "2026-10-09T14:00:00+00:00"
-    },
-    {
-      "title": "How to pump up a bike tyre in six simple steps | Plus, everything you need to know about pumps, valves, pressure and more",
-      "summary": "The ins and outs of getting your tyres pumped and primed",
-      "url": "https://www.bikeradar.com/advice/workshop/how-to-pump-up-a-bike-tyre",
-      "source": "BikeRadar Gravel",
-      "lang": "EN",
-      "category": "Technika",
-      "published": "2026-10-09T10:00:00+00:00"
     }
   ],
   "source_errors": [
