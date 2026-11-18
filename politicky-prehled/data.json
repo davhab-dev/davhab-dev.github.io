@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-18T21:00:31.745443+00:00",
+  "updated_at": "2026-11-18T21:57:51.674271+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Podle členů Trumpovy vlády výpadky, které postihly USA, spolu nesouvisí",
+      "summary": "Výpadky, které postihly v USA letectví či banky, spolu nesouvisí, uvedl v noci na středu 18. listopadu ministr zahraničí Marco Rubio. Podle něj technické problémy…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-18T22:14:44+01:00",
+      "url": "https://www.denik.cz/svet/podle-clenu-trumpovy-vlady-vypadky-ktere-postihly-usa-spolu-nesouvisi/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Japonská premiérka jednala s Putinem o zadrženém novináři i firmách v Rusku",
       "summary": "Japonská premiérka Sanae Takaičiová se ve středu v Číně poprvé ve funkci setkala s ruským prezidentem Vladimirem Putinem. Krátce s ním jednala mimo jiné o…",
@@ -9,6 +19,16 @@
       "category": "svet",
       "published_at": "2026-11-18T20:55:00+00:00",
       "url": "https://www.idnes.cz/zpravy/zahranicni/japonska-premierka-jednani-vladimir-putin-cina-rusko.A261118_212054_zahranicni_fohl",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Tři sedmdesátníci bez plánu. Evropu děsí, co Trump slíbí Putinovi, píše o čínském summitu CNN",
+      "summary": "Donald Trump, Vladimir Putin a Si Ťin-pching se ve čtvrtek setkají v čínském Šen-čenu. Schůzka tří mocných lídrů USA, Ruska a Číny nemá jasný program…",
+      "source": "CNN Prima NEWS",
+      "category": "svet",
+      "published_at": "2026-11-18T21:53:26+01:00",
+      "url": "https://cnn.iprima.cz/analyza-trump-muze-putinovi-znovu-nahrat-summit-s-cinou-a-ruskem-budi-v-evrope-obavy-527442",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -223,26 +243,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Trumpa vítal Si Ťin-pching, Putina jen šéf kanceláře. Rusko hraje na summitu druhé housle",
-      "summary": "Vlajky, červený koberec a objetí od samotného prezidenta Si Ťin-pchinga. Velkolepé středeční uvítání šéfa Bílého domu Donalda Trumpa v Číně považují experti za výjimečné gesto.…",
-      "source": "CNN Prima NEWS",
-      "category": "svet",
-      "published_at": "2026-11-18T17:05:53+01:00",
-      "url": "https://cnn.iprima.cz/trumpa-vital-si-tin-pching-putina-jen-sef-kancelare-rusko-hraje-na-summitu-druhe-housle-527463",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Trump podle AP plánuje s Putinem jednat v Číně samostatně, Kreml to popřel",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-18T17:05:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/-trump-podle-ap-planuje-s-putinem-jednat-v-cine-samostatne-kreml-to-poprel/2901941",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Na Turka a Macinku by mohl mít dopad jen betonový panel, Letná těžko, říká Sokol",
       "summary": "Demonstrace na Letné se zúčastnily stovky tisíc lidí, nejvíc v polistopadové historii. Její organizátoři z Milionu chvilek vznesli na vládu několik požadavků. Premiérova odpověď však…",
       "source": "Deník",
@@ -301,7 +301,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 19,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -311,8 +311,8 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 23,
-      "selected": 7,
+      "candidates": 21,
+      "selected": 6,
       "free_articles_checked": 8
     },
     {
@@ -321,7 +321,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 16,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -331,7 +331,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -352,7 +352,7 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 14,
-      "selected": 4,
+      "selected": 5,
       "free_articles_checked": 6
     },
     {
@@ -361,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 20,
+      "candidates": 21,
       "selected": 4,
       "free_articles_checked": 5
     },
@@ -371,9 +371,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 15,
       "selected": 2,
-      "free_articles_checked": 2
+      "free_articles_checked": 3
     },
     {
       "name": "E15",
