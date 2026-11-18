@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-11-18T19:03:38.254091+00:00",
+  "updated_at": "2026-11-18T20:06:25.019826+00:00",
   "window_hours": 24,
   "articles": [
     {
-      "title": "Spojené státy uzavřely vojenskou dohodu s Venezuelou, řekl Hegseth",
-      "summary": "Spojené státy uzavřely vojenskou dohodu s Venezuelou, oznámil ve středu americký ministr obrany Pete Hegseth během návštěvy Caracasu, aniž ji blíže specifikoval. Podle agentury AFP…",
-      "source": "ČT24",
+      "title": "Ukrajina a Rusko jednají o výměně zajatců. Zelenskyj vidí pozice na frontě jako silné",
+      "summary": "Ukrajina s Ruskem dál jedná o výměně válečných zajatců, na níž se vyjednavači minulý týden rámcově dohodli v Abú Zabí. Podle ukrajinského ombudsmana Dmytra Lubince…",
+      "source": "iDNES.cz",
       "category": "svet",
-      "published_at": "2026-11-18T18:52:26+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/spojene-staty-uzavrely-vojenskou-dohodu-s-venezuelou-rekl-hegseth-379735",
+      "published_at": "2026-11-18T19:53:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-jedna-s-ruskem-o-vymene-zajatcu-zelenskyj-chvali-pozice-na-fronte.A261118_201359_zahranicni_ichuc",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
     {
-      "title": "Ukrajinské pozice na bojišti jsou podle Zelenského silné",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-18T19:52:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/ukrajinske-pozice-na-bojisti-jsou-podle-zelenskeho-silne/2903640",
+      "title": "Jednal o Dukovanech za našimi zády. Havlíčka rozladil korejský výjezd jeho předchůdce",
+      "summary": "Příprava výstavby dvou jaderných bloků v Dukovanech pod taktovkou jihokorejské firmy KHNP už má běžet na plno. Jednat o projektu vyjel přímo do Jižní Koreje…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-18T20:40:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/jednal-o-dukovanech-za-nasimi-zady-havlicka-rozladil-korejsky-vyjezd-jeho-predchudce/r~aaa29a5ba822ee88af00e218605e6e16/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -27,8 +27,48 @@
       "summary": "Spojené státy uzavřely vojenskou dohodu s Venezuelou, oznámil ve středu americký ministr obrany Pete Hegseth během návštěvy Caracasu, aniž ji blíže specifikoval. Venezuelská prezidentka Delcy…",
       "source": "iDNES.cz",
       "category": "svet",
-      "published_at": "2026-11-18T18:35:00+00:00",
+      "published_at": "2026-11-18T19:38:00+00:00",
       "url": "https://www.idnes.cz/zpravy/zahranicni/usa-venezuela-vojenska-dohoda-caracas-hegseth-pentagon.A261118_191837_zahranicni_dtt",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Z „nejagresivnější regionální hrozby“ v partnera, USA uzavřela dohodu s Venezuelou",
+      "summary": "Spojené státy uzavřely vojenskou dohodu s Venezuelou, oznámil ve středu americký ministr obrany Pete Hegseth během návštěvy Caracasu, kde jednal s několika venezuelskými ministry a…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-18T20:28:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/z-nejagresivnejsi-regionalni-hrozby-v-partnera-usa-uzavrela-dohodu-s-venezuelou/r~aaa29101483d6f9ddca6db75a86b84d1/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Ukrajinské pozice na bojišti jsou silné. Okupanty ničíme, řekl Zelenskyj",
+      "summary": "Ukrajinské pozice na bojišti jsou silné. Dnes to v pravidelném večerním videoposelství řekl ukrajinský prezident Volodymyr Zelenskyj, informovala agentura Reuters. Jako příklad zmínil pokračující obranu…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-18T20:17:25+01:00",
+      "url": "https://www.denik.cz/evropa/ukrajinske-pozice-na-bojisti-jsou-silne-okupanty-nicime-rekl-zelenskyj/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Šéf tajných služeb USA varoval před íránskou hrozbou, které čelí Američané",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-18T19:59:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/sef-tajnych-sluzeb-usa-varoval-pred-iranskou-hrozbou-ktere-celi-americane/2903643",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Spojené státy uzavřely vojenskou dohodu s Venezuelou, řekl Hegseth",
+      "summary": "Spojené státy uzavřely vojenskou dohodu s Venezuelou, oznámil ve středu americký ministr obrany Pete Hegseth během návštěvy Caracasu, aniž ji blíže specifikoval. Podle agentury AFP…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-18T18:52:26+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/spojene-staty-uzavrely-vojenskou-dohodu-s-venezuelou-rekl-hegseth-379735",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -83,17 +123,7 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Cimický obdržel výzvu od soudu. Do vězení má nastoupit na konci listopadu",
-      "summary": "Psychiatr Jan Cimický, kterému soudy pravomocně uložily pětiletý trest za sexuální útoky a vydírání, obdržel od Obvodního soudu pro Prahu 8 výzvu k nástupu do…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-18T17:26:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/jan-cimicky-vyzva-soud-nastup-vezeni-trest.A261118_180729_domaci_fohl",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Extrémně vzácné záběry: Izolovaní domorodci vyšli po desítkách let z pralesa, vyhnal je hlad",
+      "title": "Extrémně vzácné záběry: Izolovaní domorodci vyšli po desítkách let z pralesa, dostali hlad",
       "summary": "Nevládní organizace Survival International v úterý zveřejnila snímky skupiny z domorodého kmene z brazilské Amazonie, který žije izolovaně v deštném pralese. Asi 20 jeho členů…",
       "source": "CNN Prima NEWS",
       "category": "svet",
@@ -113,12 +143,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "České dráhy servírují guláš podle Václava Havla. Část výtěžku putuje jeho nadaci",
-      "summary": "České dráhy představily k výročí 17. listopadu speciální menu Václava Havla. To se skládá z hovězího vývaru s játrovými knedlíčky a burgundského guláše, který kuchaři…",
-      "source": "iDNES.cz",
+      "title": "Cimický má nastoupit do vězení po 24. listopadu, obdržel výzvu od soudu",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
       "category": "domaci",
-      "published_at": "2026-11-18T17:00:00+00:00",
-      "url": "https://www.idnes.cz/ekonomika/domaci/ceske-drahy-vaclav-havel-gulas.A261118_105946_ekonomika_elsy",
+      "published_at": "2026-11-18T18:03:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/cimicky-ma-nastoupit-do-vezeni-po-24-listopadu-obdrzel-vyzvu-od-soudu/2903603",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -139,16 +169,6 @@
       "category": "svet",
       "published_at": "2026-11-18T17:26:00+01:00",
       "url": "https://zpravy.aktualne.cz/zahranici/prvni-fotografie-po-30-letech-v-amazonii-vyfotili-cleny-izolovaneho-kmene-awa/r~aaa29afb5cb71747b36d040e161b4293/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "„Velká trojka“ poprvé spolu. Trump si před focením třásl rukou s Putinem",
-      "summary": "Americký prezident Donald Trump, čínský hostitel Si Ťin-pching a ruský diktátor Vladimir Putin se v jihočínském Šen-čenu na summitu Asijsko-pacifického hospodářského společenství (APEC) setkali před…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-18T16:26:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/trump-si-a-putin-poprve-spolu-americky-a-rusky-vudce-si-pred-fotem-potrasli-rukama.A261118_141443_zahranicni_bro",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -251,36 +271,6 @@
       "url": "https://www.denik.cz/evropa/utok-na-krymsky-most-kercsky-most-operace-starlink/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
-    },
-    {
-      "title": "Po srážce vlaků zůstávají nejméně čtyři zranění v nemocnici",
-      "summary": "V nemocnicích po úterní srážce dvou osobních vlaků u hlavního nádraží v Praze zůstávají nejméně čtyři zranění, další dva byli propuštěni ráno. Vyplývá to z…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-18T14:13:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/po-srazce-vlaku-zustavaji-nejmene-ctyri-zraneni-v-nemocnici/r~aaa29b21994c3637391889e377295c80/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Lékař posílal lidi na nelegální transplantace ledvin. Dostal 12 let vězení",
-      "summary": "Soud v Moskvě ve středu poslal na 12 let do trestanecké kolonie s vysokým stupněm zabezpečení izraelského lékaře, který na soukromé klinice v Kosovu prováděl…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-18T13:59:43+01:00",
-      "url": "https://www.denik.cz/evropa/lekar-posilal-lidi-na-nelegalni-transplantace-ledvin-dostal-12-let-vezeni/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Obrazem: Trump se už potkal s Putinem. Si objal amerického hosta na letišti",
-      "summary": "Americký prezident Donald Trump dorazil do jihočínského Šen-čenu, kde se zúčastní dvoudenního summitu Asijsko-pacifického hospodářského společenství (APEC). Na letišti ho přivítal jeho čínský hostitel Si…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-18T13:24:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/obrazem-trump-dorazil-na-summit-si-ho-objal-na-recepci-se-zdravili-s-putinem/r~aaa291132606601fd5e52b79f4d17130/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
     }
   ],
   "unavailable_sources": [],
@@ -311,8 +301,8 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 22,
-      "selected": 6,
+      "candidates": 23,
+      "selected": 7,
       "free_articles_checked": 8
     },
     {
@@ -321,7 +311,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -362,8 +352,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 20,
-      "selected": 6,
-      "free_articles_checked": 6
+      "selected": 4,
+      "free_articles_checked": 4
     },
     {
       "name": "CNN Prima NEWS",

@@ -1,0 +1,439 @@
+{
+  "updated_at": "2026-11-18T20:06:25.019826+00:00",
+  "window_hours": 24,
+  "articles": [
+    {
+      "title": "Ukrajina a Rusko jednají o výměně zajatců. Zelenskyj vidí pozice na frontě jako silné",
+      "summary": "Ukrajina s Ruskem dál jedná o výměně válečných zajatců, na níž se vyjednavači minulý týden rámcově dohodli v Abú Zabí. Podle ukrajinského ombudsmana Dmytra Lubince…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-18T19:53:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-jedna-s-ruskem-o-vymene-zajatcu-zelenskyj-chvali-pozice-na-fronte.A261118_201359_zahranicni_ichuc",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Jednal o Dukovanech za našimi zády. Havlíčka rozladil korejský výjezd jeho předchůdce",
+      "summary": "Příprava výstavby dvou jaderných bloků v Dukovanech pod taktovkou jihokorejské firmy KHNP už má běžet na plno. Jednat o projektu vyjel přímo do Jižní Koreje…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-18T20:40:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/jednal-o-dukovanech-za-nasimi-zady-havlicka-rozladil-korejsky-vyjezd-jeho-predchudce/r~aaa29a5ba822ee88af00e218605e6e16/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "USA podepsaly vojenskou dohodu s Venezuelou. Podpoří výcvik její armády",
+      "summary": "Spojené státy uzavřely vojenskou dohodu s Venezuelou, oznámil ve středu americký ministr obrany Pete Hegseth během návštěvy Caracasu, aniž ji blíže specifikoval. Venezuelská prezidentka Delcy…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-18T19:38:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/usa-venezuela-vojenska-dohoda-caracas-hegseth-pentagon.A261118_191837_zahranicni_dtt",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Z „nejagresivnější regionální hrozby“ v partnera, USA uzavřela dohodu s Venezuelou",
+      "summary": "Spojené státy uzavřely vojenskou dohodu s Venezuelou, oznámil ve středu americký ministr obrany Pete Hegseth během návštěvy Caracasu, kde jednal s několika venezuelskými ministry a…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-18T20:28:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/z-nejagresivnejsi-regionalni-hrozby-v-partnera-usa-uzavrela-dohodu-s-venezuelou/r~aaa29101483d6f9ddca6db75a86b84d1/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Ukrajinské pozice na bojišti jsou silné. Okupanty ničíme, řekl Zelenskyj",
+      "summary": "Ukrajinské pozice na bojišti jsou silné. Dnes to v pravidelném večerním videoposelství řekl ukrajinský prezident Volodymyr Zelenskyj, informovala agentura Reuters. Jako příklad zmínil pokračující obranu…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-18T20:17:25+01:00",
+      "url": "https://www.denik.cz/evropa/ukrajinske-pozice-na-bojisti-jsou-silne-okupanty-nicime-rekl-zelenskyj/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Šéf tajných služeb USA varoval před íránskou hrozbou, které čelí Američané",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-18T19:59:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/sef-tajnych-sluzeb-usa-varoval-pred-iranskou-hrozbou-ktere-celi-americane/2903643",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Spojené státy uzavřely vojenskou dohodu s Venezuelou, řekl Hegseth",
+      "summary": "Spojené státy uzavřely vojenskou dohodu s Venezuelou, oznámil ve středu americký ministr obrany Pete Hegseth během návštěvy Caracasu, aniž ji blíže specifikoval. Podle agentury AFP…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-18T18:52:26+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/spojene-staty-uzavrely-vojenskou-dohodu-s-venezuelou-rekl-hegseth-379735",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Předstíral přátelství, budoval past. Jak Epstein vyhledával své oběti?",
+      "summary": "Jak fungovala síť Jeffreyho Epsteina, do které se dostaly stovky mladých dívek, a proč selhaly kontrolní mechanismy i úřady? Americká zpravodajka Jana Ciglerová a Michaela…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-18T18:33:45+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/predstiral-pratelstvi-budoval-past-jak-epstein-vyhledaval-sve-obeti-379726",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Demokraté nominovali do čela Sněmovny Jeffriese. Slíbil tvrdý boj proti korupci",
+      "summary": "Demokraté ve čtvrtek nominovali kongresmana Hakeema Jeffriese na post předsedy Sněmovny reprezentantů, čímž otevřeli cestu k tomu, aby se v lednu stal prvním černochem v…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-18T18:30:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/demokrate-jeffries-snemovna-reprezentantu-kongres-usa.A261118_190750_zahranicni_dtt",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "AfD chce v Sasku-Anhaltsku vypovědět smlouvy o veřejnoprávním vysílání",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-18T19:18:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/afd-chce-v-sasku-anhaltsku-vypovedet-smlouvy-o-verejnopravnim-vysilani/2903627",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Podpora Ukrajiny není charita, řekl velvyslanec Zvaryč. S Řehkou křtil knihu",
+      "summary": "Role Česka v podpoře Ukrajiny i první roky ruské invaze. Ukrajinský velvyslanec v Praze Vasyl Zvaryč spolu se senátorem a bývalým náčelníkem generálního štábu Karlem…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-18T18:18:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/podpora-ukrajiny-neni-charita-rekl-velvyslanec-zvaryc-s-rehkou-krtil-knihu.A261118_163446_domaci_meli",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Stačí jedna SMS. Banka varuje před novým podvodem. Na co dát pozor, jak reagovat",
+      "summary": "Útočníci kombinují falešné SMS zprávy s telefonáty, aby z klientů vylákali přístupové údaje či autorizaci plateb. ČSOB varuje před novou vlnou podvodů. Těch přitom v…",
+      "source": "Deník",
+      "category": "domaci",
+      "published_at": "2026-11-18T18:30:00+01:00",
+      "url": "https://www.denik.cz/cesko/staci-jedna-sms-banka-varuje-pred-novym-podvodem-na-co-dat-pozor-jak-reagovat/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Extrémně vzácné záběry: Izolovaní domorodci vyšli po desítkách let z pralesa, dostali hlad",
+      "summary": "Nevládní organizace Survival International v úterý zveřejnila snímky skupiny z domorodého kmene z brazilské Amazonie, který žije izolovaně v deštném pralese. Asi 20 jeho členů…",
+      "source": "CNN Prima NEWS",
+      "category": "svet",
+      "published_at": "2026-11-18T18:21:11+01:00",
+      "url": "https://cnn.iprima.cz/extremne-vzacne-zabery-izolovani-domorodci-vysli-po-desitkach-let-z-pralesa-vyhnal-je-hlad-527476",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Sedm ruských dronů za jediný den. Chudý soused Ukrajiny čelí úderům, kterým se nemůže bránit",
+      "summary": "Malé Moldavsko sousedící s Ukrajinou se už několikrát potýkalo s tím, že na jeho území dopadl dron či kus rakety. V úterý se však stal…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-18T18:11:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/bezmoc-male-evropske-zeme-cizi-drony-bez-potizi-brazdi-jeji-nebe-z-incidentu-vini-rusko/r~aaa291dfe0af82f3620405f2e473dc59/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Cimický má nastoupit do vězení po 24. listopadu, obdržel výzvu od soudu",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-18T18:03:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/cimicky-ma-nastoupit-do-vezeni-po-24-listopadu-obdrzel-vyzvu-od-soudu/2903603",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Částečné zničení Krymského mostu přeťalo ruskou zásobovací tepnu a ucpalo průliv",
+      "summary": "Dva po sobě následující údery, kterými Ukrajina z počátku tohoto týdne zasáhla Krymský most, způsobily na nelegálně postavené spojnici mezi okupovaným Krymem a Ruskem zatím…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-18T16:29:14+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/castecne-zniceni-krymskeho-mostu-ma-symbolicky-i-logisticky-vyznam-379730",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "První fotografie po 30 letech. V Amazonii vyfotili členy izolovaného kmene Awá",
+      "summary": "Nevládní organizace Survival International v úterý zveřejnila snímky skupiny z domorodého kmene z brazilské Amazonie, který žije izolovaně v deštném pralese. Asi 20 jeho členů…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-18T17:26:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/prvni-fotografie-po-30-letech-v-amazonii-vyfotili-cleny-izolovaneho-kmene-awa/r~aaa29afb5cb71747b36d040e161b4293/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Moskva chystala na polské hranici provokaci s velkým počtem obětí, tvrdí list",
+      "summary": "Ruské tajné služby připravovaly na hranici s Polskem provokaci s velkým počtem obětí a se svalováním viny na Ukrajinu, záškodnické akci ale zabránila preventivní operace…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-18T16:23:50+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/moskva-chystala-na-polske-hranici-provokaci-s-velkym-poctem-obeti-tvrdi-list-379729",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "V Amazonii vyfotili po desetiletích členy kmene Awá, z pralesa vyšli pro jídlo",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-18T17:08:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/v-amazonii-vyfotili-po-desetiletich-cleny-kmene-awa-z-pralesa-vysli-pro-jidlo/2903581",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Trumpa vítal Si Ťin-pching, Putina jen šéf kanceláře. Rusko hraje na summitu druhé housle",
+      "summary": "Vlajky, červený koberec a objetí od samotného prezidenta Si Ťin-pchinga. Velkolepé středeční uvítání šéfa Bílého domu Donalda Trumpa v Číně považují experti za výjimečné gesto.…",
+      "source": "CNN Prima NEWS",
+      "category": "svet",
+      "published_at": "2026-11-18T17:05:53+01:00",
+      "url": "https://cnn.iprima.cz/trumpa-vital-si-tin-pching-putina-jen-sef-kancelare-rusko-hraje-na-summitu-druhe-housle-527463",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Trump podle AP plánuje s Putinem jednat v Číně samostatně, Kreml to popřel",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-18T17:05:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/-trump-podle-ap-planuje-s-putinem-jednat-v-cine-samostatne-kreml-to-poprel/2901941",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Nová Jalta? Lídři se obávají setkání Trumpa, Putina a Si Ťin-pchinga. Bez Kyjeva",
+      "summary": "Americký prezident Donald Trump, ruský vůdce Vladimir Putin a čínský prezident Si Ťin-pching se ve čtvrtek 19. listopadu setkali v čínském Šen-čenu. Jejich jednání vyvolává…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-18T16:32:00+01:00",
+      "url": "https://www.denik.cz/svet/nova-jalta-lidri-se-obavaji-setkani-trumpa-putina-a-si-tin-pchinga-bez-kyjeva/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Na Turka a Macinku by mohl mít dopad jen betonový panel, Letná těžko, říká Sokol",
+      "summary": "Demonstrace na Letné se zúčastnily stovky tisíc lidí, nejvíc v polistopadové historii. Její organizátoři z Milionu chvilek vznesli na vládu několik požadavků. Premiérova odpověď však…",
+      "source": "Deník",
+      "category": "domaci",
+      "published_at": "2026-11-18T16:27:46+01:00",
+      "url": "https://www.denik.cz/cesko/na-turka-a-macinku-by-mohl-mit-dopad-jen-betonovy-panel-letna-tezko-rika-sokol/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Primátorem Chomutova zvolili zastupitelé Radka Vyšína (ANO)",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-18T16:00:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/primatorem-chomutova-zvolili-zastupitele-radka-vysina-ano/2903257",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Měl dostat aspoň o dva hlasy více. Soud nařídil opakování supertěsné volby",
+      "summary": "Hlasování v senátních volbách na Žďársku se zopakuje, a to od prvního kola a se stejnými kandidáty, rozhodl Nejvyšší správní soud (NSS) ve středu. Vyhověl…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-18T15:43:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/znovu-k-urnam-senatni-volby-na-zdarsku-se-budou-opakovat-soud-zjistil-pochybeni/r~aaa292fe450069ba57a9c7a41a5b6400/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Senátní volby na Žďársku se zopakují, zúčastní se Černý, Klement i Šmarda",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-18T15:17:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/senatni-volby-na-zdarsku-se-zopakuji-zucastni-se-cerny-klement-i-smarda/2903236",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Putinova spojka u dna. Operace Krymský most měla sedm fází, obešla se bez Muska",
+      "summary": "Ukrajinské síly po několikatýdenní přípravě zničily část Krymského mostu, který spojuje Rusko s okupovaným poloostrovem. V noci na 17. listopadu se do průlivu zřítil jeden…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-18T14:20:00+01:00",
+      "url": "https://www.denik.cz/evropa/utok-na-krymsky-most-kercsky-most-operace-starlink/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    }
+  ],
+  "unavailable_sources": [],
+  "sources": [
+    {
+      "name": "ČT24",
+      "site": "https://ct24.ceskatelevize.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 20,
+      "selected": 4,
+      "free_articles_checked": 7
+    },
+    {
+      "name": "iROZHLAS",
+      "site": "https://www.irozhlas.cz/",
+      "feeds_ok": 2,
+      "feeds_total": 2,
+      "status": "ok",
+      "candidates": 17,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "ČTK / České noviny",
+      "site": "https://www.ceskenoviny.cz/",
+      "feeds_ok": 2,
+      "feeds_total": 2,
+      "status": "ok",
+      "candidates": 23,
+      "selected": 7,
+      "free_articles_checked": 8
+    },
+    {
+      "name": "Novinky.cz",
+      "site": "https://www.novinky.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 13,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "Seznam Zprávy",
+      "site": "https://www.seznamzpravy.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 11,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "Aktuálně.cz",
+      "site": "https://zpravy.aktualne.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 6,
+      "selected": 5,
+      "free_articles_checked": 5
+    },
+    {
+      "name": "Deník",
+      "site": "https://www.denik.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 13,
+      "selected": 5,
+      "free_articles_checked": 5
+    },
+    {
+      "name": "iDNES.cz",
+      "site": "https://www.idnes.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 20,
+      "selected": 4,
+      "free_articles_checked": 4
+    },
+    {
+      "name": "CNN Prima NEWS",
+      "site": "https://cnn.iprima.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 13,
+      "selected": 2,
+      "free_articles_checked": 2
+    },
+    {
+      "name": "E15",
+      "site": "https://www.e15.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 9,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "Forum 24",
+      "site": "https://www.forum24.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 16,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "Deník N",
+      "site": "https://denikn.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 14,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "Respekt",
+      "site": "https://www.respekt.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 10,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "Hospodářské noviny",
+      "site": "https://hn.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 9,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "TN.cz",
+      "site": "https://tn.nova.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 12,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "Blesk",
+      "site": "https://www.blesk.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 16,
+      "selected": 0,
+      "free_articles_checked": 0
+    }
+  ]
+}
