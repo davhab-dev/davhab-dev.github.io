@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-18T15:21:53.969167+00:00",
+  "updated": "2026-11-18T16:26:58.922077+00:00",
   "articles": [
+    {
+      "title": "Hunt Limitless 40 gravel wheelset review: Good to a fault",
+      "summary": "They're not perfect, and the rim could be wider, but I like them a lot",
+      "url": "https://www.cyclingnews.com/cycling-tech-components/wheels-tyres/hunt-limitless-40-gravel-wheelset/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Gravel",
+      "published": "2026-11-18T16:01:57+00:00"
+    },
+    {
+      "title": "Tour de France breakaway star heads to Southeast Asia for 2,500km charity solo bike trip – Video",
+      "summary": "Baptiste Veistroffer is ending his offseason with a 19-day ride through Vietnam and Cambodia",
+      "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/tour-de-france-breakaway-star-heads-to-southeast-asia-for-2-500km-charity-solo-bike-trip-video/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-18T15:45:42+00:00"
+    },
     {
       "title": "COMMENCAL – Příběh značky, která si vždycky jela po svém! (VIDEO + fotogalerie)",
       "summary": "Od legendárního SUNNu přes první model Supernormal až po úspěchy na světových tratích v DH. Francouzký Commencal je dnes jednou",
@@ -540,6 +558,15 @@
       "lang": "EN",
       "category": "Závody",
       "published": "2026-11-15T05:30:40+00:00"
+    },
+    {
+      "title": "Liptovské bláznovstvá s činelem na zádech",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132124/liptovske-blaznovstva-s-cinelem-na-zadech.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-15"
     },
     {
       "title": "Bollekescross v Hamme, druhý díl X2O Trofee, podle českých závoďáků připravil dobře na Ostravu. Nejlepší tu byli Nys a Brand",
@@ -3123,33 +3150,6 @@
       "lang": "EN",
       "category": "Gravel",
       "published": "2026-10-08T14:00:00+00:00"
-    },
-    {
-      "title": "Van Rysel's first MTB gets 32in wheels after brand analysed two years of XC race data",
-      "summary": "The RCR-XC will be raced by Decathlon Ford team from 2027",
-      "url": "https://www.bikeradar.com/news/van-rysel-rcr-xc",
-      "source": "BikeRadar MTB",
-      "lang": "EN",
-      "category": "MTB",
-      "published": "2026-10-08T08:00:00+00:00"
-    },
-    {
-      "title": "Evropský cykloprůmysl chce zakázat čipování elektrokol",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/evropsky-cykloprumysl-chce-zakazat-cipovani-elektrokol/kategorie/servis",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Technika",
-      "published": "2026-10-08"
-    },
-    {
-      "title": "Van Rysel odhalil model RCR-XC, který má 32palcová kola a váží méně než devětadvacítka",
-      "summary": "",
-      "url": "https://cyklorepublic.cz/clanky/01a11c92-d72c-7184-b700-cf14910ebe46/van-rysel-odhalil-nove-mtb-rcr-xc-ma-32palcova-kola-a-vazi-mene-nez-devetadvacitka",
-      "source": "CykloRepublic.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
-      "published": "2026-10-08"
     }
   ],
   "source_errors": [
