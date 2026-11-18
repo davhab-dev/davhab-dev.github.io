@@ -1,7 +1,127 @@
 {
-  "updated_at": "2026-11-18T13:22:51.055170+00:00",
+  "updated_at": "2026-11-18T15:04:27.640319+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Znovu k urnám. Senátní volby na Žďársku se budou opakovat, soud zjistil pochybení",
+      "summary": "Hlasování v senátních volbách na Žďársku se zopakuje, a to od prvního kola a se stejnými kandidáty, rozhodl Nejvyšší správní soud (NSS) ve středu. Vyhověl…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-18T15:43:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/znovu-k-urnam-senatni-volby-na-zdarsku-se-budou-opakovat-soud-zjistil-pochybeni/r~aaa292fe450069ba57a9c7a41a5b6400/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Trump bude s Putinem na summitu v Číně jednat samostatně",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-18T15:35:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/trump-bude-s-putinem-na-summitu-v-cine-jednat-samostatne/2901941",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "„Velká trojka“ poprvé spolu. Trump si třásl rukou s Putinem, budou jednat i ve dvou",
+      "summary": "Americký prezident Donald Trump, čínský hostitel Si Ťin-pching a ruský diktátor Vladimir Putin se v jihočínském Šen-čenu na summitu Asijsko-pacifického hospodářského společenství (APEC) setkali před…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-18T14:29:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/trump-si-a-putin-poprve-spolu-americky-a-rusky-vudce-si-pred-fotem-potrasli-rukama.A261118_141443_zahranicni_bro",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Německá banka zrušila Ficovu synovi účet a udala ho pro podezření z praní peněz",
+      "summary": "Syn slovenského premiéra Roberta Fica Michal si ve svých studijních dobách založil účet u německé Deutsche Bank. Ta mu jej však po roce zrušila a…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-18T14:27:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/nemecka-banka-zrusila-ficovu-synovi-ucet-a-udala-ho-pro-podezreni-z-prani-penez.A261118_133340_zahranicni_kha",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Česko chystá nákup systémů protivzdušné obrany. Babiš v Izraeli dostal nabídku",
+      "summary": "Od naší zpravodajky v Izraeli – Premiér Andrej Babiš (ANO) zakončil třídenní návštěvu Izraele. Po ní začíná být zřejmé, že Česko by v nadcházejících měsících…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-18T14:17:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/zuna-cesko-by-mohlo-pristi-rok-vypsat-zakazku-na-protivzdusnou-obranu.A261118_075845_domaci_ijan",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Na Ukrajině zatkli podezřelého z bombových výhrůžek českým školám",
+      "summary": "Člověka podezřelého z bombových výhrůžek školám v Česku, na Slovensku a v Lotyšsku zadrželi v září ukrajinští kriminalisté. Informoval o tom Úřad evropské justiční spolupráce…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-18T14:14:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/na-ukrajine-zatkli-podezreleho-z-bombovych-vyhruzek-ceskym-skolam.A261118_145825_domaci_aoc",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "ČR má podle Babiše od Izraele nabídku na nový obranný systém Spyder All-in-One",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-18T15:13:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/cr-ma-podle-babise-od-izraele-nabidku-na-novy-obranny-system-spyder-all-in-one/2903254",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Polsko míří k jaderným zbraním, s USA jedná o výcviku pilotů pro shazování pum",
+      "summary": "Polsko se přibližuje k americkým jaderným zbraním. Varšava jedná s Washingtonem o zapojení do programu jejich sdílení v rámci NATO, který by polským pilotům stíhaček…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-18T14:00:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/polsko-nato-usa-jaderne-zbrane-f-35-stihacka-pilot.A261118_142846_zahranicni_dtt",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Ruským sportovcům nebude umožněn vstup do ČR, uvedl Metnar",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-18T14:55:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/ruskym-sportovcum-nebude-umoznen-vstup-do-cr-uvedl-metnar/2903489",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Ukrajina zadržela podezřelého z bombových výhrůžek školám, informoval Eurojust",
+      "summary": "Člověka podezřelého z bombových výhrůžek školám v Česku, na Slovensku a v Lotyšsku zadrželi v září ukrajinští kriminalisté. V tiskové zprávě o tom informoval Úřad…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-18T13:53:47+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/ukrajina-zadrzela-podezreleho-z-bombovych-vyhruzek-skolam-informoval-eurojust-379720",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Inspirace a vzor pro ostatní. Pavel přijal na Hradě talentované studenty",
+      "summary": "Vítěze mezinárodních vědomostních soutěží i studenty prestižních zahraničních univerzit ve středu u příležitosti Mezinárodního dne studentstva přijal na pražském Hradě prezident Petr Pavel. Mezi 29…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-18T13:48:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/pavel-prijal-na-hrade-talentovane-studenty-a-studentky.A261118_141058_domaci_meli",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Německý svaz novinářů žádá, aby se Merz při setkání s Babišem vyjádřil k situaci kolem ČT a ČRo",
+      "summary": "Německý svaz novinářů (DJV) vyzval ve středu kancléře Friedricha Merze, aby se vyjádřil k protestům proti změně financování České televize (ČT) a Českého rozhlasu (ČRo).…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-18T13:27:56+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/nemecky-svaz-novinaru-zada-aby-se-merz-pri-setkani-s-babisem-vyjadril-k-situaci-kolem-ct-a-cro-379719",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Putinova spojka u dna. Operace Krymský most měla sedm fází, obešla se bez Muska",
       "summary": "Ukrajinské síly po několikatýdenní přípravě zničily část Krymského mostu, který spojuje Rusko s okupovaným poloostrovem. V noci na 17. listopadu se do průlivu zřítil jeden…",
@@ -23,26 +143,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Justice není přetížená, míní Tejc. Délka soudních řízení se loni opět zkrátila",
-      "summary": "Délka řízení u českých soudů se v loňském roce opět zkrátila. Okresní soudy vyřizovaly civilní případy v průměru za 233 dní, což bylo o dva…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-18T13:08:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/delka-soudnich-rizeni-podle-statisticke-zpravy-loni-opet-klesla.A261118_135230_domaci_meli",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Antimonopolní úřad hledá šéfa. Do výběrového řízení se přihlásilo 17 zájemců",
-      "summary": "Do výběrového řízení na předsedu Úřadu pro ochranu hospodářské soutěže (ÚOHS) přišlo 17 přihlášek, termín podávání vypršel ve středu v poledne. Premiér Andrej Babiš ve…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-18T13:03:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/odborna-komise-vybere-predsedu-antimonopolniho-uradu.A261118_132235_domaci_meli",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Lékař posílal lidi na nelegální transplantace ledvin. Dostal 12 let vězení",
       "summary": "Soud v Moskvě ve středu poslal na 12 let do trestanecké kolonie s vysokým stupněm zabezpečení izraelského lékaře, který na soukromé klinice v Kosovu prováděl…",
       "source": "Deník",
@@ -53,32 +153,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Česko chystá nákup systémů protivzdušné obrany. Babiš o nich jednal v Izraeli",
-      "summary": "Od naší zpravodajky v Izraeli – Premiér Andrej Babiš (ANO) zakončil třídenní návštěvu Izraele. Po ní začíná být zřejmé, že Česko by v nadcházejících měsících…",
-      "source": "iDNES.cz",
+      "title": "Ruští sportovci do Česka vpuštěni nebudou, řekl Metnar",
+      "summary": "Ruským sportovcům nebude umožněn vstup na české území, řekl ministr vnitra Lubomír Metnar (ANO) po jednání s vedením hokejového svazu kvůli účasti ruských hokejistů a…",
+      "source": "ČT24",
       "category": "domaci",
-      "published_at": "2026-11-18T12:57:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/zuna-cesko-by-mohlo-pristi-rok-vypsat-zakazku-na-protivzdusnou-obranu.A261118_075845_domaci_ijan",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Vzácné záběry izolovaného kmene. Podvyživení domorodci přišli prosit o jídlo",
-      "summary": "Domorodí obyvatelé z kmene Awá vystoupili v Brazílii z dobrovolné izolace a v podvyživeném stavu poprvé navázali kontakt s blízkými vesničany. Událost znepokojila řadu nevládních…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-18T12:49:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/kmen-awa-odlesnovani-brazilie-survival-international.A261118_124947_zahranicni_onbu",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Vyjádřete se k financování České televize a rozhlasu, žádají němečtí novináři Merze",
-      "summary": "Německý svaz novinářů vyzval kancléře Friedricha Merze, aby se vyjádřil k protestům proti změně financování České televize a Českého rozhlasu. Učinit by tak měl podle…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-18T12:43:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/merz-nemecky-svaz-novinaru-ceska-televize-cesky-rozhlas-babis.A261118_131424_domaci_aoc",
+      "published_at": "2026-11-18T12:43:19+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/brifink-po-jednani-metnara-s-vedenim-hokejoveho-svazu-379717",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -93,32 +173,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Putin na summitu vyzdvihl odolnost Ruska. Fantazírování, reaguje Západ",
-      "summary": "Ruský prezident Vladimir Putin se snaží využít vzácné příležitosti na světové scéně k tomu, aby svou zemi prezentoval jako atraktivní místo pro podnikání a vzorového…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-18T12:23:00+00:00",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/putin-na-summitu-vyzdvihl-odolnost-ruska-fantazirovani-reaguje-zapad.A261118_094723_eko-zahranicni_jadv",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Ve výběrovém řízení na šéfa ÚOHS se sešlo 17 přihlášek",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
       "category": "domaci",
       "published_at": "2026-11-18T13:20:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/ve-vyberovem-rizeni-na-sefa-uohs-se-seslo-17-prihlasek/2902732",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Spojte se proti Le Penové a Mélenchonovi, vyzývá francouzský ministr centristy",
-      "summary": "Francouzský ministr spravedlnosti Gérald Darmanin vyzval centristy, aby se sjednotili za jediným kandidátem v prezidentských volbách. Tvrdí, že je třeba zabránit scénáři, kdy by do…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-18T12:10:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/vyzva-ministra-volba-spolecneho-prezidentskeho-kandidata-proti-le-penove-a-melenchonovi.A261118_121550_zahranicni_asus",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -163,6 +223,16 @@
       "importance_kind": "pending"
     },
     {
+      "title": "Evropská komise navrhla novou půjčku pro Ukrajinu ve výši 45 miliard eur",
+      "summary": "Evropská komise (EK) navrhla novou půjčku pro Ukrajinu ve výši 45 miliard eur (1,1 bilionu korun) na rok 2027, oznámila v Bruselu předsedkyně Komise Ursula…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-18T11:20:53+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/evropska-komise-navrhla-novou-pujcku-pro-ukrajinu-ve-vysi-45-miliard-eur-379716",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
       "title": "Šance, že by Rusko ukončilo válku, není v procentech, ale v promile, říká Nerad",
       "summary": "V dalším dílu Evropy pro Čechy se vydáme až do Irska. V Dublinu se totiž v minulých dnech konal summit Evropského politického společenství, na který…",
       "source": "Deník",
@@ -183,16 +253,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Trump dorazil na summit APEC do Číny, na letišti ho přivítal Si",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-18T11:43:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/trump-dorazil-na-summit-apec-do-ciny-na-letisti-ho-privital-si/2901941",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Trůn pro Trumpa. Polský prezident mu tajně daroval jantarové křeslo",
       "summary": "Polský prezident Karol Nawrocki dal svému americkému protějšku Donaldu Trumpovi k narozeninám dar, o kterém veřejnost ani polská diplomacie či polské velvyslanectví ve Washingtonu nevěděly.…",
       "source": "Deník",
@@ -203,28 +263,8 @@
       "importance_kind": "pending"
     },
     {
-      "title": "EK navrhla novou půjčku pro Ukrajinu ve výši 45 miliard eur",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-18T11:11:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/ek-navrhla-novou-pujcku-pro-ukrajinu-ve-vysi-45-miliard-eur/2903339",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Portlík, Scheinherr i Udženija. Pražská rada se už rýsuje, prioritou bude okruh a bydlení",
-      "summary": "Pražská koalice STAN, Spolu (ODS, TOP 09) a Prahy sobě představila složení nové rady. Primátorem bude Petr Hlaváček (STAN), jeho prvním náměstkem se stane Tomáš…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-18T10:41:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/portlik-scheinherr-i-udzenija-novy-primator-oznamil-slozeni-prazske-rady/r~aaa29a67015a520b016d331db04eccf5/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Soud oznámí rozhodnutí o stížnosti na senátní volby na Žďársku. Rozdíl tam byl jeden hlas",
-      "summary": "Nejvyšší správní soud (NSS) odpoledne oznámí, jak rozhodl o poslední dosud nevyřízené stížnosti na senátní volby. Podal ji Radek Černý (ODS), jenž na Žďársku o…",
+      "title": "Senátní volby na Žďársku jsou neplatné, rozhodl soud",
+      "summary": "Nejvyšší správní soud označil výsledky senátních voleb na Žďársku za neplatné. Rozhodl na základě stížnosti, kterou podal Radek Černý (ODS), jenž tam o jediný hlas…",
       "source": "ČT24",
       "category": "domaci",
       "published_at": "2026-11-18T09:38:23+00:00",
@@ -243,82 +283,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Novým pražským primátorem se stane Hlaváček (STAN), koalice podepsala smlouvu",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-18T10:09:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/novym-prazskym-primatorem-se-stane-hlavacek-stan-koalice-podepsala-smlouvu/2903301",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Oslovení Izraelci se rozcházejí v názoru na to, kdo by měl být příštím premiérem",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-18T09:59:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/osloveni-izraelci-se-rozchazeji-v-nazoru-na-to-kdo-by-mel-byt-pristim-premierem/2903296",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Německo sníží daň z elektřiny a zavede cenový strop na paliva",
       "summary": "Německo od příštího roku sníží daň z elektřiny a zavede cenový strop na pohonné hmoty. Při nočním jednání se na tom dohodly strany německé vládní…",
       "source": "ČT24",
       "category": "svet",
       "published_at": "2026-11-18T08:20:56+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/nemecko-snizi-dan-z-elektriny-a-zavede-cenovy-strop-na-paliva-379708",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Výpadky, které postihly USA, mezi sebou nesouvisí, uvedl Rubio",
-      "summary": "Výpadky, které postihly v USA letectví či banky, mezi sebou nesouvisí, uvedl v noci na středu ministr zahraničí Marco Rubio. Podle něj technické problémy nebyly…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-18T08:02:44+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/vypadky-ktere-postihly-usa-mezi-sebou-nesouvisi-uvedl-rubio-379707",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Česko by mohlo vypsat zakázku na protivzdušnou obranu příští rok, uvedl Zůna",
-      "summary": "Česká republika by mohla příští rok vypsat veřejnou zakázku na pořízení nových systémů protivzdušné obrany, které by měly být schopné zasahovat taktické balistické střely, řekl…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-18T07:28:18+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/cesko-by-mohlo-vypsat-zakazku-na-protivzdusnou-obranu-pristi-rok-uvedl-zuna-379704",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Rusko a Čína chtějí spolupracovat na vytvoření multipolárního světa, řekli Putin a Si",
-      "summary": "Šéf Kremlu Vladimir Putin ve středu na bilaterální schůzi jednal se svým čínským protějškem Si Ťin-pchingem. Oba uvedli, že chtějí spolupracovat na vytvoření multipolárního světa.…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-18T07:26:29+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-a-cina-chteji-spolupracovat-na-vytvoreni-multipolarniho-sveta-rekli-putin-a-si-379703",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "R5M: Česko si připomnělo výročí 17. listopadu | Po srážce vlaků v Praze jsou desítky zraněných | Ukrajina zasáhla Krymský most, Rusko útočilo na mosty v Kyjevě",
-      "summary": "",
-      "source": "Deník N",
-      "category": "domaci",
-      "published_at": "2026-11-18T06:04:38+00:00",
-      "url": "https://denikn.cz/newsletter/2261038/cesko-si-pripomnelo-vyroci-17-listopadu-po-srazce-vlaku-v-praze-jsou-desitky-zranenych-ukrajina-zasahla-krymsky-most-rusko-utocilo-na-mosty-v-kyjeve/?ref=mpm",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "V Senátu USA budou mít demokraté 56 mandátů, podle odhadů získali i Aljašku",
-      "summary": "Demokratka Mary Peltolaová získala senátorský mandát na Aljašce, uvedly v noci na středu agentura AP a stanice CNN na základě svých odhadů. Pro demokraty to…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-18T04:59:00+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/demokratka-peltolaova-podle-odhadu-zvitezila-v-senatnich-volbach-na-aljasce-379701",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     }
@@ -331,9 +301,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 18,
       "selected": 6,
-      "free_articles_checked": 7
+      "free_articles_checked": 6
     },
     {
       "name": "iROZHLAS",
@@ -341,7 +311,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 17,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -351,8 +321,8 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 22,
-      "selected": 7,
+      "candidates": 21,
+      "selected": 6,
       "free_articles_checked": 8
     },
     {
@@ -361,7 +331,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 11,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -371,7 +341,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 11,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -381,7 +351,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 6,
+      "candidates": 7,
       "selected": 6,
       "free_articles_checked": 6
     },
@@ -391,9 +361,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 12,
       "selected": 4,
-      "free_articles_checked": 5
+      "free_articles_checked": 4
     },
     {
       "name": "iDNES.cz",
@@ -401,9 +371,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
-      "selected": 7,
-      "free_articles_checked": 7
+      "candidates": 16,
+      "selected": 6,
+      "free_articles_checked": 6
     },
     {
       "name": "CNN Prima NEWS",
@@ -421,7 +391,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 4,
+      "candidates": 5,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -431,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -441,9 +411,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
-      "selected": 1,
-      "free_articles_checked": 1
+      "candidates": 12,
+      "selected": 0,
+      "free_articles_checked": 0
     },
     {
       "name": "Respekt",
@@ -451,7 +421,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 5,
+      "candidates": 8,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -461,7 +431,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 3,
+      "candidates": 4,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -471,7 +441,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     },
