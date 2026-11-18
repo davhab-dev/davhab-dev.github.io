@@ -1,14 +1,44 @@
 {
-  "updated_at": "2026-11-18T04:02:13.168900+00:00",
+  "updated_at": "2026-11-18T05:09:23.671192+00:00",
   "window_hours": 24,
   "articles": [
     {
-      "title": "Mary Peltolaová získala senátorský mandát na Aljašce, demokraté mají 56 křesel",
-      "summary": "Demokratka Mary Peltolaová podle odhadů agentury AP a stanice CNN získala senátorský mandát na Aljašce, čímž si demokraté v novém Senátu zajistili většinu 56 křesel…",
+      "title": "Demokratka Peltolaová podle odhadů zvítězila v senátních volbách na Aljašce",
+      "summary": "Demokratka Mary Peltolaová získala senátorský mandát na Aljašce. Uvedly to v noci na středu agentura AP a stanice CNN na základě svých odhadů. Demokraté by…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-18T04:59:00+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/demokratka-peltolaova-podle-odhadu-zvitezila-v-senatnich-volbach-na-aljasce-379701",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Peltolaová vyhrála senátorský mandát na Aljašce, demokraté mají 56 křesel",
+      "summary": "Demokratka Mary Peltolaová podle projekcí agentury AP a stanice CNN získala senátorský mandát na Aljašce, čímž si demokraté v novém složení Senátu zajistili většinu 56…",
       "source": "iDNES.cz",
       "category": "svet",
-      "published_at": "2026-11-18T03:42:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/mary-peltolaova-ziskala-senatorsky-mandat-na-aljasce-demokrate-maji-56-kresel.A261118_042436_zahranicni_air",
+      "published_at": "2026-11-18T04:43:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/peltolaova-vyhrala-senatorsky-mandat-na-aljasce-demokrate-maji-56-kresel.A261118_042436_zahranicni_air",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Čínský prezident vyzval na zahájení summitu společenství APEC k dialogu",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-18T05:13:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/cinsky-prezident-vyzval-na-zahajeni-summitu-spolecenstvi-apec-k-dialogu/2903223",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Demokratka Peltolaová získala senátorský mandát na Aljašce, uvádí CNN a AP",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-18T04:42:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/demokratka-peltolaova-ziskala-senatorsky-mandat-na-aljasce-uvadi-cnn-a-ap/2903222",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -19,6 +49,16 @@
       "category": "svet",
       "published_at": "2026-11-18T02:27:13+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/policie-pri-podzimnich-protestech-ve-francii-zadrzela-na-15-tisic-lidi-379700",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Výpadky, které postihly USA, mezi sebou nesouvisí, uvedl Rubio",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-18T02:40:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/vypadky-ktere-postihly-usa-mezi-sebou-nesouvisi-uvedl-rubio/2903218",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -173,36 +213,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Muniční iniciativa zajišťuje Ukrajině přes 60 procent munice, uvedl Landovský",
-      "summary": "Muniční iniciativa zajišťuje více než 60 procent dělostřelecké munice pro Ukrajinu, uvedl po jednání ministrů obrany zemí Evropské unie (EU) v Bruselu Jakub Landovský z…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-17T15:19:49+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/municni-iniciativa-zajistuje-ukrajine-pres-60-procent-munice-uvedl-landovsky-379693",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Exodus amerických vojáků z Evropy se zřejmě nekoná. Jedné zemi to ale Trump spočítá",
-      "summary": "Odchod amerických vojáků z Evropy bude podle všeho výrazně menší, než se původně čekalo. Místo 25 tisíc příslušníků by jich podle informací agentury Bloomberg měl…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-17T16:03:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/exodus-americkych-vojaku-z-evropy-se-zrejme-nekona-jedne-zemi-to-ale-trump-spocita/r~aaa29d9c5ed26597558151c86a1d6e22/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Babiš nevyloučil spolupráci Eisenkota s Netanjahuem v nové izraelské vládě",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-17T15:42:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/babis-nevyloucil-spolupraci-eisenkota-s-netanjahuem-v-nove-izraelske-vlade/2903046",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Generál Šnajdárek od ledna povede sekci rozvoje sil ministerstva obrany, řekl Zůna",
       "summary": "Brigádní generál Petr Šnajdárek nastoupí od ledna nadcházejícího roku do čela sekce rozvoje sil ministerstva obrany. Skončí ve funkci ředitele sekce komunikačních a informačních systémů,…",
       "source": "ČT24",
@@ -233,42 +243,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Překažený íránský atentát v zemi EU. Severní Makedonie oznámila odhalení sítě podezřelých",
-      "summary": "Úřady v Severní Makedonii v úterý uvedly, že překazily atentát na osobu v sousedním Řecku a rozbily síť spojenou s Íránem. Informovala o tom agentura…",
-      "source": "CNN Prima NEWS",
-      "category": "svet",
-      "published_at": "2026-11-17T15:01:53+01:00",
-      "url": "https://cnn.iprima.cz/prekazeny-iransky-atentat-v-zemi-eu-527360",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Trump pohrozil Íránu tvrdou odvetou za případný útok. Teherán obvinění odmítá",
       "summary": "Pokud by Írán zaútočil na Washington, zaplatil by za to vysokou cenu, prohlásil v úterý americký prezident Donald Trump podle stanice CNN po příletu do…",
       "source": "Deník",
       "category": "svet",
       "published_at": "2026-11-17T14:59:03+01:00",
       "url": "https://www.denik.cz/svet/trump-pohrozil-iranu-tvrdou-odvetou-za-pripadny-utok-teheran-obvineni-odmita/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Kosovský exprezident Thaçi dostal v Haagu 17 měsíců za ovlivňování svědků",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-17T14:47:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/kosovsky-exprezident-thaci-dostal-v-haagu-17-mesicu-za-ovlivnovani-svedku/2903032",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Řečníci při pietě u Hlávkovy koleje v Praze připomněli nutnost bránit demokracii",
-      "summary": "Význam veřejnoprávních médií a demonstrací na podporu České televizi a Českému rozhlasu vyzdvihli v úterý zástupci vysokých škol při pietním shromáždění k výročí 17. listopadu…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-17T12:31:31+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/recnici-pri-piete-u-hlavkovy-koleje-v-praze-pripomneli-nutnost-branit-demokracii-379688",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -291,6 +271,16 @@
       "url": "https://cnn.iprima.cz/havluv-odkaz-je-dulezity-rika-korejsky-starosta-17-listopad-pripomenou-i-na-druhe-strane-sveta-527316",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
+    },
+    {
+      "title": "Pavla vítal potlesk i pískot, Fialovi lidé říkali, ať se vrátí. Slaví se nejen na Národní",
+      "summary": "Tisíce lidí si v úterý v Praze na Národní třídě připomínají výročí sametové revoluce, která v roce 1989 vyústila v pád komunistického režimu. Vzpomínkové akce…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-17T07:05:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/zacinaji-oslavy-17-listopadu-na-narodni-letos-bude-chybet-premier/r~aaa29bc84cc2b51b541c48f803082428/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
     }
   ],
   "unavailable_sources": [],
@@ -301,8 +291,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
-      "selected": 6,
+      "candidates": 16,
+      "selected": 5,
       "free_articles_checked": 7
     },
     {
@@ -311,7 +301,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 16,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -321,9 +311,9 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 25,
-      "selected": 4,
-      "free_articles_checked": 8
+      "candidates": 30,
+      "selected": 5,
+      "free_articles_checked": 7
     },
     {
       "name": "Novinky.cz",
@@ -331,7 +321,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -341,7 +331,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 8,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -351,7 +341,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 8,
       "selected": 7,
       "free_articles_checked": 7
     },
@@ -361,9 +351,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 12,
       "selected": 4,
-      "free_articles_checked": 7
+      "free_articles_checked": 6
     },
     {
       "name": "iDNES.cz",
@@ -371,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 10,
       "selected": 6,
       "free_articles_checked": 6
     },
@@ -382,8 +372,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 9,
-      "selected": 2,
-      "free_articles_checked": 2
+      "selected": 1,
+      "free_articles_checked": 1
     },
     {
       "name": "E15",
@@ -391,7 +381,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 3,
+      "candidates": 2,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -451,7 +441,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 17,
       "selected": 0,
       "free_articles_checked": 0
     }

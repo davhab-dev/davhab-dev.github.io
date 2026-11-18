@@ -3,12 +3,28 @@
   "current": null,
   "queue": [
     [
-      "https://www.idnes.cz/zpravy/zahranicni/mary-peltolaova-ziskala-senatorsky-mandat-na-aljasce-demokrate-maji-56-kresel.A261118_042436_zahranicni_air",
-      "Mary Peltolaová získala senátorský mandát na Aljašce, demokraté mají 56 křesel"
+      "https://ct24.ceskatelevize.cz/clanek/svet/demokratka-peltolaova-podle-odhadu-zvitezila-v-senatnich-volbach-na-aljasce-379701",
+      "Demokratka Peltolaová podle odhadů zvítězila v senátních volbách na Aljašce"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/peltolaova-vyhrala-senatorsky-mandat-na-aljasce-demokrate-maji-56-kresel.A261118_042436_zahranicni_air",
+      "Peltolaová vyhrála senátorský mandát na Aljašce, demokraté mají 56 křesel"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/cinsky-prezident-vyzval-na-zahajeni-summitu-spolecenstvi-apec-k-dialogu/2903223",
+      "Čínský prezident vyzval na zahájení summitu společenství APEC k dialogu"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/demokratka-peltolaova-ziskala-senatorsky-mandat-na-aljasce-uvadi-cnn-a-ap/2903222",
+      "Demokratka Peltolaová získala senátorský mandát na Aljašce, uvádí CNN a AP"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/policie-pri-podzimnich-protestech-ve-francii-zadrzela-na-15-tisic-lidi-379700",
       "Policie při podzimních protestech ve Francii zadržela na 15 tisíc lidí"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/vypadky-ktere-postihly-usa-mezi-sebou-nesouvisi-uvedl-rubio/2903218",
+      "Výpadky, které postihly USA, mezi sebou nesouvisí, uvedl Rubio"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/novym-predsedou-knesetu-se-stal-eisenkotuv-spojenec-kahana-379699",
@@ -71,18 +87,6 @@
       "Symbol svobody či ztráta suverenity. Na Národní třídě se střetly různorodé názory"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/svet/municni-iniciativa-zajistuje-ukrajine-pres-60-procent-munice-uvedl-landovsky-379693",
-      "Muniční iniciativa zajišťuje Ukrajině přes 60 procent munice, uvedl Landovský"
-    ],
-    [
-      "https://zpravy.aktualne.cz/zahranici/exodus-americkych-vojaku-z-evropy-se-zrejme-nekona-jedne-zemi-to-ale-trump-spocita/r~aaa29d9c5ed26597558151c86a1d6e22/",
-      "Exodus amerických vojáků z Evropy se zřejmě nekoná. Jedné zemi to ale Trump spočítá"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/babis-nevyloucil-spolupraci-eisenkota-s-netanjahuem-v-nove-izraelske-vlade/2903046",
-      "Babiš nevyloučil spolupráci Eisenkota s Netanjahuem v nové izraelské vládě"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/domaci/general-snajdarek-od-ledna-povede-sekci-rozvoje-sil-ministerstva-obrany-rekl-zuna-379692",
       "Generál Šnajdárek od ledna povede sekci rozvoje sil ministerstva obrany, řekl Zůna"
     ],
@@ -95,20 +99,8 @@
       "V Srbsku končí Vučičova vláda. Nový parlament ovládlo studentské hnutí"
     ],
     [
-      "https://cnn.iprima.cz/prekazeny-iransky-atentat-v-zemi-eu-527360",
-      "Překažený íránský atentát v zemi EU. Severní Makedonie oznámila odhalení sítě podezřelých"
-    ],
-    [
       "https://www.denik.cz/svet/trump-pohrozil-iranu-tvrdou-odvetou-za-pripadny-utok-teheran-obvineni-odmita/",
       "Trump pohrozil Íránu tvrdou odvetou za případný útok. Teherán obvinění odmítá"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/kosovsky-exprezident-thaci-dostal-v-haagu-17-mesicu-za-ovlivnovani-svedku/2903032",
-      "Kosovský exprezident Thaçi dostal v Haagu 17 měsíců za ovlivňování svědků"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/recnici-pri-piete-u-hlavkovy-koleje-v-praze-pripomneli-nutnost-branit-demokracii-379688",
-      "Řečníci při pietě u Hlávkovy koleje v Praze připomněli nutnost bránit demokracii"
     ],
     [
       "https://www.denik.cz/evropa/zelenskyj-potvrdil-utok-na-krymsky-most-ukrajina-se-mstila-za-ruske-udery/",
@@ -117,16 +109,20 @@
     [
       "https://cnn.iprima.cz/havluv-odkaz-je-dulezity-rika-korejsky-starosta-17-listopad-pripomenou-i-na-druhe-strane-sveta-527316",
       "Havlův odkaz je živý i zde, říká korejský starosta. 17. listopad si připomíná i druhá strana světa"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/zacinaji-oslavy-17-listopadu-na-narodni-letos-bude-chybet-premier/r~aaa29bc84cc2b51b541c48f803082428/",
+      "Pavla vítal potlesk i pískot, Fialovi lidé říkali, ať se vrátí. Slaví se nejen na Národní"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 29,
+    "initial_pending": 28,
     "completed": [],
     "deferred": [],
-    "remaining": 29
+    "remaining": 28
   },
   "samples_seconds": [
     51.274763,
