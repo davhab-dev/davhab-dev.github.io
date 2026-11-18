@@ -1,8 +1,17 @@
 {
-  "updated": "2026-11-18T16:26:58.922077+00:00",
+  "updated": "2026-11-18T17:28:52.770137+00:00",
   "articles": [
     {
-      "title": "Hunt Limitless 40 gravel wheelset review: Good to a fault",
+      "title": "Netcompany Ineos lose significant sponsor as TotalEnergies confirms it will not continue in 2027",
+      "summary": "Energy giant had reportedly been in talks to expand backing but will now exit and focus on FDJ United women's team",
+      "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/netcompany-ineos-lose-significant-sponsor-as-totalenergies-confirm-they-will-not-continue-in-2027/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-18T16:48:20+00:00"
+    },
+    {
+      "title": "Hunt Limitless 40 Gravel Aero wheelset review: Good to a fault",
       "summary": "They're not perfect, and the rim could be wider, but I like them a lot",
       "url": "https://www.cyclingnews.com/cycling-tech-components/wheels-tyres/hunt-limitless-40-gravel-wheelset/",
       "source": "Cyclingnews",
@@ -116,6 +125,15 @@
       "source": "MTBS.cz",
       "lang": "CS",
       "category": "Gravel",
+      "published": "2026-11-18"
+    },
+    {
+      "title": "V Astaně zuří boj o moc. Hlavní sponzor XDS hrozí ukončením spolupráce, pokud šéfem nezůstane Vinokurov",
+      "summary": "",
+      "url": "https://www.roadcycling.cz/clanek/v-astane-zuri-boj-o-moc-hlavni-sponzor-xds-hrozi-ukoncenim-spoluprace-pokud-sefem-nezustane-vinokurov",
+      "source": "RoadCycling.cz",
+      "lang": "CS",
+      "category": "Závody",
       "published": "2026-11-18"
     },
     {
@@ -560,15 +578,6 @@
       "published": "2026-11-15T05:30:40+00:00"
     },
     {
-      "title": "Liptovské bláznovstvá s činelem na zádech",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132124/liptovske-blaznovstva-s-cinelem-na-zadech.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-11-15"
-    },
-    {
       "title": "Bollekescross v Hamme, druhý díl X2O Trofee, podle českých závoďáků připravil dobře na Ostravu. Nejlepší tu byli Nys a Brand",
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/bollekescross-v-hamme-druhy-dil-x2o-trofee-podle-ceskych-zavodaku-pripravil-dobre-na-ostravu-nejlepsi-tu-byli-nys-a-brand",
@@ -842,15 +851,6 @@
       "title": "Evenepoel chce v příštím roce podávat vyrovnanější výkony a získat oba tituly mistra světa. Trasa Tour de France se mu líbí",
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/evenepoel-chce-v-pristim-roce-podavat-vyrovnanejsi-vykony-a-ziskat-oba-tituly-mistra-sveta-trasa-tour-de-france-se-mu-libi",
-      "source": "RoadCycling.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": "2026-11-13"
-    },
-    {
-      "title": "Městský cyklokros v Jičíně u Šibeňáku přidal jeden kopec. Pomůže Borošovi k první výhře v českém poháru loupežník Rumcajs?",
-      "summary": "",
-      "url": "https://www.roadcycling.cz/clanek/mestsky-cyklokros-v-jicine-u-sibenaku-pridal-jeden-kopec-pomuze-borosovi-k-prvni-vyhre-v-ceskem-poharu-loupeznik-rumcajs",
       "source": "RoadCycling.cz",
       "lang": "CS",
       "category": "Závody",
