@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-19T02:58:29.091114+00:00",
+  "updated_at": "2026-11-19T04:04:37.329403+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Na Krymském mostě byla po dalším útoku přerušena doprava",
+      "summary": "Krymský most čelil v noci na čtvrtek dalšímu útoku. Nyní je na něm přerušena doprava, tvrdí Ruskem dosazená správa okupovaného ukrajinského poloostrova. Ukrajina zaútočila na…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-19T03:08:28+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/na-krymskem-moste-byla-po-dalsim-utoku-prerusena-doprava-379743",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Trumpa, Siho a Putina čeká trojstranné jednání",
       "summary": "Čínské město Šen-čen hostí summit Asijsko-pacifického hospodářského společenství (APEC). Účastní se jej mimo jiné prezident USA Donald Trump, ruský diktátor Vladimir Putin a čínský vládce…",
@@ -193,16 +203,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Spojené státy uzavřely vojenskou dohodu s Venezuelou, řekl Hegseth",
-      "summary": "Spojené státy uzavřely vojenskou dohodu s Venezuelou, oznámil ve středu americký ministr obrany Pete Hegseth během návštěvy Caracasu, aniž ji blíže specifikoval. Podle agentury AFP…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-18T18:52:26+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/spojene-staty-uzavrely-vojenskou-dohodu-s-venezuelou-rekl-hegseth-379735",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "AfD chce v Sasku-Anhaltsku vypovědět smlouvy o veřejnoprávním vysílání",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -293,9 +293,7 @@
       "importance_kind": "pending"
     }
   ],
-  "unavailable_sources": [
-    "TN.cz"
-  ],
+  "unavailable_sources": [],
   "sources": [
     {
       "name": "ČT24",
@@ -313,7 +311,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 18,
+      "candidates": 19,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -323,7 +321,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 22,
+      "candidates": 21,
       "selected": 7,
       "free_articles_checked": 8
     },
@@ -343,7 +341,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -403,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -440,10 +438,10 @@
     {
       "name": "TN.cz",
       "site": "https://tn.nova.cz/",
-      "feeds_ok": 0,
+      "feeds_ok": 1,
       "feeds_total": 1,
-      "status": "unavailable",
-      "candidates": 0,
+      "status": "ok",
+      "candidates": 16,
       "selected": 0,
       "free_articles_checked": 0
     },
