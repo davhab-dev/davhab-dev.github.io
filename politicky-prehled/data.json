@@ -1,7 +1,87 @@
 {
-  "updated_at": "2026-11-19T19:07:39.995812+00:00",
+  "updated_at": "2026-11-19T20:12:48.510747+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Ruský útok poškodil rakouské velvyslanectví v Kyjevě, zaměstnanci vyvázli bez zranění",
+      "summary": "Ruský útok na Kyjev ve čtvrtek poškodil budovu rakouského velvyslanectví. Na síti X to oznámil rakouský kancléř Christian Stocker s tím, že zaměstnanci neutrpěli žádné…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-19T19:53:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/rusky-utok-kyjev-rakouske-velvyslanectvi-stoker-zahranici.A261119_182430_zahranicni_dtt",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Havlíček podporuje prodej letounů Skyfox Ukrajině. Okamura má výhrady",
+      "summary": "Ukrajina má zájem o šestnáct letounů L-39 Skyfox české výroby, obchod podpořil ministr průmyslu Karel Havlíček (ANO) na návštěvě Kyjeva. Výhrady má předseda vládního hnutí…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-19T19:48:21+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/havlicek-podporuje-prodej-letounu-skyfox-ukrajine-okamura-ma-vyhrady-379776",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Tejc počítá se zrušením skoro 30 okresních soudů. Chce tak ušetřit sto milionů ročně",
+      "summary": "Ministr spravedlnosti Jeroným Tejc (za ANO) počítá se zrušením 27 okresních soudů a jejich sloučením do větších celků. Po dnešním jednání ministra s předsedy krajských…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-19T19:37:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/ministr-jeronym-tejc-pocita-se-zrusenim-27-okresnich-soudu-a-jejich-sloucenim-do-vetsich-celku.A261119_200148_domaci_mul",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Koalice ochotných podpoří Ukrajinu i příští rok, řekl Merz. Jaltský formát odmítl",
+      "summary": "Koalice ochotných bude Ukrajinu podporovat i příští rok. Po jednání jejích členů v Berlíně to uvedl německý kancléř Friedrich Merz. Vyzval ruského lídra Vladimira Putina…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-19T19:33:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/berlin-koalice-ochotnych-eu-valka-ukrajina-rusko.A261119_132137_zahranicni_rtn",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Tejc plánuje zrušit 27 okresních soudů, většina jejich pracovišť zůstane",
+      "summary": "Ministr spravedlnosti Jeroným Tejc (za ANO) počítá se zrušením 27 okresních soudů a jejich sloučením do větších celků. Po čtvrtečním jednání ministra s předsedy krajských…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-19T20:29:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/tejc-planuje-zrusit-27-okresnich-soudu-vetsina-jejich-pracovist-zustane/r~aaa29856aa3611f2f9a6ee3fd2a05a71/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Srbský parlament povede univerzitní profesor Čupić, zastane i roli prezidenta",
+      "summary": "Novým předsedou srbského parlamentu se ve čtvrtek stal univerzitní profesor a poslanec Studentské kandidátky Aleksandar Čupić. Ze svého úřadu bude zastávat i funkci prozatímního prezidenta…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-19T19:28:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/srbsky-parlament-cupic-prozatimni-prezident-vucic-politika.A261119_200014_zahranicni_dtt",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Okamura se postavil Macinkovi kvůli hokeji. A vytáhl Putinova podporovatele",
+      "summary": "Zatímco ministr zahraničí Petr Macinka (Motoristé) se staví proti tomu, aby se ruské hokejistky účastnily šampionátu v Ostravě, jeho koaliční partner a šéf sněmovny Tomio…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-19T20:26:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/okamura-se-postavil-macinkovi-kvuli-hokeji-a-vytahl-putinova-podporovatele/r~aaa29e8fdbf55bdd22d1e3b2d1224510/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Předsedou srbského parlamentu se stal Čupić, bude i prozatímním prezidentem",
+      "summary": "Novým předsedou srbského parlamentu se ve čtvrtek stal univerzitní profesor a poslanec Studentské kandidátky Aleksandar Čupić. Ze svého úřadu bude zastávat i funkci prozatímního prezidenta…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-19T20:24:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/predsedou-srbskeho-parlamentu-se-stal-cupic-bude-i-prozatimnim-prezidentem/r~aaa297ae831f891f13e02e59e6cdcd56/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Ministr Tejc počítá se zrušením 27 okresních soudů při justiční reformě",
       "summary": "Ministr spravedlnosti Jeroným Tejc (za ANO) počítá se zrušením 27 okresních soudů a jejich sloučením do větších celků. Po čtvrtečním jednání ministra s předsedy krajských…",
@@ -9,6 +89,16 @@
       "category": "domaci",
       "published_at": "2026-11-19T19:07:12+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/ministr-tejc-pocita-se-zrusenim-27-okresnich-soudu-pri-justicni-reforme-379774",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Trump má válku s Íránem za uzavřenou. Menší státy Blízkého východu trpí dál",
+      "summary": "Po listopadových volbách, v nichž republikáni utrpěli výrazné ztráty, má Trump dost starostí doma a zdá se, že válku s Íránem hodil za hlavu. Boje…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-19T19:00:00+00:00",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/trump-ma-valku-s-iranem-za-uzavrenou-mensi-staty-blizkeho-vychodu-trpi-dal.A261119_114958_eko-zahranicni_jla",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -23,16 +113,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Koalice ochotných podpoří Ukrajinu i příští rok, řekl Merz. Jaltský formát odmítl",
-      "summary": "Koalice ochotných bude Ukrajinu podporovat i příští rok. Po jednání jejích členů v Berlíně to uvedl německý kancléř Friedrich Merz. Vyzval ruského lídra Vladimira Putina…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-19T18:33:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/berlin-koalice-ochotnych-eu-valka-ukrajina-rusko.A261119_132137_zahranicni_rtn",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "„Nejsem MAGA.“ Musk se distancoval od Trumpova hnutí",
       "summary": "Miliardář Elon Musk se distancoval od hnutí MAGA (Učiňme Ameriku opět skvělou) amerického prezidenta Donalda Trumpa pár týdnů poté, co republikáni utrpěli drtivou porážku ve…",
       "source": "ČT24",
@@ -43,28 +123,8 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Ruský útok poškodil rakouské velvyslanectví v Kyjevě, zaměstnanci vyvázli bez zranění",
-      "summary": "Ruský útok na Kyjev ve čtvrtek poškodil budovu rakouského velvyslanectví. Na síti X to oznámil rakouský kancléř Christian Stocker s tím, že zaměstnanci neutrpěli žádné…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-19T18:14:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/rusky-utok-kyjev-rakouske-velvyslanectvi-stoker-zahranici.A261119_182430_zahranicni_dtt",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "V Rusku po summitu velebí Putina jako velikána. Pád mostu odbyli za 10 sekund",
-      "summary": "Ruská státní televize líčila summit Vladimira Putina, Donalda Trumpa a Si Ťin-pchinga v Číně jako historické setkání rovnocenných mocností, opakovala záběry přátelských gest a zdůrazňovala…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-19T18:06:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/v-rusku-po-summitu-velebi-putina-jako-velikana-pad-mostu-odbyli-za-10-sekund.A261119_160613_zahranicni_dtt",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Koalice ochotných bude dál Ukrajinu podporovat v obraně proti Rusku, řekl Merz",
-      "summary": "Koalice ochotných bude i v celém příštím roce Ukrajinu podporovat. Po jednání více než čtyř desítek členů koalice v Berlíně to řekl německý kancléř Friedrich…",
+      "title": "Koalice ochotných bude dál podporovat Ukrajinu. Merz vyzval Putina k ukončení války",
+      "summary": "Koalice ochotných bude i v celém příštím roce Ukrajinu podporovat, řekl po jednání koalice německý kancléř Friedrich Merz. Ruského vládce Vladimira Putina vyzval, aby válku…",
       "source": "ČT24",
       "category": "svet",
       "published_at": "2026-11-19T17:45:07+00:00",
@@ -79,16 +139,6 @@
       "category": "svet",
       "published_at": "2026-11-19T18:30:00+01:00",
       "url": "https://www.denik.cz/svet/donald-trump-si-tin-pching-vladimir-putin-setkani-svetovy-mir/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Trump a Si společně probrali AI. Shodli se na nutnosti bezpečnostních opatření",
-      "summary": "Americký prezident Donald Trump se svým čínským protějškem Si Ťin-pchingem hovořil o umělé inteligenci. Oba se shodli, že zavedení bezpečnostních opatření je správné.",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-19T17:21:00+00:00",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/trump-si-tin-pching-umela-inteligence-bezpecnostni-opatreni.A261119_175942_eko-zahranicni_sile",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -163,36 +213,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Pražští zastupitelé zvolili primátorem Hlaváčka, radu tvoří STAN, Spolu a Praha sobě",
-      "summary": "Pražští zastupitelé ve čtvrtek zvolili primátora Petra Hlaváčka (STAN), jeho pět náměstků i zbylých pět členů jedenáctičlenné rady města. Náměstky primátora jsou lídr Spolu (ODS,…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-19T15:36:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/prazsti-zastupitele-zvolili-primatorem-hlavacka-radu-tvori-stan-spolu-a-praha-sobe/r~aaa299a548fbe2f1c412d6df4301af06/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Koalice ochotných bude jednat o Ukrajině a jak ji podpořit do míru, řekl Rutte",
-      "summary": "Hlavní témata čtvrtečního jednání takzvané koalice ochotných v Berlíně budou, jak dosáhnout míru na Ukrajině a jak Ukrajinu do té doby udržet silnou. Před jednáním…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-19T15:21:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/koalice-ochotnych-bude-jednat-o-ukrajine-a-jak-ji-podporit-do-miru-rekl-rutte/r~aaa29f3e15ec8c2ddd1ba08c70d6e086/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Babiš se vyjádřil k prezidentově kritice Okamury. Nejdřív ale svého spojence sám sepsul",
-      "summary": "Dva požadavky z nedělní demonstrace Milionu chvilek pro demokracii na Letné se týkaly vládního hnutí SPD: aby jeho šéf Tomio Okamura nebyl nadále předsedou sněmovny…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-19T15:20:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/babis-se-vyjadril-k-prezidentove-kritice-okamury-nejdriv-ale-sveho-spojence-sam-sepsul/r~aaa298bb08a9321139a77ce86652c5ff/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Synovi Fica prý banka zrušila účet, podezírala ho z praní peněz. Otec to popírá",
       "summary": "Synovi slovenského premiéra Roberta Fica Michalovi zrušili v roce 2016 v Německu bankovní účet. Podle zjištění portálu investigace.cz k tomu banka přistoupila kvůli podezření z…",
       "source": "Deník",
@@ -261,16 +281,6 @@
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/brifink-po-jednani-vlady-379747",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
-    },
-    {
-      "title": "Senátoři zvolili nové vedení, předsedou zůstává Vystrčil",
-      "summary": "Senátoři na první schůzi v povolebním složení popáté zvolili předsedou horní komory Miloše Vystrčila (ODS), který neměl protikandidáta. Získal 69 ze 77 odevzdaných hlasů. Před…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-19T09:00:05+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/senatori-na-ustavujici-schuzi-zvoli-nove-vedeni-horni-komory-379749",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
     }
   ],
   "unavailable_sources": [],
@@ -291,7 +301,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 18,
+      "candidates": 19,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -331,7 +341,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 11,
       "selected": 4,
       "free_articles_checked": 5
     },
@@ -341,7 +351,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 13,
       "selected": 4,
       "free_articles_checked": 4
     },
@@ -352,8 +362,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 14,
-      "selected": 5,
-      "free_articles_checked": 7
+      "selected": 6,
+      "free_articles_checked": 6
     },
     {
       "name": "CNN Prima NEWS",
@@ -381,7 +391,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 17,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -391,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -431,7 +441,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 18,
       "selected": 0,
       "free_articles_checked": 0
     }
