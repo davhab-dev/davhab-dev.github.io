@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-19T01:21:21.418856+00:00",
+  "updated_at": "2026-11-19T02:58:29.091114+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Trumpa, Siho a Putina čeká trojstranné jednání",
+      "summary": "Čínské město Šen-čen hostí summit Asijsko-pacifického hospodářského společenství (APEC). Účastní se jej mimo jiné prezident USA Donald Trump, ruský diktátor Vladimir Putin a čínský vládce…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-19T02:15:00+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/trumpa-siho-a-putina-ceka-trojstranne-jednani-379741",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Prezident Petr Pavel zahájí návštěvu Moravskoslezského a Olomouckého kraje",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
@@ -193,16 +203,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Předstíral přátelství, budoval past. Jak Epstein vyhledával své oběti?",
-      "summary": "Jak fungovala síť Jeffreyho Epsteina, do které se dostaly stovky mladých dívek, a proč selhaly kontrolní mechanismy i úřady? Americká zpravodajka Jana Ciglerová a Michaela…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-18T18:33:45+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/predstiral-pratelstvi-budoval-past-jak-epstein-vyhledaval-sve-obeti-379726",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "AfD chce v Sasku-Anhaltsku vypovědět smlouvy o veřejnoprávním vysílání",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -293,7 +293,9 @@
       "importance_kind": "pending"
     }
   ],
-  "unavailable_sources": [],
+  "unavailable_sources": [
+    "TN.cz"
+  ],
   "sources": [
     {
       "name": "ČT24",
@@ -303,7 +305,7 @@
       "status": "ok",
       "candidates": 20,
       "selected": 5,
-      "free_articles_checked": 7
+      "free_articles_checked": 8
     },
     {
       "name": "iROZHLAS",
@@ -321,7 +323,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 23,
+      "candidates": 22,
       "selected": 7,
       "free_articles_checked": 8
     },
@@ -438,10 +440,10 @@
     {
       "name": "TN.cz",
       "site": "https://tn.nova.cz/",
-      "feeds_ok": 1,
+      "feeds_ok": 0,
       "feeds_total": 1,
-      "status": "ok",
-      "candidates": 16,
+      "status": "unavailable",
+      "candidates": 0,
       "selected": 0,
       "free_articles_checked": 0
     },
