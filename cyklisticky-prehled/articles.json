@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T17:46:56.729364+00:00",
+  "updated": "2026-11-19T18:46:55.509901+00:00",
   "articles": [
     {
       "title": "Demi Vollering, Eddy Merckx, Paul Seixas among cycling stars set for audience with Pope Leo XIV",
@@ -128,15 +128,6 @@
       "published": "2026-11-19"
     },
     {
-      "title": "Řetěz KMC Pro Transmission",
-      "summary": "",
-      "url": "https://cykl.cz/retez-kmc-pro-transmission",
-      "source": "Cykl.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
-      "published": "2026-11-19"
-    },
-    {
       "title": "Collective Cycling Group chce reformovat závodní cyklistiku. K iniciativě se přidalo 24 týmů",
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/collective-cycling-group-chce-reformovat-zavodni-cyklistiku-k-iniciative-se-pridalo-24-tymu",
@@ -170,6 +161,15 @@
       "source": "RoadCycling.cz",
       "lang": "CS",
       "category": "Závody",
+      "published": "2026-11-19"
+    },
+    {
+      "title": "Řetěz KMC Pro Transmission",
+      "summary": "",
+      "url": "https://cykl.cz/retez-kmc-pro-transmission",
+      "source": "Cykl.cz",
+      "lang": "CS",
+      "category": "Cyklistika",
       "published": "2026-11-19"
     },
     {
@@ -1604,15 +1604,6 @@
       "published": "2026-11-10T09:27:16+00:00"
     },
     {
-      "title": "Vrchařská prověrka, elektrokolo Touroll S2",
-      "summary": "",
-      "url": "https://cykl.cz/vrcharska-proverka-elektrokolo-touroll-s2",
-      "source": "Cykl.cz",
-      "lang": "CS",
-      "category": "Technika",
-      "published": "2026-11-10"
-    },
-    {
       "title": "Gravel v Česku a v zahraničí: Dvě naprosto odlišné disciplíny",
       "summary": "",
       "url": "https://www.mtbiker.cz/clanky/132086/gravel-v-cesku-a-v-zahranici-dve-naprosto-odlisne-discipliny.html",
@@ -1628,6 +1619,15 @@
       "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Cyklistika",
+      "published": "2026-11-10"
+    },
+    {
+      "title": "Vrchařská prověrka, elektrokolo Touroll S2",
+      "summary": "",
+      "url": "https://cykl.cz/vrcharska-proverka-elektrokolo-touroll-s2",
+      "source": "Cykl.cz",
+      "lang": "CS",
+      "category": "Technika",
       "published": "2026-11-10"
     },
     {
@@ -3153,6 +3153,7 @@
     }
   ],
   "source_errors": [
-    "NaKole.cz: HTTP Error 403: Forbidden"
+    "NaKole.cz: HTTP Error 403: Forbidden",
+    "Cykl.cz: <urlopen error [Errno 111] Connection refused>"
   ]
 }
