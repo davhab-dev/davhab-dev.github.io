@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-19T15:23:00.732559+00:00",
+  "updated": "2026-11-19T16:28:57.419864+00:00",
   "articles": [
+    {
+      "title": "Black Friday Garmin deals - Big discounts on computers, watches and hardware",
+      "summary": "All the best Black Friday Garmin deals in one place",
+      "url": "https://www.cyclingnews.com/cycling-tech-components/black-friday-garmin-deals-2026/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-19T15:18:50+00:00"
+    },
     {
       "title": "‘Who is influencing whom and why?’ – Some of cycling’s biggest backers are spinning a sponsorship spiderweb, but what are the risks?",
       "summary": "With a handful of brands having ties to teams, races, and even governing bodies, Chris Marshall-Bell questions whether this is just the way cycling's sponsorship model is going, or if it's a governance headache waiting t",
@@ -20,10 +29,19 @@
       "published": "2026-11-19T15:00:00+00:00"
     },
     {
+      "title": "NSN Cycling Team drops Scott for Cube and announces its star signing for 2027",
+      "summary": "Scott is back out of the WorldTour again",
+      "url": "https://www.bikeradar.com/news/nsn-cycling-team-cube-bikes-2027",
+      "source": "BikeRadar",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-19T15:00:00+00:00"
+    },
+    {
       "title": "\"Waging a war against rider fatigue\" – new Polygon gravel bike gets 55mm tyre clearance and down-tube storage from $1,799",
       "summary": "Updated Tambora is racier, more comfortable and now compatible with gravel suspension forks",
       "url": "https://www.bikeradar.com/news/polygon-tambora-2026",
-      "source": "BikeRadar Gravel",
+      "source": "BikeRadar",
       "lang": "EN",
       "category": "Gravel",
       "published": "2026-11-19T15:00:00+00:00"
@@ -3132,24 +3150,6 @@
       "lang": "EN",
       "category": "Technika",
       "published": "2026-10-15T15:00:00+00:00"
-    },
-    {
-      "title": "ROUVY Fest is here – save £200 on Zwift Ride in this limited-time indoor cycling deal",
-      "summary": "ROUVY Fest brings savings of up to 23% on the Zwift Ride smart bike, just in time for indoor training season",
-      "url": "https://www.bikeradar.com/advertising-feature/rouvy-fest-is-here-save-200-on-zwift-ride",
-      "source": "BikeRadar MTB",
-      "lang": "EN",
-      "category": "Trénink",
-      "published": "2026-10-15T08:00:00+00:00"
-    },
-    {
-      "title": "Best gravel bikes in 2026: top-rated carbon, aluminium, titanium and steel gravel bikes reviewed",
-      "summary": "From bikepacking to gravel racing, our expert testers bring together the very best gravel bikes",
-      "url": "https://www.bikeradar.com/advice/buyers-guides/best-gravel-bikes",
-      "source": "BikeRadar Gravel",
-      "lang": "EN",
-      "category": "Gravel",
-      "published": "2026-10-14T15:38:00+00:00"
     }
   ],
   "source_errors": [
