@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-19T06:55:42.218520+00:00",
+  "updated": "2026-11-19T08:19:28.864228+00:00",
   "articles": [
+    {
+      "title": "'A bold new visual era' for the maglia rosa as MAAP strikes deal to produce Giro d'Italia leaders' jerseys",
+      "summary": "Young Australian company signs a multi-year partnership across all RCS races",
+      "url": "https://www.cyclingnews.com/pro-cycling/a-bold-new-visual-era-for-the-maglia-rosa-as-maap-strikes-deal-to-produce-giro-d-italia-leaders-jerseys/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-19T08:00:00+00:00"
+    },
     {
       "title": "TEST: Avona Callis 32 – Když gravel přeroste do nové dimenze",
       "summary": "",
@@ -8,6 +17,15 @@
       "source": "MTBS.cz",
       "lang": "CS",
       "category": "Gravel",
+      "published": "2026-11-19"
+    },
+    {
+      "title": "Pro oba kluky to bude obrovská příležitost, řekl k přestupu Jakuba Zaňky a Davida Ichy do ATT Investments František Trkal, trenér Dukly Praha",
+      "summary": "",
+      "url": "https://www.roadcycling.cz/clanek/pro-oba-kluky-to-bude-obrovska-prilezitost-rekl-k-prestupu-jakuba-zanky-a-davida-ichy-do-att-investments-frantisek-trkal-trener-dukly-praha",
+      "source": "RoadCycling.cz",
+      "lang": "CS",
+      "category": "Závody",
       "published": "2026-11-19"
     },
     {
@@ -162,6 +180,15 @@
       "lang": "CS",
       "category": "MTB",
       "published": "2026-11-18T05:00:00+00:00"
+    },
+    {
+      "title": "Přestupová mapa MTB 2027: Mistři světa s otazníkem, velké týmy končí. Kdo už má jasno?",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/prestupova-mapa-mtb-2027-mistri-sveta-s-otaznikem-velke-tymy-konci-kdo-uz-ma-jasno/kategorie/tymy-a-kluby",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-18"
     },
     {
       "title": "TEST MTB brzd: III Pro Peerage 2 – Čínská inspirace Trickstuffem za zlomek ceny",
@@ -767,15 +794,6 @@
       "published": "2026-11-14"
     },
     {
-      "title": "Italská světová špička v oblékání cyklistů: Alé představuje novou kolekci pro podzim a zimu 2026/27",
-      "summary": "",
-      "url": "https://www.roadcycling.cz/clanek/italska-svetova-spicka-v-oblekani-cyklistu-ale-predstavuje-novou-kolekci-pro-podzim-a-zimu-2026-27",
-      "source": "RoadCycling.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": "2026-11-14"
-    },
-    {
       "title": "The Le Col Black Friday deals are live – I built a winter cycling outfit and saved over $435, here's what I picked",
       "summary": "Get geared up for winter riding with some of the best cycling clothing from the Le Col range. With up to 50% off, these deals will keep your winter rides cosy and comfortable at a fraction of the cost",
       "url": "https://www.cyclingnews.com/cycling-kit-accessories/clothing-shoes/the-le-col-black-friday-sale-is-live-i-built-a-winter-cycling-outfit-and-saved-over-usd435-heres-what-i-picked/",
@@ -1073,15 +1091,6 @@
       "published": "2026-11-12"
     },
     {
-      "title": "Strýcová, Koller, Štybar i Kwiatkowski závodili nad Prahou. Garmin Indoor Classics odstartovalo ve velkém stylu",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/strycova-koller-stybar-i-kwiatkowski-zavodili-nad-prahou-garmin-indoor-classics-odstartovalo-ve-velkem-stylu/kategorie/clanky-ostatni",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": "2026-11-12"
-    },
-    {
       "title": "Nová limitka Canyon Spectral:ON CF LTD: 150 kusů, 150 Nm a pouhých 20,8 kg",
       "summary": "",
       "url": "https://mtbs.cz/clanek/canyon-spectral-on-cf-ltd-150-kusu-150-nm-a-pouhych-20-8-kg-nova-limitka-ukazuje-silu-avinoxu/kategorie/tech-news",
@@ -1106,6 +1115,15 @@
       "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Cyklistika",
+      "published": "2026-11-12"
+    },
+    {
+      "title": "Strýcová, Koller, Štybar i Kwiatkowski závodili nad Prahou. Garmin Indoor Classics odstartovalo ve velkém stylu",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/strycova-koller-stybar-i-kwiatkowski-zavodili-nad-prahou-garmin-indoor-classics-odstartovalo-ve-velkem-stylu/kategorie/clanky-ostatni",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "Závody",
       "published": "2026-11-12"
     },
     {
@@ -3132,24 +3150,6 @@
       "lang": "EN",
       "category": "Gravel",
       "published": "2026-10-08T14:00:00+00:00"
-    },
-    {
-      "title": "Van Rysel odhalil model RCR-XC, který má 32palcová kola a váží méně než devětadvacítka",
-      "summary": "",
-      "url": "https://cyklorepublic.cz/clanky/01a11c92-d72c-7184-b700-cf14910ebe46/van-rysel-odhalil-nove-mtb-rcr-xc-ma-32palcova-kola-a-vazi-mene-nez-devetadvacitka",
-      "source": "CykloRepublic.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
-      "published": "2026-10-08"
-    },
-    {
-      "title": "🚴 Labská cyklostezka: Z Kostelce nad Labem do Mělníka | Nové úseky, industriální Spolana a soutok s Vltavou",
-      "summary": "Navazujeme na předchozí díly, ve kterých jsme vyjeli z Čelákovic, projeli Lázně Toušeň, dorazili do Brandýsa nad Labem a odtud pokračovali přes Záryby až do Kostelce nad Labem. Pokud jste je ještě nečetli, najdete je tad",
-      "url": "https://cyklocestovatel.cz/labska-cyklostezka-z-kostelce-nad-labem-do-melnika/",
-      "source": "Cyklocestovatel.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
-      "published": "2026-09-30T20:10:02+00:00"
     }
   ],
   "source_errors": [
