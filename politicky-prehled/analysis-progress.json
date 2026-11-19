@@ -3,6 +3,10 @@
   "current": null,
   "queue": [
     [
+      "https://ct24.ceskatelevize.cz/clanek/svet/trump-v-zari-nakoupil-akcie-nvidie-v-hodnote-az-265-tisic-dolaru-379777",
+      "Trump v září nakoupil akcie Nvidie v hodnotě až 265 tisíc dolarů"
+    ],
+    [
       "https://www.idnes.cz/zpravy/zahranicni/haiti-policie-zabila-34-clenu-gangu.A261119_215833_zahranicni_sile",
       "Policie na Haiti zesílila tlak na gangy, chce dobýt klíčovou čtvrť. Zabila 34 zločinců"
     ],
@@ -103,26 +107,18 @@
       "Třaskavý pakt. Putin, Si a Trump udeřili na Haag a dohodli se na imunitě"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/svet/dialog-o-jadernych-zbranich-a-vetsi-produkce-ropy-pozaduji-trump-si-a-putin-379751",
-      "Dialog o jaderných zbraních a větší produkce ropy, požadují Trump, Si a Putin"
-    ],
-    [
       "https://www.denik.cz/evropa/rusko-seznam-nepratelskych-zemi/",
       "Rusové zveřejnili žebříček nepřátelských zemí. Česko je na šestém místě"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/brifink-po-jednani-vlady-379747",
-      "Ředitelem Úřadu rozvoje území bude Martin Kozák, rozhodla vláda"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 28,
+    "initial_pending": 27,
     "completed": [],
     "deferred": [],
-    "remaining": 28
+    "remaining": 27
   },
   "samples_seconds": [
     51.274763,
