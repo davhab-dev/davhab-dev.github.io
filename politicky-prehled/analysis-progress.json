@@ -3,36 +3,56 @@
   "current": null,
   "queue": [
     [
-      "https://www.idnes.cz/zpravy/zahranicni/putin-moskva-ukrajina-eu-valka-vojenska-spoluprace.A261119_140427_zahranicni_dtt",
-      "Ať Evropané přijedou jednat do Moskvy, řekl Putin. Promluvil o Krymském mostu"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/stan-rakusan-urad-vlady-analyticky-utvar-tunde-bartha.A261119_123940_domaci_aya",
-      "„Vláda se zbavuje odborníků.“ Rakušan kritizuje zrušení analytického útvaru"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/v-cr-stoupa-predepisovani-antibiotik-mzd-bude-lekarum-posilat-porovnani/2904022",
-      "V ČR stoupá předepisování antibiotik, MZd bude lékařům posílat porovnání"
+      "https://www.idnes.cz/zpravy/zahranicni/slovensko-robert-fico-summit-cina-putin-trump-si-tin-pching.A261119_145041_zahranicni_kha",
+      "Žárlivá Evropa bude plakat, ta o míru nemluví. Fico chválí čínský summit"
     ],
     [
       "https://www.idnes.cz/zpravy/zahranicni/berlin-koalice-ochotnych-eu-valka-ukrajina-rusko.A261119_132137_zahranicni_rtn",
       "Největší summit v Německu za desítky let. V Berlíně jedná koalice ochotných"
     ],
     [
-      "https://www.idnes.cz/zpravy/domaci/martin-kupka-ods-valka-na-ukrajine-kyjev-humanitarni-pomoc.A261119_131054_domaci_aya",
-      "Kupka je na Ukrajině, hasičům dovezl vybavení. V pomoci nepolevíme, vzkázal"
+      "https://zpravy.aktualne.cz/domaci/prazsti-zastupitele-zvolili-primatorem-hlavacka-radu-tvori-stan-spolu-a-praha-sobe/r~aaa299a548fbe2f1c412d6df4301af06/",
+      "Pražští zastupitelé zvolili primátorem Hlaváčka, radu tvoří STAN, Spolu a Praha sobě"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/tristranne-jednani-trumpa-si-tin-pchinga-a-putina-v-cine-zacalo.A261119_093306_zahranicni_bro",
-      "Si jednal s Trumpem a Putinem. Po schůzce vydali Mírovou deklaraci"
+      "https://www.idnes.cz/ekonomika/zahranicni/svycarsko-referendum-vyvoz-zbrani.A261119_144205_eko-zahranicni_rie",
+      "Švýcaři rozhodnou o uvolnění vývozu zbraní. Průzkumy ukazují těsný souboj"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/putin-moskva-ukrajina-eu-valka-vojenska-spoluprace.A261119_140427_zahranicni_dtt",
+      "Ať Evropané přijedou jednat do Moskvy, řekl Putin. Slíbil odvetu za Krymský most"
     ],
     [
       "https://www.idnes.cz/zpravy/domaci/prazske-zastupitelstvo-bude-volit-nove-vedeni-mesta.A261118_125859_domaci_vank",
-      "Hlaváček se stal novým primátorem Prahy, zastupitelé zvolili i pět náměstků"
+      "Hlaváček se stal novým primátorem Prahy, zastupitelé zvolili náměstky i radní"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/koalice-ochotnych-bude-jednat-o-ukrajine-a-jak-ji-podporit-do-miru-rekl-rutte/r~aaa29f3e15ec8c2ddd1ba08c70d6e086/",
+      "Koalice ochotných bude jednat o Ukrajině a jak ji podpořit do míru, řekl Rutte"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/babis-se-vyjadril-k-prezidentove-kritice-okamury-nejdriv-ale-sveho-spojence-sam-sepsul/r~aaa298bb08a9321139a77ce86652c5ff/",
+      "Babiš se vyjádřil k prezidentově kritice Okamury. Nejdřív ale svého spojence sám sepsul"
+    ],
+    [
+      "https://www.denik.cz/evropa/michal-fico-syn-roberta-fica-ucet-banka-prani-penez/",
+      "Synovi Fica prý banka zrušila účet, podezírala ho z praní peněz. Otec to popírá"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/koalicni-smlouvu-v-liberci-dnes-podepsali-lidri-tri-subjektu/2904032",
+      "Koaliční smlouvu v Liberci dnes podepsali lídři tří subjektů"
+    ],
+    [
+      "https://www.denik.cz/svet/jednani-donald-trump-vladimir-putin-si-tin-pching/",
+      "Kdo to je? To je můj přítel! Trump vychválil Putina i Si, co zaznělo na jednání"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/v-cr-stoupa-predepisovani-antibiotik-mzd-bude-lekarum-posilat-porovnani/2904022",
+      "V ČR stoupá předepisování antibiotik, MZd bude lékařům posílat porovnání"
     ],
     [
       "https://zpravy.aktualne.cz/domaci/lidr-opozice-ve-svem-zivlu-rakusan-v-brne-ukazal-proc-muze-byt-nastupcem-babise/r~aaa29f271568c6ee4a75b8cd854d3b54/",
-      "Rakušan byl v Brně ve svém živlu. Ukázal, proč může být nástupcem Babiše"
+      "Rakušan má strategii, jak sesadit Babiše. Prozradil svůj vzor, přijel i speciální host"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/kupka-prijel-na-ukrajinu-setka-se-s-predsedou-parlamentu-stefancukem/2903975",
@@ -71,8 +91,8 @@
       "Zbavme svět jaderných zbraní, vyzval čínský prezident. Trump mluvil o „jedinečné pozici“"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/prazskym-primatorem-je-hlavacek-nahradil-svobodu/2903301",
-      "Pražským primátorem je Hlaváček, nahradil Svobodu"
+      "https://www.ceskenoviny.cz/zpravy/prazsti-zastupitele-zvolili-primatora-jeho-namestky-a-dalsi-radni/2903301",
+      "Pražští zastupitelé zvolili primátora, jeho náměstky a další radní"
     ],
     [
       "https://zpravy.aktualne.cz/domaci/senat-povede-milos-vystrcil-zvolen-byl-uz-popate-opet-nemel-protikandidata/r~aaa29e222d90e636b876fbace96c2703/",
@@ -87,20 +107,12 @@
       "To je můj přítel, ukazoval Trump na Putina. Číňané ze sálu vykázali nepohodlnou reportérku"
     ],
     [
-      "https://zpravy.aktualne.cz/domaci/senat-se-poprve-sesel-po-rijnovych-volbach-prisahu-slozilo-26-clenu-horni-komory/r~aaa29cb8be71b8596e546206d82acbd2/",
-      "Senát se poprvé sešel po říjnových volbách, přísahu složilo 26 členů horní komory"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/svet/evropskou-komisi-zasahl-rozsahly-kyberneticky-utok-379750",
       "Evropskou komisi zasáhl rozsáhlý kybernetický útok"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/senatori-na-ustavujici-schuzi-zvoli-nove-vedeni-horni-komory-379749",
       "Senátoři zvolili nové vedení, předsedou zůstává Vystrčil"
-    ],
-    [
-      "https://zpravy.aktualne.cz/ekonomika/valka-s-iranem-zpusobila-historicky-zasah-do-svetoveho-obchodu-s-ropou-a-plynem/r~aaa2975bb485a03ae17180be2c50c108/",
-      "Válka s Íránem způsobila historický zásah do světového obchodu s ropou a plynem"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/obvodni-soud-v-pripadu-feri-spatne-vyhodnotil-dukazy-uvedl-mestsky-soud-379748",
@@ -121,24 +133,16 @@
     [
       "https://www.denik.cz/evropa/ukrajinci-zautocili-na-krymsky-most-i-potreti-byla-na-nem-prerusena-doprava/",
       "Ukrajinci zaútočili na Krymský most i potřetí. Byl na něm přerušen provoz vlaků"
-    ],
-    [
-      "https://www.denik.cz/svet/trump-se-sesel-se-si-tin-pchingem-chce-resit-otazku-iranu/",
-      "Trump se sešel se Si Ťin-pchingem. Řešili mimo jiné i otázku Íránu"
-    ],
-    [
-      "https://cnn.iprima.cz/trump-se-sesel-s-putinem-americky-prezident-ocekava-spoustu-uzasnych-veci-527487",
-      "Trump se sešel s Putinem a očekává spoustu úžasných věcí. Ruský vládce je potěšen"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 32,
+    "initial_pending": 33,
     "completed": [],
     "deferred": [],
-    "remaining": 32
+    "remaining": 33
   },
   "samples_seconds": [
     51.274763,

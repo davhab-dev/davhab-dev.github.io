@@ -1,24 +1,114 @@
 {
-  "updated_at": "2026-11-19T13:28:18.759413+00:00",
+  "updated_at": "2026-11-19T15:04:06.019274+00:00",
   "window_hours": 24,
   "articles": [
     {
-      "title": "Ať Evropané přijedou jednat do Moskvy, řekl Putin. Promluvil o Krymském mostu",
-      "summary": "Evropanům jsme doporučili, aby přijeli jednat o válce na Ukrajině do Moskvy, řekl po jednání v čínském Šen-čenu řekl novinářům ruský prezident Vladimir Putin. Podle…",
+      "title": "Žárlivá Evropa bude plakat, ta o míru nemluví. Fico chválí čínský summit",
+      "summary": "Slovenský premiér Robert Fico ve čtvrtek vyzdvihl závěry summitu prezidentů Číny, Spojených států a Ruska. Podle Fica na schůzce Si Ťin-pchinga, Donalda Trumpa a Vladimira…",
       "source": "iDNES.cz",
       "category": "svet",
-      "published_at": "2026-11-19T13:23:00+00:00",
+      "published_at": "2026-11-19T14:49:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/slovensko-robert-fico-summit-cina-putin-trump-si-tin-pching.A261119_145041_zahranicni_kha",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Největší summit v Německu za desítky let. V Berlíně jedná koalice ochotných",
+      "summary": "Na čtvrtečním berlínské setkání takzvané koalice ochotných, tedy zemí podporujících Ukrajinu, dorazily desítky delegací. Doplnily je představitelé Evropské unie a NATO. Ještě před začátkem se…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-19T14:49:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/berlin-koalice-ochotnych-eu-valka-ukrajina-rusko.A261119_132137_zahranicni_rtn",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Pražští zastupitelé zvolili primátorem Hlaváčka, radu tvoří STAN, Spolu a Praha sobě",
+      "summary": "Pražští zastupitelé ve čtvrtek zvolili primátora Petra Hlaváčka (STAN), jeho pět náměstků i zbylých pět členů jedenáctičlenné rady města. Náměstky primátora jsou lídr Spolu (ODS,…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-19T15:36:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/prazsti-zastupitele-zvolili-primatorem-hlavacka-radu-tvori-stan-spolu-a-praha-sobe/r~aaa299a548fbe2f1c412d6df4301af06/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Švýcaři rozhodnou o uvolnění vývozu zbraní. Průzkumy ukazují těsný souboj",
+      "summary": "Ve Švýcarsku se bude v referendu rozhodovat o zmírnění přísných pravidel pro vývoz zbraní a munice do zahraničí. Reforma schválená parlamentem má usnadnit prodej zbraní…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-19T14:34:00+00:00",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/svycarsko-referendum-vyvoz-zbrani.A261119_144205_eko-zahranicni_rie",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Ať Evropané přijedou jednat do Moskvy, řekl Putin. Slíbil odvetu za Krymský most",
+      "summary": "Evropanům jsme doporučili, aby přijeli jednat o válce na Ukrajině do Moskvy, řekl po jednání v čínském Šen-čenu novinářům ruský prezident Vladimir Putin. Podle něj…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-19T14:27:00+00:00",
       "url": "https://www.idnes.cz/zpravy/zahranicni/putin-moskva-ukrajina-eu-valka-vojenska-spoluprace.A261119_140427_zahranicni_dtt",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
     {
-      "title": "„Vláda se zbavuje odborníků.“ Rakušan kritizuje zrušení analytického útvaru",
-      "summary": "Opoziční hnutí STAN kritizuje rozpuštění vládního analytického útvaru. Předseda STAN Vít Rakušan na tiskové konferenci řekl, že kabinet se tím zbavuje odborníků, kteří měli zajistit,…",
+      "title": "Hlaváček se stal novým primátorem Prahy, zastupitelé zvolili náměstky i radní",
+      "summary": "Pražským primátorem se stal dosavadní náměstek Petr Hlaváček (STAN), v radě bude mít na starosti územní a strategický rozvoj, bydlení a zahraniční vztahy. Ve čtvrtek…",
       "source": "iDNES.cz",
       "category": "domaci",
-      "published_at": "2026-11-19T13:22:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/stan-rakusan-urad-vlady-analyticky-utvar-tunde-bartha.A261119_123940_domaci_aya",
+      "published_at": "2026-11-19T14:27:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/prazske-zastupitelstvo-bude-volit-nove-vedeni-mesta.A261118_125859_domaci_vank",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Koalice ochotných bude jednat o Ukrajině a jak ji podpořit do míru, řekl Rutte",
+      "summary": "Hlavní témata čtvrtečního jednání takzvané koalice ochotných v Berlíně budou, jak dosáhnout míru na Ukrajině a jak Ukrajinu do té doby udržet silnou. Před jednáním…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-19T15:21:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/koalice-ochotnych-bude-jednat-o-ukrajine-a-jak-ji-podporit-do-miru-rekl-rutte/r~aaa29f3e15ec8c2ddd1ba08c70d6e086/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Babiš se vyjádřil k prezidentově kritice Okamury. Nejdřív ale svého spojence sám sepsul",
+      "summary": "Dva požadavky z nedělní demonstrace Milionu chvilek pro demokracii na Letné se týkaly vládního hnutí SPD: aby jeho šéf Tomio Okamura nebyl nadále předsedou sněmovny…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-19T15:20:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/babis-se-vyjadril-k-prezidentove-kritice-okamury-nejdriv-ale-sveho-spojence-sam-sepsul/r~aaa298bb08a9321139a77ce86652c5ff/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Synovi Fica prý banka zrušila účet, podezírala ho z praní peněz. Otec to popírá",
+      "summary": "Synovi slovenského premiéra Roberta Fica Michalovi zrušili v roce 2016 v Německu bankovní účet. Podle zjištění portálu investigace.cz k tomu banka přistoupila kvůli podezření z…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-19T15:00:00+01:00",
+      "url": "https://www.denik.cz/evropa/michal-fico-syn-roberta-fica-ucet-banka-prani-penez/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Koaliční smlouvu v Liberci dnes podepsali lídři tří subjektů",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-19T14:33:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/koalicni-smlouvu-v-liberci-dnes-podepsali-lidri-tri-subjektu/2904032",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Kdo to je? To je můj přítel! Trump vychválil Putina i Si, co zaznělo na jednání",
+      "summary": "Americký prezident Donald Trump před historickým summitem s ruským a čínským vůdcem v Šen-čenu vyzdvihoval své osobní vztahy s oběma autoritářskými politiky. Prezidenty Vladimira Putina…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-19T14:30:00+01:00",
+      "url": "https://www.denik.cz/svet/jednani-donald-trump-vladimir-putin-si-tin-pching/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -33,47 +123,7 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Největší summit v Německu za desítky let. V Berlíně jedná koalice ochotných",
-      "summary": "Na čtvrtečním berlínské setkání takzvané koalice ochotných, tedy zemí podporujících Ukrajinu, dorazí delegace 40 států. Doplní je představitelé Evropské unie a NATO. Podle německých médií…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-19T13:21:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/berlin-koalice-ochotnych-eu-valka-ukrajina-rusko.A261119_132137_zahranicni_rtn",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Kupka je na Ukrajině, hasičům dovezl vybavení. V pomoci nepolevíme, vzkázal",
-      "summary": "Předseda ODS Martin Kupka přijel na Ukrajinu, v pátek bude jednat s předsedou ukrajinského parlamentu Ruslanem Stefančukem. Ve spolupráci s organizací Team 4 Ukraine přivezl…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-19T12:39:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/martin-kupka-ods-valka-na-ukrajine-kyjev-humanitarni-pomoc.A261119_131054_domaci_aya",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Si jednal s Trumpem a Putinem. Po schůzce vydali Mírovou deklaraci",
-      "summary": "V čínském Šen-čenu skončila schůzka prezidentů Číny, Spojených států a Ruska Si Ťin-pchinga, Donalda Trumpa a Vladimira Putina. Jednání trvalo zhruba 90 minut. Čína po…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-19T12:35:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/tristranne-jednani-trumpa-si-tin-pchinga-a-putina-v-cine-zacalo.A261119_093306_zahranicni_bro",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Hlaváček se stal novým primátorem Prahy, zastupitelé zvolili i pět náměstků",
-      "summary": "Pražským primátorem se stal dosavadní náměstek Petr Hlaváček (STAN), v radě bude mít na starosti územní a strategický rozvoj, bydlení a zahraniční vztahy. Dnes ho…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-19T12:29:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/prazske-zastupitelstvo-bude-volit-nove-vedeni-mesta.A261118_125859_domaci_vank",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Rakušan byl v Brně ve svém živlu. Ukázal, proč může být nástupcem Babiše",
+      "title": "Rakušan má strategii, jak sesadit Babiše. Prozradil svůj vzor, přijel i speciální host",
       "summary": "Vít Rakušan patří mezi nejtalentovanější politiky své generace. Obzvlášť mezi lidmi působí přesvědčivě. Jeho promluvy mají lehkost, gradaci i švih. Potvrdil to také ve středu…",
       "source": "Aktuálně.cz",
       "category": "domaci",
@@ -173,12 +223,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Pražským primátorem je Hlaváček, nahradil Svobodu",
+      "title": "Pražští zastupitelé zvolili primátora, jeho náměstky a další radní",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
       "category": "domaci",
       "published_at": "2026-11-19T11:22:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/prazskym-primatorem-je-hlavacek-nahradil-svobodu/2903301",
+      "url": "https://www.ceskenoviny.cz/zpravy/prazsti-zastupitele-zvolili-primatora-jeho-namestky-a-dalsi-radni/2903301",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -213,16 +263,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Senát se poprvé sešel po říjnových volbách, přísahu složilo 26 členů horní komory",
-      "summary": "Senát se ve čtvrtek poprvé sešel v novém složení podle platných výsledků říjnových voleb ve třetině senátních obvodů. Ústavou předepsaný slib složilo 25 senátorů a…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-19T11:01:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/senat-se-poprve-sesel-po-rijnovych-volbach-prisahu-slozilo-26-clenu-horni-komory/r~aaa29cb8be71b8596e546206d82acbd2/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Evropskou komisi zasáhl rozsáhlý kybernetický útok",
       "summary": "Evropskou komisi zasáhl rozsáhlý kybernetický útok, který mohl ohrozit osobní údaje jejích zaměstnanců. Hackeři podle serveru Politico využili nástroj umělé inteligence k odhalování zranitelnosti v…",
       "source": "ČT24",
@@ -239,16 +279,6 @@
       "category": "domaci",
       "published_at": "2026-11-19T09:00:05+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/senatori-na-ustavujici-schuzi-zvoli-nove-vedeni-horni-komory-379749",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Válka s Íránem způsobila historický zásah do světového obchodu s ropou a plynem",
-      "summary": "Konflikt na Blízkém východě způsobil největší narušení globálního obchodu s ropou a plynem v historii. Jeho dopady by do roku 2035 mohly snížit světovou poptávku…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-19T09:51:00+01:00",
-      "url": "https://zpravy.aktualne.cz/ekonomika/valka-s-iranem-zpusobila-historicky-zasah-do-svetoveho-obchodu-s-ropou-a-plynem/r~aaa2975bb485a03ae17180be2c50c108/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -301,26 +331,6 @@
       "url": "https://www.denik.cz/evropa/ukrajinci-zautocili-na-krymsky-most-i-potreti-byla-na-nem-prerusena-doprava/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
-    },
-    {
-      "title": "Trump se sešel se Si Ťin-pchingem. Řešili mimo jiné i otázku Íránu",
-      "summary": "Americký prezident Donald Trump se ve čtvrtek 19. listopadu po jednání s ruským protějškem Vladimirem Putinem sešel s čínským vůdcem Si Ťin-pchingem. Před jednáním řekl,…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-19T07:17:59+01:00",
-      "url": "https://www.denik.cz/svet/trump-se-sesel-se-si-tin-pchingem-chce-resit-otazku-iranu/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Trump se sešel s Putinem a očekává spoustu úžasných věcí. Ruský vládce je potěšen",
-      "summary": "Americký prezident Donald Trump se ve čtvrtek sešel se svým ruským protějškem Vladimirem Putinem na okraj summitu Asijsko-pacifického hospodářského společenství (APEC) v Číně, píší tiskové…",
-      "source": "CNN Prima NEWS",
-      "category": "svet",
-      "published_at": "2026-11-19T06:18:57+01:00",
-      "url": "https://cnn.iprima.cz/trump-se-sesel-s-putinem-americky-prezident-ocekava-spoustu-uzasnych-veci-527487",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
     }
   ],
   "unavailable_sources": [],
@@ -331,7 +341,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 19,
+      "candidates": 16,
       "selected": 8,
       "free_articles_checked": 8
     },
@@ -351,8 +361,8 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 25,
-      "selected": 7,
+      "candidates": 22,
+      "selected": 8,
       "free_articles_checked": 8
     },
     {
@@ -361,7 +371,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 9,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -371,7 +381,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -381,9 +391,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
-      "selected": 4,
-      "free_articles_checked": 4
+      "candidates": 9,
+      "selected": 5,
+      "free_articles_checked": 5
     },
     {
       "name": "Deník",
@@ -391,9 +401,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
-      "selected": 3,
-      "free_articles_checked": 3
+      "candidates": 15,
+      "selected": 4,
+      "free_articles_checked": 4
     },
     {
       "name": "iDNES.cz",
@@ -401,8 +411,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
-      "selected": 6,
+      "candidates": 16,
+      "selected": 5,
       "free_articles_checked": 6
     },
     {
@@ -411,9 +421,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
-      "selected": 4,
-      "free_articles_checked": 4
+      "candidates": 8,
+      "selected": 3,
+      "free_articles_checked": 3
     },
     {
       "name": "E15",
@@ -421,7 +431,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
+      "candidates": 5,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -441,7 +451,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 18,
+      "candidates": 16,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -451,7 +461,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 9,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -461,7 +471,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 5,
       "selected": 0,
       "free_articles_checked": 0
     },
