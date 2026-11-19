@@ -3,28 +3,56 @@
   "current": null,
   "queue": [
     [
+      "https://www.idnes.cz/zpravy/zahranicni/putin-moskva-ukrajina-eu-valka-vojenska-spoluprace.A261119_140427_zahranicni_dtt",
+      "Ať Evropané přijedou jednat do Moskvy, řekl Putin. Promluvil o Krymském mostu"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/stan-rakusan-urad-vlady-analyticky-utvar-tunde-bartha.A261119_123940_domaci_aya",
+      "„Vláda se zbavuje odborníků.“ Rakušan kritizuje zrušení analytického útvaru"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/v-cr-stoupa-predepisovani-antibiotik-mzd-bude-lekarum-posilat-porovnani/2904022",
+      "V ČR stoupá předepisování antibiotik, MZd bude lékařům posílat porovnání"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/berlin-koalice-ochotnych-eu-valka-ukrajina-rusko.A261119_132137_zahranicni_rtn",
+      "Největší summit v Německu za desítky let. V Berlíně jedná koalice ochotných"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/martin-kupka-ods-valka-na-ukrajine-kyjev-humanitarni-pomoc.A261119_131054_domaci_aya",
+      "Kupka je na Ukrajině, hasičům dovezl vybavení. V pomoci nepolevíme, vzkázal"
+    ],
+    [
       "https://www.idnes.cz/zpravy/zahranicni/tristranne-jednani-trumpa-si-tin-pchinga-a-putina-v-cine-zacalo.A261119_093306_zahranicni_bro",
       "Si jednal s Trumpem a Putinem. Po schůzce vydali Mírovou deklaraci"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/prazske-zastupitelstvo-bude-volit-nove-vedeni-mesta.A261118_125859_domaci_vank",
+      "Hlaváček se stal novým primátorem Prahy, zastupitelé zvolili i pět náměstků"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/lidr-opozice-ve-svem-zivlu-rakusan-v-brne-ukazal-proc-muze-byt-nastupcem-babise/r~aaa29f271568c6ee4a75b8cd854d3b54/",
+      "Rakušan byl v Brně ve svém živlu. Ukázal, proč může být nástupcem Babiše"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/kupka-prijel-na-ukrajinu-setka-se-s-predsedou-parlamentu-stefancukem/2903975",
+      "Kupka přijel na Ukrajinu, setká se s předsedou parlamentu Stefančukem"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/koalice-ochotnych-ma-jina-dulezita-temata-nez-financovani-ct-a-cro-uvedl-berlin/2903420",
+      "Koalice ochotných má jiná důležitá témata než financování ČT a ČRo, uvedl Berlín"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/politico-nemecko-chce-zajistit-aby-pomoc-ukrajine-nezablokovala-le-penova/2903961",
       "Politico: Německo chce zajistit, aby pomoc Ukrajině nezablokovala Le Penová"
     ],
     [
-      "https://www.idnes.cz/zpravy/domaci/senat-nove-slozeni-schuze-hlasovani-predseda.A261118_213156_domaci_mul",
-      "Vystrčil obhájil post šéfa Senátu. Grolicha jen těsně zvolili místopředsedou"
-    ],
-    [
       "https://cnn.iprima.cz/rusko-cina-a-usa-vydaly-po-jednani-mirovou-deklaraci-jake-jsou-zasadni-body-527518",
-      "Třaskavý pakt Putina, Si a Trumpa. Prezidenti udeřili na Haag a dohodli se na imunitě"
+      "Třaskavý pakt. Putin, Si a Trump udeřili na Haag a dohodli se na imunitě"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/dialog-o-jadernych-zbranich-a-vetsi-produkce-ropy-pozaduji-trump-si-a-putin-379751",
       "Dialog o jaderných zbraních a větší produkce ropy, požadují Trump, Si a Putin"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/prazske-zastupitelstvo-bude-volit-nove-vedeni-mesta.A261118_125859_domaci_vank",
-      "Praha má nového primátora. Hlaváčkovi poblahopřál končící Svoboda"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/-cina-rusko-a-usa-vydaly-po-jednani-v-sen-cenu-mirovou-deklaraci/2901941",
@@ -37,14 +65,6 @@
     [
       "https://www.denik.cz/evropa/rusko-seznam-nepratelskych-zemi/",
       "Rusové zveřejnili žebříček nepřátelských zemí. Česko je na šestém místě"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/jednani-vlady-nahrada-za-ztratu-vydelku-pracovni-uraz.A261118_090008_domaci_jira",
-      "„Nevím, proč to komentuje.” Babiš zpražil Okamuru kvůli Skyfoxům"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/cast-krymskeho-mostu-by-mohla-fungovat-za-mesic-ci-dva-rekl-rusky-vicepremier.A261119_105213_zahranicni_kha",
-      "Část Krymského mostu může fungovat za měsíc či dva, pak uvidíme, míní Rusové"
     ],
     [
       "https://cnn.iprima.cz/zbavme-svet-jadernych-zbrani-vyzval-cinsky-prezident-527507",
@@ -63,10 +83,6 @@
       "Ředitelem Úřadu rozvoje území bude Martin Kozák, rozhodla vláda"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/rusko-vladimir-putin-jaderny-kufrik-cina-jednani-trump-si-tin-pching.A261119_095616_zahranicni_kha",
-      "To je on? Ano! Odstrkovaný Putin zaujal jaderným kufříkem i tlustými podrážkami"
-    ],
-    [
       "https://cnn.iprima.cz/to-je-muj-pritel-ukazoval-trump-na-putina-cinane-ze-salu-vykazali-nepohodlnou-reporterku-527503",
       "To je můj přítel, ukazoval Trump na Putina. Číňané ze sálu vykázali nepohodlnou reportérku"
     ],
@@ -75,20 +91,12 @@
       "Senát se poprvé sešel po říjnových volbách, přísahu složilo 26 členů horní komory"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/dansti-poslanci-schvalili-bezpecnostni-dohodu-s-usa-tykajici-se-gronska/2903837",
-      "Dánští poslanci schválili bezpečnostní dohodu s USA týkající se Grónska"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/-babis-pocet-uredniku-bude-v-roce-2027-o-4362-nizsi-nez-pred-peti-lety/2902503",
-      "Babiš: Počet úředníků bude v roce 2027 o 4362 nižší než před pěti lety"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/svet/evropskou-komisi-zasahl-rozsahly-kyberneticky-utok-379750",
       "Evropskou komisi zasáhl rozsáhlý kybernetický útok"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/senatori-na-ustavujici-schuzi-zvoli-nove-vedeni-horni-komory-379749",
-      "Brífink nového vedení Senátu"
+      "Senátoři zvolili nové vedení, předsedou zůstává Vystrčil"
     ],
     [
       "https://zpravy.aktualne.cz/ekonomika/valka-s-iranem-zpusobila-historicky-zasah-do-svetoveho-obchodu-s-ropou-a-plynem/r~aaa2975bb485a03ae17180be2c50c108/",
@@ -101,10 +109,6 @@
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/analyza-odhalila-sest-opakujicich-se-narativu-protiukrajinskych-dezinformaci-v-polsku-379731",
       "Analýza odhalila šest opakujících se narativů protiukrajinských dezinformací v Polsku"
-    ],
-    [
-      "https://zpravy.aktualne.cz/zahranici/dochazi-vam-cas-ukrajina-i-rusko-obdrzely-drsny-vzkaz-od-trumpovych-kumpanu/r~aaa291369467b5005bd56c28b316f183/",
-      "Okno pro mír se zavírá. Trumpovi vyjednávači tlačí na Putina, mluví o výhodách"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/cina-si-z-ruska-dela-kolonii-rika-farsky-nechce-vstoupit-do-konfliktu-na-ukrajine-mini-bzoch-379740",
@@ -123,14 +127,6 @@
       "Trump se sešel se Si Ťin-pchingem. Řešili mimo jiné i otázku Íránu"
     ],
     [
-      "https://denikn.cz/newsletter/2262545/metnar-rusti-sportovci-do-ceska-vpusteni-nebudou-soud-prohlasil-senatni-volby-na-zdarsku-za-neplatne-stan-spolu-a-praha-sobe-podepsaly-koalicni-smlouvu-v-praze/",
-      "R5M: Metnar: Ruští sportovci do Česka vpuštěni nebudou | Soud prohlásil senátní volby na Žďársku za neplatné"
-    ],
-    [
-      "https://www.denik.cz/svet/trump-se-v-cine-sesel-s-putinem-hovoril-o-uzasnych-moznostech/",
-      "Trump se v Číně sešel s Putinem. Lídři mluvili hlavně o Ukrajině"
-    ],
-    [
       "https://cnn.iprima.cz/trump-se-sesel-s-putinem-americky-prezident-ocekava-spoustu-uzasnych-veci-527487",
       "Trump se sešel s Putinem a očekává spoustu úžasných věcí. Ruský vládce je potěšen"
     ]
@@ -139,10 +135,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 33,
+    "initial_pending": 32,
     "completed": [],
     "deferred": [],
-    "remaining": 33
+    "remaining": 32
   },
   "samples_seconds": [
     51.274763,
