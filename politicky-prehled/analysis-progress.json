@@ -3,12 +3,44 @@
   "current": null,
   "queue": [
     [
-      "https://www.idnes.cz/zpravy/domaci/tomas-zdechovsky-evropska-komise-konec-falesnych-uctu-socialni-site.A261119_154047_domaci_sile",
-      "Zakročme proti falešným profilům na sítích, vyzývá Zdechovský Brusel"
+      "https://www.idnes.cz/zpravy/zahranicni/berlin-koalice-ochotnych-eu-valka-ukrajina-rusko.A261119_132137_zahranicni_rtn",
+      "Koalice ochotných podpoří Ukrajinu i příští rok, řekl Merz. Jaltský formát odmítl"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/berlin-koalice-ochotnych-eu-valka-ukrajina-rusko.A261119_132137_zahranicni_rtn",
-      "Největší summit v Německu za desítky let. V Berlíně jedná koalice ochotných"
+      "https://www.ceskenoviny.cz/zpravy/byvaly-starosta-ase-pripustil-ze-mestu-bude-chybet-pristi-rok-asi-40-milionu-kc-/2903393",
+      "Bývalý starosta Aše připustil, že městu bude chybět příští rok asi 40 milionů Kč"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/praha-ma-nove-vedeni-svobodu-vystridal-v-roli-primatora-hlavacek-/2903301",
+      "Praha má nové vedení, Svobodu vystřídal v roli primátora Hlaváček"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/ukrajinu-budeme-dal-podporovat-rekl-merz-po-jednani-koalice-ochotnych/2901531",
+      "Ukrajinu budeme dál podporovat, řekl Merz po jednání koalice ochotných"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/prezidenti-usa-ciny-a-ruska-jednali-o-valkach-bezpecnosti-i-jadernych-zbranich-/2901941",
+      "Prezidenti USA, Číny a Ruska jednali o válkách, bezpečnosti i jaderných zbraních"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/kolumbie-chemicka-latka-mistni-hrosi-riziko-ekosystem-obyvatele.A261119_172145_zahranicni_balu",
+      "Kolumbijci usmrtí deset „Escobarových“ hrochů. Použijí chemickou látku"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/lukas-hajek-se-stal-primatorem-liberce-po-osmi-letech-vystridal-zamecnika-/2904032",
+      "Lukáš Hájek se stal primátorem Liberce, po osmi letech vystřídal Zámečníka"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/nechte-nas-strilet-francouzskym-policistum-dosla-trpelivost/r~aaa29a0919c266291ee95407f2281273/",
+      "Nechte nás střílet! Francouzským policistům došla trpělivost"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/rusko-vystavba-valka-ukrajina-ekonomika-odklad.A261119_163312_zahranicni_dtt",
+      "Rusku docházejí peníze na velké stavby. Odkládá železnice, metro i nemocnice"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/trump-oznacil-putina-za-sveho-pritele-sef-polske-diplomacie-vyjadril-znepokojeni-379765",
+      "Trump označil Putina za svého přítele. Šéf polské diplomacie vyjádřil znepokojení"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/v-rusku-zmrazili-stovky-velkych-statnich-staveb-za-biliony-rublu-pise-server/2904090",
@@ -23,18 +55,6 @@
       "Pražští zastupitelé zvolili primátorem Hlaváčka, radu tvoří STAN, Spolu a Praha sobě"
     ],
     [
-      "https://www.idnes.cz/ekonomika/zahranicni/svycarsko-referendum-vyvoz-zbrani.A261119_144205_eko-zahranicni_rie",
-      "Švýcaři rozhodnou o uvolnění vývozu zbraní. Průzkumy ukazují těsný souboj"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/putin-moskva-ukrajina-eu-valka-vojenska-spoluprace.A261119_140427_zahranicni_dtt",
-      "Ať Evropané přijedou jednat do Moskvy, řekl Putin. Slíbil odvetu za Krymský most"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/prazske-zastupitelstvo-bude-volit-nove-vedeni-mesta.A261118_125859_domaci_vank",
-      "Hlaváček se stal novým primátorem Prahy, zastupitelé zvolili náměstky i radní"
-    ],
-    [
       "https://zpravy.aktualne.cz/zahranici/koalice-ochotnych-bude-jednat-o-ukrajine-a-jak-ji-podporit-do-miru-rekl-rutte/r~aaa29f3e15ec8c2ddd1ba08c70d6e086/",
       "Koalice ochotných bude jednat o Ukrajině a jak ji podpořit do míru, řekl Rutte"
     ],
@@ -45,10 +65,6 @@
     [
       "https://www.denik.cz/evropa/michal-fico-syn-roberta-fica-ucet-banka-prani-penez/",
       "Synovi Fica prý banka zrušila účet, podezírala ho z praní peněz. Otec to popírá"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/koalicni-smlouvu-v-liberci-dnes-podepsali-lidri-tri-subjektu/2904032",
-      "Koaliční smlouvu v Liberci dnes podepsali lídři tří subjektů"
     ],
     [
       "https://www.denik.cz/svet/jednani-donald-trump-vladimir-putin-si-tin-pching/",
@@ -67,24 +83,12 @@
       "Kupka přijel na Ukrajinu, setká se s předsedou parlamentu Stefančukem"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/koalice-ochotnych-ma-jina-dulezita-temata-nez-financovani-ct-a-cro-uvedl-berlin/2903420",
-      "Koalice ochotných má jiná důležitá témata než financování ČT a ČRo, uvedl Berlín"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/politico-nemecko-chce-zajistit-aby-pomoc-ukrajine-nezablokovala-le-penova/2903961",
-      "Politico: Německo chce zajistit, aby pomoc Ukrajině nezablokovala Le Penová"
-    ],
-    [
       "https://cnn.iprima.cz/rusko-cina-a-usa-vydaly-po-jednani-mirovou-deklaraci-jake-jsou-zasadni-body-527518",
       "Třaskavý pakt. Putin, Si a Trump udeřili na Haag a dohodli se na imunitě"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/dialog-o-jadernych-zbranich-a-vetsi-produkce-ropy-pozaduji-trump-si-a-putin-379751",
       "Dialog o jaderných zbraních a větší produkce ropy, požadují Trump, Si a Putin"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/babis-jmenoval-komisi-pro-vyber-sefa-uohs-kandidatu-je-podle-nej-16/2902732",
-      "Babiš jmenoval komisi pro výběr šéfa ÚOHS, kandidátů je podle něj 16"
     ],
     [
       "https://www.denik.cz/evropa/rusko-seznam-nepratelskych-zemi/",
@@ -117,24 +121,16 @@
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/analyza-odhalila-sest-opakujicich-se-narativu-protiukrajinskych-dezinformaci-v-polsku-379731",
       "Analýza odhalila šest opakujících se narativů protiukrajinských dezinformací v Polsku"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/cina-si-z-ruska-dela-kolonii-rika-farsky-nechce-vstoupit-do-konfliktu-na-ukrajine-mini-bzoch-379740",
-      "Čína si z Ruska dělá kolonii, říká Farský. Nechce vstoupit do konfliktu na Ukrajině, míní Bžoch"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/kriticka-ruskeho-rezimu-roky-zije-v-cesku-moskva-ji-chce-dostat-do-vezeni-379733",
-      "Kritička ruského režimu roky žije v Česku, Moskva ji chce dostat do vězení"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 31,
+    "initial_pending": 30,
     "completed": [],
     "deferred": [],
-    "remaining": 31
+    "remaining": 30
   },
   "samples_seconds": [
     51.274763,
