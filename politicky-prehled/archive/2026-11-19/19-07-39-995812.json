@@ -1,0 +1,439 @@
+{
+  "updated_at": "2026-11-19T19:07:39.995812+00:00",
+  "window_hours": 24,
+  "articles": [
+    {
+      "title": "Ministr Tejc počítá se zrušením 27 okresních soudů při justiční reformě",
+      "summary": "Ministr spravedlnosti Jeroným Tejc (za ANO) počítá se zrušením 27 okresních soudů a jejich sloučením do větších celků. Po čtvrtečním jednání ministra s předsedy krajských…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-19T19:07:12+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/ministr-tejc-pocita-se-zrusenim-27-okresnich-soudu-pri-justicni-reforme-379774",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Německý prezident Steinmeier přijede do Prahy. Setká se s Pavlem i Babišem",
+      "summary": "Německý prezident Frank-Walter Steinmeier navštíví 1. prosince Českou republiku. V Praze se setká s prezidentem Petrem Pavlem a premiérem Andrejem Babišem. Společně s manželkou se…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-19T18:47:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/nemecky-prezident-cesko-praha-pavel-babis-steinmeier.A261119_193014_domaci_balu",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Koalice ochotných podpoří Ukrajinu i příští rok, řekl Merz. Jaltský formát odmítl",
+      "summary": "Koalice ochotných bude Ukrajinu podporovat i příští rok. Po jednání jejích členů v Berlíně to uvedl německý kancléř Friedrich Merz. Vyzval ruského lídra Vladimira Putina…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-19T18:33:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/berlin-koalice-ochotnych-eu-valka-ukrajina-rusko.A261119_132137_zahranicni_rtn",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "„Nejsem MAGA.“ Musk se distancoval od Trumpova hnutí",
+      "summary": "Miliardář Elon Musk se distancoval od hnutí MAGA (Učiňme Ameriku opět skvělou) amerického prezidenta Donalda Trumpa pár týdnů poté, co republikáni utrpěli drtivou porážku ve…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-19T18:23:53+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/nejsem-maga-musk-se-distancoval-od-trumpova-hnuti-379773",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Ruský útok poškodil rakouské velvyslanectví v Kyjevě, zaměstnanci vyvázli bez zranění",
+      "summary": "Ruský útok na Kyjev ve čtvrtek poškodil budovu rakouského velvyslanectví. Na síti X to oznámil rakouský kancléř Christian Stocker s tím, že zaměstnanci neutrpěli žádné…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-19T18:14:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/rusky-utok-kyjev-rakouske-velvyslanectvi-stoker-zahranici.A261119_182430_zahranicni_dtt",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "V Rusku po summitu velebí Putina jako velikána. Pád mostu odbyli za 10 sekund",
+      "summary": "Ruská státní televize líčila summit Vladimira Putina, Donalda Trumpa a Si Ťin-pchinga v Číně jako historické setkání rovnocenných mocností, opakovala záběry přátelských gest a zdůrazňovala…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-19T18:06:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/v-rusku-po-summitu-velebi-putina-jako-velikana-pad-mostu-odbyli-za-10-sekund.A261119_160613_zahranicni_dtt",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Koalice ochotných bude dál Ukrajinu podporovat v obraně proti Rusku, řekl Merz",
+      "summary": "Koalice ochotných bude i v celém příštím roce Ukrajinu podporovat. Po jednání více než čtyř desítek členů koalice v Berlíně to řekl německý kancléř Friedrich…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-19T17:45:07+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/koalice-ochotnych-bude-dal-ukrajinu-podporovat-v-obrane-proti-rusku-rekl-merz-379772",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Války, bezpečnost, jaderné zbraně i světový mír. O čem mluvili Trump, Putin a Si",
+      "summary": "Prezidenti Spojených států, Číny a Ruska Donald Trump, Si Ťin-pching a Vladimir Putin v jihočínském Šen-čenu jednali o kontrole jaderných zbraní a bezpečnosti ve světě.…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-19T18:30:00+01:00",
+      "url": "https://www.denik.cz/svet/donald-trump-si-tin-pching-vladimir-putin-setkani-svetovy-mir/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Trump a Si společně probrali AI. Shodli se na nutnosti bezpečnostních opatření",
+      "summary": "Americký prezident Donald Trump se svým čínským protějškem Si Ťin-pchingem hovořil o umělé inteligenci. Oba se shodli, že zavedení bezpečnostních opatření je správné.",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-19T17:21:00+00:00",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/trump-si-tin-pching-umela-inteligence-bezpecnostni-opatreni.A261119_175942_eko-zahranicni_sile",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Bývalý starosta Aše připustil, že městu bude chybět příští rok asi 40 milionů Kč",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-19T17:57:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/byvaly-starosta-ase-pripustil-ze-mestu-bude-chybet-pristi-rok-asi-40-milionu-kc-/2903393",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Praha má nové vedení, Svobodu vystřídal v roli primátora Hlaváček",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-19T17:57:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/praha-ma-nove-vedeni-svobodu-vystridal-v-roli-primatora-hlavacek-/2903301",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Prezidenti USA, Číny a Ruska jednali o válkách, bezpečnosti i jaderných zbraních",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-19T17:55:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/prezidenti-usa-ciny-a-ruska-jednali-o-valkach-bezpecnosti-i-jadernych-zbranich-/2901941",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Lukáš Hájek se stal primátorem Liberce, po osmi letech vystřídal Zámečníka",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-19T17:21:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/lukas-hajek-se-stal-primatorem-liberce-po-osmi-letech-vystridal-zamecnika-/2904032",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Nechte nás střílet! Francouzským policistům došla trpělivost",
+      "summary": "Tentokrát se proti francouzské vládě nebouří studenti ani odboráři, nýbrž samotní policisté, kteří již několik týdnů čelí násilnostem v ulicích. Ve středu 18. listopadu se…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-19T17:13:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/nechte-nas-strilet-francouzskym-policistum-dosla-trpelivost/r~aaa29a0919c266291ee95407f2281273/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Trump označil Putina za svého přítele. Šéf polské diplomacie vyjádřil znepokojení",
+      "summary": "Polský ministr zahraničí Radoslaw Sikorski ve čtvrtek uvedl, že slova amerického prezidenta Donalda Trumpa, který označil ruského vládce Vladimira Putina za svého přítele, vyvolala v…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-19T16:01:14+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/trump-oznacil-putina-za-sveho-pritele-sef-polske-diplomacie-vyjadril-znepokojeni-379765",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "V Rusku zmrazili stovky velkých státních staveb za biliony rublů, píše server",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-19T16:20:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/v-rusku-zmrazili-stovky-velkych-statnich-staveb-za-biliony-rublu-pise-server/2904090",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Pražští zastupitelé zvolili primátorem Hlaváčka, radu tvoří STAN, Spolu a Praha sobě",
+      "summary": "Pražští zastupitelé ve čtvrtek zvolili primátora Petra Hlaváčka (STAN), jeho pět náměstků i zbylých pět členů jedenáctičlenné rady města. Náměstky primátora jsou lídr Spolu (ODS,…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-19T15:36:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/prazsti-zastupitele-zvolili-primatorem-hlavacka-radu-tvori-stan-spolu-a-praha-sobe/r~aaa299a548fbe2f1c412d6df4301af06/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Koalice ochotných bude jednat o Ukrajině a jak ji podpořit do míru, řekl Rutte",
+      "summary": "Hlavní témata čtvrtečního jednání takzvané koalice ochotných v Berlíně budou, jak dosáhnout míru na Ukrajině a jak Ukrajinu do té doby udržet silnou. Před jednáním…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-19T15:21:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/koalice-ochotnych-bude-jednat-o-ukrajine-a-jak-ji-podporit-do-miru-rekl-rutte/r~aaa29f3e15ec8c2ddd1ba08c70d6e086/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Babiš se vyjádřil k prezidentově kritice Okamury. Nejdřív ale svého spojence sám sepsul",
+      "summary": "Dva požadavky z nedělní demonstrace Milionu chvilek pro demokracii na Letné se týkaly vládního hnutí SPD: aby jeho šéf Tomio Okamura nebyl nadále předsedou sněmovny…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-19T15:20:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/babis-se-vyjadril-k-prezidentove-kritice-okamury-nejdriv-ale-sveho-spojence-sam-sepsul/r~aaa298bb08a9321139a77ce86652c5ff/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Synovi Fica prý banka zrušila účet, podezírala ho z praní peněz. Otec to popírá",
+      "summary": "Synovi slovenského premiéra Roberta Fica Michalovi zrušili v roce 2016 v Německu bankovní účet. Podle zjištění portálu investigace.cz k tomu banka přistoupila kvůli podezření z…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-19T15:00:00+01:00",
+      "url": "https://www.denik.cz/evropa/michal-fico-syn-roberta-fica-ucet-banka-prani-penez/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Kdo to je? To je můj přítel! Trump vychválil Putina i Si, co zaznělo na jednání",
+      "summary": "Americký prezident Donald Trump před historickým summitem s ruským a čínským vůdcem v Šen-čenu vyzdvihoval své osobní vztahy s oběma autoritářskými politiky. Prezidenty Vladimira Putina…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-19T14:30:00+01:00",
+      "url": "https://www.denik.cz/svet/jednani-donald-trump-vladimir-putin-si-tin-pching/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Třaskavý pakt. Putin, Si a Trump udeřili na Haag a dohodli se na imunitě",
+      "summary": "Čína, Rusko a Spojené státy vydaly společné prohlášení nazvané Mírová deklarace. Stalo se tak po jednání prezidentů Si Ťin-pchinga, Vladimira Putina a Donalda Trumpa v…",
+      "source": "CNN Prima NEWS",
+      "category": "svet",
+      "published_at": "2026-11-19T12:51:42+01:00",
+      "url": "https://cnn.iprima.cz/rusko-cina-a-usa-vydaly-po-jednani-mirovou-deklaraci-jake-jsou-zasadni-body-527518",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Dialog o jaderných zbraních a větší produkce ropy, požadují Trump, Si a Putin",
+      "summary": "Čína, Spojené státy a Rusko vydaly společné prohlášení nazvané Mírová deklarace. Stalo se tak po jednání lídrů Si Ťin-pchinga, Donalda Trumpa a Vladimira Putina v…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-19T11:45:40+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/dialog-o-jadernych-zbranich-a-vetsi-produkce-ropy-pozaduji-trump-si-a-putin-379751",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Rusové zveřejnili žebříček nepřátelských zemí. Česko je na šestém místě",
+      "summary": "Ruský portál Vzgljad zveřejnil aktualizovaný seznam nepřátelských vlád. Česko v říjnovém žebříčku obsadilo šesté místo, stejně jako v září. O tuto pozici se dělí s…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-19T12:00:00+01:00",
+      "url": "https://www.denik.cz/evropa/rusko-seznam-nepratelskych-zemi/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Zbavme svět jaderných zbraní, vyzval čínský prezident. Trump mluvil o „jedinečné pozici“",
+      "summary": "V čínském Šen-čenu se konala schůzka prezidentů Číny, Spojených států a Ruska Si Ťin-pchinga, Donalda Trumpa a Vladimira Putina. Státníci jednali o válkách na Ukrajině…",
+      "source": "CNN Prima NEWS",
+      "category": "svet",
+      "published_at": "2026-11-19T11:24:58+01:00",
+      "url": "https://cnn.iprima.cz/zbavme-svet-jadernych-zbrani-vyzval-cinsky-prezident-527507",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Ředitelem Úřadu rozvoje území bude Martin Kozák, rozhodla vláda",
+      "summary": "Ředitelem nového Úřadu rozvoje území se od ledna stane dosavadní ředitel Dopravního a energetického stavebního úřadu Martin Kozák. Rozhodla o tom vláda. Kabinet také schválil…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-19T10:20:57+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/brifink-po-jednani-vlady-379747",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Senátoři zvolili nové vedení, předsedou zůstává Vystrčil",
+      "summary": "Senátoři na první schůzi v povolebním složení popáté zvolili předsedou horní komory Miloše Vystrčila (ODS), který neměl protikandidáta. Získal 69 ze 77 odevzdaných hlasů. Před…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-19T09:00:05+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/senatori-na-ustavujici-schuzi-zvoli-nove-vedeni-horni-komory-379749",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    }
+  ],
+  "unavailable_sources": [],
+  "sources": [
+    {
+      "name": "ČT24",
+      "site": "https://ct24.ceskatelevize.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 12,
+      "selected": 7,
+      "free_articles_checked": 8
+    },
+    {
+      "name": "iROZHLAS",
+      "site": "https://www.irozhlas.cz/",
+      "feeds_ok": 2,
+      "feeds_total": 2,
+      "status": "ok",
+      "candidates": 18,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "ČTK / České noviny",
+      "site": "https://www.ceskenoviny.cz/",
+      "feeds_ok": 2,
+      "feeds_total": 2,
+      "status": "ok",
+      "candidates": 20,
+      "selected": 5,
+      "free_articles_checked": 8
+    },
+    {
+      "name": "Novinky.cz",
+      "site": "https://www.novinky.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 16,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "Seznam Zprávy",
+      "site": "https://www.seznamzpravy.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 16,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "Aktuálně.cz",
+      "site": "https://zpravy.aktualne.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 10,
+      "selected": 4,
+      "free_articles_checked": 5
+    },
+    {
+      "name": "Deník",
+      "site": "https://www.denik.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 14,
+      "selected": 4,
+      "free_articles_checked": 4
+    },
+    {
+      "name": "iDNES.cz",
+      "site": "https://www.idnes.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 14,
+      "selected": 5,
+      "free_articles_checked": 7
+    },
+    {
+      "name": "CNN Prima NEWS",
+      "site": "https://cnn.iprima.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 10,
+      "selected": 2,
+      "free_articles_checked": 2
+    },
+    {
+      "name": "E15",
+      "site": "https://www.e15.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 5,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "Forum 24",
+      "site": "https://www.forum24.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 16,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "Deník N",
+      "site": "https://denikn.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 14,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "Respekt",
+      "site": "https://www.respekt.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 9,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "Hospodářské noviny",
+      "site": "https://hn.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 5,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "TN.cz",
+      "site": "https://tn.nova.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 9,
+      "selected": 0,
+      "free_articles_checked": 0
+    },
+    {
+      "name": "Blesk",
+      "site": "https://www.blesk.cz/",
+      "feeds_ok": 1,
+      "feeds_total": 1,
+      "status": "ok",
+      "candidates": 17,
+      "selected": 0,
+      "free_articles_checked": 0
+    }
+  ]
+}
