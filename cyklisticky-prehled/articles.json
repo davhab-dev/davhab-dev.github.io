@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-19T16:28:57.419864+00:00",
+  "updated": "2026-11-19T17:46:56.729364+00:00",
   "articles": [
+    {
+      "title": "Demi Vollering, Eddy Merckx, Paul Seixas among cycling stars set for audience with Pope Leo XIV",
+      "summary": "Mark Cavendish, Annemiek van Vleuten, Greg LeMond, and Elisa Longo Borghini also in cycling delegation attending November 23 event",
+      "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/demi-vollering-eddy-merckx-and-paul-seixas-among-cycling-stars-set-for-audience-with-pope-leo-xiv/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-19T16:57:26+00:00"
+    },
     {
       "title": "Black Friday Garmin deals - Big discounts on computers, watches and hardware",
       "summary": "All the best Black Friday Garmin deals in one place",
@@ -90,6 +99,15 @@
       "lang": "EN",
       "category": "Závody",
       "published": "2026-11-19T08:00:00+00:00"
+    },
+    {
+      "title": "ROUVY staví tým světových ambicí! Do českého celku přichází pět posil, cílem je olympiáda i medaile z MS",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/rouvy-stavi-tym-svetovych-ambici-do-ceskeho-celku-prichazi-pet-posil-cilem-je-olympiada-i-medaile-z-ms/kategorie/tymy-a-kluby",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-19"
     },
     {
       "title": "TEST MTB brzd: Trickstuff Piccola HD – Německá preciznost v minimalistickém balení",
@@ -1037,15 +1055,6 @@
       "published": "2026-11-13"
     },
     {
-      "title": "Seriál Life Time Grand Prix dál navyšuje odměny. V roce 2027 rozdělí rekordních 800 tisíc dolarů!",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/serial-life-time-grand-prix-dal-navysuje-odmeny-v-roce-2027-rozdeli-rekordnich-800-tisic-dolaru/kategorie/xcm-ostatni-zavody",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-11-13"
-    },
-    {
       "title": "Novinky od Garminu: Edge 1060 s hlasovým ovládáním a trenažér Tacx Nēra, který se hýbe s vámi",
       "summary": "",
       "url": "https://www.mtbiker.cz/clanky/132120/novinky-od-garminu-edge-1060-s-hlasovym-ovladanim-a-trenazer-tacx-nera-ktery-se-hybe-s-vami.html",
@@ -1061,6 +1070,15 @@
       "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Gravel",
+      "published": "2026-11-13"
+    },
+    {
+      "title": "Seriál Life Time Grand Prix dál navyšuje odměny. V roce 2027 rozdělí rekordních 800 tisíc dolarů!",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/serial-life-time-grand-prix-dal-navysuje-odmeny-v-roce-2027-rozdeli-rekordnich-800-tisic-dolaru/kategorie/xcm-ostatni-zavody",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
       "published": "2026-11-13"
     },
     {
@@ -3132,24 +3150,6 @@
       "lang": "EN",
       "category": "Technika",
       "published": "2026-10-16T09:15:05+00:00"
-    },
-    {
-      "title": "Bosch dává bikerům větší kontrolu nad motorem. Nově si nastaví trakci pro každý režim zvlášť",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/bosch-dava-bikerum-vetsi-kontrolu-nad-motorem-nove-si-nastavi-trakci-pro-kazdy-rezim-zvlast/kategorie/servis",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-10-16"
-    },
-    {
-      "title": "New Moots County Line shows all-road bikes aren't dead",
-      "summary": "The new County Line is designed to be at home on tarmac, but capable of much more",
-      "url": "https://www.bikeradar.com/news/2027-moots-county-line",
-      "source": "BikeRadar",
-      "lang": "EN",
-      "category": "Technika",
-      "published": "2026-10-15T15:00:00+00:00"
     }
   ],
   "source_errors": [
