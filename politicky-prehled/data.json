@@ -1,10 +1,150 @@
 {
-  "updated_at": "2026-11-19T07:26:33.351138+00:00",
+  "updated_at": "2026-11-19T09:14:36.696135+00:00",
   "window_hours": 24,
   "articles": [
     {
-      "title": "„Dochází vám čas!“ Ukrajina i Rusko obdržely drsný vzkaz od Trumpových kumpánů",
-      "summary": "Ukrajině a Rusku se krátí čas na uzavření mírové dohody. Američtí vyjednavači Steve Witkoff a Jared Kushner podle zdrojů serveru Kyiv Independent upozornili obě strany,…",
+      "title": "Pražští zastupitelé zahájili volbu primátora, jeho náměstků a radních",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-19T10:09:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/prazsti-zastupitele-zahajili-volbu-primatora-jeho-namestku-a-radnich/2903301",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Živě: Tisková konference po jednání vlády",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-19T10:08:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/zive-tiskova-konference-po-jednani-vlady/2902503",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "V čele senátorského klubu KDU-ČSL stane Rajchmanová",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-19T10:06:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/-v-cele-senatorskeho-klubu-kdu-csl-stane-rajchmanova/2903719",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Senát se poprvé schází v novém složení, Vystrčil zřejmě obhájí post předsedy",
+      "summary": "Senát se ve čtvrtek schází poprvé v novém složení, nově zvolená třetina senátorů složí slib. Schůzi odstartovala státní hymna, kterou většina senátorů také zazpívala. Následovat…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-19T09:04:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/senat-nove-slozeni-schuze-hlasovani-predseda.A261118_213156_domaci_mul",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Evropskou komisi zasáhl rozsáhlý kybernetický útok",
+      "summary": "Evropskou komisi zasáhl rozsáhlý kybernetický útok, který mohl ohrozit osobní údaje jejích zaměstnanců. Hackeři podle serveru Politico využili nástroj umělé inteligence k odhalování zranitelnosti v…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-19T09:02:03+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/evropskou-komisi-zasahl-rozsahly-kyberneticky-utok-379750",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "„Průlomové“. V Číně se koná třístranné jednání Trumpa, Si Ťin-pchinga a Putina",
+      "summary": "V čínském Šen-čenu začala schůzka prezidentů Číny, Spojených států a Ruska Si Ťin-pchinga, Donalda Trumpa a Vladimira Putina. Očekává se, že státníci budou jednat o…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-19T09:02:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/tristranne-jednani-trumpa-si-tin-pchinga-a-putina-v-cine-zacalo.A261119_093306_zahranicni_bro",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Senátoři na ustavující schůzi zvolí nové vedení horní komory",
+      "summary": "Senát má ve čtvrtek první schůzi v povolebním složení. Senátoři si na ní zvolí vedení horní parlamentní komory a rozřadí se do výborů a komisí.…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-19T09:00:05+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/senatori-na-ustavujici-schuzi-zvoli-nove-vedeni-horni-komory-379749",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Šťastný se zastal Babiše kvůli stravovací vyhlášce. A vyslovil se pro zmrazení platů politiků",
+      "summary": "Vláda se sešla na mimořádné schůzi. Ačkoli jedním z hlavních avizovaných bodů programu jsou úpravy náhrad za ztrátu výdělku při pracovní neschopnosti nebo odškodnění pro…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-19T08:56:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/jednani-vlady-nahrada-za-ztratu-vydelku-pracovni-uraz.A261118_090008_domaci_jira",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Pražské zastupitelstvo zvolí nové vedení města, primátorem bude Hlaváček",
+      "summary": "Začátkem listopadu se poprvé sešlo nové zastupitelstvo hlavního města Prahy, kdy zastupitelé složili slib. Podruhé se zastupitelé sešli ve čtvrtek ráno. Na programu mají schvalování…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-19T08:53:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/prazske-zastupitelstvo-bude-volit-nove-vedeni-mesta.A261118_125859_domaci_vank",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Válka s Íránem způsobila historický zásah do světového obchodu s ropou a plynem",
+      "summary": "Konflikt na Blízkém východě způsobil největší narušení globálního obchodu s ropou a plynem v historii. Jeho dopady by do roku 2035 mohly snížit světovou poptávku…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-19T09:51:00+01:00",
+      "url": "https://zpravy.aktualne.cz/ekonomika/valka-s-iranem-zpusobila-historicky-zasah-do-svetoveho-obchodu-s-ropou-a-plynem/r~aaa2975bb485a03ae17180be2c50c108/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "V Šen-čenu začala schůzka prezidentů Číny, USA a Ruska",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-19T09:38:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/v-sen-cenu-zacala-schuzka-prezidentu-ciny-usa-a-ruska/2901941",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Na berlínské setkání koalice ochotných dorazí delegace 37 zemí",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-19T09:25:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/na-berlinske-setkani-koalice-ochotnych-dorazi-delegace-37-zemi/2901531",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Obvodní soud v případu Feri špatně vyhodnotil důkazy, uvedl městský soud",
+      "summary": "Městský soud v Praze vysvětlil, proč v září zrušil osvobozující rozsudek nad exposlancem Dominikem Ferim, který je obžalovaný ze znásilnění tehdy sedmnáctileté dívky. Podle mluvčí…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-19T08:13:09+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/obvodni-soud-v-pripadu-feri-spatne-vyhodnotil-dukazy-uvedl-mestsky-soud-379748",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Analýza odhalila šest opakujících se narativů protiukrajinských dezinformací v Polsku",
+      "summary": "V polském on-line prostoru se v první polovině roku 2026 objevilo více než půl milionu protiukrajinských příspěvků. Vyplývá to z analýzy factcheckingové organizace Demagog a…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-19T07:26:28+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/analyza-odhalila-sest-opakujicich-se-narativu-protiukrajinskych-dezinformaci-v-polsku-379731",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Okno pro mír se zavírá. Trumpovi vyjednávači tlačí na Putina, mluví o výhodách",
+      "summary": "Ukrajině a Rusku se krátí čas na uzavření mírové dohody. Američtí vyjednávači Steve Witkoff a Jared Kushner podle zdrojů serveru Kyiv Independent upozornili obě strany,…",
       "source": "Aktuálně.cz",
       "category": "svet",
       "published_at": "2026-11-19T08:19:00+01:00",
@@ -33,8 +173,8 @@
       "importance_kind": "pending"
     },
     {
-      "title": "„Může z toho vzejít spousta úžasných věcí.“ Trump na summitu jednal s Putinem",
-      "summary": "Americký prezident Donald Trump se sešel s ruským protějškem Vladimirem Putinem na okraj summitu APEC v Číně, píší tiskové agentury. Ze schůzky může vzejít spousta…",
+      "title": "„Mohou z toho vzejít úžasné věci.“ Trump jednal s Putinem, nazval ho přítelem",
+      "summary": "Americký prezident Donald Trump se na okraj summitu APEC v Číně sešel s ruským protějškem Vladimirem Putinem. Ze schůzky může vzejít spousta úžasných věcí, prohlásil…",
       "source": "iDNES.cz",
       "category": "svet",
       "published_at": "2026-11-19T07:02:00+00:00",
@@ -143,46 +283,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "V Berlíně bude jednat koalice ochotných o podpoře Ukrajiny, dorazí i Babiš",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-19T06:08:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/v-berline-bude-jednat-koalice-ochotnych-o-podpore-ukrajiny-dorazi-i-babis-/2901531",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Senát se poprvé sejde v novém složení, Vystrčil zřejmě obhájí post předsedy",
-      "summary": "Senát se ve čtvrtek sejde poprvé v novém složení, nově zvolená třetina senátorů složí slib. Následovat bude tajná volba předsedy horní komory parlamentu. Očekává se,…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-19T05:00:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/senat-nove-slozeni-schuze-hlasovani-predseda.A261118_213156_domaci_mul",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Pražské zastupitelstvo bude volit nové vedení města",
-      "summary": "Začátkem listopadu se poprvé sešlo nové zastupitelstvo hlavního města Prahy, kdy zastupitelé složili slib. Podruhé se zastupitelé sejdou ve čtvrtek v 9:00. Na programu mají…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-19T05:00:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/prazske-zastupitelstvo-bude-volit-nove-vedeni-mesta.A261118_125859_domaci_vank",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Vyšší náhrady pro pozůstalé i za ztrátu výdělku. Vláda jedná o změně",
-      "summary": "Zástupci vlády se dnes sejdou na mimořádné schůzi. Jedním z hlavních témat kabinetu premiéra Andreje Babiše budou úpravy náhrad za ztrátu výdělku při pracovní neschopnosti…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-19T05:00:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/jednani-vlady-nahrada-za-ztratu-vydelku-pracovni-uraz.A261118_090008_domaci_jira",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "„Při večeři jsem mu nabídla vilu.“ Černochová popsala, jak se udobřovala s Řehkou",
       "summary": "Vztah bývalé ministryně obrany Jany Černochové a „jejího“ náčelníka generálního štábu Karla Řehky prošel obrovskými eskapádami. Několikrát jim musel pomoci najít společnou řeč i tehdejší…",
       "source": "Aktuálně.cz",
@@ -193,64 +293,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Na Krymském mostě byla po dalším útoku přerušena doprava",
-      "summary": "Krymský most čelil v noci na čtvrtek dalšímu útoku. Nyní je na něm přerušena doprava, tvrdí Ruskem dosazená správa okupovaného ukrajinského poloostrova. Ukrajina zaútočila na…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-19T03:08:28+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/na-krymskem-moste-byla-po-dalsim-utoku-prerusena-doprava-379743",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Trump jednal v Číně s Putinem o Ukrajině. Se Sim hovořil o Hormuzském průlivu",
-      "summary": "Americký prezident Donald Trump jednal s ruským vládcem Vladimirem Putinem. Lídři se sešli na summitu Asijsko-pacifického hospodářského společenství (APEC) v čínském Šen-čenu, podle agentury AP…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-19T02:15:00+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/trumpa-siho-a-putina-ceka-trojstranne-jednani-379741",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Ukrajina zaútočila na Krymský most a pogratulovala lisabonskému Mostu Vasca da Gamy",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
       "category": "svet",
       "published_at": "2026-11-19T00:56:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/ukrajina-zautocila-na-krymsky-most-a-pogratulovala-lisabonskemu-mostu-vasca-da-gamy/2903725",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Prezident Petr Pavel zahájí návštěvu Moravskoslezského a Olomouckého kraje",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-19T00:15:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/prezident-petr-pavel-zahaji-navstevu-moravskoslezskeho-a-olomouckeho-kraje/2903722",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Vláda projedná růst náhrad příjmu po úrazu v práci či službě a nemoci z povolání",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-19T00:12:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/vlada-projedna-rust-nahrad-prijmu-po-urazu-v-praci-ci-sluzbe-a-nemoci-z-povolani/2902503",
-      "importance": "Navržená valorizace mění předchozí průměrný výdělek používaný pro výpočet náhrady, nikoli jednoduše každou vyplácenou náhradu o stejné procento. Základ se má od ledna zvýšit o 0,2 procenta a 270 korun. Konkrétní změna výplaty závisí také na současném výdělku a případném invalidním důchodu. Připočtení pevné částky má podle ministerstva zabránit tomu, aby lednový růst důchodu sám snížil dorovnávanou náhradu. Pro příjemce je proto důležitý společný výsledek obou změn, ne pouze titulek o zvýšení.\n\nTři návrhy pokrývají zaměstnance i příslušné náhrady vojáků a policistů a dotýkají se také pozůstalých. Zpráva před jednáním vlády však ještě nedokládá schválení nařízení; uvedené parametry je nutné chápat jako návrh. Odhad vyšších výdajů pojišťoven a resortů ukazuje, že se změna promítá i do jejich rozpočtů, nikoli jen do penzijního systému. Ověřitelným dalším krokem bude přijetí a zveřejnění konečného znění s účinností. Z článku nelze určit individuální nárok ani přesnou částku konkrétní domácnosti.",
-      "importance_kind": "analysis",
-      "analysis_source": "České noviny / ČTK",
-      "analysis_url": "https://www.ceskenoviny.cz/zpravy/vlada-projedna-rust-nahrad-prijmu-po-urazu-v-praci-ci-sluzbe-a-nemoci-z-povolani/2902503"
-    },
-    {
-      "title": "Senát rozhodne o svém povolebním uspořádání včetně volby vedení komory",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-19T00:05:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/senat-rozhodne-o-svem-povolebnim-usporadani-vcetne-volby-vedeni-komory/2903719",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -273,46 +321,6 @@
       "url": "https://cnn.iprima.cz/analyza-trump-muze-putinovi-znovu-nahrat-summit-s-cinou-a-ruskem-budi-v-evrope-obavy-527442",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
-    },
-    {
-      "title": "Ministerstvo spravedlnosti chystá novelu rušící pravomoc vyšších soudů zavazovat nižší",
-      "summary": "Ministr spravedlnosti Jeroným Tejc (za ANO) prosazuje změnu trestního řádu, podle níž by odvolací soudy v budoucnu neměly říkat nižším instancím, jak mají hodnotit důkazy…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-18T20:29:55+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/ministerstvo-spravedlnosti-chysta-novelu-rusici-pravomoc-vyssich-soudu-zavazovat-nizsi-379734",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Další otřes na polském ústavním soudu, soudci zbavili předsedu imunity",
-      "summary": "Valné shromáždění soudců polského ústavního soudu ve středu zbavilo imunity muže, kterého polská opozice považuje za předsedu tohoto soudu, píše agentura Reuters. Na konci října…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-18T21:25:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/dalsi-otres-na-polskem-ustavnim-soudu-soudci-zbavili-predsedu-imunity/r~aaa29ea8d290abd7946190b550393fc6/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Šéf tajných služeb USA varoval před íránskou hrozbou, které čelí Američané",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-18T19:59:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/sef-tajnych-sluzeb-usa-varoval-pred-iranskou-hrozbou-ktere-celi-americane/2903643",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Extrémně vzácné záběry: Izolovaní domorodci vyšli po desítkách let z pralesa, dostali hlad",
-      "summary": "Nevládní organizace Survival International v úterý zveřejnila snímky skupiny z domorodého kmene z brazilské Amazonie, který žije izolovaně v deštném pralese. Asi 20 jeho členů…",
-      "source": "CNN Prima NEWS",
-      "category": "svet",
-      "published_at": "2026-11-18T18:21:11+01:00",
-      "url": "https://cnn.iprima.cz/extremne-vzacne-zabery-izolovani-domorodci-vysli-po-desitkach-let-z-pralesa-vyhnal-je-hlad-527476",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
     }
   ],
   "unavailable_sources": [],
@@ -323,8 +331,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 20,
-      "selected": 6,
+      "candidates": 22,
+      "selected": 7,
       "free_articles_checked": 8
     },
     {
@@ -333,7 +341,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -343,7 +351,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 22,
+      "candidates": 21,
       "selected": 7,
       "free_articles_checked": 8
     },
@@ -353,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -363,7 +371,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 18,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -373,7 +381,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
+      "candidates": 6,
       "selected": 5,
       "free_articles_checked": 5
     },
@@ -393,9 +401,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 21,
-      "selected": 5,
-      "free_articles_checked": 5
+      "candidates": 17,
+      "selected": 6,
+      "free_articles_checked": 6
     },
     {
       "name": "CNN Prima NEWS",
@@ -403,9 +411,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
-      "selected": 3,
-      "free_articles_checked": 4
+      "candidates": 9,
+      "selected": 2,
+      "free_articles_checked": 3
     },
     {
       "name": "E15",
@@ -413,7 +421,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 7,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -423,7 +431,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -433,7 +441,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 18,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -443,7 +451,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -453,7 +461,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 9,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -473,7 +481,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 18,
       "selected": 0,
       "free_articles_checked": 0
     }

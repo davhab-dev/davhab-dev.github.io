@@ -3,8 +3,64 @@
   "current": null,
   "queue": [
     [
+      "https://www.ceskenoviny.cz/zpravy/prazsti-zastupitele-zahajili-volbu-primatora-jeho-namestku-a-radnich/2903301",
+      "Pražští zastupitelé zahájili volbu primátora, jeho náměstků a radních"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/zive-tiskova-konference-po-jednani-vlady/2902503",
+      "Živě: Tisková konference po jednání vlády"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/-v-cele-senatorskeho-klubu-kdu-csl-stane-rajchmanova/2903719",
+      "V čele senátorského klubu KDU-ČSL stane Rajchmanová"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/senat-nove-slozeni-schuze-hlasovani-predseda.A261118_213156_domaci_mul",
+      "Senát se poprvé schází v novém složení, Vystrčil zřejmě obhájí post předsedy"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/evropskou-komisi-zasahl-rozsahly-kyberneticky-utok-379750",
+      "Evropskou komisi zasáhl rozsáhlý kybernetický útok"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/tristranne-jednani-trumpa-si-tin-pchinga-a-putina-v-cine-zacalo.A261119_093306_zahranicni_bro",
+      "„Průlomové“. V Číně se koná třístranné jednání Trumpa, Si Ťin-pchinga a Putina"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/senatori-na-ustavujici-schuzi-zvoli-nove-vedeni-horni-komory-379749",
+      "Senátoři na ustavující schůzi zvolí nové vedení horní komory"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/jednani-vlady-nahrada-za-ztratu-vydelku-pracovni-uraz.A261118_090008_domaci_jira",
+      "Šťastný se zastal Babiše kvůli stravovací vyhlášce. A vyslovil se pro zmrazení platů politiků"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/prazske-zastupitelstvo-bude-volit-nove-vedeni-mesta.A261118_125859_domaci_vank",
+      "Pražské zastupitelstvo zvolí nové vedení města, primátorem bude Hlaváček"
+    ],
+    [
+      "https://zpravy.aktualne.cz/ekonomika/valka-s-iranem-zpusobila-historicky-zasah-do-svetoveho-obchodu-s-ropou-a-plynem/r~aaa2975bb485a03ae17180be2c50c108/",
+      "Válka s Íránem způsobila historický zásah do světového obchodu s ropou a plynem"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/v-sen-cenu-zacala-schuzka-prezidentu-ciny-usa-a-ruska/2901941",
+      "V Šen-čenu začala schůzka prezidentů Číny, USA a Ruska"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/na-berlinske-setkani-koalice-ochotnych-dorazi-delegace-37-zemi/2901531",
+      "Na berlínské setkání koalice ochotných dorazí delegace 37 zemí"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/obvodni-soud-v-pripadu-feri-spatne-vyhodnotil-dukazy-uvedl-mestsky-soud-379748",
+      "Obvodní soud v případu Feri špatně vyhodnotil důkazy, uvedl městský soud"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/analyza-odhalila-sest-opakujicich-se-narativu-protiukrajinskych-dezinformaci-v-polsku-379731",
+      "Analýza odhalila šest opakujících se narativů protiukrajinských dezinformací v Polsku"
+    ],
+    [
       "https://zpravy.aktualne.cz/zahranici/dochazi-vam-cas-ukrajina-i-rusko-obdrzely-drsny-vzkaz-od-trumpovych-kumpanu/r~aaa291369467b5005bd56c28b316f183/",
-      "„Dochází vám čas!“ Ukrajina i Rusko obdržely drsný vzkaz od Trumpových kumpánů"
+      "Okno pro mír se zavírá. Trumpovi vyjednávači tlačí na Putina, mluví o výhodách"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/cina-si-z-ruska-dela-kolonii-rika-farsky-nechce-vstoupit-do-konfliktu-na-ukrajine-mini-bzoch-379740",
@@ -16,7 +72,7 @@
     ],
     [
       "https://www.idnes.cz/zpravy/zahranicni/trump-se-na-summitu-apec-v-cine-sesel-s-putinem-ceka-uzasne-veci.A261119_054237_zahranicni_air",
-      "„Může z toho vzejít spousta úžasných věcí.“ Trump na summitu jednal s Putinem"
+      "„Mohou z toho vzejít úžasné věci.“ Trump jednal s Putinem, nazval ho přítelem"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/kriticka-ruskeho-rezimu-roky-zije-v-cesku-moskva-ji-chce-dostat-do-vezeni-379733",
@@ -59,44 +115,12 @@
       "Pokud zaútočí, vyhladíme je. Trump promluvil o „zlých lidech“ s biologickými zbraněmi"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/v-berline-bude-jednat-koalice-ochotnych-o-podpore-ukrajiny-dorazi-i-babis-/2901531",
-      "V Berlíně bude jednat koalice ochotných o podpoře Ukrajiny, dorazí i Babiš"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/senat-nove-slozeni-schuze-hlasovani-predseda.A261118_213156_domaci_mul",
-      "Senát se poprvé sejde v novém složení, Vystrčil zřejmě obhájí post předsedy"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/prazske-zastupitelstvo-bude-volit-nove-vedeni-mesta.A261118_125859_domaci_vank",
-      "Pražské zastupitelstvo bude volit nové vedení města"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/jednani-vlady-nahrada-za-ztratu-vydelku-pracovni-uraz.A261118_090008_domaci_jira",
-      "Vyšší náhrady pro pozůstalé i za ztrátu výdělku. Vláda jedná o změně"
-    ],
-    [
       "https://zpravy.aktualne.cz/domaci/pri-veceri-jsem-mu-nabidla-vilu-cernochova-popsala-jak-se-udobrovala-s-rehkou/r~aaa293e689f41a46c36966eb73cd8645/",
       "„Při večeři jsem mu nabídla vilu.“ Černochová popsala, jak se udobřovala s Řehkou"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/svet/na-krymskem-moste-byla-po-dalsim-utoku-prerusena-doprava-379743",
-      "Na Krymském mostě byla po dalším útoku přerušena doprava"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/trumpa-siho-a-putina-ceka-trojstranne-jednani-379741",
-      "Trump jednal v Číně s Putinem o Ukrajině. Se Sim hovořil o Hormuzském průlivu"
-    ],
-    [
       "https://www.ceskenoviny.cz/zpravy/ukrajina-zautocila-na-krymsky-most-a-pogratulovala-lisabonskemu-mostu-vasca-da-gamy/2903725",
       "Ukrajina zaútočila na Krymský most a pogratulovala lisabonskému Mostu Vasca da Gamy"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/prezident-petr-pavel-zahaji-navstevu-moravskoslezskeho-a-olomouckeho-kraje/2903722",
-      "Prezident Petr Pavel zahájí návštěvu Moravskoslezského a Olomouckého kraje"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/senat-rozhodne-o-svem-povolebnim-usporadani-vcetne-volby-vedeni-komory/2903719",
-      "Senát rozhodne o svém povolebním uspořádání včetně volby vedení komory"
     ],
     [
       "https://www.denik.cz/svet/podle-clenu-trumpovy-vlady-vypadky-ktere-postihly-usa-spolu-nesouvisi/",
@@ -105,32 +129,16 @@
     [
       "https://cnn.iprima.cz/analyza-trump-muze-putinovi-znovu-nahrat-summit-s-cinou-a-ruskem-budi-v-evrope-obavy-527442",
       "Tři sedmdesátníci bez plánu. Evropu děsí, co Trump slíbí Putinovi, píše o čínském summitu CNN"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/ministerstvo-spravedlnosti-chysta-novelu-rusici-pravomoc-vyssich-soudu-zavazovat-nizsi-379734",
-      "Ministerstvo spravedlnosti chystá novelu rušící pravomoc vyšších soudů zavazovat nižší"
-    ],
-    [
-      "https://zpravy.aktualne.cz/zahranici/dalsi-otres-na-polskem-ustavnim-soudu-soudci-zbavili-predsedu-imunity/r~aaa29ea8d290abd7946190b550393fc6/",
-      "Další otřes na polském ústavním soudu, soudci zbavili předsedu imunity"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/sef-tajnych-sluzeb-usa-varoval-pred-iranskou-hrozbou-ktere-celi-americane/2903643",
-      "Šéf tajných služeb USA varoval před íránskou hrozbou, které čelí Američané"
-    ],
-    [
-      "https://cnn.iprima.cz/extremne-vzacne-zabery-izolovani-domorodci-vysli-po-desitkach-let-z-pralesa-vyhnal-je-hlad-527476",
-      "Extrémně vzácné záběry: Izolovaní domorodci vyšli po desítkách let z pralesa, dostali hlad"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 30,
+    "initial_pending": 32,
     "completed": [],
     "deferred": [],
-    "remaining": 30
+    "remaining": 32
   },
   "samples_seconds": [
     51.274763,
