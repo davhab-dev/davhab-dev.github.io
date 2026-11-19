@@ -3,6 +3,14 @@
   "current": null,
   "queue": [
     [
+      "https://www.idnes.cz/zpravy/zahranicni/haiti-policie-zabila-34-clenu-gangu.A261119_215833_zahranicni_sile",
+      "Policie na Haiti zesílila tlak na gangy, chce dobýt klíčovou čtvrť. Zabila 34 zločinců"
+    ],
+    [
+      "https://www.idnes.cz/volby/praha/starostkou-prahy-1-je-podruhe-terezie-radomerska-top-09.A261119_202314_domaci_balu",
+      "Starostkou Prahy 1 se opět stala Terezie Radoměřská. Zastupuje širokou koalici stran"
+    ],
+    [
       "https://www.idnes.cz/zpravy/zahranicni/rusky-utok-kyjev-rakouske-velvyslanectvi-stoker-zahranici.A261119_182430_zahranicni_dtt",
       "Ruský útok poškodil rakouské velvyslanectví v Kyjevě, zaměstnanci vyvázli bez zranění"
     ],
@@ -20,7 +28,7 @@
     ],
     [
       "https://zpravy.aktualne.cz/domaci/tejc-planuje-zrusit-27-okresnich-soudu-vetsina-jejich-pracovist-zustane/r~aaa29856aa3611f2f9a6ee3fd2a05a71/",
-      "Tejc plánuje zrušit 27 okresních soudů, většina jejich pracovišť zůstane"
+      "Tejcova velká justiční reforma: Ministr plánuje zrušit 27 okresních soudů"
     ],
     [
       "https://www.idnes.cz/zpravy/zahranicni/srbsky-parlament-cupic-prozatimni-prezident-vucic-politika.A261119_200014_zahranicni_dtt",
@@ -35,16 +43,12 @@
       "Předsedou srbského parlamentu se stal Čupić, bude i prozatímním prezidentem"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/ministr-tejc-pocita-se-zrusenim-27-okresnich-soudu-pri-justicni-reforme-379774",
+      "https://www.ceskenoviny.cz/zpravy/ministr-tejc-pocita-se-zrusenim-27-okresnich-soudu-pri-justicni-reforme/2904176",
       "Ministr Tejc počítá se zrušením 27 okresních soudů při justiční reformě"
     ],
     [
-      "https://www.idnes.cz/ekonomika/zahranicni/trump-ma-valku-s-iranem-za-uzavrenou-mensi-staty-blizkeho-vychodu-trpi-dal.A261119_114958_eko-zahranicni_jla",
-      "Trump má válku s Íránem za uzavřenou. Menší státy Blízkého východu trpí dál"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/nemecky-prezident-cesko-praha-pavel-babis-steinmeier.A261119_193014_domaci_balu",
-      "Německý prezident Steinmeier přijede do Prahy. Setká se s Pavlem i Babišem"
+      "https://zpravy.aktualne.cz/zahranici/nemecky-prezident-steinmeier-navstivi-cesko-setka-se-s-pavlem-i-babisem/r~aaa29d19c77e388f9a66c7f28a0230f6/",
+      "Německý prezident Steinmeier navštíví Česko, setká se s Pavlem i Babišem"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/nejsem-maga-musk-se-distancoval-od-trumpova-hnuti-379773",
@@ -105,10 +109,6 @@
     [
       "https://www.denik.cz/evropa/rusko-seznam-nepratelskych-zemi/",
       "Rusové zveřejnili žebříček nepřátelských zemí. Česko je na šestém místě"
-    ],
-    [
-      "https://cnn.iprima.cz/zbavme-svet-jadernych-zbrani-vyzval-cinsky-prezident-527507",
-      "Zbavme svět jaderných zbraní, vyzval čínský prezident. Trump mluvil o „jedinečné pozici“"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/brifink-po-jednani-vlady-379747",
