@@ -1,14 +1,84 @@
 {
-  "updated_at": "2026-11-19T11:08:13.024261+00:00",
+  "updated_at": "2026-11-19T12:08:27.759945+00:00",
   "window_hours": 24,
   "articles": [
     {
-      "title": "Zakažme a zničme jaderné zbraně, vyzval Si na jednání s Trumpem a Putinem",
+      "title": "Si jednal s Trumpem a Putinem. Po schůzce vydali Mírovou deklaraci",
       "summary": "V čínském Šen-čenu skončila schůzka prezidentů Číny, Spojených států a Ruska Si Ťin-pchinga, Donalda Trumpa a Vladimira Putina. Jednání trvalo zhruba 90 minut. Chtějí vést…",
       "source": "iDNES.cz",
       "category": "svet",
-      "published_at": "2026-11-19T11:04:00+00:00",
+      "published_at": "2026-11-19T12:06:00+00:00",
       "url": "https://www.idnes.cz/zpravy/zahranicni/tristranne-jednani-trumpa-si-tin-pchinga-a-putina-v-cine-zacalo.A261119_093306_zahranicni_bro",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Politico: Německo chce zajistit, aby pomoc Ukrajině nezablokovala Le Penová",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-19T12:54:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/politico-nemecko-chce-zajistit-aby-pomoc-ukrajine-nezablokovala-le-penova/2903961",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Vystrčil obhájil post šéfa Senátu. Grolicha jen těsně zvolili místopředsedou",
+      "summary": "Senát se ve čtvrtek sešel poprvé v novém složení, nově zvolená třetina senátorů už složila slib. Schůzi odstartovala státní hymna, kterou většina senátorů také zazpívala.…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-19T11:52:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/senat-nove-slozeni-schuze-hlasovani-predseda.A261118_213156_domaci_mul",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Třaskavý pakt Putina, Si a Trumpa. Prezidenti udeřili na Haag a dohodli se na imunitě",
+      "summary": "Čína, Rusko a Spojené státy vydaly společné prohlášení nazvané Mírová deklarace. Stalo se tak po jednání prezidentů Si Ťin-pchinga, Vladimira Putina a Donalda Trumpa v…",
+      "source": "CNN Prima NEWS",
+      "category": "svet",
+      "published_at": "2026-11-19T12:51:42+01:00",
+      "url": "https://cnn.iprima.cz/rusko-cina-a-usa-vydaly-po-jednani-mirovou-deklaraci-jake-jsou-zasadni-body-527518",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Dialog o jaderných zbraních a větší produkce ropy, požadují Trump, Si a Putin",
+      "summary": "Čína, Spojené státy a Rusko vydaly společné prohlášení nazvané Mírová deklarace. Stalo se tak po jednání lídrů Si Ťin-pchinga, Donalda Trumpa a Vladimira Putina v…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-19T11:45:40+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/dialog-o-jadernych-zbranich-a-vetsi-produkce-ropy-pozaduji-trump-si-a-putin-379751",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Praha má nového primátora. Hlaváčkovi poblahopřál končící Svoboda",
+      "summary": "Pražským primátorem se stal dosavadní náměstek Petr Hlaváček (STAN), v radě bude mít na starosti územní a strategický rozvoj, bydlení a zahraniční vztahy. Dnes ho…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-19T11:16:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/prazske-zastupitelstvo-bude-volit-nove-vedeni-mesta.A261118_125859_domaci_vank",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Čína, Rusko a USA vydaly po jednání v Šen-Čenu Mírovou deklaraci",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-19T12:12:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/-cina-rusko-a-usa-vydaly-po-jednani-v-sen-cenu-mirovou-deklaraci/2901941",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Babiš jmenoval komisi pro výběr šéfa ÚOHS, kandidátů je podle něj 16",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-19T12:09:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/babis-jmenoval-komisi-pro-vyber-sefa-uohs-kandidatu-je-podle-nej-16/2902732",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -23,42 +93,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Vystrčil obhájil post předsedy Senátu. Byl jediným kandidátem",
-      "summary": "Senát se ve čtvrtek schází poprvé v novém složení, nově zvolená třetina senátorů už složila slib. Schůzi odstartovala státní hymna, kterou většina senátorů také zazpívala.…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-19T10:59:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/senat-nove-slozeni-schuze-hlasovani-predseda.A261118_213156_domaci_mul",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Nevím, proč to komentuje.” Babiš zpražil Okamuru kvůli Skyfoxům",
+      "title": "„Nevím, proč to komentuje.” Babiš zpražil Okamuru kvůli Skyfoxům",
       "summary": "Vláda se ve čtvrtek sešla na mimořádné schůzi. Na tiskové konferenci se kromě témat probraných na jednání řešila i kritika Tomia Okamury ze strany premiéra…",
       "source": "iDNES.cz",
       "category": "domaci",
       "published_at": "2026-11-19T10:57:00+00:00",
       "url": "https://www.idnes.cz/zpravy/domaci/jednani-vlady-nahrada-za-ztratu-vydelku-pracovni-uraz.A261118_090008_domaci_jira",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Praha má nového primátora. Hlaváčkovi poblahopřál končící Svoboda",
-      "summary": "Pražským primátorem se stal dosavadní náměstek Petr Hlaváček (STAN), v radě bude mít na starosti územní a strategický rozvoj, bydlení a zahraniční vztahy. Dnes ho…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-19T10:51:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/prazske-zastupitelstvo-bude-volit-nove-vedeni-mesta.A261118_125859_domaci_vank",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "V Šen-čenu společně jednali prezidenti Číny, Spojených států a Ruska",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-19T11:35:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/v-sen-cenu-spolecne-jednali-prezidenti-ciny-spojenych-statu-a-ruska/2901941",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -143,16 +183,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Luxus u jezera. Dějiště summitu má pro Si Ťin-pchinga zvláštní význam",
-      "summary": "Historické čtvrteční setkání prezidentů Spojených států, Číny a Ruska se koná v exkluzivním areálu vily Čchi-lin v čínském Šen-čenu. Rozlehlý komplex o ploše 380 tisíc…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-19T09:47:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/kylin-villa-hotel-shenzhen-summit-apec-cina-usa-rusko.A261119_091242_zahranicni_aya",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Dánští poslanci schválili bezpečnostní dohodu s USA týkající se Grónska",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -163,12 +193,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Živě: Tisková konference po jednání vlády",
+      "title": "Babiš: Počet úředníků bude v roce 2027 o 4362 nižší než před pěti lety",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
       "category": "domaci",
       "published_at": "2026-11-19T10:08:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/zive-tiskova-konference-po-jednani-vlady/2902503",
+      "url": "https://www.ceskenoviny.cz/zpravy/-babis-pocet-uredniku-bude-v-roce-2027-o-4362-nizsi-nez-pred-peti-lety/2902503",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -183,7 +213,7 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Senátoři zvolili nové vedení, předsedou zůstává Vystrčil",
+      "title": "Brífink nového vedení Senátu",
       "summary": "Senátoři na první schůzi v povolebním složení popáté zvolili předsedou horní komory Miloše Vystrčila (ODS), který neměl protikandidáta. Získal 69 ze 77 odevzdaných hlasů. Před…",
       "source": "ČT24",
       "category": "domaci",
@@ -199,16 +229,6 @@
       "category": "svet",
       "published_at": "2026-11-19T09:51:00+01:00",
       "url": "https://zpravy.aktualne.cz/ekonomika/valka-s-iranem-zpusobila-historicky-zasah-do-svetoveho-obchodu-s-ropou-a-plynem/r~aaa2975bb485a03ae17180be2c50c108/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Na berlínské setkání koalice ochotných dorazí delegace 37 zemí",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-19T09:25:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/na-berlinske-setkani-koalice-ochotnych-dorazi-delegace-37-zemi/2901531",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -293,26 +313,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Konec dočasnosti? EU vybízí členské země, aby Ukrajincům ulehčily usazení",
-      "summary": "V Evropě aktuálně pobývá něco přes pět milionů válečných uprchlíků z Ukrajiny. Většina z nich žije už několik let v režimu dočasné ochrany. Vedení EU…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-19T06:00:00+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/konec-docasnosti-eu-vybizi-clenske-zeme-aby-ukrajincum-ulehcily-usazeni-379671",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Trump se po roce sešel s Putinem, z schůzky v Číně mají podle něj vzejít úžasné věci",
-      "summary": "Americký prezident Donald Trump se ve čtvrtek sešel se svým ruským protějškem Vladimirem Putinem na okraj summitu Asijsko-pacifického hospodářského společenství (APEC) v Číně, informují tiskové…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-19T06:54:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/trump-se-po-roce-sesel-s-putinem-z-schuzky-v-cine-maji-podle-nej-vzejit-uzasne-veci/r~aaa298a63023b892d1d71094491001b1/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Trump se v Číně sešel s Putinem. Lídři mluvili hlavně o Ukrajině",
       "summary": "Americký prezident Donald Trump se ve čtvrtek 19. listopadu sešel se svým ruským protějškem Vladimirem Putinem na okraj summitu Asijsko-pacifického hospodářského společenství (APEC) v Číně,…",
       "source": "Deník",
@@ -351,7 +351,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 16,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -362,7 +362,7 @@
       "feeds_total": 2,
       "status": "ok",
       "candidates": 22,
-      "selected": 5,
+      "selected": 6,
       "free_articles_checked": 8
     },
     {
@@ -371,7 +371,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -381,7 +381,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 11,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -391,9 +391,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
-      "selected": 5,
-      "free_articles_checked": 5
+      "candidates": 7,
+      "selected": 4,
+      "free_articles_checked": 4
     },
     {
       "name": "Deník",
@@ -401,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 16,
       "selected": 4,
       "free_articles_checked": 4
     },
@@ -411,9 +411,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
-      "selected": 7,
-      "free_articles_checked": 7
+      "candidates": 10,
+      "selected": 6,
+      "free_articles_checked": 6
     },
     {
       "name": "CNN Prima NEWS",
@@ -422,8 +422,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 11,
-      "selected": 3,
-      "free_articles_checked": 3
+      "selected": 4,
+      "free_articles_checked": 4
     },
     {
       "name": "E15",
@@ -451,7 +451,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 18,
+      "candidates": 15,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -461,7 +461,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     },

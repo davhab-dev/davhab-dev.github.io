@@ -4,27 +4,43 @@
   "queue": [
     [
       "https://www.idnes.cz/zpravy/zahranicni/tristranne-jednani-trumpa-si-tin-pchinga-a-putina-v-cine-zacalo.A261119_093306_zahranicni_bro",
-      "Zakažme a zničme jaderné zbraně, vyzval Si na jednání s Trumpem a Putinem"
+      "Si jednal s Trumpem a Putinem. Po schůzce vydali Mírovou deklaraci"
     ],
     [
-      "https://www.denik.cz/evropa/rusko-seznam-nepratelskych-zemi/",
-      "Rusové zveřejnili žebříček nepřátelských zemí. Česko je na šestém místě"
+      "https://www.ceskenoviny.cz/zpravy/politico-nemecko-chce-zajistit-aby-pomoc-ukrajine-nezablokovala-le-penova/2903961",
+      "Politico: Německo chce zajistit, aby pomoc Ukrajině nezablokovala Le Penová"
     ],
     [
       "https://www.idnes.cz/zpravy/domaci/senat-nove-slozeni-schuze-hlasovani-predseda.A261118_213156_domaci_mul",
-      "Vystrčil obhájil post předsedy Senátu. Byl jediným kandidátem"
+      "Vystrčil obhájil post šéfa Senátu. Grolicha jen těsně zvolili místopředsedou"
     ],
     [
-      "https://www.idnes.cz/zpravy/domaci/jednani-vlady-nahrada-za-ztratu-vydelku-pracovni-uraz.A261118_090008_domaci_jira",
-      "Nevím, proč to komentuje.” Babiš zpražil Okamuru kvůli Skyfoxům"
+      "https://cnn.iprima.cz/rusko-cina-a-usa-vydaly-po-jednani-mirovou-deklaraci-jake-jsou-zasadni-body-527518",
+      "Třaskavý pakt Putina, Si a Trumpa. Prezidenti udeřili na Haag a dohodli se na imunitě"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/dialog-o-jadernych-zbranich-a-vetsi-produkce-ropy-pozaduji-trump-si-a-putin-379751",
+      "Dialog o jaderných zbraních a větší produkce ropy, požadují Trump, Si a Putin"
     ],
     [
       "https://www.idnes.cz/zpravy/domaci/prazske-zastupitelstvo-bude-volit-nove-vedeni-mesta.A261118_125859_domaci_vank",
       "Praha má nového primátora. Hlaváčkovi poblahopřál končící Svoboda"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/v-sen-cenu-spolecne-jednali-prezidenti-ciny-spojenych-statu-a-ruska/2901941",
-      "V Šen-čenu společně jednali prezidenti Číny, Spojených států a Ruska"
+      "https://www.ceskenoviny.cz/zpravy/-cina-rusko-a-usa-vydaly-po-jednani-v-sen-cenu-mirovou-deklaraci/2901941",
+      "Čína, Rusko a USA vydaly po jednání v Šen-Čenu Mírovou deklaraci"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/babis-jmenoval-komisi-pro-vyber-sefa-uohs-kandidatu-je-podle-nej-16/2902732",
+      "Babiš jmenoval komisi pro výběr šéfa ÚOHS, kandidátů je podle něj 16"
+    ],
+    [
+      "https://www.denik.cz/evropa/rusko-seznam-nepratelskych-zemi/",
+      "Rusové zveřejnili žebříček nepřátelských zemí. Česko je na šestém místě"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/jednani-vlady-nahrada-za-ztratu-vydelku-pracovni-uraz.A261118_090008_domaci_jira",
+      "„Nevím, proč to komentuje.” Babiš zpražil Okamuru kvůli Skyfoxům"
     ],
     [
       "https://www.idnes.cz/zpravy/zahranicni/cast-krymskeho-mostu-by-mohla-fungovat-za-mesic-ci-dva-rekl-rusky-vicepremier.A261119_105213_zahranicni_kha",
@@ -59,16 +75,12 @@
       "Senát se poprvé sešel po říjnových volbách, přísahu složilo 26 členů horní komory"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/kylin-villa-hotel-shenzhen-summit-apec-cina-usa-rusko.A261119_091242_zahranicni_aya",
-      "Luxus u jezera. Dějiště summitu má pro Si Ťin-pchinga zvláštní význam"
-    ],
-    [
       "https://www.ceskenoviny.cz/zpravy/dansti-poslanci-schvalili-bezpecnostni-dohodu-s-usa-tykajici-se-gronska/2903837",
       "Dánští poslanci schválili bezpečnostní dohodu s USA týkající se Grónska"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/zive-tiskova-konference-po-jednani-vlady/2902503",
-      "Živě: Tisková konference po jednání vlády"
+      "https://www.ceskenoviny.cz/zpravy/-babis-pocet-uredniku-bude-v-roce-2027-o-4362-nizsi-nez-pred-peti-lety/2902503",
+      "Babiš: Počet úředníků bude v roce 2027 o 4362 nižší než před pěti lety"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/evropskou-komisi-zasahl-rozsahly-kyberneticky-utok-379750",
@@ -76,15 +88,11 @@
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/senatori-na-ustavujici-schuzi-zvoli-nove-vedeni-horni-komory-379749",
-      "Senátoři zvolili nové vedení, předsedou zůstává Vystrčil"
+      "Brífink nového vedení Senátu"
     ],
     [
       "https://zpravy.aktualne.cz/ekonomika/valka-s-iranem-zpusobila-historicky-zasah-do-svetoveho-obchodu-s-ropou-a-plynem/r~aaa2975bb485a03ae17180be2c50c108/",
       "Válka s Íránem způsobila historický zásah do světového obchodu s ropou a plynem"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/na-berlinske-setkani-koalice-ochotnych-dorazi-delegace-37-zemi/2901531",
-      "Na berlínské setkání koalice ochotných dorazí delegace 37 zemí"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/obvodni-soud-v-pripadu-feri-spatne-vyhodnotil-dukazy-uvedl-mestsky-soud-379748",
@@ -117,14 +125,6 @@
     [
       "https://denikn.cz/newsletter/2262545/metnar-rusti-sportovci-do-ceska-vpusteni-nebudou-soud-prohlasil-senatni-volby-na-zdarsku-za-neplatne-stan-spolu-a-praha-sobe-podepsaly-koalicni-smlouvu-v-praze/",
       "R5M: Metnar: Ruští sportovci do Česka vpuštěni nebudou | Soud prohlásil senátní volby na Žďársku za neplatné"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/konec-docasnosti-eu-vybizi-clenske-zeme-aby-ukrajincum-ulehcily-usazeni-379671",
-      "Konec dočasnosti? EU vybízí členské země, aby Ukrajincům ulehčily usazení"
-    ],
-    [
-      "https://zpravy.aktualne.cz/zahranici/trump-se-po-roce-sesel-s-putinem-z-schuzky-v-cine-maji-podle-nej-vzejit-uzasne-veci/r~aaa298a63023b892d1d71094491001b1/",
-      "Trump se po roce sešel s Putinem, z schůzky v Číně mají podle něj vzejít úžasné věci"
     ],
     [
       "https://www.denik.cz/svet/trump-se-v-cine-sesel-s-putinem-hovoril-o-uzasnych-moznostech/",
