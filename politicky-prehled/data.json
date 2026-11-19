@@ -1,7 +1,77 @@
 {
-  "updated_at": "2026-11-19T04:04:37.329403+00:00",
+  "updated_at": "2026-11-19T05:14:26.247217+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "V Berlíně bude jednat koalice ochotných o podpoře Ukrajiny, dorazí i Babiš",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-19T06:08:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/v-berline-bude-jednat-koalice-ochotnych-o-podpore-ukrajiny-dorazi-i-babis-/2901531",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Trump se sešel s Putinem, hovořil o úžasných možnostech",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-19T06:01:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/trump-se-sesel-s-putinem-hovoril-o-uzasnych-moznostech/2901941",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Senát se poprvé sejde v novém složení, Vystrčil zřejmě obhájí post předsedy",
+      "summary": "Senát se ve čtvrtek sejde poprvé v novém složení, nově zvolená třetina senátorů složí slib. Následovat bude tajná volba předsedy horní komory parlamentu. Očekává se,…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-19T05:00:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/senat-nove-slozeni-schuze-hlasovani-predseda.A261118_213156_domaci_mul",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Pražské zastupitelstvo bude volit nové vedení města",
+      "summary": "Začátkem listopadu se poprvé sešlo nové zastupitelstvo hlavního města Prahy, kdy zastupitelé složili slib. Podruhé se zastupitelé sejdou ve čtvrtek v 9:00. Na programu mají…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-19T05:00:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/prazske-zastupitelstvo-bude-volit-nove-vedeni-mesta.A261118_125859_domaci_vank",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Vyšší náhrady pro pozůstalé i za ztrátu výdělku. Vláda jedná o změně",
+      "summary": "Zástupci vlády se dnes sejdou na mimořádné schůzi. Jedním z hlavních témat kabinetu premiéra Andreje Babiše budou úpravy náhrad za ztrátu výdělku při pracovní neschopnosti…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-19T05:00:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/jednani-vlady-nahrada-za-ztratu-vydelku-pracovni-uraz.A261118_090008_domaci_jira",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Donald Trump se na okraj summitu v Číně sešel s Vladimirem Putinem",
+      "summary": "Americký prezident Donald Trump se sešel s ruským protějškem Vladimirem Putinem na okraj summitu APEC v Číně, píší tiskové agentury. Ze schůzky může vzejít spousta…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-19T04:52:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/trump-se-na-summitu-apec-v-cine-sesel-s-putinem-ceka-uzasne-veci.A261119_054237_zahranicni_air",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "„Při večeři jsem mu nabídla vilu.“ Černochová popsala, jak se udobřovala s Řehkou",
+      "summary": "Vztah bývalé ministryně obrany Jany Černochové a „jejího“ náčelníka generálního štábu Karla Řehky prošel obrovskými eskapádami. Několikrát jim musel pomoci najít společnou řeč i tehdejší…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-19T05:30:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/pri-veceri-jsem-mu-nabidla-vilu-cernochova-popsala-jak-se-udobrovala-s-rehkou/r~aaa293e689f41a46c36966eb73cd8645/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Na Krymském mostě byla po dalším útoku přerušena doprava",
       "summary": "Krymský most čelil v noci na čtvrtek dalšímu útoku. Nyní je na něm přerušena doprava, tvrdí Ruskem dosazená správa okupovaného ukrajinského poloostrova. Ukrajina zaútočila na…",
@@ -13,8 +83,8 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Trumpa, Siho a Putina čeká trojstranné jednání",
-      "summary": "Čínské město Šen-čen hostí summit Asijsko-pacifického hospodářského společenství (APEC). Účastní se jej mimo jiné prezident USA Donald Trump, ruský diktátor Vladimir Putin a čínský vládce…",
+      "title": "Trump jednal v Číně s Putinem, píší agentury",
+      "summary": "Americký prezident Donald Trump jednal s ruským vládcem Vladimirem Putinem. Lídři se sešli na summitu Asijsko-pacifického hospodářského společenství (APEC) v čínském Šen-čenu, na programu mají…",
       "source": "ČT24",
       "category": "svet",
       "published_at": "2026-11-19T02:15:00+00:00",
@@ -39,8 +109,10 @@
       "category": "domaci",
       "published_at": "2026-11-19T00:12:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/vlada-projedna-rust-nahrad-prijmu-po-urazu-v-praci-ci-sluzbe-a-nemoci-z-povolani/2902503",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Navržená valorizace mění předchozí průměrný výdělek používaný pro výpočet náhrady, nikoli jednoduše každou vyplácenou náhradu o stejné procento. Základ se má od ledna zvýšit o 0,2 procenta a 270 korun. Konkrétní změna výplaty závisí také na současném výdělku a případném invalidním důchodu. Připočtení pevné částky má podle ministerstva zabránit tomu, aby lednový růst důchodu sám snížil dorovnávanou náhradu. Pro příjemce je proto důležitý společný výsledek obou změn, ne pouze titulek o zvýšení.\n\nTři návrhy pokrývají zaměstnance i příslušné náhrady vojáků a policistů a dotýkají se také pozůstalých. Zpráva před jednáním vlády však ještě nedokládá schválení nařízení; uvedené parametry je nutné chápat jako návrh. Odhad vyšších výdajů pojišťoven a resortů ukazuje, že se změna promítá i do jejich rozpočtů, nikoli jen do penzijního systému. Ověřitelným dalším krokem bude přijetí a zveřejnění konečného znění s účinností. Z článku nelze určit individuální nárok ani přesnou částku konkrétní domácnosti.",
+      "importance_kind": "analysis",
+      "analysis_source": "České noviny / ČTK",
+      "analysis_url": "https://www.ceskenoviny.cz/zpravy/vlada-projedna-rust-nahrad-prijmu-po-urazu-v-praci-ci-sluzbe-a-nemoci-z-povolani/2902503"
     },
     {
       "title": "Senát rozhodne o svém povolebním uspořádání včetně volby vedení komory",
@@ -103,16 +175,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Německá banka udala Ficova syna pro podezření z praní peněz, premiér to odmítá",
-      "summary": "Syn slovenského premiéra Roberta Fica Michal si ve svých studijních dobách založil účet u německé Deutsche Bank. Ta mu jej však po roce zrušila a…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-18T20:26:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/nemecka-banka-zrusila-ficovu-synovi-ucet-a-udala-ho-pro-podezreni-z-prani-penez.A261118_133340_zahranicni_kha",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Další otřes na polském ústavním soudu, soudci zbavili předsedu imunity",
       "summary": "Valné shromáždění soudců polského ústavního soudu ve středu zbavilo imunity muže, kterého polská opozice považuje za předsedu tohoto soudu, píše agentura Reuters. Na konci října…",
       "source": "Aktuálně.cz",
@@ -139,26 +201,6 @@
       "category": "svet",
       "published_at": "2026-11-18T20:20:05+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/demokrate-nominovali-jeffriese-na-post-sefa-snemovny-reprezentantu-379738",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Česko je v ruském žebříčku nepřátel šesté. První místo obsadila Francie",
-      "summary": "Česko se oproti minulému měsíci v říjnovém žebříčku nepřátelských zemí, který sestavil ruský list Vzgljad, propadlo ze čtvrtého místa na šesté. Dělí se o něj…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-18T20:04:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/cesko-je-v-ruskem-zebricku-nepratel-seste-prvni-misto-obsadila-francie.A261118_203541_zahranicni_ichuc",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Ukrajina a Rusko jednají o výměně zajatců. Zelenskyj vidí pozice na frontě jako silné",
-      "summary": "Ukrajina s Ruskem dál jedná o výměně válečných zajatců, na níž se vyjednavači minulý týden rámcově dohodli v Abú Zabí. Podle ukrajinského ombudsmana Dmytra Lubince…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-18T19:53:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-jedna-s-ruskem-o-vymene-zajatcu-zelenskyj-chvali-pozice-na-fronte.A261118_201359_zahranicni_ichuc",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -203,16 +245,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "AfD chce v Sasku-Anhaltsku vypovědět smlouvy o veřejnoprávním vysílání",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-18T19:18:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/afd-chce-v-sasku-anhaltsku-vypovedet-smlouvy-o-verejnopravnim-vysilani/2903627",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Stačí jedna SMS. Banka varuje před novým podvodem. Na co dát pozor, jak reagovat",
       "summary": "Útočníci kombinují falešné SMS zprávy s telefonáty, aby z klientů vylákali přístupové údaje či autorizaci plateb. ČSOB varuje před novou vlnou podvodů. Těch přitom v…",
       "source": "Deník",
@@ -243,32 +275,22 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Cimický má nastoupit do vězení po 24. listopadu, obdržel výzvu od soudu",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-18T18:03:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/cimicky-ma-nastoupit-do-vezeni-po-24-listopadu-obdrzel-vyzvu-od-soudu/2903603",
+      "title": "Trumpa vítal Si Ťin-pching, Putina jen šéf kanceláře. Rusko hraje na summitu druhé housle",
+      "summary": "Vlajky, červený koberec a objetí od samotného prezidenta Si Ťin-pchinga. Velkolepé středeční uvítání šéfa Bílého domu Donalda Trumpa v Číně považují experti za výjimečné gesto.…",
+      "source": "CNN Prima NEWS",
+      "category": "svet",
+      "published_at": "2026-11-18T17:05:53+01:00",
+      "url": "https://cnn.iprima.cz/trumpa-vital-si-tin-pching-putina-jen-sef-kancelare-rusko-hraje-na-summitu-druhe-housle-527463",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
     {
-      "title": "První fotografie po 30 letech. V Amazonii vyfotili členy izolovaného kmene Awá",
-      "summary": "Nevládní organizace Survival International v úterý zveřejnila snímky skupiny z domorodého kmene z brazilské Amazonie, který žije izolovaně v deštném pralese. Asi 20 jeho členů…",
-      "source": "Aktuálně.cz",
+      "title": "Nová Jalta? Lídři se obávají setkání Trumpa, Putina a Si Ťin-pchinga. Bez Kyjeva",
+      "summary": "Americký prezident Donald Trump, ruský vůdce Vladimir Putin a čínský prezident Si Ťin-pching se ve čtvrtek 19. listopadu setkali v čínském Šen-čenu. Jejich jednání vyvolává…",
+      "source": "Deník",
       "category": "svet",
-      "published_at": "2026-11-18T17:26:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/prvni-fotografie-po-30-letech-v-amazonii-vyfotili-cleny-izolovaneho-kmene-awa/r~aaa29afb5cb71747b36d040e161b4293/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "V Amazonii vyfotili po desetiletích členy kmene Awá, z pralesa vyšli pro jídlo",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-18T17:08:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/v-amazonii-vyfotili-po-desetiletich-cleny-kmene-awa-z-pralesa-vysli-pro-jidlo/2903581",
+      "published_at": "2026-11-18T16:32:00+01:00",
+      "url": "https://www.denik.cz/svet/nova-jalta-lidri-se-obavaji-setkani-trumpa-putina-a-si-tin-pchinga-bez-kyjeva/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -279,16 +301,6 @@
       "category": "domaci",
       "published_at": "2026-11-18T16:27:46+01:00",
       "url": "https://www.denik.cz/cesko/na-turka-a-macinku-by-mohl-mit-dopad-jen-betonovy-panel-letna-tezko-rika-sokol/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Měl dostat aspoň o dva hlasy více. Soud nařídil opakování supertěsné volby",
-      "summary": "Hlasování v senátních volbách na Žďársku se zopakuje, a to od prvního kola a se stejnými kandidáty, rozhodl Nejvyšší správní soud (NSS) ve středu. Vyhověl…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-18T15:43:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/znovu-k-urnam-senatni-volby-na-zdarsku-se-budou-opakovat-soud-zjistil-pochybeni/r~aaa292fe450069ba57a9c7a41a5b6400/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     }
@@ -311,7 +323,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 19,
+      "candidates": 20,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -321,8 +333,8 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 21,
-      "selected": 7,
+      "candidates": 22,
+      "selected": 6,
       "free_articles_checked": 8
     },
     {
@@ -331,7 +343,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 16,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -341,7 +353,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -351,9 +363,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
-      "selected": 6,
-      "free_articles_checked": 6
+      "candidates": 8,
+      "selected": 5,
+      "free_articles_checked": 5
     },
     {
       "name": "Deník",
@@ -362,7 +374,7 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 14,
-      "selected": 5,
+      "selected": 6,
       "free_articles_checked": 6
     },
     {
@@ -371,9 +383,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 22,
-      "selected": 4,
-      "free_articles_checked": 4
+      "candidates": 23,
+      "selected": 5,
+      "free_articles_checked": 5
     },
     {
       "name": "CNN Prima NEWS",
@@ -381,8 +393,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
-      "selected": 2,
+      "candidates": 13,
+      "selected": 3,
       "free_articles_checked": 3
     },
     {
@@ -411,7 +423,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 17,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -451,7 +463,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     }
