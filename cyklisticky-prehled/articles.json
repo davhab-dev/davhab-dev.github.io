@@ -1,6 +1,42 @@
 {
-  "updated": "2026-11-19T14:14:43.470334+00:00",
+  "updated": "2026-11-19T15:23:00.732559+00:00",
   "articles": [
+    {
+      "title": "‘Who is influencing whom and why?’ – Some of cycling’s biggest backers are spinning a sponsorship spiderweb, but what are the risks?",
+      "summary": "With a handful of brands having ties to teams, races, and even governing bodies, Chris Marshall-Bell questions whether this is just the way cycling's sponsorship model is going, or if it's a governance headache waiting t",
+      "url": "https://www.cyclingnews.com/pro-cycling/racing/who-is-influencing-whom-and-why-some-of-cyclings-biggest-backers-are-spinning-a-sponsorship-spiderweb-but-what-are-the-risks/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-19T15:05:00+00:00"
+    },
+    {
+      "title": "NSN Cycling Team change bikes for the second time in three seasons as German brand returns to the WorldTour",
+      "summary": "The team will ride Newmen wheels as part of their new look",
+      "url": "https://www.cyclingnews.com/bikes/pro-bikes/nsn-cycling-team-change-bikes-for-the-third-time-in-three-seasons-as-cube-return-to-the-worldtour/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Technika",
+      "published": "2026-11-19T15:00:00+00:00"
+    },
+    {
+      "title": "\"Waging a war against rider fatigue\" – new Polygon gravel bike gets 55mm tyre clearance and down-tube storage from $1,799",
+      "summary": "Updated Tambora is racier, more comfortable and now compatible with gravel suspension forks",
+      "url": "https://www.bikeradar.com/news/polygon-tambora-2026",
+      "source": "BikeRadar Gravel",
+      "lang": "EN",
+      "category": "Gravel",
+      "published": "2026-11-19T15:00:00+00:00"
+    },
+    {
+      "title": "🚴 Cykloresort Radnice: od Stupna po Plzeň po trailech, pumptracích a vodopádech",
+      "summary": "Tentokrát jsem vyrazil prozkoumat cykloresort Radnice. Lákaly mě cyklostezky, traily a zábava pro kola na každém kousku cesty. Oblast mě nezklamala a určitě se sem vrátím. Pokud hledáte cyklovýlet v Plzeňském kraji, MTB ",
+      "url": "https://cyklocestovatel.cz/cykloresort-radnice/",
+      "source": "Cyklocestovatel.cz",
+      "lang": "CS",
+      "category": "Cyklistika",
+      "published": "2026-11-19T14:19:25+00:00"
+    },
     {
       "title": "'Passion has no age. Class is timeless' – Solution Tech-Nippo-Rali confirm Domenico Pozzovivo will continue racing at the age of 44",
       "summary": "Italian climber is eyeing a record-breaking 19th Giro d'Italia participation next May",
@@ -600,6 +636,15 @@
       "summary": "",
       "url": "https://mtbs.cz/clanek/fotogalerie-janev-cup-jicin-2026-objektivem-milose-lubase/kategorie/technika",
       "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-16"
+    },
+    {
+      "title": "Ideální offseason bike – na čem jezdit mimo sezónu?",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132094/idealni-offseason-bike-na-cem-jezdit-mimo-sezonu.html",
+      "source": "MTBIKER.cz",
       "lang": "CS",
       "category": "MTB",
       "published": "2026-11-16"
@@ -3105,51 +3150,6 @@
       "lang": "EN",
       "category": "Gravel",
       "published": "2026-10-14T15:38:00+00:00"
-    },
-    {
-      "title": "DT Swiss brings F 132 gravel suspension forks to the aftermarket so you can \"leave your rigid fork behind\"",
-      "summary": "DT Swiss launches new F 132 and F 132 One suspension forks, with multiple offsets, remote control, 40mm of travel and 50mm tyre clearance",
-      "url": "https://www.bikeradar.com/news/dt-swiss-f-132-gravel-forks",
-      "source": "BikeRadar Gravel",
-      "lang": "EN",
-      "category": "Gravel",
-      "published": "2026-10-14T12:00:00+00:00"
-    },
-    {
-      "title": "Today is your last chance to vote in our Rider of the Year Awards – cast your vote now",
-      "summary": "Have your say and help crown MBUK and Cycling Plus’ top riders of 2026 before voting closes on October 14",
-      "url": "https://www.bikeradar.com/news/voting-is-now-open-for-mbuk-and-cycling-plus-rider-of-the-year-2026",
-      "source": "BikeRadar MTB",
-      "lang": "EN",
-      "category": "MTB",
-      "published": "2026-10-14T08:14:40+00:00"
-    },
-    {
-      "title": "The best budget bike pedals for mountain biking, road and casual riding",
-      "summary": "Six affordable bike pedals that are worth your hard-earned cash",
-      "url": "https://www.bikeradar.com/advice/buyers-guides/cheap-bike-pedals",
-      "source": "BikeRadar MTB",
-      "lang": "EN",
-      "category": "MTB",
-      "published": "2026-10-13T15:30:00+00:00"
-    },
-    {
-      "title": "I found Canyon's new Avinox-powered eMTB a riot to ride, but it highlights a big problem with the bike industry",
-      "summary": "Avinox has taken the electric mountain bike market by storm, with brands rushing to adopt its powerful motors and riders seemingly unwilling to settle for anything less. But are we forgetting what makes a great mountain ",
-      "url": "https://www.bikeradar.com/features/opinion/canyon-spectral-on-avinox-m2s-motor",
-      "source": "BikeRadar MTB",
-      "lang": "EN",
-      "category": "MTB",
-      "published": "2026-10-13T09:00:00+00:00"
-    },
-    {
-      "title": "Canyon Spectral:ON CF 9 first-ride review: new trail bike matches 1,500W of pure power with a playful character that's hard to resist",
-      "summary": "With Avinox's mighty M2S motor, an all-new carbon frame and updated geometry, Canyon's fourth-generation Spectral:ON promises the best of both worlds",
-      "url": "https://www.bikeradar.com/electric-bikes/canyon-spectralon-cf-9-first-ride-review",
-      "source": "BikeRadar MTB",
-      "lang": "EN",
-      "category": "Technika",
-      "published": "2026-10-13T09:00:00+00:00"
     }
   ],
   "source_errors": [
