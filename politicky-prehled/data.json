@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-19T22:56:12.505182+00:00",
+  "updated_at": "2026-11-19T23:52:05.602151+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Prezident Pavel s manželkou pokračuje v návštěvě severní Moravy",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-20T00:12:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/prezident-pavel-s-manzelkou-pokracuje-v-navsteve-severni-moravy/2904229",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Trump v září nakoupil akcie Nvidie v hodnotě až 265 tisíc dolarů",
       "summary": "Americký prezident Donald Trump v září nakoupil akcie společnosti Nvidia v hodnotě až 265 tisíc dolarů (téměř 5,9 milionu korun). Zároveň prodal podíly až za…",
@@ -193,16 +203,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Lukáš Hájek se stal primátorem Liberce, po osmi letech vystřídal Zámečníka",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-19T17:21:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/lukas-hajek-se-stal-primatorem-liberce-po-osmi-letech-vystridal-zamecnika-/2904032",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Nechte nás střílet! Francouzským policistům došla trpělivost",
       "summary": "Tentokrát se proti francouzské vládě nebouří studenti ani odboráři, nýbrž samotní policisté, kteří již několik týdnů čelí násilnostem v ulicích. Ve středu 18. listopadu se…",
       "source": "Aktuálně.cz",
@@ -219,16 +219,6 @@
       "category": "svet",
       "published_at": "2026-11-19T16:01:14+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/trump-oznacil-putina-za-sveho-pritele-sef-polske-diplomacie-vyjadril-znepokojeni-379765",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "V Rusku zmrazili stovky velkých státních staveb za biliony rublů, píše server",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-19T16:20:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/v-rusku-zmrazili-stovky-velkych-statnich-staveb-za-biliony-rublu-pise-server/2904090",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -301,8 +291,8 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 20,
-      "selected": 6,
+      "candidates": 21,
+      "selected": 5,
       "free_articles_checked": 8
     },
     {
@@ -351,7 +341,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 15,
       "selected": 6,
       "free_articles_checked": 7
     },
@@ -361,7 +351,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 7,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -411,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 5,
+      "candidates": 3,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -421,7 +411,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     },

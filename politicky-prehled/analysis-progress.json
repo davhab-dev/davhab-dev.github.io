@@ -3,6 +3,10 @@
   "current": null,
   "queue": [
     [
+      "https://www.ceskenoviny.cz/zpravy/prezident-pavel-s-manzelkou-pokracuje-v-navsteve-severni-moravy/2904229",
+      "Prezident Pavel s manželkou pokračuje v návštěvě severní Moravy"
+    ],
+    [
       "https://ct24.ceskatelevize.cz/clanek/svet/trump-v-zari-nakoupil-akcie-nvidie-v-hodnote-az-265-tisic-dolaru-379777",
       "Trump v září nakoupil akcie Nvidie v hodnotě až 265 tisíc dolarů"
     ],
@@ -79,20 +83,12 @@
       "Prezidenti USA, Číny a Ruska jednali o válkách, bezpečnosti i jaderných zbraních"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/lukas-hajek-se-stal-primatorem-liberce-po-osmi-letech-vystridal-zamecnika-/2904032",
-      "Lukáš Hájek se stal primátorem Liberce, po osmi letech vystřídal Zámečníka"
-    ],
-    [
       "https://zpravy.aktualne.cz/zahranici/nechte-nas-strilet-francouzskym-policistum-dosla-trpelivost/r~aaa29a0919c266291ee95407f2281273/",
       "Nechte nás střílet! Francouzským policistům došla trpělivost"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/trump-oznacil-putina-za-sveho-pritele-sef-polske-diplomacie-vyjadril-znepokojeni-379765",
       "Trump označil Putina za svého přítele. Šéf polské diplomacie vyjádřil znepokojení"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/v-rusku-zmrazili-stovky-velkych-statnich-staveb-za-biliony-rublu-pise-server/2904090",
-      "V Rusku zmrazili stovky velkých státních staveb za biliony rublů, píše server"
     ],
     [
       "https://www.denik.cz/evropa/michal-fico-syn-roberta-fica-ucet-banka-prani-penez/",
@@ -115,10 +111,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 27,
+    "initial_pending": 26,
     "completed": [],
     "deferred": [],
-    "remaining": 27
+    "remaining": 26
   },
   "samples_seconds": [
     51.274763,
