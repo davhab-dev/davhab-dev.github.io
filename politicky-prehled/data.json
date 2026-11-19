@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-19T15:04:06.019274+00:00",
+  "updated_at": "2026-11-19T16:09:05.030620+00:00",
   "window_hours": 24,
   "articles": [
     {
-      "title": "Žárlivá Evropa bude plakat, ta o míru nemluví. Fico chválí čínský summit",
-      "summary": "Slovenský premiér Robert Fico ve čtvrtek vyzdvihl závěry summitu prezidentů Číny, Spojených států a Ruska. Podle Fica na schůzce Si Ťin-pchinga, Donalda Trumpa a Vladimira…",
+      "title": "Zakročme proti falešným profilům na sítích, vyzývá Zdechovský Brusel",
+      "summary": "Český europoslanec Tomáš Zdechovský (KDU-ČSL) společně s dalšími kolegy z Evropského parlamentu vyzvali Evropskou komisi k přípravě předpisu, který by zavedl povinné ověřování identity osob…",
       "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-19T14:49:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/slovensko-robert-fico-summit-cina-putin-trump-si-tin-pching.A261119_145041_zahranicni_kha",
+      "category": "domaci",
+      "published_at": "2026-11-19T15:34:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/tomas-zdechovsky-evropska-komise-konec-falesnych-uctu-socialni-site.A261119_154047_domaci_sile",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -17,8 +17,28 @@
       "summary": "Na čtvrtečním berlínské setkání takzvané koalice ochotných, tedy zemí podporujících Ukrajinu, dorazily desítky delegací. Doplnily je představitelé Evropské unie a NATO. Ještě před začátkem se…",
       "source": "iDNES.cz",
       "category": "svet",
-      "published_at": "2026-11-19T14:49:00+00:00",
+      "published_at": "2026-11-19T15:23:00+00:00",
       "url": "https://www.idnes.cz/zpravy/zahranicni/berlin-koalice-ochotnych-eu-valka-ukrajina-rusko.A261119_132137_zahranicni_rtn",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "V Rusku zmrazili stovky velkých státních staveb za biliony rublů, píše server",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-19T16:20:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/v-rusku-zmrazili-stovky-velkych-statnich-staveb-za-biliony-rublu-pise-server/2904090",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Žárlivá Evropa bude plakat, ta o míru nemluví. Fico chválí čínský summit",
+      "summary": "Slovenský premiér Robert Fico ve čtvrtek vyzdvihl závěry summitu prezidentů Číny, Spojených států a Ruska. Podle Fica na schůzce Si Ťin-pchinga, Donalda Trumpa a Vladimira…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-19T14:49:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/slovensko-robert-fico-summit-cina-putin-trump-si-tin-pching.A261119_145041_zahranicni_kha",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -183,16 +203,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Čína, Rusko a USA vydaly po jednání v Šen-Čenu Mírovou deklaraci",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-19T12:12:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/-cina-rusko-a-usa-vydaly-po-jednani-v-sen-cenu-mirovou-deklaraci/2901941",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Babiš jmenoval komisi pro výběr šéfa ÚOHS, kandidátů je podle něj 16",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -219,26 +229,6 @@
       "category": "svet",
       "published_at": "2026-11-19T11:24:58+01:00",
       "url": "https://cnn.iprima.cz/zbavme-svet-jadernych-zbrani-vyzval-cinsky-prezident-527507",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Pražští zastupitelé zvolili primátora, jeho náměstky a další radní",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-19T11:22:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/prazsti-zastupitele-zvolili-primatora-jeho-namestky-a-dalsi-radni/2903301",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Senát povede Miloš Vystrčil, zvolen byl už popáté. Opět neměl protikandidáta",
-      "summary": "Předsedou Senátu byl ve čtvrtek popáté zvolen Miloš Vystrčil (ODS). Stejně jako při předchozí volbě neměl protikandidáta, získal 69 ze 77 odevzdaných hlasů, tedy o…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-19T11:22:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/senat-povede-milos-vystrcil-zvolen-byl-uz-popate-opet-nemel-protikandidata/r~aaa29e222d90e636b876fbace96c2703/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -321,16 +311,6 @@
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/kriticka-ruskeho-rezimu-roky-zije-v-cesku-moskva-ji-chce-dostat-do-vezeni-379733",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
-    },
-    {
-      "title": "Ukrajinci zaútočili na Krymský most i potřetí. Byl na něm přerušen provoz vlaků",
-      "summary": "Na Krymském mostě byl po dalším ukrajinském útoku přerušen provoz vlaků, oznámilo ve čtvrtek 19. listopadu podle ruské služby BBC ministerstvo dopravy v Moskvě. Kyjev…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-19T07:23:44+01:00",
-      "url": "https://www.denik.cz/evropa/ukrajinci-zautocili-na-krymsky-most-i-potreti-byla-na-nem-prerusena-doprava/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
     }
   ],
   "unavailable_sources": [],
@@ -351,7 +331,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -362,7 +342,7 @@
       "feeds_total": 2,
       "status": "ok",
       "candidates": 22,
-      "selected": 8,
+      "selected": 7,
       "free_articles_checked": 8
     },
     {
@@ -371,7 +351,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -381,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -392,8 +372,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 9,
-      "selected": 5,
-      "free_articles_checked": 5
+      "selected": 4,
+      "free_articles_checked": 4
     },
     {
       "name": "Deník",
@@ -401,9 +381,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
-      "selected": 4,
-      "free_articles_checked": 4
+      "candidates": 13,
+      "selected": 3,
+      "free_articles_checked": 3
     },
     {
       "name": "iDNES.cz",
@@ -412,7 +392,7 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 16,
-      "selected": 5,
+      "selected": 6,
       "free_articles_checked": 6
     },
     {
@@ -431,7 +411,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 5,
+      "candidates": 4,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -451,7 +431,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -471,7 +451,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 5,
+      "candidates": 4,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -481,7 +461,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -491,7 +471,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 16,
       "selected": 0,
       "free_articles_checked": 0
     }

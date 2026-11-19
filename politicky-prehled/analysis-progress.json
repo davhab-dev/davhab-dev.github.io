@@ -3,12 +3,20 @@
   "current": null,
   "queue": [
     [
-      "https://www.idnes.cz/zpravy/zahranicni/slovensko-robert-fico-summit-cina-putin-trump-si-tin-pching.A261119_145041_zahranicni_kha",
-      "Žárlivá Evropa bude plakat, ta o míru nemluví. Fico chválí čínský summit"
+      "https://www.idnes.cz/zpravy/domaci/tomas-zdechovsky-evropska-komise-konec-falesnych-uctu-socialni-site.A261119_154047_domaci_sile",
+      "Zakročme proti falešným profilům na sítích, vyzývá Zdechovský Brusel"
     ],
     [
       "https://www.idnes.cz/zpravy/zahranicni/berlin-koalice-ochotnych-eu-valka-ukrajina-rusko.A261119_132137_zahranicni_rtn",
       "Největší summit v Německu za desítky let. V Berlíně jedná koalice ochotných"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/v-rusku-zmrazili-stovky-velkych-statnich-staveb-za-biliony-rublu-pise-server/2904090",
+      "V Rusku zmrazili stovky velkých státních staveb za biliony rublů, píše server"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/slovensko-robert-fico-summit-cina-putin-trump-si-tin-pching.A261119_145041_zahranicni_kha",
+      "Žárlivá Evropa bude plakat, ta o míru nemluví. Fico chválí čínský summit"
     ],
     [
       "https://zpravy.aktualne.cz/domaci/prazsti-zastupitele-zvolili-primatorem-hlavacka-radu-tvori-stan-spolu-a-praha-sobe/r~aaa299a548fbe2f1c412d6df4301af06/",
@@ -75,10 +83,6 @@
       "Dialog o jaderných zbraních a větší produkce ropy, požadují Trump, Si a Putin"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/-cina-rusko-a-usa-vydaly-po-jednani-v-sen-cenu-mirovou-deklaraci/2901941",
-      "Čína, Rusko a USA vydaly po jednání v Šen-Čenu Mírovou deklaraci"
-    ],
-    [
       "https://www.ceskenoviny.cz/zpravy/babis-jmenoval-komisi-pro-vyber-sefa-uohs-kandidatu-je-podle-nej-16/2902732",
       "Babiš jmenoval komisi pro výběr šéfa ÚOHS, kandidátů je podle něj 16"
     ],
@@ -89,14 +93,6 @@
     [
       "https://cnn.iprima.cz/zbavme-svet-jadernych-zbrani-vyzval-cinsky-prezident-527507",
       "Zbavme svět jaderných zbraní, vyzval čínský prezident. Trump mluvil o „jedinečné pozici“"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/prazsti-zastupitele-zvolili-primatora-jeho-namestky-a-dalsi-radni/2903301",
-      "Pražští zastupitelé zvolili primátora, jeho náměstky a další radní"
-    ],
-    [
-      "https://zpravy.aktualne.cz/domaci/senat-povede-milos-vystrcil-zvolen-byl-uz-popate-opet-nemel-protikandidata/r~aaa29e222d90e636b876fbace96c2703/",
-      "Senát povede Miloš Vystrčil, zvolen byl už popáté. Opět neměl protikandidáta"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/brifink-po-jednani-vlady-379747",
@@ -129,20 +125,16 @@
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/kriticka-ruskeho-rezimu-roky-zije-v-cesku-moskva-ji-chce-dostat-do-vezeni-379733",
       "Kritička ruského režimu roky žije v Česku, Moskva ji chce dostat do vězení"
-    ],
-    [
-      "https://www.denik.cz/evropa/ukrajinci-zautocili-na-krymsky-most-i-potreti-byla-na-nem-prerusena-doprava/",
-      "Ukrajinci zaútočili na Krymský most i potřetí. Byl na něm přerušen provoz vlaků"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 33,
+    "initial_pending": 31,
     "completed": [],
     "deferred": [],
-    "remaining": 33
+    "remaining": 31
   },
   "samples_seconds": [
     51.274763,
