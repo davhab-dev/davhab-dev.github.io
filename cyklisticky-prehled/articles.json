@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T05:29:27.566863+00:00",
+  "updated": "2026-11-20T06:54:59.405804+00:00",
   "articles": [
     {
       "title": "TEST: Avona Callis 32 – Když gravel přeroste do nové dimenze",
@@ -528,6 +528,15 @@
       "summary": "",
       "url": "https://mtbs.cz/clanek/sef-treku-burke-otevrene-o-cenach-elektrokolech-i-budoucnosti-cyklistickeho-prumyslu/kategorie/servis",
       "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "Technika",
+      "published": "2026-11-17"
+    },
+    {
+      "title": "Rozhovor: V 17 letech má tři duhové dresy. Ondřej Plic mění triatlonové jistoty za tvrdou konkurenci v XCO",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132110/rozhovor-v-17-letech-ma-tri-duhove-dresy-ondrej-plic-meni-triatlonove-jistoty-za-tvrdou-konkurenci-v-xco.html",
+      "source": "MTBIKER.cz",
       "lang": "CS",
       "category": "Technika",
       "published": "2026-11-17"
@@ -3141,15 +3150,6 @@
       "lang": "EN",
       "category": "Gravel",
       "published": "2026-10-16T11:00:00+00:00"
-    },
-    {
-      "title": "BikeRadar is hiring! Apply to join us as our new videographer and content creator now",
-      "summary": "We’re looking for a new member of the BikeRadar team – could it be you?",
-      "url": "https://www.bikeradar.com/news/bikeradar-videographer-content-creator-job-ad-2026",
-      "source": "BikeRadar",
-      "lang": "EN",
-      "category": "Technika",
-      "published": "2026-10-16T09:15:05+00:00"
     }
   ],
   "source_errors": [
