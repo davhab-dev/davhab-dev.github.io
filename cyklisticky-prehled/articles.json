@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-20T09:28:40.562856+00:00",
+  "updated": "2026-11-20T10:50:04.291320+00:00",
   "articles": [
+    {
+      "title": "You can save up to 32% on Shokz headphones this Black Friday – and the sale is already live",
+      "summary": "Get big savings on the best open-ear and bone-conduction headphones for cycling and running",
+      "url": "https://www.bikeradar.com/news/shokz-headphones-black-friday-2026",
+      "source": "BikeRadar",
+      "lang": "EN",
+      "category": "Technika",
+      "published": "2026-11-20T10:19:12+00:00"
+    },
+    {
+      "title": "ROUVY Black Friday deals 2026: get big smart trainer savings and discounted ROUVY membership",
+      "summary": "Black Friday savings to be had on the Zwift Ride, Wahoo Kickr Core 2 and JetBlack Victory trainers this Black Friday",
+      "url": "https://www.bikeradar.com/advertising-feature/rouvy-2026-black-friday-deals",
+      "source": "BikeRadar",
+      "lang": "EN",
+      "category": "Technika",
+      "published": "2026-11-20T09:00:00+00:00"
+    },
     {
       "title": "I may have found my dream winter MTB kit – but it doesn't come cheap",
       "summary": "The Troy Lee Designs Resist Pro dungarees and jacket are here to make winter riding less painful",
@@ -117,6 +135,15 @@
       "lang": "EN",
       "category": "Závody",
       "published": "2026-11-19T08:00:00+00:00"
+    },
+    {
+      "title": "Lidl-Trek vstupuje do cyklokrosu s vlastním týmem. Thibau Nys ale zůstává věrný otci",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/lidl-trek-vstupuje-do-cyklokrosu-s-vlastnim-tymem-thibau-nys-ale-zustava-verny-otci/kategorie/tymy-a-kluby",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "Závody",
+      "published": "2026-11-19"
     },
     {
       "title": "ROUVY staví tým světových ambicí! Do českého celku přichází pět posil, cílem je olympiáda i medaile z MS",
@@ -537,6 +564,15 @@
       "summary": "",
       "url": "https://mtbs.cz/clanek/sef-treku-burke-otevrene-o-cenach-elektrokolech-i-budoucnosti-cyklistickeho-prumyslu/kategorie/servis",
       "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "Technika",
+      "published": "2026-11-17"
+    },
+    {
+      "title": "Rozhovor: V 17 letech má tři duhové dresy. Ondřej Plic mění triatlonové jistoty za tvrdou konkurenci v XCO",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132110/rozhovor-v-17-letech-ma-tri-duhove-dresy-ondrej-plic-meni-triatlonove-jistoty-za-tvrdou-konkurenci-v-xco.html",
+      "source": "MTBIKER.cz",
       "lang": "CS",
       "category": "Technika",
       "published": "2026-11-17"
@@ -1055,15 +1091,6 @@
       "published": "2026-11-13T08:55:11+00:00"
     },
     {
-      "title": "Titan Forest Patagonia očima Ondřeje Fojtíka: Čtyři etapy na konci světa, kde je výsledek až na druhém místě",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/titan-forest-patagonia-ocima-ondreje-fojtika-ctyri-etapy-na-konci-sveta-kde-je-vysledek-az-na-druhem-miste/kategorie/xcm-ostatni-zavody",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-11-13"
-    },
-    {
       "title": "Novinky od Garminu: Edge 1060 s hlasovým ovládáním a trenažér Tacx Nēra, který se hýbe s vámi",
       "summary": "",
       "url": "https://www.mtbiker.cz/clanky/132120/novinky-od-garminu-edge-1060-s-hlasovym-ovladanim-a-trenazer-tacx-nera-ktery-se-hybe-s-vami.html",
@@ -1079,6 +1106,15 @@
       "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Gravel",
+      "published": "2026-11-13"
+    },
+    {
+      "title": "Titan Forest Patagonia očima Ondřeje Fojtíka: Čtyři etapy na konci světa, kde je výsledek až na druhém místě",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/titan-forest-patagonia-ocima-ondreje-fojtika-ctyri-etapy-na-konci-sveta-kde-je-vysledek-az-na-druhem-miste/kategorie/xcm-ostatni-zavody",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
       "published": "2026-11-13"
     },
     {
@@ -2903,16 +2939,16 @@
       "title": "I’ve met cycling’s greatest designers – forget AI and wind tunnels, it’s people that make the best bikes",
       "summary": "Why all of the biggest and best advancements in cycling have come from the visionary designers and engineers",
       "url": "https://www.bikeradar.com/features/opinion/cyclings-greatest-designers",
-      "source": "BikeRadar",
+      "source": "BikeRadar Gravel",
       "lang": "EN",
-      "category": "Technika",
+      "category": "Gravel",
       "published": "2026-10-24T06:00:00+00:00"
     },
     {
       "title": "Save an extra 10% on cycling kit in the Sigma Sports Warehouse Sale with our special code",
       "summary": "Grab yourself a bargain for Shimano Dura-Ace R9270 Di2, a carbon Trek Domane, carbon wheels and more in Sigma Sports’ latest sale",
       "url": "https://www.bikeradar.com/bikeradar-bargains/sigma-sports-sale",
-      "source": "BikeRadar",
+      "source": "BikeRadar Gravel",
       "lang": "EN",
       "category": "Technika",
       "published": "2026-10-23T14:00:00+00:00"
@@ -3114,42 +3150,6 @@
       "lang": "EN",
       "category": "MTB",
       "published": "2026-10-17T06:00:00+00:00"
-    },
-    {
-      "title": "🚴 Cyklovýlet kolem Bodamského jezera: 270 km, tři státy a jedno jezero, do kterého se bez otužování nikdo moc nehrne",
-      "summary": "Dnes vyrážíme za hranice Česka. Tentokrát si to nenamíříme ani podél Labe, ale vydáme se na jednu z nejslavnějších dálkových cyklotras střední Evropy – okruh kolem Bodamského jezera. Pokud máte rádi kombinaci přírody, hi",
-      "url": "https://cyklocestovatel.cz/kolem-bodamskeho-jezera/",
-      "source": "Cyklocestovatel.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
-      "published": "2026-10-16T20:42:56+00:00"
-    },
-    {
-      "title": "Best mountain bike helmets in 2026: top-rated open-face trail helmets",
-      "summary": "The best helmets for cross-country and trail mountain biking",
-      "url": "https://www.bikeradar.com/advice/buyers-guides/best-mountain-bike-helmets-for-trail-riding",
-      "source": "BikeRadar MTB",
-      "lang": "EN",
-      "category": "MTB",
-      "published": "2026-10-16T15:00:00+00:00"
-    },
-    {
-      "title": "4 things you need to know about iGPSPORT’s new bike computer",
-      "summary": "The new BiNavi Ultra is here to challenge major bike computer brands",
-      "url": "https://www.bikeradar.com/advertising-feature/4-things-you-need-to-know-about-igpsports-new-bike-computer",
-      "source": "BikeRadar Gravel",
-      "lang": "EN",
-      "category": "Gravel",
-      "published": "2026-10-16T14:00:00+00:00"
-    },
-    {
-      "title": "Liv Devote Advanced SL 0 review: new Devote goes all-out for women’s gravel racing – but attention to detail lets it down",
-      "summary": "The third-generation build gets a premium overhaul for performance gravel racing",
-      "url": "https://www.bikeradar.com/reviews/bikes/gravel-bikes/liv-devote-advanced-sl-0-2027",
-      "source": "BikeRadar Gravel",
-      "lang": "EN",
-      "category": "Gravel",
-      "published": "2026-10-16T11:00:00+00:00"
     }
   ],
   "source_errors": [
