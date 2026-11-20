@@ -3,8 +3,20 @@
   "current": null,
   "queue": [
     [
+      "https://zpravy.aktualne.cz/galerie-a-videa/princ-harry-vstoupil-bych-zpet-do-armady-abych-bojoval-proti-rusku/r~aaa2971e4eb8733d87b18307f7a125c6/",
+      "Princ Harry: „Vstoupil bych zpět do armády, abych bojoval proti Rusku“"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/rukojmi-za-17-miliard-snaha-cez-vymanit-se-z-kauzy-diag-human-muze-narazit/r~aaa2992a1610c44bc2ace04bd0717c64/",
+      "Rukojmí za 17 miliard. Snaha ČEZ vymanit se z kauzy Diag Human může narazit"
+    ],
+    [
       "https://ct24.ceskatelevize.cz/clanek/svet/kyjev-celil-dalsim-ruskym-raketam-ukrajina-udajne-zasahla-ruskou-chemicku-379779",
       "Kyjev čelil dalším ruským raketám, Ukrajina údajně zasáhla ruskou chemičku"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/kyjev-celi-utoku-ruskych-raket-urady-hlasi-pozary/2904234",
+      "Kyjev čelí útoku ruských raket, úřady hlásí požáry"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/prezident-pavel-s-manzelkou-pokracuje-v-navsteve-severni-moravy/2904229",
@@ -13,10 +25,6 @@
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/trump-v-zari-nakoupil-akcie-nvidie-v-hodnote-az-265-tisic-dolaru-379777",
       "Trump v září nakoupil akcie Nvidie v hodnotě až 265 tisíc dolarů"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/haiti-policie-zabila-34-clenu-gangu.A261119_215833_zahranicni_sile",
-      "Policie na Haiti zesílila tlak na gangy, chce dobýt klíčovou čtvrť. Zabila 34 zločinců"
     ],
     [
       "https://www.idnes.cz/volby/praha/starostkou-prahy-1-je-podruhe-terezie-radomerska-top-09.A261119_202314_domaci_balu",
@@ -31,20 +39,12 @@
       "Havlíček podporuje prodej letounů Skyfox Ukrajině. Okamura má výhrady"
     ],
     [
-      "https://www.idnes.cz/zpravy/domaci/ministr-jeronym-tejc-pocita-se-zrusenim-27-okresnich-soudu-a-jejich-sloucenim-do-vetsich-celku.A261119_200148_domaci_mul",
-      "Tejc počítá se zrušením skoro 30 okresních soudů. Chce tak ušetřit sto milionů ročně"
-    ],
-    [
       "https://www.idnes.cz/zpravy/zahranicni/berlin-koalice-ochotnych-eu-valka-ukrajina-rusko.A261119_132137_zahranicni_rtn",
       "Koalice ochotných podpoří Ukrajinu i příští rok, řekl Merz. Jaltský formát odmítl"
     ],
     [
       "https://zpravy.aktualne.cz/domaci/tejc-planuje-zrusit-27-okresnich-soudu-vetsina-jejich-pracovist-zustane/r~aaa29856aa3611f2f9a6ee3fd2a05a71/",
       "Tejcova velká justiční reforma: Ministr plánuje zrušit 27 okresních soudů"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/srbsky-parlament-cupic-prozatimni-prezident-vucic-politika.A261119_200014_zahranicni_dtt",
-      "Srbský parlament povede univerzitní profesor Čupić, zastane i roli prezidenta"
     ],
     [
       "https://zpravy.aktualne.cz/domaci/okamura-se-postavil-macinkovi-kvuli-hokeji-a-vytahl-putinova-podporovatele/r~aaa29e8fdbf55bdd22d1e3b2d1224510/",
@@ -87,10 +87,6 @@
       "Prezidenti USA, Číny a Ruska jednali o válkách, bezpečnosti i jaderných zbraních"
     ],
     [
-      "https://zpravy.aktualne.cz/zahranici/nechte-nas-strilet-francouzskym-policistum-dosla-trpelivost/r~aaa29a0919c266291ee95407f2281273/",
-      "Nechte nás střílet! Francouzským policistům došla trpělivost"
-    ],
-    [
       "https://www.denik.cz/evropa/michal-fico-syn-roberta-fica-ucet-banka-prani-penez/",
       "Synovi Fica prý banka zrušila účet, podezírala ho z praní peněz. Otec to popírá"
     ],
@@ -111,10 +107,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 26,
+    "initial_pending": 25,
     "completed": [],
     "deferred": [],
-    "remaining": 26
+    "remaining": 25
   },
   "samples_seconds": [
     51.274763,

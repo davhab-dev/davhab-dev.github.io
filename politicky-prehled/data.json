@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-11-20T04:00:02.436678+00:00",
+  "updated_at": "2026-11-20T05:09:41.111447+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Princ Harry: „Vstoupil bych zpět do armády, abych bojoval proti Rusku“",
+      "summary": "Princ Harry by se v případě potřeby vrátil do britské armády a bojoval proti Rusku. Prohlásil to během překvapivé návštěvy Ukrajiny, kde se setkal se…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-20T05:30:00+01:00",
+      "url": "https://zpravy.aktualne.cz/galerie-a-videa/princ-harry-vstoupil-bych-zpet-do-armady-abych-bojoval-proti-rusku/r~aaa2971e4eb8733d87b18307f7a125c6/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Rukojmí za 17 miliard. Snaha ČEZ vymanit se z kauzy Diag Human může narazit",
+      "summary": "Situace kolem obstaveného majetku ČEZ v Lucembursku se vyostřuje. Podle tvrzení společnosti Diag Human se jejím právníkům podařilo zablokovat další aktiva. ČEZ to popírá. Pokud…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-20T05:30:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/rukojmi-za-17-miliard-snaha-cez-vymanit-se-z-kauzy-diag-human-muze-narazit/r~aaa2992a1610c44bc2ace04bd0717c64/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Kyjev čelil dalším ruským raketám, Ukrajina údajně zasáhla ruskou chemičku",
       "summary": "Ukrajinská metropole Kyjev čelila v noci na pátek dalšímu ruskému raketovému útoku. Starosta města Vitalij Klyčko dosud informoval o zásazích a požárech budov nejméně ve…",
@@ -9,6 +29,16 @@
       "category": "svet",
       "published_at": "2026-11-20T03:18:56+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/kyjev-celil-dalsim-ruskym-raketam-ukrajina-udajne-zasahla-ruskou-chemicku-379779",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Kyjev čelí útoku ruských raket, úřady hlásí požáry",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-20T02:12:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/kyjev-celi-utoku-ruskych-raket-urady-hlasi-pozary/2904234",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -39,8 +69,10 @@
       "category": "svet",
       "published_at": "2026-11-19T21:32:00+00:00",
       "url": "https://www.idnes.cz/zpravy/zahranicni/haiti-policie-zabila-34-clenu-gangu.A261119_215833_zahranicni_sile",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Význam operace v Martissantu spočívá především v kontrole silničního spojení metropole se západem a jihem Haiti. Podle zprávy gangy od roku 2021 průjezd zpoplatňovaly vydíráním, takže bezpečné obnovení trasy by mohlo usnadnit dopravu lidí, paliva i zboží. Samotný hlášený počet zabitých členů gangů však nedokládá trvalé převzetí čtvrti ani obnovení běžného provozu. Rozhodující bude, zda bezpečnostní složky území udrží a ochrání obyvatele před návratem ozbrojených skupin.\n\nNa operacích se podílejí domácí složky, mezinárodní jednotky, salvadorští vojáci i soukromá bezpečnostní agentura. Tato kombinace může posílit kapacity, současně zvyšuje význam jasného velení a odpovědnosti za zásahy. Článek rozlišuje mezinárodní jednotky od salvadorského nasazení se souhlasem haitské vlády, jehož mandát kritizují někteří aktivisté. Podpora části obyvatel sama nenahrazuje kontrolu ochrany civilistů. Dlouhodobý výsledek bude záviset také na obnově policie a veřejných institucí; vojenský úspěch v jedné oblasti ještě neřeší vysídlení ani nefunkční parlament.",
+      "importance_kind": "analysis",
+      "analysis_source": "iDNES.cz",
+      "analysis_url": "https://www.idnes.cz/zpravy/zahranicni/haiti-policie-zabila-34-clenu-gangu.A261119_215833_zahranicni_sile"
     },
     {
       "title": "Starostkou Prahy 1 se opět stala Terezie Radoměřská. Zastupuje širokou koalici stran",
@@ -79,8 +111,10 @@
       "category": "domaci",
       "published_at": "2026-11-19T19:37:00+00:00",
       "url": "https://www.idnes.cz/zpravy/domaci/ministr-jeronym-tejc-pocita-se-zrusenim-27-okresnich-soudu-a-jejich-sloucenim-do-vetsich-celku.A261119_200148_domaci_mul",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Tejcův plán znamená slučování samostatných soudů, nikoli automatické uzavření všech jejich budov. Ve většině dotčených míst mají zůstat pobočky pro základní agendy, ale ministerstvo zatím neoznámilo konkrétní seznam. Občané proto nemohou z počtu 27 rušených soudů určit, kam budou nově dojíždět. První etapa ve velkých městech je zamýšlena od ledna 2028 a regionální změny o rok později; návrh ještě musí projít legislativou.\n\nVětší soudní celky mohou usnadnit specializaci a zastupování soudců, což je důležité například tam, kde dnes specialista na trestní právo zastupuje opatrovnickou agendu. Zrychlení řízení však není zaručeno pouhým organizačním sloučením. Závisí na personálním rozdělení, fungování poboček a bezpečném převodu databází. Odhad úspor přes sto milionů korun ročně je ministrovou projekcí, kterou bude nutné porovnat s náklady přechodu a s dopady na dostupnost justice. Praktickým měřítkem budou délky řízení a dostupnost konkrétních služeb, nikoli jen menší počet vedení soudů.",
+      "importance_kind": "analysis",
+      "analysis_source": "iDNES.cz",
+      "analysis_url": "https://www.idnes.cz/zpravy/domaci/ministr-jeronym-tejc-pocita-se-zrusenim-27-okresnich-soudu-a-jejich-sloucenim-do-vetsich-celku.A261119_200148_domaci_mul"
     },
     {
       "title": "Koalice ochotných podpoří Ukrajinu i příští rok, řekl Merz. Jaltský formát odmítl",
@@ -99,16 +133,6 @@
       "category": "domaci",
       "published_at": "2026-11-19T20:29:00+01:00",
       "url": "https://zpravy.aktualne.cz/domaci/tejc-planuje-zrusit-27-okresnich-soudu-vetsina-jejich-pracovist-zustane/r~aaa29856aa3611f2f9a6ee3fd2a05a71/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Srbský parlament povede univerzitní profesor Čupić, zastane i roli prezidenta",
-      "summary": "Novým předsedou srbského parlamentu se ve čtvrtek stal univerzitní profesor a poslanec Studentské kandidátky Aleksandar Čupić. Ze svého úřadu bude zastávat i funkci prozatímního prezidenta…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-19T19:28:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/srbsky-parlament-cupic-prozatimni-prezident-vucic-politika.A261119_200014_zahranicni_dtt",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -213,16 +237,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Nechte nás střílet! Francouzským policistům došla trpělivost",
-      "summary": "Tentokrát se proti francouzské vládě nebouří studenti ani odboráři, nýbrž samotní policisté, kteří již několik týdnů čelí násilnostem v ulicích. Ve středu 18. listopadu se…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-19T17:13:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/nechte-nas-strilet-francouzskym-policistum-dosla-trpelivost/r~aaa29a0919c266291ee95407f2281273/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Synovi Fica prý banka zrušila účet, podezírala ho z praní peněz. Otec to popírá",
       "summary": "Synovi slovenského premiéra Roberta Fica Michalovi zrušili v roce 2016 v Německu bankovní účet. Podle zjištění portálu investigace.cz k tomu banka přistoupila kvůli podezření z…",
       "source": "Deník",
@@ -263,9 +277,7 @@
       "importance_kind": "pending"
     }
   ],
-  "unavailable_sources": [
-    "TN.cz"
-  ],
+  "unavailable_sources": [],
   "sources": [
     {
       "name": "ČT24",
@@ -283,7 +295,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 18,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -293,8 +305,8 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 20,
-      "selected": 5,
+      "candidates": 21,
+      "selected": 6,
       "free_articles_checked": 8
     },
     {
@@ -303,7 +315,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 11,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -313,7 +325,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -323,9 +335,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
-      "selected": 5,
-      "free_articles_checked": 5
+      "candidates": 8,
+      "selected": 6,
+      "free_articles_checked": 6
     },
     {
       "name": "Deník",
@@ -333,7 +345,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 10,
       "selected": 4,
       "free_articles_checked": 4
     },
@@ -343,9 +355,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
-      "selected": 6,
-      "free_articles_checked": 6
+      "candidates": 16,
+      "selected": 5,
+      "free_articles_checked": 5
     },
     {
       "name": "CNN Prima NEWS",
@@ -353,7 +365,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
+      "candidates": 8,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -373,7 +385,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 16,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -383,7 +395,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -410,10 +422,10 @@
     {
       "name": "TN.cz",
       "site": "https://tn.nova.cz/",
-      "feeds_ok": 0,
+      "feeds_ok": 1,
       "feeds_total": 1,
-      "status": "unavailable",
-      "candidates": 0,
+      "status": "ok",
+      "candidates": 11,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -423,7 +435,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 18,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     }
