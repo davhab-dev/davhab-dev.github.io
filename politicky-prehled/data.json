@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-20T02:55:14.608285+00:00",
+  "updated_at": "2026-11-20T04:00:02.436678+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Kyjev čelil dalším ruským raketám, Ukrajina údajně zasáhla ruskou chemičku",
+      "summary": "Ukrajinská metropole Kyjev čelila v noci na pátek dalšímu ruskému raketovému útoku. Starosta města Vitalij Klyčko dosud informoval o zásazích a požárech budov nejméně ve…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-20T03:18:56+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/kyjev-celil-dalsim-ruskym-raketam-ukrajina-udajne-zasahla-ruskou-chemicku-379779",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Prezident Pavel s manželkou pokračuje v návštěvě severní Moravy",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
@@ -213,16 +223,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Trump označil Putina za svého přítele. Šéf polské diplomacie vyjádřil znepokojení",
-      "summary": "Polský ministr zahraničí Radoslaw Sikorski ve čtvrtek uvedl, že slova amerického prezidenta Donalda Trumpa, který označil ruského vládce Vladimira Putina za svého přítele, vyvolala v…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-19T16:01:14+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/trump-oznacil-putina-za-sveho-pritele-sef-polske-diplomacie-vyjadril-znepokojeni-379765",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Synovi Fica prý banka zrušila účet, podezírala ho z praní peněz. Otec to popírá",
       "summary": "Synovi slovenského premiéra Roberta Fica Michalovi zrušili v roce 2016 v Německu bankovní účet. Podle zjištění portálu investigace.cz k tomu banka přistoupila kvůli podezření z…",
       "source": "Deník",
@@ -263,7 +263,9 @@
       "importance_kind": "pending"
     }
   ],
-  "unavailable_sources": [],
+  "unavailable_sources": [
+    "TN.cz"
+  ],
   "sources": [
     {
       "name": "ČT24",
@@ -281,7 +283,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 18,
+      "candidates": 17,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -301,7 +303,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -343,7 +345,7 @@
       "status": "ok",
       "candidates": 15,
       "selected": 6,
-      "free_articles_checked": 7
+      "free_articles_checked": 6
     },
     {
       "name": "CNN Prima NEWS",
@@ -408,10 +410,10 @@
     {
       "name": "TN.cz",
       "site": "https://tn.nova.cz/",
-      "feeds_ok": 1,
+      "feeds_ok": 0,
       "feeds_total": 1,
-      "status": "ok",
-      "candidates": 10,
+      "status": "unavailable",
+      "candidates": 0,
       "selected": 0,
       "free_articles_checked": 0
     },
