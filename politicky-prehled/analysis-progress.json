@@ -3,16 +3,48 @@
   "current": null,
   "queue": [
     [
-      "https://ct24.ceskatelevize.cz/clanek/svet/evropske-zeme-v-kampanich-uci-obyvatele-jak-pri-krizi-zvladnout-72-hodin-379778",
-      "Evropské země v kampaních učí obyvatele, jak při krizi zvládnout 72 hodin"
+      "https://www.idnes.cz/zpravy/domaci/autoskoly-zaverecne-zkousky-nove-otazky-ministerstvo-dopravy.A261119_140907_domaci_jira",
+      "Ministerstvo představuje změny pro žáky autoškol. Test nemá svádět k biflování"
     ],
     [
       "https://www.idnes.cz/zpravy/zahranicni/ruske-utoky-vyvolaly-poplach-v-polsku.A261120_073601_zahranicni_ijan",
-      "Do Polska dopadl u hranic s Ukrajinou neznámý objekt. Letiště uzavřeli"
+      "Do Polska dopadl neznámý objekt. Střela Ch-101 nebo dron, míní armáda"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/slovensko-otevrelo-zrekonstruovanou-zakladnu-sliac-presune-tam-stihacky-f-16.A261120_083720_zahranicni_tmps",
-      "Slovensko otevřelo zrekonstruovanou základnu Sliač. Přesune tam stíhačky F-16"
+      "https://www.idnes.cz/zpravy/zahranicni/moskva-rjabkov-evropska-trojka-navsteva-bezpecnost-nato-ukrajina.A261120_092739_zahranicni_dtt",
+      "Rusko chystá pozvání pro Francii, Německo a Británii, chce jednat v Moskvě"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/ditetem-na-plny-uvazek-cina-se-potyka-s-nezamestnanosti-mladych-popisuje-sinolozka-379780",
+      "Dítětem na plný úvazek. Čína se potýká s nezaměstnaností mladých, popisuje sinoložka"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/britanie-brexit-eu-andrej-babis-andy-burnham.A261120_091156_zahranicni_aha",
+      "V Británii straší Babišem, brexitáři z něj udělali unijního upíra milionů liber"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/clovek-musi-zatinat-pesti-sef-ods-stravil-noc-v-krytu-behem-utoku-rusu/r~aaa2938417a83aa31546344911d50be5/",
+      "„Člověk musí zatínat pěsti.“ Šéf ODS strávil noc v krytu během útoku Rusů"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/ukrajina-zasahla-za-50-dni-40-ruskych-objektu-ropneho-a-vojenskeho-prumyslu/2904324",
+      "Ukrajina zasáhla za 50 dní 40 ruských objektů ropného a vojenského průmyslu"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/motorista-svoboda-se-odvolal-proti-verdiktu-ze-se-ma-omluvit-dokumentaristce-remundove.A261120_095508_domaci_aoc",
+      "Motorista Svoboda nařkl dokumentaristku z hajlování, proti verdiktu se odvolal"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/nad-polskem-se-zritil-neznamy-objekt-doslo-k-naruseni-vzdusneho-prostoru-379784",
+      "Polský vzdušný prostor byl narušen. Mohlo jít o ruskou střelu nebo dron"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/vniknuti-do-mistnosti-v-zelechovicich-policie-vysetruje-jako-mareni-voleb/2904303",
+      "Vniknutí do místnosti v Želechovicích policie vyšetřuje jako maření voleb"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/evropske-zeme-v-kampanich-uci-obyvatele-jak-pri-krizi-zvladnout-72-hodin-379778",
+      "Evropské země v kampaních učí obyvatele, jak při krizi zvládnout 72 hodin"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/moskva-planuje-pozvat-zastupce-francie-nemecka-a-britanie/2904285",
@@ -31,102 +63,54 @@
       "Poplach v Polsku. Nedaleko hranic s Ukrajinou se zřítil neznámý objekt"
     ],
     [
-      "https://zpravy.aktualne.cz/zahranici/kvuli-ruskym-utokum-na-ukrajinu-vydalo-polsko-vystrahu-v-castech-dvou-regionu/r~aaa298275ee5c9794f6b30c112b6169d/",
-      "Poplach v Polsku. Výbuch u hranic s Ukrajinou nejspíš způsobil zatoulaný dron nebo raketa"
+      "https://www.ceskenoviny.cz/zpravy/v-polsku-se-podle-ministra-asi-zritila-ruska-strela-ch101/2904261",
+      "V Polsku se podle ministra asi zřítila ruská střela Ch-101"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/ukrajinci-opet-zasahli-chemicku-na-zapade-ruska-kyjev-v-noci-celil-raketovemu-utoku.A261120_060432_zahranicni_tmps",
-      "Ukrajinci opět zasáhli chemičku na západě Ruska. Kyjev v noci čelil raketovému útoku"
+      "https://zpravy.aktualne.cz/zahranici/kvuli-ruskym-utokum-na-ukrajinu-vydalo-polsko-vystrahu-v-castech-dvou-regionu/r~aaa298275ee5c9794f6b30c112b6169d/",
+      "Poplach v Polsku. Výbuch u hranic s Ukrajinou mohla způsobit ruská střela nebo dron"
     ],
     [
       "https://zpravy.aktualne.cz/zahranici/lula-slibuje-seniorum-dustojny-zivot-v-brazilii-pro-ne-chce-zridit-ministerstvo/r~aaa290663433a8a2291083f8aa11c610/",
       "Lula slibuje seniorům důstojný život. V Brazílii pro ně chce zřídit ministerstvo"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/brazilsky-prezident-lula-vytvori-ministerstvo-pro-seniory.A261120_063701_zahranicni_tmps",
-      "Brazilský prezident Lula chce ministerstvo pro seniory. Novou vládu zatím nevybral"
-    ],
-    [
       "https://denikn.cz/newsletter/2264269/summit-si-trump-putin-prelomove-vysledky-neprinesl-novym-prazskym-primatorem-se-stal-hlavacek-anthropic-vstoupil-na-burzu-zaznamenal-nejvyssi-vynos-v-historii/",
       "R5M: Summit Si-Trump-Putin přelomové výsledky nepřinesl | Novým pražským primátorem se stal Hlaváček | Anthropic vstoupil na burzu"
     ],
     [
-      "https://zpravy.aktualne.cz/galerie-a-videa/princ-harry-vstoupil-bych-zpet-do-armady-abych-bojoval-proti-rusku/r~aaa2971e4eb8733d87b18307f7a125c6/",
-      "Princ Harry: „Vstoupil bych zpět do armády, abych bojoval proti Rusku“"
-    ],
-    [
-      "https://zpravy.aktualne.cz/domaci/rukojmi-za-17-miliard-snaha-cez-vymanit-se-z-kauzy-diag-human-muze-narazit/r~aaa2992a1610c44bc2ace04bd0717c64/",
-      "ČEZ se ocitl v cizí válce o miliardy. Z Lucemburska přicházejí další nepříjemné zprávy"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/svet/kyjev-celil-dalsim-ruskym-raketam-ukrajina-udajne-zasahla-ruskou-chemicku-379779",
-      "Rusko zacílilo na ukrajinské mosty. Výbuch se ozval i v Polsku"
+      "Rusko zacílilo na ukrajinské mosty, Ukrajina údajně zasáhla ruskou chemičku"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/kyjev-po-balistickem-utoku-hlasi-tri-mrtve-a-tri-zasazene-mosty/2904234",
-      "Kyjev po balistickém útoku hlásí tři mrtvé a tři zasažené mosty"
+      "https://www.ceskenoviny.cz/zpravy/ukrajina-informuje-o-mrtvych-a-ranenych-po-velkem-ruskem-utoku/2904234",
+      "Ukrajina informuje o mrtvých a raněných po velkém ruském útoku"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/prezident-pavel-s-manzelkou-pokracuje-v-navsteve-severni-moravy/2904229",
       "Prezident Pavel s manželkou pokračuje v návštěvě severní Moravy"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/svet/trump-v-zari-nakoupil-akcie-nvidie-v-hodnote-az-265-tisic-dolaru-379777",
-      "Trump v září kupoval akcie firem, které v té době získaly významné federální zakázky"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/domaci/havlicek-podporuje-prodej-letounu-skyfox-ukrajine-okamura-ma-vyhrady-379776",
       "Havlíček podporuje prodej letounů Skyfox Ukrajině. Okamura má výhrady"
     ],
     [
-      "https://zpravy.aktualne.cz/domaci/tejc-planuje-zrusit-27-okresnich-soudu-vetsina-jejich-pracovist-zustane/r~aaa29856aa3611f2f9a6ee3fd2a05a71/",
-      "Tejcova velká justiční reforma: Ministr plánuje zrušit 27 okresních soudů"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/predsedou-srbskeho-parlamentu-se-stal-cupic-bude-i-prozatimnim-prezidentem-379775",
-      "Předsedou srbského parlamentu se stal Čupić, bude i prozatímním prezidentem"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/ministr-tejc-pocita-se-zrusenim-27-okresnich-soudu-pri-justicni-reforme-379774",
-      "Ministr Tejc počítá se zrušením 27 okresních soudů"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/nemecky-prezident-se-pri-navsteve-ceska-setka-s-pavlem-i-babisem/2904166",
-      "Německý prezident se při návštěvě Česka setká s Pavlem i Babišem"
+      "https://www.ceskenoviny.cz/zpravy/ministr-tejc-pocita-se-zrusenim-27-okresnich-soudu-pri-justicni-reforme/2904176",
+      "Ministr Tejc počítá se zrušením 27 okresních soudů při justiční reformě"
     ],
     [
       "https://www.denik.cz/svet/donald-trump-si-tin-pching-vladimir-putin-setkani-svetovy-mir/",
       "Války, bezpečnost, jaderné zbraně i světový mír. O čem mluvili Trump, Putin a Si"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/byvaly-starosta-ase-pripustil-ze-mestu-bude-chybet-pristi-rok-asi-40-milionu-kc-/2903393",
-      "Bývalý starosta Aše připustil, že městu bude chybět příští rok asi 40 milionů Kč"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/praha-ma-nove-vedeni-svobodu-vystridal-v-roli-primatora-hlavacek-/2903301",
-      "Praha má nové vedení, Svobodu vystřídal v roli primátora Hlaváček"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/koalice-ochotnych-v-berline-ukrajinu-ujistila-ze-ji-bude-dal-podporovat-/2901531",
-      "Koalice ochotných v Berlíně Ukrajinu ujistila, že ji bude dál podporovat"
-    ],
-    [
-      "https://www.denik.cz/evropa/michal-fico-syn-roberta-fica-ucet-banka-prani-penez/",
-      "Synovi Fica prý banka zrušila účet, podezírala ho z praní peněz. Otec to popírá"
-    ],
-    [
-      "https://www.denik.cz/svet/jednani-donald-trump-vladimir-putin-si-tin-pching/",
-      "Kdo to je? To je můj přítel! Trump vychválil Putina i Si, co zaznělo na jednání"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 29,
+    "initial_pending": 25,
     "completed": [],
     "deferred": [],
-    "remaining": 29
+    "remaining": 25
   },
   "samples_seconds": [
     51.274763,

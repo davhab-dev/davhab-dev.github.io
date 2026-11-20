@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-11-20T08:24:58.041920+00:00",
+  "updated_at": "2026-11-20T10:14:01.506000+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Ministerstvo představuje změny pro žáky autoškol. Test nemá svádět k biflování",
+      "summary": "Otázky u závěrečných zkoušek v autoškolách čeká obměna. Cílem úprav je podle ministerstva dopravy větší zaměření na praxi a reálné situace v provozu. Novinky na…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-20T10:05:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/autoskoly-zaverecne-zkousky-nove-otazky-ministerstvo-dopravy.A261119_140907_domaci_jira",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Do Polska dopadl neznámý objekt. Střela Ch-101 nebo dron, míní armáda",
+      "summary": "Vzdušný prostor nad jihovýchodem Polska byl v noci narušen. Úřady v Lublinském vojvodství dopoledne potvrdily, že v okrese Bilgoraj byl nalezen dosud neidentifikovaný objekt. Mluvčí…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-20T10:00:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ruske-utoky-vyvolaly-poplach-v-polsku.A261120_073601_zahranicni_ijan",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Rusko chystá pozvání pro Francii, Německo a Británii, chce jednat v Moskvě",
+      "summary": "Moskva se připravuje na možnou návštěvu trojice evropských představitelů, uvedl náměstek ruského ministra zahraničí Sergeje Lavrova Sergej Rjabkov. Rusko podle něj plánuje pozvat zástupce Francie,…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-20T09:55:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/moskva-rjabkov-evropska-trojka-navsteva-bezpecnost-nato-ukrajina.A261120_092739_zahranicni_dtt",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Dítětem na plný úvazek. Čína se potýká s nezaměstnaností mladých, popisuje sinoložka",
+      "summary": "Čínskou společností zmítá několik problémů. Tamní populaci ovlivňuje například nezaměstnanost mladých lidí, kteří si mnohdy i po vystudování vysoké školy nemohou najít práci. Číňané ale…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-20T09:42:35+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/ditetem-na-plny-uvazek-cina-se-potyka-s-nezamestnanosti-mladych-popisuje-sinolozka-379780",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "V Británii straší Babišem, brexitáři z něj udělali unijního upíra milionů liber",
+      "summary": "Velká Británie deset let po referendu o brexitu dělá opatrné krůčky zpět do evropského společenství. Premiér Andy Burnham odchod opakovaně označuje za chybu a v…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-20T09:38:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/britanie-brexit-eu-andrej-babis-andy-burnham.A261120_091156_zahranicni_aha",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "„Člověk musí zatínat pěsti.“ Šéf ODS strávil noc v krytu během útoku Rusů",
+      "summary": "Noc v krytu strávil během návštěvy Kyjeva šéf ODS Martin Kupka. Hlavní město Ukrajiny čelilo v noci na pátek dalšímu masivnímu ruskému útoku, při němž…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-20T10:17:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/clovek-musi-zatinat-pesti-sef-ods-stravil-noc-v-krytu-behem-utoku-rusu/r~aaa2938417a83aa31546344911d50be5/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Ukrajina zasáhla za 50 dní 40 ruských objektů ropného a vojenského průmyslu",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-20T10:14:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/ukrajina-zasahla-za-50-dni-40-ruskych-objektu-ropneho-a-vojenskeho-prumyslu/2904324",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Motorista Svoboda nařkl dokumentaristku z hajlování, proti verdiktu se odvolal",
+      "summary": "Neúspěšný kandidát Motoristů do Sněmovny Jakub Svoboda se odvolal proti verdiktu, podle kterého se má omluvit aktivistce a dokumentaristce Ivoně Remundové za lživé tvrzení na…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-20T09:14:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/motorista-svoboda-se-odvolal-proti-verdiktu-ze-se-ma-omluvit-dokumentaristce-remundove.A261120_095508_domaci_aoc",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Polský vzdušný prostor byl narušen. Mohlo jít o ruskou střelu nebo dron",
+      "summary": "Vzdušný prostor na jihovýchodě Polska byl v noci na pátek narušen, řekli polští představitelé. Mohla se tam zřítit ruská střela s plochou dráhou letu Ch-101…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-20T09:05:46+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/nad-polskem-se-zritil-neznamy-objekt-doslo-k-naruseni-vzdusneho-prostoru-379784",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Vniknutí do místnosti v Želechovicích policie vyšetřuje jako maření voleb",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-20T09:42:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/vniknuti-do-mistnosti-v-zelechovicich-policie-vysetruje-jako-mareni-voleb/2904303",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Evropské země v kampaních učí obyvatele, jak při krizi zvládnout 72 hodin",
       "summary": "Kampaně v mnoha evropských zemích mají naučit obyvatele 72 hodinám soběstačnosti – proto, aby se záchranné složky mohly v případě katastrofy soustředit na ty nejzranitelnější.…",
@@ -9,26 +109,6 @@
       "category": "svet",
       "published_at": "2026-11-20T08:24:47+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/evropske-zeme-v-kampanich-uci-obyvatele-jak-pri-krizi-zvladnout-72-hodin-379778",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Do Polska dopadl u hranic s Ukrajinou neznámý objekt. Letiště uzavřeli",
-      "summary": "Vzdušný prostor nad jihovýchodem Polska byl v noci narušen, oznámili polští představitelé. Úřady v Lublinském vojvodství dopoledne potvrdily, že v okrese Bilgoraj byl nalezen dosud…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-20T08:18:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/ruske-utoky-vyvolaly-poplach-v-polsku.A261120_073601_zahranicni_ijan",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Slovensko otevřelo zrekonstruovanou základnu Sliač. Přesune tam stíhačky F-16",
-      "summary": "Slovensko ve čtvrtek otevřelo zrekonstruovanou leteckou základnu Sliač. Armáda tam armáda v příštích měsících přesune své stíhací letectvo. Prezident Peter Pellegrini to řekl v proslovu…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-20T08:11:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/slovensko-otevrelo-zrekonstruovanou-zakladnu-sliac-presune-tam-stihacky-f-16.A261120_083720_zahranicni_tmps",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -73,22 +153,22 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Poplach v Polsku. Výbuch u hranic s Ukrajinou nejspíš způsobil zatoulaný dron nebo raketa",
-      "summary": "Vzdušný prostor nad jihovýchodem Polska byl v noci na pátek narušen, oznámili polští představitelé. Úřady v Lublinském vojvodství dopoledne potvrdily, že v okrese Bilgoraj byl…",
-      "source": "Aktuálně.cz",
+      "title": "V Polsku se podle ministra asi zřítila ruská střela Ch-101",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
       "category": "svet",
-      "published_at": "2026-11-20T07:39:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/kvuli-ruskym-utokum-na-ukrajinu-vydalo-polsko-vystrahu-v-castech-dvou-regionu/r~aaa298275ee5c9794f6b30c112b6169d/",
+      "published_at": "2026-11-20T07:44:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/v-polsku-se-podle-ministra-asi-zritila-ruska-strela-ch101/2904261",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
     {
-      "title": "Ukrajinci opět zasáhli chemičku na západě Ruska. Kyjev v noci čelil raketovému útoku",
-      "summary": "Kyjev v noci na pátek čelil dalšímu ruskému raketovému útoku. Podle ranních informací tamních úřadů si údery vyžádaly tři mrtvé a zasáhly tři mosty přes…",
-      "source": "iDNES.cz",
+      "title": "Poplach v Polsku. Výbuch u hranic s Ukrajinou mohla způsobit ruská střela nebo dron",
+      "summary": "V Lublinském vojvodství na jihovýchodě Polska se mohla zřítit ruská střela s plochou dráhou letu Ch-101 nebo dron s proudovým motorem. Podle agentury PAP o…",
+      "source": "Aktuálně.cz",
       "category": "svet",
-      "published_at": "2026-11-20T06:29:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajinci-opet-zasahli-chemicku-na-zapade-ruska-kyjev-v-noci-celil-raketovemu-utoku.A261120_060432_zahranicni_tmps",
+      "published_at": "2026-11-20T07:39:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/kvuli-ruskym-utokum-na-ukrajinu-vydalo-polsko-vystrahu-v-castech-dvou-regionu/r~aaa298275ee5c9794f6b30c112b6169d/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -103,16 +183,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Brazilský prezident Lula chce ministerstvo pro seniory. Novou vládu zatím nevybral",
-      "summary": "Brazilský prezident Luiz Inácio Lula da Silva ve čtvrtek oznámil, že vytvoří ministerstvo pro záležitosti seniorů, informovala agentura EFE. Podle ní se tak počet ministerstev…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-20T06:03:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/brazilsky-prezident-lula-vytvori-ministerstvo-pro-seniory.A261120_063701_zahranicni_tmps",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "R5M: Summit Si-Trump-Putin přelomové výsledky nepřinesl | Novým pražským primátorem se stal Hlaváček | Anthropic vstoupil na burzu",
       "summary": "",
       "source": "Deník N",
@@ -123,27 +193,7 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Princ Harry: „Vstoupil bych zpět do armády, abych bojoval proti Rusku“",
-      "summary": "Princ Harry by se v případě potřeby vrátil do britské armády a bojoval proti Rusku. Prohlásil to během překvapivé návštěvy Ukrajiny, kde se setkal se…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-20T05:30:00+01:00",
-      "url": "https://zpravy.aktualne.cz/galerie-a-videa/princ-harry-vstoupil-bych-zpet-do-armady-abych-bojoval-proti-rusku/r~aaa2971e4eb8733d87b18307f7a125c6/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "ČEZ se ocitl v cizí válce o miliardy. Z Lucemburska přicházejí další nepříjemné zprávy",
-      "summary": "Situace kolem obstaveného majetku ČEZ v Lucembursku se vyostřuje. Podle tvrzení společnosti Diag Human se jejím právníkům podařilo zablokovat další aktiva. ČEZ to popírá. Pokud…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-20T05:30:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/rukojmi-za-17-miliard-snaha-cez-vymanit-se-z-kauzy-diag-human-muze-narazit/r~aaa2992a1610c44bc2ace04bd0717c64/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Rusko zacílilo na ukrajinské mosty. Výbuch se ozval i v Polsku",
+      "title": "Rusko zacílilo na ukrajinské mosty, Ukrajina údajně zasáhla ruskou chemičku",
       "summary": "Kyjev v noci na pátek čelil dalšímu útoku ruských balistických střel, který si podle tamních úřadů vyžádal tři mrtvé. Zasaženy byly tři mosty přes řeku…",
       "source": "ČT24",
       "category": "svet",
@@ -153,12 +203,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Kyjev po balistickém útoku hlásí tři mrtvé a tři zasažené mosty",
+      "title": "Ukrajina informuje o mrtvých a raněných po velkém ruském útoku",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
       "category": "svet",
       "published_at": "2026-11-20T02:12:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/kyjev-po-balistickem-utoku-hlasi-tri-mrtve-a-tri-zasazene-mosty/2904234",
+      "url": "https://www.ceskenoviny.cz/zpravy/ukrajina-informuje-o-mrtvych-a-ranenych-po-velkem-ruskem-utoku/2904234",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -173,16 +223,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Trump v září kupoval akcie firem, které v té době získaly významné federální zakázky",
-      "summary": "Investiční účty amerického prezidenta Donalda Trumpa v září nakoupily akcie společností Nvidia, Palantir či SpaceX. K nákupům došlo podle webu CNBC v době, kdy společnosti…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-19T22:14:29+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/trump-v-zari-nakoupil-akcie-nvidie-v-hodnote-az-265-tisic-dolaru-379777",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Havlíček podporuje prodej letounů Skyfox Ukrajině. Okamura má výhrady",
       "summary": "Ukrajina má zájem o šestnáct letounů L-39 Skyfox české výroby, obchod podpořil ministr průmyslu Karel Havlíček (ANO) na návštěvě Kyjeva. Výhrady má předseda vládního hnutí…",
       "source": "ČT24",
@@ -193,42 +233,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Tejcova velká justiční reforma: Ministr plánuje zrušit 27 okresních soudů",
-      "summary": "Ministr spravedlnosti Jeroným Tejc (za ANO) počítá se zrušením 27 okresních soudů a jejich sloučením do větších celků. Po čtvrtečním jednání ministra s předsedy krajských…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-19T20:29:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/tejc-planuje-zrusit-27-okresnich-soudu-vetsina-jejich-pracovist-zustane/r~aaa29856aa3611f2f9a6ee3fd2a05a71/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Předsedou srbského parlamentu se stal Čupić, bude i prozatímním prezidentem",
-      "summary": "Novým předsedou srbského parlamentu se stal univerzitní profesor a poslanec Studentské kandidátky Aleksandar Čupić. Ze svého úřadu bude zastávat i funkci prozatímního prezidenta země, protože…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-19T19:12:30+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/predsedou-srbskeho-parlamentu-se-stal-cupic-bude-i-prozatimnim-prezidentem-379775",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Ministr Tejc počítá se zrušením 27 okresních soudů",
-      "summary": "Ministr spravedlnosti Jeroným Tejc (za ANO) počítá se zrušením 27 okresních soudů a jejich sloučením do větších celků. Po čtvrtečním jednání ministra s předsedy krajských…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-19T19:07:12+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/ministr-tejc-pocita-se-zrusenim-27-okresnich-soudu-pri-justicni-reforme-379774",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Německý prezident se při návštěvě Česka setká s Pavlem i Babišem",
+      "title": "Ministr Tejc počítá se zrušením 27 okresních soudů při justiční reformě",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-19T19:26:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/nemecky-prezident-se-pri-navsteve-ceska-setka-s-pavlem-i-babisem/2904166",
+      "category": "domaci",
+      "published_at": "2026-11-19T19:56:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/ministr-tejc-pocita-se-zrusenim-27-okresnich-soudu-pri-justicni-reforme/2904176",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -241,56 +251,6 @@
       "url": "https://www.denik.cz/svet/donald-trump-si-tin-pching-vladimir-putin-setkani-svetovy-mir/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
-    },
-    {
-      "title": "Bývalý starosta Aše připustil, že městu bude chybět příští rok asi 40 milionů Kč",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-19T17:57:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/byvaly-starosta-ase-pripustil-ze-mestu-bude-chybet-pristi-rok-asi-40-milionu-kc-/2903393",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Praha má nové vedení, Svobodu vystřídal v roli primátora Hlaváček",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-19T17:57:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/praha-ma-nove-vedeni-svobodu-vystridal-v-roli-primatora-hlavacek-/2903301",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Koalice ochotných v Berlíně Ukrajinu ujistila, že ji bude dál podporovat",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-19T17:56:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/koalice-ochotnych-v-berline-ukrajinu-ujistila-ze-ji-bude-dal-podporovat-/2901531",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Synovi Fica prý banka zrušila účet, podezírala ho z praní peněz. Otec to popírá",
-      "summary": "Synovi slovenského premiéra Roberta Fica Michalovi zrušili v roce 2016 v Německu bankovní účet. Podle zjištění portálu investigace.cz k tomu banka přistoupila kvůli podezření z…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-19T15:00:00+01:00",
-      "url": "https://www.denik.cz/evropa/michal-fico-syn-roberta-fica-ucet-banka-prani-penez/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Kdo to je? To je můj přítel! Trump vychválil Putina i Si, co zaznělo na jednání",
-      "summary": "Americký prezident Donald Trump před historickým summitem s ruským a čínským vůdcem v Šen-čenu vyzdvihoval své osobní vztahy s oběma autoritářskými politiky. Prezidenty Vladimira Putina…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-19T14:30:00+01:00",
-      "url": "https://www.denik.cz/svet/jednani-donald-trump-vladimir-putin-si-tin-pching/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
     }
   ],
   "unavailable_sources": [],
@@ -301,9 +261,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
-      "selected": 6,
-      "free_articles_checked": 7
+      "candidates": 14,
+      "selected": 5,
+      "free_articles_checked": 6
     },
     {
       "name": "iROZHLAS",
@@ -311,7 +271,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 17,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -321,7 +281,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 21,
+      "candidates": 20,
       "selected": 7,
       "free_articles_checked": 8
     },
@@ -331,7 +291,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 11,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -341,7 +301,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -351,9 +311,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 6,
-      "selected": 6,
-      "free_articles_checked": 6
+      "candidates": 7,
+      "selected": 4,
+      "free_articles_checked": 4
     },
     {
       "name": "Deník",
@@ -362,8 +322,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 11,
-      "selected": 4,
-      "free_articles_checked": 4
+      "selected": 2,
+      "free_articles_checked": 2
     },
     {
       "name": "iDNES.cz",
@@ -371,9 +331,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
-      "selected": 4,
-      "free_articles_checked": 4
+      "candidates": 15,
+      "selected": 5,
+      "free_articles_checked": 5
     },
     {
       "name": "CNN Prima NEWS",
@@ -381,7 +341,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
+      "candidates": 6,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -391,7 +351,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 5,
+      "candidates": 6,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -401,7 +361,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -411,7 +371,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 9,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -421,7 +381,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 5,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -451,7 +411,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     }
