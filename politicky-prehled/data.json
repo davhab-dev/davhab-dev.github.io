@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-11-20T05:09:41.111447+00:00",
+  "updated_at": "2026-11-20T06:18:06.572966+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Lula slibuje seniorům důstojný život. V Brazílii pro ně chce zřídit ministerstvo",
+      "summary": "Brazilský prezident c Lula da Silva ve čtvrtek oznámil, že vytvoří ministerstvo pro záležitosti seniorů, informovala agentura EFE. Podle ní se tak počet ministerstev federální…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-20T07:07:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/lula-slibuje-seniorum-dustojny-zivot-v-brazilii-pro-ne-chce-zridit-ministerstvo/r~aaa290663433a8a2291083f8aa11c610/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Brazilský prezident Lula chce ministerstvo pro seniory. Novou vládu zatím nevybral",
+      "summary": "Brazilský prezident Luiz Inácio Lula da Silva ve čtvrtek oznámil, že vytvoří ministerstvo pro záležitosti seniorů, informovala agentura EFE. Podle ní se tak počet ministerstev…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-20T06:03:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/brazilsky-prezident-lula-vytvori-ministerstvo-pro-seniory.A261120_063701_zahranicni_tmps",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "R5M: Summit Si-Trump-Putin přelomové výsledky nepřinesl | Novým pražským primátorem se stal Hlaváček | Anthropic vstoupil na burzu",
+      "summary": "",
+      "source": "Deník N",
+      "category": "domaci",
+      "published_at": "2026-11-20T06:01:18+00:00",
+      "url": "https://denikn.cz/newsletter/2264269/summit-si-trump-putin-prelomove-vysledky-neprinesl-novym-prazskym-primatorem-se-stal-hlavacek-anthropic-vstoupil-na-burzu-zaznamenal-nejvyssi-vynos-v-historii/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Ukrajinci opět zasáhli chemičku na západě Ruska. Kyjev v noci čelil raketovému útoku",
+      "summary": "Kyjev v noci na pátek čelil dalšímu ruskému raketovému útoku. Starosta města Vitalij Kličko dosud informoval o zásazích a požárech budov nejméně ve třech čtvrtích,…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-20T05:39:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajinci-opet-zasahli-chemicku-na-zapade-ruska-kyjev-v-noci-celil-raketovemu-utoku.A261120_060432_zahranicni_tmps",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Princ Harry: „Vstoupil bych zpět do armády, abych bojoval proti Rusku“",
       "summary": "Princ Harry by se v případě potřeby vrátil do britské armády a bojoval proti Rusku. Prohlásil to během překvapivé návštěvy Ukrajiny, kde se setkal se…",
@@ -33,12 +73,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Kyjev čelí útoku ruských raket, úřady hlásí požáry",
+      "title": "Kyjev po balistickém útoku hlásí tři mrtvé a tři zasažené mosty",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
       "category": "svet",
       "published_at": "2026-11-20T02:12:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/kyjev-celi-utoku-ruskych-raket-urady-hlasi-pozary/2904234",
+      "url": "https://www.ceskenoviny.cz/zpravy/kyjev-po-balistickem-utoku-hlasi-tri-mrtve-a-tri-zasazene-mosty/2904234",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -105,28 +145,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Tejc počítá se zrušením skoro 30 okresních soudů. Chce tak ušetřit sto milionů ročně",
-      "summary": "Ministr spravedlnosti Jeroným Tejc (za ANO) počítá se zrušením 27 okresních soudů a jejich sloučením do větších celků. Po dnešním jednání ministra s předsedy krajských…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-19T19:37:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/ministr-jeronym-tejc-pocita-se-zrusenim-27-okresnich-soudu-a-jejich-sloucenim-do-vetsich-celku.A261119_200148_domaci_mul",
-      "importance": "Tejcův plán znamená slučování samostatných soudů, nikoli automatické uzavření všech jejich budov. Ve většině dotčených míst mají zůstat pobočky pro základní agendy, ale ministerstvo zatím neoznámilo konkrétní seznam. Občané proto nemohou z počtu 27 rušených soudů určit, kam budou nově dojíždět. První etapa ve velkých městech je zamýšlena od ledna 2028 a regionální změny o rok později; návrh ještě musí projít legislativou.\n\nVětší soudní celky mohou usnadnit specializaci a zastupování soudců, což je důležité například tam, kde dnes specialista na trestní právo zastupuje opatrovnickou agendu. Zrychlení řízení však není zaručeno pouhým organizačním sloučením. Závisí na personálním rozdělení, fungování poboček a bezpečném převodu databází. Odhad úspor přes sto milionů korun ročně je ministrovou projekcí, kterou bude nutné porovnat s náklady přechodu a s dopady na dostupnost justice. Praktickým měřítkem budou délky řízení a dostupnost konkrétních služeb, nikoli jen menší počet vedení soudů.",
-      "importance_kind": "analysis",
-      "analysis_source": "iDNES.cz",
-      "analysis_url": "https://www.idnes.cz/zpravy/domaci/ministr-jeronym-tejc-pocita-se-zrusenim-27-okresnich-soudu-a-jejich-sloucenim-do-vetsich-celku.A261119_200148_domaci_mul"
-    },
-    {
-      "title": "Koalice ochotných podpoří Ukrajinu i příští rok, řekl Merz. Jaltský formát odmítl",
-      "summary": "Koalice ochotných bude Ukrajinu podporovat i příští rok. Po jednání jejích členů v Berlíně to uvedl německý kancléř Friedrich Merz. Vyzval ruského lídra Vladimira Putina…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-19T19:33:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/berlin-koalice-ochotnych-eu-valka-ukrajina-rusko.A261119_132137_zahranicni_rtn",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Tejcova velká justiční reforma: Ministr plánuje zrušit 27 okresních soudů",
       "summary": "Ministr spravedlnosti Jeroným Tejc (za ANO) počítá se zrušením 27 okresních soudů a jejich sloučením do větších celků. Po čtvrtečním jednání ministra s předsedy krajských…",
       "source": "Aktuálně.cz",
@@ -157,22 +175,22 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Ministr Tejc počítá se zrušením 27 okresních soudů při justiční reformě",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
+      "title": "Ministr Tejc počítá se zrušením 27 okresních soudů",
+      "summary": "Ministr spravedlnosti Jeroným Tejc (za ANO) počítá se zrušením 27 okresních soudů a jejich sloučením do větších celků. Po čtvrtečním jednání ministra s předsedy krajských…",
+      "source": "ČT24",
       "category": "domaci",
-      "published_at": "2026-11-19T19:56:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/ministr-tejc-pocita-se-zrusenim-27-okresnich-soudu-pri-justicni-reforme/2904176",
+      "published_at": "2026-11-19T19:07:12+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/ministr-tejc-pocita-se-zrusenim-27-okresnich-soudu-pri-justicni-reforme-379774",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
     {
-      "title": "Německý prezident Steinmeier navštíví Česko, setká se s Pavlem i Babišem",
-      "summary": "Německý prezident Frank-Walter Steinmeier se při prosincové návštěvě Česka setká s prezidentem Petrem Pavlem i premiérem Andrejem Babišem. Vyplývá z kalendáře plánovaných akcí na webu…",
-      "source": "Aktuálně.cz",
+      "title": "Německý prezident se při návštěvě Česka setká s Pavlem i Babišem",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
       "category": "svet",
-      "published_at": "2026-11-19T19:37:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/nemecky-prezident-steinmeier-navstivi-cesko-setka-se-s-pavlem-i-babisem/r~aaa29d19c77e388f9a66c7f28a0230f6/",
+      "published_at": "2026-11-19T19:26:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/nemecky-prezident-se-pri-navsteve-ceska-setka-s-pavlem-i-babisem/2904166",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -257,16 +275,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Třaskavý pakt. Putin, Si a Trump udeřili na Haag a dohodli se na imunitě",
-      "summary": "Čína, Rusko a Spojené státy vydaly společné prohlášení nazvané Mírová deklarace. Stalo se tak po jednání prezidentů Si Ťin-pchinga, Vladimira Putina a Donalda Trumpa v…",
-      "source": "CNN Prima NEWS",
-      "category": "svet",
-      "published_at": "2026-11-19T12:51:42+01:00",
-      "url": "https://cnn.iprima.cz/rusko-cina-a-usa-vydaly-po-jednani-mirovou-deklaraci-jake-jsou-zasadni-body-527518",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Rusové zveřejnili žebříček nepřátelských zemí. Česko je na šestém místě",
       "summary": "Ruský portál Vzgljad zveřejnil aktualizovaný seznam nepřátelských vlád. Česko v říjnovém žebříčku obsadilo šesté místo, stejně jako v září. O tuto pozici se dělí s…",
       "source": "Deník",
@@ -286,8 +294,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 13,
-      "selected": 5,
-      "free_articles_checked": 8
+      "selected": 6,
+      "free_articles_checked": 7
     },
     {
       "name": "iROZHLAS",
@@ -295,7 +303,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 18,
+      "candidates": 17,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -305,7 +313,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 21,
+      "candidates": 20,
       "selected": 6,
       "free_articles_checked": 8
     },
@@ -315,7 +323,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -325,7 +333,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 16,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -335,7 +343,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 6,
       "selected": 6,
       "free_articles_checked": 6
     },
@@ -345,7 +353,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 11,
       "selected": 4,
       "free_articles_checked": 4
     },
@@ -355,7 +363,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 17,
       "selected": 5,
       "free_articles_checked": 5
     },
@@ -365,9 +373,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
-      "selected": 1,
-      "free_articles_checked": 1
+      "candidates": 6,
+      "selected": 0,
+      "free_articles_checked": 0
     },
     {
       "name": "E15",
@@ -396,8 +404,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 12,
-      "selected": 0,
-      "free_articles_checked": 0
+      "selected": 1,
+      "free_articles_checked": 1
     },
     {
       "name": "Respekt",

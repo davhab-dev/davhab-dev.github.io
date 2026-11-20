@@ -3,6 +3,22 @@
   "current": null,
   "queue": [
     [
+      "https://zpravy.aktualne.cz/zahranici/lula-slibuje-seniorum-dustojny-zivot-v-brazilii-pro-ne-chce-zridit-ministerstvo/r~aaa290663433a8a2291083f8aa11c610/",
+      "Lula slibuje seniorům důstojný život. V Brazílii pro ně chce zřídit ministerstvo"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/brazilsky-prezident-lula-vytvori-ministerstvo-pro-seniory.A261120_063701_zahranicni_tmps",
+      "Brazilský prezident Lula chce ministerstvo pro seniory. Novou vládu zatím nevybral"
+    ],
+    [
+      "https://denikn.cz/newsletter/2264269/summit-si-trump-putin-prelomove-vysledky-neprinesl-novym-prazskym-primatorem-se-stal-hlavacek-anthropic-vstoupil-na-burzu-zaznamenal-nejvyssi-vynos-v-historii/",
+      "R5M: Summit Si-Trump-Putin přelomové výsledky nepřinesl | Novým pražským primátorem se stal Hlaváček | Anthropic vstoupil na burzu"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/ukrajinci-opet-zasahli-chemicku-na-zapade-ruska-kyjev-v-noci-celil-raketovemu-utoku.A261120_060432_zahranicni_tmps",
+      "Ukrajinci opět zasáhli chemičku na západě Ruska. Kyjev v noci čelil raketovému útoku"
+    ],
+    [
       "https://zpravy.aktualne.cz/galerie-a-videa/princ-harry-vstoupil-bych-zpet-do-armady-abych-bojoval-proti-rusku/r~aaa2971e4eb8733d87b18307f7a125c6/",
       "Princ Harry: „Vstoupil bych zpět do armády, abych bojoval proti Rusku“"
     ],
@@ -15,8 +31,8 @@
       "Kyjev čelil dalším ruským raketám, Ukrajina údajně zasáhla ruskou chemičku"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/kyjev-celi-utoku-ruskych-raket-urady-hlasi-pozary/2904234",
-      "Kyjev čelí útoku ruských raket, úřady hlásí požáry"
+      "https://www.ceskenoviny.cz/zpravy/kyjev-po-balistickem-utoku-hlasi-tri-mrtve-a-tri-zasazene-mosty/2904234",
+      "Kyjev po balistickém útoku hlásí tři mrtvé a tři zasažené mosty"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/prezident-pavel-s-manzelkou-pokracuje-v-navsteve-severni-moravy/2904229",
@@ -39,10 +55,6 @@
       "Havlíček podporuje prodej letounů Skyfox Ukrajině. Okamura má výhrady"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/berlin-koalice-ochotnych-eu-valka-ukrajina-rusko.A261119_132137_zahranicni_rtn",
-      "Koalice ochotných podpoří Ukrajinu i příští rok, řekl Merz. Jaltský formát odmítl"
-    ],
-    [
       "https://zpravy.aktualne.cz/domaci/tejc-planuje-zrusit-27-okresnich-soudu-vetsina-jejich-pracovist-zustane/r~aaa29856aa3611f2f9a6ee3fd2a05a71/",
       "Tejcova velká justiční reforma: Ministr plánuje zrušit 27 okresních soudů"
     ],
@@ -55,12 +67,12 @@
       "Předsedou srbského parlamentu se stal Čupić, bude i prozatímním prezidentem"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/ministr-tejc-pocita-se-zrusenim-27-okresnich-soudu-pri-justicni-reforme/2904176",
-      "Ministr Tejc počítá se zrušením 27 okresních soudů při justiční reformě"
+      "https://ct24.ceskatelevize.cz/clanek/domaci/ministr-tejc-pocita-se-zrusenim-27-okresnich-soudu-pri-justicni-reforme-379774",
+      "Ministr Tejc počítá se zrušením 27 okresních soudů"
     ],
     [
-      "https://zpravy.aktualne.cz/zahranici/nemecky-prezident-steinmeier-navstivi-cesko-setka-se-s-pavlem-i-babisem/r~aaa29d19c77e388f9a66c7f28a0230f6/",
-      "Německý prezident Steinmeier navštíví Česko, setká se s Pavlem i Babišem"
+      "https://www.ceskenoviny.cz/zpravy/nemecky-prezident-se-pri-navsteve-ceska-setka-s-pavlem-i-babisem/2904166",
+      "Německý prezident se při návštěvě Česka setká s Pavlem i Babišem"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/nejsem-maga-musk-se-distancoval-od-trumpova-hnuti-379773",
@@ -95,10 +107,6 @@
       "Kdo to je? To je můj přítel! Trump vychválil Putina i Si, co zaznělo na jednání"
     ],
     [
-      "https://cnn.iprima.cz/rusko-cina-a-usa-vydaly-po-jednani-mirovou-deklaraci-jake-jsou-zasadni-body-527518",
-      "Třaskavý pakt. Putin, Si a Trump udeřili na Haag a dohodli se na imunitě"
-    ],
-    [
       "https://www.denik.cz/evropa/rusko-seznam-nepratelskych-zemi/",
       "Rusové zveřejnili žebříček nepřátelských zemí. Česko je na šestém místě"
     ]
@@ -107,10 +115,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 25,
+    "initial_pending": 27,
     "completed": [],
     "deferred": [],
-    "remaining": 25
+    "remaining": 27
   },
   "samples_seconds": [
     51.274763,
