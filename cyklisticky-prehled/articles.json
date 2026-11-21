@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-21T16:31:36.179321+00:00",
+  "updated": "2026-11-21T21:58:20.395901+00:00",
   "articles": [
+    {
+      "title": "'It has a star next to it on my calendar' - Cameron Mason is first rider announced for Glasgow Cyclo-cross World Cup",
+      "summary": "'It's nice to feel competitive again' says Scottish rider after taking third at HG Cross Lokeren",
+      "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/it-has-a-star-next-to-it-on-my-calendar-cameron-mason-is-first-rider-announced-for-glasgow-cyclo-cross-world-cup/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-21T18:24:15+00:00"
+    },
+    {
+      "title": "Tour Down Under adds Australians Chris Harper and Michael Storer to 2027 lineup",
+      "summary": "Pinarello Q36.5 makes its race debut with South Australian Harper, while Tudor returns with Storer for WorldTour opener",
+      "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/tour-down-under-adds-australian-chris-harper-and-michael-storer-to-2027-lineup/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-21T17:28:08+00:00"
+    },
     {
       "title": "HG Cross Lokeren: Gerben Kuypers times his move perfectly to win Rapencross",
       "summary": "Joran Wyseure is second and Cameron Mason third in punchy technical course",
@@ -71,6 +89,24 @@
       "source": "MTBS.cz",
       "lang": "CS",
       "category": "Gravel",
+      "published": "2026-11-21"
+    },
+    {
+      "title": "Paříž–Roubaix, Tour de France a mistrovství světa budou pro Pogačara v příští sezóně nejdůležitější",
+      "summary": "",
+      "url": "https://www.roadcycling.cz/clanek/pariz-roubaix-tour-de-france-a-mistrovstvi-sveta-budou-pro-pogacara-v-pristi-sezone-nejdulezitejsi",
+      "source": "RoadCycling.cz",
+      "lang": "CS",
+      "category": "Závody",
+      "published": "2026-11-21"
+    },
+    {
+      "title": "Van Eetvelt se chce po přestupu do NSN zaměřit na kratší etapové závody. Z příchodu Rogliče má radost",
+      "summary": "",
+      "url": "https://www.roadcycling.cz/clanek/van-eetvelt-se-chce-po-prestupu-do-nsn-zamerit-na-kratsi-etapove-zavody-z-prichodu-roglice-ma-radost",
+      "source": "RoadCycling.cz",
+      "lang": "CS",
+      "category": "Závody",
       "published": "2026-11-21"
     },
     {
@@ -986,24 +1022,6 @@
       "title": "Nečekaný přestup olympijské šampionky! Dygert se vrací tam, kde všechno začalo, a sní o zlatu v Los Angeles",
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/necekany-prestup-olympijske-sampionky-dygert-se-vraci-tam-kde-vsechno-zacalo-a-sni-o-zlatu-v-los-angeles",
-      "source": "RoadCycling.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": "2026-11-16"
-    },
-    {
-      "title": "RoadCast #17 - S Dominikou Wlodarczyk o nekonečných pádech a cestě mezi nejlepší závodnice světa",
-      "summary": "",
-      "url": "https://www.roadcycling.cz/clanek/roadcast-17-s-dominikou-wlodarczyk-o-nekonecnych-padech-a-ceste-mezi-nejlepsi-zavodnice-sveta",
-      "source": "RoadCycling.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": "2026-11-16"
-    },
-    {
-      "title": "Jak v zimě trénuje mistr světa? Kwiatkowski v Praze odhalil svou přípravu a prozradil recept na motivaci",
-      "summary": "",
-      "url": "https://www.roadcycling.cz/clanek/jak-v-zime-trenuje-mistr-sveta-kwiatkowski-v-praze-odhalil-svou-pripravu-a-prozradil-recept-na-motivaci",
       "source": "RoadCycling.cz",
       "lang": "CS",
       "category": "Závody",
@@ -2522,21 +2540,21 @@
       "published": "2026-11-05T15:00:38+00:00"
     },
     {
-      "title": "New 3T Racemax+ WPNT adds tyre clearance and drops the price by up to €1,000",
-      "summary": "A wider size range and lower price for 3T’s updated aero gravel race bike",
-      "url": "https://www.bikeradar.com/news/3t-racemax-wpnt",
-      "source": "BikeRadar",
-      "lang": "EN",
-      "category": "Gravel",
-      "published": "2026-11-05T15:00:00+00:00"
-    },
-    {
       "title": "Orbea Rise 2027 – Třetí generace, více síly a stále stejná filozofie!",
       "summary": "Orbea představuje třetí generaci svého lehkého eMTB modelu Rise. Zcela nový je také motor Shimano EP810, který nabídne až 100",
       "url": "https://www.bikeandride.cz/2026/11/orbea-rise-2027-treti-generace-vice-sily-a-stale-stejna-filozofie/",
       "source": "BikeAndRide.cz",
       "lang": "CS",
       "category": "Závody",
+      "published": "2026-11-05T15:00:00+00:00"
+    },
+    {
+      "title": "New 3T Racemax+ WPNT adds tyre clearance and drops the price by up to €1,000",
+      "summary": "A wider size range and lower price for 3T’s updated aero gravel race bike",
+      "url": "https://www.bikeradar.com/news/3t-racemax-wpnt",
+      "source": "BikeRadar",
+      "lang": "EN",
+      "category": "Gravel",
       "published": "2026-11-05T15:00:00+00:00"
     },
     {
@@ -3132,29 +3150,9 @@
       "lang": "EN",
       "category": "MTB",
       "published": "2026-10-25T15:00:00+00:00"
-    },
-    {
-      "title": "🏕️ Husky Sawaj Ultra 2 recenze: 14 let a 500+ nocí s ultralehkým stanem na cyklocesty od Alp po Island",
-      "summary": "Dnes se s Vámi podělím o dlouhodobou zkušenost se stanem Husky Sawaj Ultra 2. A když píšu dlouhodobou, myslím tím opravdu dlouhodobou. Tento stan jsme si pořídili už v roce 2012 a jeho premiéra se odehrála na cyklotrase ",
-      "url": "https://cyklocestovatel.cz/husky-sawaj-ultra-2/",
-      "source": "Cyklocestovatel.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
-      "published": "2026-10-24T21:39:08+00:00"
-    },
-    {
-      "title": "I’ve met cycling’s greatest designers – forget AI and wind tunnels, it’s people that make the best bikes",
-      "summary": "Why all of the biggest and best advancements in cycling have come from the visionary designers and engineers",
-      "url": "https://www.bikeradar.com/features/opinion/cyclings-greatest-designers",
-      "source": "BikeRadar Gravel",
-      "lang": "EN",
-      "category": "Gravel",
-      "published": "2026-10-24T06:00:00+00:00"
     }
   ],
   "source_errors": [
-    "NaKole.cz: HTTP Error 403: Forbidden",
-    "BikeAndRide.cz: HTTP Error 401: Unauthorized",
-    "Cyklocestovatel.cz: HTTP Error 401: Unauthorized"
+    "NaKole.cz: HTTP Error 403: Forbidden"
   ]
 }
