@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-20T19:28:37.891310+00:00",
+  "updated": "2026-11-21T01:00:31.205011+00:00",
   "articles": [
+    {
+      "title": "TEST: Avona Callis 32 – Když gravel přeroste do nové dimenze",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/avona-callis-test/kategorie/testy-recenze",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "Gravel",
+      "published": "2026-11-21"
+    },
     {
       "title": "'I just have to reiterate the power that we have as riders' - Lombardia protest ringleader Ben Healy emboldened as he calls for change on rider safety",
       "summary": "The Irishman was the driving force behind the Il Lombardia protest",
@@ -144,15 +153,6 @@
       "lang": "EN",
       "category": "MTB",
       "published": "2026-11-20T07:00:00+00:00"
-    },
-    {
-      "title": "TEST: Avona Callis 32 – Když gravel přeroste do nové dimenze",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/avona-callis-test/kategorie/testy-recenze",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Gravel",
-      "published": "2026-11-20"
     },
     {
       "title": "Saidl, Janovský, Svoboda (a Bažant). Se čtyřmi čerstvými tvářemi zahajuje přípravu v domácích podmínkách kontinentální tým Kasper crypto4me",
@@ -335,6 +335,15 @@
       "published": "2026-11-19"
     },
     {
+      "title": "Řetěz KMC Pro Transmission",
+      "summary": "",
+      "url": "https://cykl.cz/retez-kmc-pro-transmission",
+      "source": "Cykl.cz",
+      "lang": "CS",
+      "category": "Cyklistika",
+      "published": "2026-11-19"
+    },
+    {
       "title": "Podcast: To nejlepší ze sezóny (CykloPodcast Awards 2026 I.)",
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/podcast-to-nejlepsi-ze-sezony-cyklopodcast-awards-2026-i",
@@ -377,15 +386,6 @@
       "source": "RoadCycling.cz",
       "lang": "CS",
       "category": "Závody",
-      "published": "2026-11-19"
-    },
-    {
-      "title": "Řetěz KMC Pro Transmission",
-      "summary": "",
-      "url": "https://cykl.cz/retez-kmc-pro-transmission",
-      "source": "Cykl.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
       "published": "2026-11-19"
     },
     {
@@ -564,6 +564,15 @@
       "summary": "",
       "url": "https://mtbs.cz/clanek/bike24-prekonal-trzby-100-mil-eur-za-ctvrtleti-opravdu-roste-nebo-jen-roztaci-cenovou-valku/kategorie/servis",
       "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-18"
+    },
+    {
+      "title": "Kärcher OC 7-18 Handheld: Ten správný kompromis na všechno?",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132129/karcher-oc-7-18-handheld-ten-spravny-kompromis-na-vsechno.html",
+      "source": "MTBIKER.cz",
       "lang": "CS",
       "category": "MTB",
       "published": "2026-11-18"
@@ -1784,6 +1793,15 @@
       "published": "2026-11-10T09:27:16+00:00"
     },
     {
+      "title": "Vrchařská prověrka, elektrokolo Touroll S2",
+      "summary": "",
+      "url": "https://cykl.cz/vrcharska-proverka-elektrokolo-touroll-s2",
+      "source": "Cykl.cz",
+      "lang": "CS",
+      "category": "Technika",
+      "published": "2026-11-10"
+    },
+    {
       "title": "Gravel v Česku a v zahraničí: Dvě naprosto odlišné disciplíny",
       "summary": "",
       "url": "https://www.mtbiker.cz/clanky/132086/gravel-v-cesku-a-v-zahranici-dve-naprosto-odlisne-discipliny.html",
@@ -1799,15 +1817,6 @@
       "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Cyklistika",
-      "published": "2026-11-10"
-    },
-    {
-      "title": "Vrchařská prověrka, elektrokolo Touroll S2",
-      "summary": "",
-      "url": "https://cykl.cz/vrcharska-proverka-elektrokolo-touroll-s2",
-      "source": "Cykl.cz",
-      "lang": "CS",
-      "category": "Technika",
       "published": "2026-11-10"
     },
     {
@@ -3141,19 +3150,9 @@
       "lang": "EN",
       "category": "Závody",
       "published": "2026-10-22T12:21:41+00:00"
-    },
-    {
-      "title": "Rollers, indoor bike, turbo or smart trainer? Which indoor cycling solution is best for you?",
-      "summary": "Everything you need to know about the different indoor cycling options",
-      "url": "https://www.bikeradar.com/advice/fitness-and-training/which-indoor-training-solution-is-best-for-you",
-      "source": "BikeRadar MTB",
-      "lang": "EN",
-      "category": "MTB",
-      "published": "2026-10-22T11:00:00+00:00"
     }
   ],
   "source_errors": [
-    "NaKole.cz: HTTP Error 403: Forbidden",
-    "Cykl.cz: <urlopen error [Errno 111] Connection refused>"
+    "NaKole.cz: HTTP Error 403: Forbidden"
   ]
 }
