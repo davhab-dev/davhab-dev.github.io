@@ -3,8 +3,44 @@
   "current": null,
   "queue": [
     [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/armada-porizuje-drony-prekazkou-je-byrokracie-379824",
+      "Armáda pořizuje drony, překážkou je byrokracie"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/predsedou-svobodnych-se-stal-opet-libor-vondracek-nemel-protikandidata.A261121_203244_domaci_ichuc",
+      "Svobodné povede popáté Libor Vondráček. Ve volbě předsedy neměl soupeře"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/nova-socialni-demokracie-si-zvolila-do-cela-pravnika-matase-a-chysta-vlastni-socialni-sit.A261121_160919_domaci_jan",
+      "Nová sociální demokracie si zvolila do čela právníka Matase. A chce vlastní sociální síť"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/francouzsti-vojaci-na-ukrajine-pobourili-rusko-podle-medii-jsou-tam-uz-mesice-379821",
+      "Francouzští vojáci na Ukrajině pobouřili Rusko. Podle médií jsou tam už měsíce"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-prichazi-s-novym-programem-na-podporu-bydleni-stary-zastavila-379817",
+      "Vláda přichází s novým programem na podporu bydlení, starý zastavila"
+    ],
+    [
+      "https://cnn.iprima.cz/zemrel-majitel-jedne-z-nejslavnejsich-a-nejluxusnejsich-znacek-na-svete-527751",
+      "Zemřel šéf ikony světového luxusu. Bulgari stvořil impérium, měl mimořádný talent"
+    ],
+    [
+      "https://cnn.iprima.cz/prekvapiva-slova-melanie-trumpove-vyjednavam-primeri-na-ukrajine-muze-byt-jeste-pred-vanoci-527739",
+      "Překvapivá slova Melanie Trumpové: Vyjednávám příměří na Ukrajině, může být ještě před Vánoci"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/eu-a-ostrovni-staty-tlaci-na-ambicioznejsi-zavery-klimaticke-konference-/2904003",
+      "EU a ostrovní státy tlačí na ambicióznější závěry klimatické konference"
+    ],
+    [
       "https://zpravy.aktualne.cz/zahranici/spoluzaci-ji-vyhrozovali-smrti-ve-skole-radeji-schovavala-krizek-drsna-realita-nemecka/r~aaa29f7c1351c67b9af3006e82d8ad8a/",
       "Spolužáci jí vyhrožovali smrtí. Ve škole raději schovávala křížek. Drsná realita Německa"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/polsko-by-masivni-raketovy-utok-neodrazilo-varuje-expert-kritizuje-protivzdusnou-obranu.A261121_180634_zahranicni_ichuc",
+      "Polsko by velký raketový útok nezvládlo, kritizuje expert váhání nad třemi střelami"
     ],
     [
       "https://zpravy.aktualne.cz/zahranici/vyhrozoval-trump-evropanum-kvuli-pomoci-ukrajine-zelenskyj-se-ho-zastal/r~aaa29033088534b77af94f9f6741dc4d/",
@@ -13,6 +49,10 @@
     [
       "https://www.idnes.cz/zpravy/zahranicni/trump-evropanum-rekl-ze-po-miru-mohou-penize-na-valku-utratit-doma.A261121_170007_zahranicni_ichuc",
       "Trump Evropě připomněl účet za válku na Ukrajině. V míru mají peníze utrácet doma"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/ve-finskem-zalivu-napadly-drony-ruskou-lod-zrejme-utocila-ukrajina/2904722",
+      "Ve Finském zálivu napadly drony ruskou loď, zřejmě útočila Ukrajina"
     ],
     [
       "https://zpravy.aktualne.cz/zahranici/vychvalil-trumpa-do-nebes-a-hned-od-nej-dostal-nabidku-ktera-se-neodmita/r~aaa2963ff79fd8620f18efd0ae34cfe1/",
@@ -39,20 +79,12 @@
       "Zelenskyj: Trump Evropanům řekl, že po míru mohou peníze na válku utratit doma"
     ],
     [
-      "https://www.idnes.cz/zpravy/domaci/nova-socialni-demokracie-si-zvolila-do-cela-pravnika-matase-a-chysta-vlastni-socialni-sit.A261121_160919_domaci_jan",
-      "Nová sociální demokracie si zvolila do čela právníka Matase. A chystá vlastní sociální síť"
-    ],
-    [
       "https://cnn.iprima.cz/pilot-mel-ruskou-raketu-letici-na-polsko-na-musce-urady-prozradily-proc-nevystrelil-527743",
       "Ruskou raketu nad Polskem měl pilot na mušce. Úřady prozradily, proč nevystřelil"
     ],
     [
       "https://zpravy.aktualne.cz/domaci/nova-socialni-demokracie-si-zvolila-sefa-spidlova-levice-doufa-v-predcasne-volby/r~aaa29a23c6d43b4463a706a995d04f85/",
       "„Špidlovi“ socialisté zvolili šéfa. Ukázali nečekanou ambici, mluví i o prezidentovi"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/costa-rozpocet-merz-eu-dane-velkych-technologickych-firem.A261121_130131_zahranicni_sahu",
-      "Začíná bitva o rozpočet EU. Merzovi v návrhu chybí podpora Ukrajiny od všech"
     ],
     [
       "https://zpravy.aktualne.cz/zahranici/britove-poslou-ukrajine-tajemnou-zbran-dokaze-zasahnout-cile-hluboko-v-rusku/r~aaa296920256124377b378683d27067d/",
@@ -67,10 +99,6 @@
       "Rutte Polákům slíbil, že NATO bude bránit každou píď jejich země"
     ],
     [
-      "https://www.idnes.cz/zpravy/domaci/ruseni-poplatku-k-cervenci-2027-realisticky-termin-rika-macinka.A261121_141038_domaci_tty",
-      "Rušení poplatků k červenci 2027? Realistický termín, říká Macinka"
-    ],
-    [
       "https://ct24.ceskatelevize.cz/clanek/svet/sef-nato-rutte-dorazil-po-incidentu-s-ruskymi-raketami-do-varsavy-379815",
       "NATO je připraveno ochránit své členy, řekl Rutte po incidentu v Polsku"
     ],
@@ -83,28 +111,12 @@
       "FBI a americké ministerstvo zemědělství se staly terčem kybernetických útoků"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/svet/ruske-hybridni-hrozby-jsou-stale-realnejsi-varovala-sefka-komise-379812",
-      "Ruské hybridní hrozby přestávají být hybridní, varovala šéfka Komise"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/ruske-hybridni-hrozby-v-eu-jsou-stale-realnejsi-uvedla-sefka-ek/2904755",
-      "Ruské hybridní hrozby v EU jsou stále reálnější, uvedla šéfka EK"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/bozi-vladnouci-lidem-mnoho-uprchliku-z-kldr-ma-dceru-kima-za-jasnou-dedicku/2904751",
-      "Bozi vládnoucí lidem, mnoho uprchlíků z KLDR má dceru Kima za jasnou dědičku"
-    ],
-    [
       "https://www.denik.cz/cesko/vadilo-mi-jak-turek-a-spol-popiraji-vedu-rika-studentka-o-dopisu-babisovi/",
       "Vadilo mi, jak Turek a spol. popírají vědu, říká studentka o dopisu Babišovi"
     ],
     [
       "https://denikn.cz/newsletter/2265528/v-polsku-se-zritily-dve-ruske-strely-a-jeden-dron-chudarek-jednal-s-babisem-zavoral-pozvany-nebyl-akcie-anthropicu-po-ctvrtecnim-uspesnem-startu-spadly/",
       "R5M: V Polsku se zřítily dvě ruské střely a jeden dron | Chudárek jednal s Babišem, Zavoral pozvaný nebyl | Akcie Anthropicu po čtvrtečním úspěšném startu spadly"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/ve-finskem-zalivu-napadly-drony-ruskou-lod-zrejme-utocila-ukrajina/2904722",
-      "Ve Finském zálivu napadly drony ruskou loď, zřejmě útočila Ukrajina"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/politologove-nova-socialni-demokracie-muze-uspet-potrebuje-ale-silne-osobnosti-/2904712",
@@ -115,10 +127,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 27,
+    "initial_pending": 30,
     "completed": [],
     "deferred": [],
-    "remaining": 27
+    "remaining": 30
   },
   "samples_seconds": [
     51.274763,
