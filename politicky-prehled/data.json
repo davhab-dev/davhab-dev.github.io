@@ -1,14 +1,54 @@
 {
-  "updated_at": "2026-11-20T20:13:40.007723+00:00",
+  "updated_at": "2026-11-21T02:12:08.727889+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "V Brně se dnes koná sjezd České lékařské komory, bude volit viceprezidenta",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-21T00:17:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/v-brne-se-dnes-kona-sjezd-ceske-lekarske-komory-bude-volit-viceprezidenta/2904682",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Nová sociální demokracie si na sjezdu v Jihlavě zvolí své vedení",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-21T00:10:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/nova-socialni-demokracie-si-na-sjezdu-v-jihlave-zvoli-sve-vedeni/2904681",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Poplatky zrušíme k červenci 2027. Babiš o protestech, armádě i rozpočtu",
+      "summary": "Ani protesty svolané spolkem Milion chvilek pro demokracii na pražské Letné nezabrání zrušení koncesionářských poplatků pro Českou televizi a Český rozhlas. V rozhovoru pro iDNES.cz…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-20T23:00:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/poplatky-zrusime-k-cervenci-2027-babis-o-protestech-armade-i-rozpoctu.A261120_204250_domaci_kton",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Putin chce ukončit válku na Ukrajině, zhodnotil Trump čínský summit",
       "summary": "Ruský prezident Vladimir Putin chce ukončit válku na Ukrajině, prohlásil v pátek americký prezident Donald Trump. Řekl, že o Ukrajině s Putinem vedl na okraji…",
       "source": "iDNES.cz",
       "category": "svet",
-      "published_at": "2026-11-20T20:09:00+00:00",
+      "published_at": "2026-11-20T20:55:00+00:00",
       "url": "https://www.idnes.cz/zpravy/zahranicni/putin-chce-podle-trumpa-ukoncit-valku-na-ukrajine-v-cine-s-nim-o-tom-mluvil.A261120_193851_zahranicni_kha",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Reagujme hned, zní z opozice po incidentu v Polsku. Babišovi nabízí obejít SPD",
+      "summary": "Dopad dvou ruských střel a dronu na území Polska vyvolal okamžité reakce české opozice. Zatímco TOP 09 nabízí vládě hlasy pro navýšení rozpočtu armády i…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-20T20:28:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/obrana-polsko-drony-incident-okamura-spd-ministr-opozice-hlasy.A261120_132126_zahranicni_sahu",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -123,26 +163,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Zásah ambasád v Kyjevě nebyl záměr, hájí se Rusové. Diplomaty prý už dříve varovali",
-      "summary": "Poškození budov velvyslanectví Rakouska a Nizozemska během čtvrtečního ruského útoku na Kyjev nebylo záměrné, Moskva navíc opakovaně vyzývala západní občany i diplomaty k opuštění ukrajinského…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-20T18:17:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/moskva-odmitla-zamer-poskodit-zapadni-ambasady-kyjev-rakousko.A261120_184103_zahranicni_sahu",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "„Uspěchaný projekt.“ Vítězný oblouk Trumpovi zablokovala další soudkyně",
-      "summary": "Federální soudkyně v americkém státě Virginie se v pátek rozhodla předběžně zablokovat výstavbu vítězného oblouku ve Washingtonu, kterou prosazuje prezident Donald Trump. Jde o uspěchaný…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-20T18:04:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/druha-soudkyne-zablokovala-trumpuv-plan-na-vitezny-oblouk-ve-washingtonu.A261120_181939_zahranicni_kha",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Operace Volja: francouzští vojáci tajně na Ukrajině? Lavrov zuří a pohrozil Paříži následky",
       "summary": "Francouzští vojáci podle rozhlasové stanice RFI už od léta tajně působí přímo na Ukrajině. Rusko to označilo za „přímou účast ve válce“ a Paříž varovalo…",
       "source": "Aktuálně.cz",
@@ -179,16 +199,6 @@
       "category": "svet",
       "published_at": "2026-11-20T18:36:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/moskva-odmitla-ze-by-zamerne-poskodila-zapadni-ambasady-v-kyjeve/2904588",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Nepřijatelné, reaguje Babiš na incident v Polsku. Může se to stát i u nás, řekl Pavel",
-      "summary": "Je spíše otázkou času, kdy se incident podobný tomu v Polsku stane také v Česku, uvedl prezident Petr Pavel. Na jihovýchodě Polska se dnes zřítily…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-20T17:18:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/podobny-incident-jako-v-polsku-se-muze-stat-i-v-cesku-varoval-pavel.A261120_153032_domaci_aoc",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -243,7 +253,7 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Je nadutý a bojí se žen. Macinka si slovy o mužatkách zavařil i v Kremlu",
+      "title": "Nadutec, bojí se žen, vmetla Macinkovi mluvčí ruské diplomacie. Z Černínu přišla ironická reakce",
       "summary": "Jako rasistický a neonacistický označila mluvčí ruského ministerstva zahraničí Marija Zacharovová výrok českého ministra zahraničí Petra Macinky, který nedávno nazval ruské družstvo juniorských hokejistek mužatkami.…",
       "source": "Aktuálně.cz",
       "category": "domaci",
@@ -283,12 +293,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Pavel: Vláda při plánovaném zrušení poplatků za ČT a ČRo podcenila komunikaci",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-20T13:26:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/pavel-vlada-pri-planovanem-zruseni-poplatku-za-ct-a-cro-podcenila-komunikaci/2904447",
+      "title": "Dánové oslavovali nejstarší občanku země. Poté zjistili, že vedla nacisty",
+      "summary": "Kirsten Schwalbeová se minulý měsíc stala nejstarší žijící obyvatelkou Dánska. Z celé země jí přicházela blahopřání, krátce nato však vyšlo najevo, že během německé okupace…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-20T14:45:00+01:00",
+      "url": "https://www.denik.cz/evropa/dansko-nejstarsi-zena-nacistka-kirsten-schwalbe/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -323,7 +333,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 15,
       "selected": 6,
       "free_articles_checked": 8
     },
@@ -343,8 +353,8 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 16,
-      "selected": 5,
+      "candidates": 17,
+      "selected": 6,
       "free_articles_checked": 8
     },
     {
@@ -353,7 +363,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -363,7 +373,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -373,7 +383,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 9,
       "selected": 7,
       "free_articles_checked": 8
     },
@@ -384,7 +394,7 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 11,
-      "selected": 3,
+      "selected": 4,
       "free_articles_checked": 6
     },
     {
@@ -394,8 +404,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 14,
-      "selected": 7,
-      "free_articles_checked": 7
+      "selected": 6,
+      "free_articles_checked": 6
     },
     {
       "name": "CNN Prima NEWS",
@@ -403,7 +413,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 11,
       "selected": 2,
       "free_articles_checked": 2
     },
@@ -463,7 +473,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 12,
       "selected": 0,
       "free_articles_checked": 0
     },

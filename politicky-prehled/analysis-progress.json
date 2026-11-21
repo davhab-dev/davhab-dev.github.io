@@ -3,8 +3,24 @@
   "current": null,
   "queue": [
     [
+      "https://www.ceskenoviny.cz/zpravy/v-brne-se-dnes-kona-sjezd-ceske-lekarske-komory-bude-volit-viceprezidenta/2904682",
+      "V Brně se dnes koná sjezd České lékařské komory, bude volit viceprezidenta"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/nova-socialni-demokracie-si-na-sjezdu-v-jihlave-zvoli-sve-vedeni/2904681",
+      "Nová sociální demokracie si na sjezdu v Jihlavě zvolí své vedení"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/poplatky-zrusime-k-cervenci-2027-babis-o-protestech-armade-i-rozpoctu.A261120_204250_domaci_kton",
+      "Poplatky zrušíme k červenci 2027. Babiš o protestech, armádě i rozpočtu"
+    ],
+    [
       "https://www.idnes.cz/zpravy/zahranicni/putin-chce-podle-trumpa-ukoncit-valku-na-ukrajine-v-cine-s-nim-o-tom-mluvil.A261120_193851_zahranicni_kha",
       "Putin chce ukončit válku na Ukrajině, zhodnotil Trump čínský summit"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/obrana-polsko-drony-incident-okamura-spd-ministr-opozice-hlasy.A261120_132126_zahranicni_sahu",
+      "Reagujme hned, zní z opozice po incidentu v Polsku. Babišovi nabízí obejít SPD"
     ],
     [
       "https://www.idnes.cz/praha/zpravy/praha-smart-city-chytre-mesto-pavel-dobes-firmy-mnichov-euspa.A261120_123035_domaci_sahu",
@@ -51,14 +67,6 @@
       "Bojí se žen, zpražila Zacharovová „nadutého“ Macinku za mužatky. Dočkala se štiplavé odpovědi"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/moskva-odmitla-zamer-poskodit-zapadni-ambasady-kyjev-rakousko.A261120_184103_zahranicni_sahu",
-      "Zásah ambasád v Kyjevě nebyl záměr, hájí se Rusové. Diplomaty prý už dříve varovali"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/druha-soudkyne-zablokovala-trumpuv-plan-na-vitezny-oblouk-ve-washingtonu.A261120_181939_zahranicni_kha",
-      "„Uspěchaný projekt.“ Vítězný oblouk Trumpovi zablokovala další soudkyně"
-    ],
-    [
       "https://zpravy.aktualne.cz/zahranici/operace-volja-francouzsti-vojaci-tajne-na-ukrajine-lavrov-zuri-a-pohrozil-parizi-nasledky/r~aaa29a904a64ad742b27501bb5a9e5b0/",
       "Operace Volja: francouzští vojáci tajně na Ukrajině? Lavrov zuří a pohrozil Paříži následky"
     ],
@@ -73,10 +81,6 @@
     [
       "https://www.ceskenoviny.cz/zpravy/moskva-odmitla-ze-by-zamerne-poskodila-zapadni-ambasady-v-kyjeve/2904588",
       "Moskva odmítla, že by záměrné poškodila západní ambasády v Kyjevě"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/podobny-incident-jako-v-polsku-se-muze-stat-i-v-cesku-varoval-pavel.A261120_153032_domaci_aoc",
-      "Nepřijatelné, reaguje Babiš na incident v Polsku. Může se to stát i u nás, řekl Pavel"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/druha-soudkyne-zablokovala-trumpuv-plan-na-vitezny-oblouk-ve-washingtonu/2904582",
@@ -100,7 +104,7 @@
     ],
     [
       "https://zpravy.aktualne.cz/zahranici/je-naduty-a-boji-se-zen-zacharovova-se-kvuli-vyrokum-o-muzatkach-obula-do-macinky/r~aaa294c37c86be3553a83670d5d623c5/",
-      "Je nadutý a bojí se žen. Macinka si slovy o mužatkách zavařil i v Kremlu"
+      "Nadutec, bojí se žen, vmetla Macinkovi mluvčí ruské diplomacie. Z Černínu přišla ironická reakce"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/putin-vyzval-lidi-na-ukrajine-ke-sjednoceni-zeme-se-podle-nej-rozpadla-sama/2904520",
@@ -115,8 +119,8 @@
       "Je to otázka času. Podobný incident jako v Polsku může nastat v Česku, varoval Pavel"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/pavel-vlada-pri-planovanem-zruseni-poplatku-za-ct-a-cro-podcenila-komunikaci/2904447",
-      "Pavel: Vláda při plánovaném zrušení poplatků za ČT a ČRo podcenila komunikaci"
+      "https://www.denik.cz/evropa/dansko-nejstarsi-zena-nacistka-kirsten-schwalbe/",
+      "Dánové oslavovali nejstarší občanku země. Poté zjistili, že vedla nacisty"
     ],
     [
       "https://denikn.cz/newsletter/2264269/summit-si-trump-putin-prelomove-vysledky-neprinesl-novym-prazskym-primatorem-se-stal-hlavacek-anthropic-vstoupil-na-burzu-zaznamenal-nejvyssi-vynos-v-historii/",
@@ -127,10 +131,10 @@
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 30,
+    "initial_pending": 31,
     "completed": [],
     "deferred": [],
-    "remaining": 30
+    "remaining": 31
   },
   "samples_seconds": [
     51.274763,
