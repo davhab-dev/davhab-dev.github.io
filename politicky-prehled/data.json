@@ -1,7 +1,237 @@
 {
-  "updated_at": "2026-11-22T06:43:39.904696+00:00",
+  "updated_at": "2026-11-22T15:16:03.805311+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "„Mafiánský STAN nepodpoříme nikdy.“ Okamura a Turek odmítli návrh k Polsku",
+      "summary": "Předseda Sněmovny Tomio Okamura (SPD) a Filip Turek (Motoristé) odmítli sněmovní projednání návrhu opozičního hnutí STAN ke střelám a dronu, které v pátek dopadly v…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-22T15:11:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/okamura-turek-macinka-stan-rusko-dron-poslanecka-snemovna.A261122_152618_domaci_aya",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Mohutné exploze poničily ruskou válečnou loď. K útoku došlo v libyjském přístavu",
+      "summary": "Na ruské lodi kotvící na námoří základně v libyjském Benghází nastala exploze, uvedla vláda působící ve východní části Libye. Šlo zřejmě o dronový útok. Ruské…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-22T15:44:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/mohutny-vybuch-na-ruske-lodi-v-libyjskem-pristavu-zrejme-slo-o-dronovy-utok/r~aaa2962a7deee01a30d260ce81086638/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Hádka a kolaps na klimatické konferenci. Země OSN mají aspoň rekord v její délce",
+      "summary": "Státy na nejdéle trvající klimatické konferenci OSN v historii COP31 se neshodly na společné deklaraci, řekl podle médií předseda konference a turecký ministr životního prostředí…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-22T14:33:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/klimaticka-konference-cop31-deklarace-jednani-osn-eu.A261122_141921_zahranicni_votr",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Macinka řekl, jaký je pro Česko nejlepší izraelský systém protivzdušné obrany",
+      "summary": "Pro Českou republiku by byly podle ministra zahraničních věcí Petra Macinky (Motoristé) ideální systémy protivzdušné obrany podobného typu, jako je izraelský David’s Sling (Davidův prak).…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-22T13:50:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/macinka-dobry-by-byl-system-protivzdusne-obrany-daviduv-prak-arrow-nevhodny.A261122_143907_domaci_remy",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Hřib má Okamuru za „komerčního nácka”. Piráti nemají žádná témata, říká šéf SPD",
+      "summary": "Ministr Boris Šťastný (Motoristé sobě) nazval Mikuláše Mináře „byznysovým aktivistou“, předseda Pirátů Zdeněk Hřib zase počastoval nepřítomného šéfa Sněmovny výrazem „komerční nácek“. Tomio Okamura (SPD)…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-22T13:43:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/kuba-hrib-stastny-slachta-polsko-rusko-bezpecnost-parlament.A261122_114431_domaci_sahu",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Jednání na klimatické konferenci zkolabovala. Státy se neshodly na deklaraci",
+      "summary": "Jednání na nejdéle trvající klimatické konferenci OSN v historii COP31 zkolabovala, uvedla agentura Reuters. Stalo se tak poté, co se státy neshodly na společné deklaraci,…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-22T14:25:10+01:00",
+      "url": "https://www.denik.cz/svet/staty-na-klimaticke-konferenci-se-neshodly-na-deklaraci-hrozi-kolaps-jednani/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Drsné video z fronty: Ruský voják navedl koně na minu, Ukrajinci poslali dron",
+      "summary": "Drastický incident zachytilo video z ukrajinské fronty. Dva ruští vojáci na koních se pokusili zaútočit na ukrajinské pozice. Prvního z nich kůň shodil ze sedla,…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-22T14:10:13+01:00",
+      "url": "https://www.denik.cz/evropa/ukrajina-valka-drasticke-video-kun-mina-dron/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "K nebi vyšlehla obří ohnivá koule, zachycuje video. Dron u Krymu udeřil na ruskou cisternu",
+      "summary": "Na síti X se objevilo video zachycující zásah ruské cisterny na silnici R-280, která je po zničení silniční části Krymského mostu jedinou pozemní spojnicí mezi…",
+      "source": "CNN Prima NEWS",
+      "category": "svet",
+      "published_at": "2026-11-22T14:03:59+01:00",
+      "url": "https://cnn.iprima.cz/video-z-krymske-silnice-smrti-ukrajinsky-dron-uderil-na-cisternu-nasledovala-obri-exploze-527831",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Sebrat Česku a dávat Ukrajině? Rozpočet EU je absolutně nepřijatelný, řekl Babiš",
+      "summary": "Aktuální návrh rozpočtu Evropské unie je pro Českou republiku absolutně nepřijatelný, řekl premiér Andrej Babiš (ANO) ve videu zveřejněném na síti X. Kritizoval snížení peněz…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-22T12:55:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/aktualni-navrh-rozpoctu-eu-je-pro-cr-absolutne-neprijatelny-rekl-babi-kritizoval-snizeni-penez-pro-c.A261122_101617_domaci_tty",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Analýza: Až teď se svět dovídá, co se dělo v Číně. Ukrajinu tam ze závěrů škrtli",
+      "summary": "Na závěrečném dokumentu z třístranného summitu Číny, USA a Ruska v čínském Šen-čenu je nejpodstatnější to, co v něm není. A to odstavec o Ukrajině.…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-22T13:37:00+01:00",
+      "url": "https://www.denik.cz/svet/cina-summit-usa-rusko-ukrajina-co-se-delo-v-cine-analyza/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Sýrie zničila stamiliony tablet captagonu, z byznysu těžil Asad",
+      "summary": "Syrské úřady oznámily likvidaci velkého množství drog, včetně 400 milionů tablet syntetického stimulantu captagonu, které bezpečnostní složky zajistily při různých operacích. Informovala o tom státní…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-22T12:23:53+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/syrie-znicila-stamiliony-tablet-captagonu-z-byznysu-tezil-asad-379833",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Hosté Událostí, komentářů z ekonomiky debatovali o stavu českého zemědělství",
+      "summary": "Čeští zemědělci hovoří o jednom z nejtíživějších roků od vstupu Česka do Evropské unie. Potýkají se s rostoucími náklady, za kterými stojí mimo jiné zdražování…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-22T12:16:27+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/hoste-udalosti-komentaru-z-ekonomiky-debatovali-o-stavu-ceskeho-zemedelstvi-379826",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Vzpoura Evropanů proti deklaraci: Klimatická konference zkolabovala",
+      "summary": "Jednání na nejdéle trvající klimatické konferenci OSN v historii COP31 zkolabovala, uvedla agentura Reuters. Stalo se tak poté, co se státy neshodly na společné deklaraci,…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-22T12:59:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/konference-o-klimatu-se-rekordne-tahne-kamenem-urazu-jsou-fosilni-paliva/r~aaa296be31f99e4bf4e28be4ad351be6/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Tajemný dárce rozdává peníze. Lidé nacházejí bankovky ve schránkách",
+      "summary": "Obyvatele bytového domu v nizozemském městě Schiedam čekalo při vybírání pošty překvapení. V poštovních schránkách totiž našli bankovky v hodnotě padesát eur, aniž by tušili,…",
+      "source": "Deník",
+      "category": "svet",
+      "published_at": "2026-11-22T12:57:29+01:00",
+      "url": "https://www.denik.cz/evropa/nizozemsko-tajemny-darce-penize-bankovky-ve-schrankach/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Eisenkot označil novou vlnu osadnického násilí za „židovský teror“",
+      "summary": "Radikální izraelští osadníci v noci vtrhli do několika palestinských obcí na okupovaném Západním břehu, kde zapálili tucet vozidel a několik domů. Šéf opoziční strany Jašar…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-22T10:41:46+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/eisenkot-oznacil-novou-vlnu-osadnickeho-nasili-za-zidovsky-teror-379832",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "A není to málo? Brit plaval proti válce a ekologickým škodám tři dny v Hormuzu",
+      "summary": "Na protest proti válce v Íránu a škodám, které působí přírodě, plaval britský vytrvalostní plavec Lewis Pugh tři dny v Hormuzském průlivu, který je klíčový…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-22T10:34:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/protest-hormuzsky-pruplav-brit-ekologie-valka-iran-oman-pobrezi.A261122_101726_zahranicni_votr",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Na dronové útoky nejsme připravení, vadí Hřibovi. Řešíme protivzdušnou obranu, říká Šťastný",
+      "summary": "Dopad dvou ruských střel a proudového dronu v Polsku je podle předsedy Přísahy Róberta Šlachty dalším testováním Moskvy, kam až může zajít. Šéf hnutí Naše…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-22T10:31:48+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/nedelni-debata-o-bezpecnostnich-hrozbach-v-cesku-a-v-evrope-379830",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Náhrada za USA? Země NATO zpřístupní Ukrajině snímky ze svých špičkových družic",
+      "summary": "Itálie zpřístupní Ukrajině snímky ze dvou špičkových radarových družic COSMO-SkyMed. Kyjev díky nim bude moci sledovat pohyb ruské techniky, opevnění i vojenská letiště ve dne,…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-22T11:16:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/nahrada-za-usa-zeme-nato-zpristupni-ukrajine-snimky-ze-svych-spickovych-druzic/r~aaa29b6ffb525ae8257abf4faf53fa15/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Aktuální návrh rozpočtu EU je podle Babiše pro Česko absolutně nepřijatelný",
+      "summary": "Aktuální návrh rozpočtu Evropské unie je pro Českou republiku absolutně nepřijatelný, řekl v neděli premiér Andrej Babiš (ANO) ve videu zveřejněném na síti X. Kritizoval…",
+      "source": "Deník",
+      "category": "domaci",
+      "published_at": "2026-11-22T11:04:46+01:00",
+      "url": "https://www.denik.cz/cesko/aktualni-navrh-rozpoctu-eu-je-podle-babise-pro-cesko-absolutne-neprijatelny/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Absolutně nepřijatelné. Babiš odmítá rozpočet EU. Vadí mu škrty Česku a výdaje na Ukrajinu",
+      "summary": "Aktuální návrh rozpočtu Evropské unie je pro Českou republiku absolutně nepřijatelný, řekl premiér Andrej Babiš (ANO) ve videu zveřejněném na síti X. Kritizoval snížení peněz…",
+      "source": "Aktuálně.cz",
+      "category": "domaci",
+      "published_at": "2026-11-22T10:30:00+01:00",
+      "url": "https://zpravy.aktualne.cz/domaci/absolutne-neprijatelne-babis-odmita-navrh-rozpoctu-eu-vadi-mu-vydaje-na-ukrajinu/r~aaa292d2387f1d7d475e595ffa995ffe/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Ruský „ostrov“ v Evropě zažil první poplach. Sirény varovaly před vzdušným útokem",
+      "summary": "V ruské Kaliningradské oblasti se v sobotu večer rozezněly sirény varující před vzdušným útokem. Podle ruských médií se to stalo poprvé od začátku pátým rokem…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-22T09:57:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/rusky-ostrov-v-evrope-zazil-prvni-poplach-sireny-varovaly-pred-vzdusnym-utokem/r~aaa29ebc62ad1ed2c55649c544304359/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Rusko zasáhlo panelový dům u Kyjeva, pohřešuje se 15 lidí",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-22T09:10:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/rusko-zasahlo-panelovy-dum-u-kyjeva-pohresuje-se-15-lidi/2905013",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Útok na Kaliningradskou oblast monitoroval letoun NATO, píše ukrajinský web",
+      "summary": "Ruská Kaliningradská oblast v sobotu večer čelila podle serveru Ukrajinska pravda možným dronovým náletům. Poplašné sirény se v regionu rozezněly poprvé od plnohodnotné ruské invaze…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-22T08:05:05+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/kaliningradska-oblast-zrejme-celila-utoku-litva-vinu-odmita-379829",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Vláda v pondělí projedná tresty za vybržďování či ujíždění před policií",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
@@ -23,134 +253,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Stíhačky, munice a miliardy pro Kyjev. Evropané otevřeli peněženky",
-      "summary": "Ukrajina má do konce roku obdržet dalších 12 bojových letounů, miliardy na protivzdušnou obranu a nové dodávky raket, munice i dronů. Rozsáhlou vojenskou pomoc oznámily…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-22T05:30:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/stihacky-munice-a-miliardy-pro-kyjev-evropane-otevreli-penezenky/r~aaa296d1f3901c7a4388913859a035db/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Armáda pořizuje drony, překážkou je byrokracie",
       "summary": "Ministerstvo obrany připravuje nákup dronů pro Armádu ČR. „Chcete se podívat, jestli za tím lesem nebo za kopcem už není nepřítel,“ vysvětluje podplukovník Michal Peterek…",
       "source": "ČT24",
       "category": "domaci",
       "published_at": "2026-11-21T21:21:09+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/armada-porizuje-drony-prekazkou-je-byrokracie-379824",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Svobodné povede popáté Libor Vondráček. Ve volbě předsedy neměl soupeře",
-      "summary": "Předsedou Svobodných se opět stal právník a poslanec Libor Vondráček. V elektronické volbě členů strany, která dnes skončila, neměl protikandidáta. Vondráček vede Svobodné od roku…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-21T19:46:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/predsedou-svobodnych-se-stal-opet-libor-vondracek-nemel-protikandidata.A261121_203244_domaci_ichuc",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Nová sociální demokracie si zvolila do čela právníka Matase. A chce vlastní sociální síť",
-      "summary": "Nová sociální demokracie. Historicky první ustavující sjezd této strany, za jejímž vznikem stojí mimo jiné expremiér Vladimír Špidla, se odehrál dnes v Dělnickém domě v…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-21T19:42:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/nova-socialni-demokracie-si-zvolila-do-cela-pravnika-matase-a-chysta-vlastni-socialni-sit.A261121_160919_domaci_jan",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Francouzští vojáci na Ukrajině pobouřili Rusko. Podle médií jsou tam už měsíce",
-      "summary": "Bouřlivou reakci Moskvy vyvolala přítomnost francouzských vojáků na ukrajinském území. Rusko nyní považuje Paříž za přímého účastníka konfliktu. Podle deníku Le Monde se francouzský vojenský…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-21T19:40:42+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/francouzsti-vojaci-na-ukrajine-pobourili-rusko-podle-medii-jsou-tam-uz-mesice-379821",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Vláda přichází s novým programem na podporu bydlení, starý zastavila",
-      "summary": "Dostupnost bydlení v Česku je nejhorší v EU. Vláda slibuje dát víc peněz na stavby domů s byty, ve kterých by lidé platili únosné nájmy,…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-21T19:38:47+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-prichazi-s-novym-programem-na-podporu-bydleni-stary-zastavila-379817",
-      "importance": "Vláda podle ČT24 připravuje téměř šest miliard korun na dotace a zvýhodněné úvěry pro dostupné nájemní bydlení. Příjem žádostí má začít v roce 2027, nejprve v Karlovarském, Ústeckém a Moravskoslezském kraji; další část má následovat pro ostatní území včetně Prahy. Očekávaných přibližně 2900 bytů je cílem programu, nikoli již dokončenou výstavbou. Podpora může obcím umožnit rekonstrukce či výstavbu, které by z vlastního rozpočtu nezaplatily, a vysokým školám či nemocnicím pomoci zajistit bydlení pro zaměstnance. O přínosu pro konkrétní domácnosti rozhodnou teprve pravidla přidělování bytů a výše nájemného.\n\nRozhodující bude, zda nové podmínky dovolí rychle využít již připravené projekty. Opozice tvrdí, že nahrazení předchozího programu přináší prodlevy a nové žádosti; vláda naopak slibuje jednodušší podmínky a kritizuje náklady levných úvěrů. Článek sám nedokládá přesnou délku zdržení ani úsporu nové varianty. Příklad Velkého Oseka ukazuje konkrétní překážku: obec zvažuje rekonstrukci za až 40 milionů korun pro deset bytů, ale čeká na parametry podpory. Program proto může rozšířit místní nabídku, nelze z něj však odvodit rychlý pokles celostátních nájmů ani splnění samostatného vládního cíle 50 tisíc nových bytů ročně.",
-      "importance_kind": "analysis",
-      "analysis_source": "ČT24",
-      "analysis_url": "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-prichazi-s-novym-programem-na-podporu-bydleni-stary-zastavila-379817"
-    },
-    {
-      "title": "Zemřel šéf ikony světového luxusu. Bulgari stvořil impérium, měl mimořádný talent",
-      "summary": "V Římě zemřel ve věku 89 let Paolo Bulgari, čestný předseda a dlouholetý prezident klenotnického domu Bulgari. Vnuk zakladatele značky stál v čele firmy od…",
-      "source": "CNN Prima NEWS",
-      "category": "svet",
-      "published_at": "2026-11-21T20:25:47+01:00",
-      "url": "https://cnn.iprima.cz/zemrel-majitel-jedne-z-nejslavnejsich-a-nejluxusnejsich-znacek-na-svete-527751",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Překvapivá slova Melanie Trumpové: Vyjednávám příměří na Ukrajině, může být ještě před Vánoci",
-      "summary": "Americká první dáma Melania Trumpová uvedla v rozhovoru pro televizi Fox News, že si před Vánoci přeje další příměří mezi Ukrajinou a Ruskem. Dodala, že…",
-      "source": "CNN Prima NEWS",
-      "category": "svet",
-      "published_at": "2026-11-21T19:29:38+01:00",
-      "url": "https://cnn.iprima.cz/prekvapiva-slova-melanie-trumpove-vyjednavam-primeri-na-ukrajine-muze-byt-jeste-pred-vanoci-527739",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "EU a ostrovní státy tlačí na ambicióznější závěry klimatické konference",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-21T19:15:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/eu-a-ostrovni-staty-tlaci-na-ambicioznejsi-zavery-klimaticke-konference-/2904003",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Spolužáci jí vyhrožovali smrtí. Ve škole raději schovávala křížek. Drsná realita Německa",
-      "summary": "Konzervativní muslimští žáci v Německu šikanují spolužáky, kteří jsou jiného vyznání nebo se podle nich k Alláhovi modlí laxně. Německá veřejnoprávní televize ZDF vyslechla chlapce,…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-21T18:53:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/spoluzaci-ji-vyhrozovali-smrti-ve-skole-radeji-schovavala-krizek-drsna-realita-nemecka/r~aaa29f7c1351c67b9af3006e82d8ad8a/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Polsko by velký raketový útok nezvládlo, kritizuje expert váhání nad třemi střelami",
-      "summary": "Polská protivzdušná obrana by podle ukrajinského leteckého experta Hennadije Chazana nedokázala odrazit rozsáhlý raketový útok, jakému pravidelně čelí Ukrajina. Poukázal na páteční incident, při kterém…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-21T17:52:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/polsko-by-masivni-raketovy-utok-neodrazilo-varuje-expert-kritizuje-protivzdusnou-obranu.A261121_180634_zahranicni_ichuc",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Vyhrožoval Trump Evropanům kvůli pomoci Ukrajině? Zelenskyj se ho zastal",
-      "summary": "Americký prezident Donald Trump tento týden evropským lídrům řekl, že na válku na Ukrajině vydávají hodně peněz a že by je po uzavření mírové dohody…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-21T18:46:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/vyhrozoval-trump-evropanum-kvuli-pomoci-ukrajine-zelenskyj-se-ho-zastal/r~aaa29033088534b77af94f9f6741dc4d/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Trump Evropě připomněl účet za válku na Ukrajině. V míru mají peníze utrácet doma",
-      "summary": "Americký prezident Donald Trump tento týden evropským lídrům řekl, že na válku na Ukrajině vydávají hodně peněz a že by je po uzavření mírové dohody…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-21T17:27:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/trump-evropanum-rekl-ze-po-miru-mohou-penize-na-valku-utratit-doma.A261121_170007_zahranicni_ichuc",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -167,32 +275,12 @@
       "analysis_url": "https://www.ceskenoviny.cz/zpravy/ve-finskem-zalivu-napadly-drony-ruskou-lod-zrejme-utocila-ukrajina/2904722"
     },
     {
-      "title": "„Mimořádná zpráva.“ Trump prozradil, kdo je lepší než Rubio i Vance",
-      "summary": "Americký prezident Donald Trump si na páteční tiskové konferenci přisadil do probíhající debaty o kandidátovi na svého nástupce. Naznačil, že dva nejčastěji zmiňované muže, ministra…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-21T18:18:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/vychvalil-trumpa-do-nebes-a-hned-od-nej-dostal-nabidku-ktera-se-neodmita/r~aaa2963ff79fd8620f18efd0ae34cfe1/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Sjezd lékařské komory nezvolil nového viceprezidenta",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
       "category": "domaci",
       "published_at": "2026-11-21T18:10:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/sjezd-lekarske-komory-nezvolil-noveho-viceprezidenta-/2904682",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Kdo napadl ruskou loď v Baltském moři? Finsko ukazuje na Ukrajinu, premiér píše o válce v okolí",
-      "summary": "V neutrálních vodách Finského zálivu v sobotu dva drony zaútočily na ruskou nákladní loď, uvedl gubernátor Leningradské oblasti Alexandr Drozděnko podle ruské služby BBC. Dronový…",
-      "source": "CNN Prima NEWS",
-      "category": "svet",
-      "published_at": "2026-11-21T17:47:00+01:00",
-      "url": "https://cnn.iprima.cz/kdo-napadl-ruskou-lod-v-baltskem-mori-finsko-ukazuje-na-ukrajinu-premier-pise-o-valce-v-okoli-527746",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -205,116 +293,6 @@
       "url": "https://www.ceskenoviny.cz/zpravy/zelenskyj-trump-evropanum-rekl-ze-po-miru-mohou-penize-na-valku-utratit-doma/2904827",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
-    },
-    {
-      "title": "Ruskou raketu nad Polskem měl pilot na mušce. Úřady prozradily, proč nevystřelil",
-      "summary": "Pilot švédské stíhačky JAS 39 Gripen dostal během ruského útoku na Ukrajinu povolení NATO sestřelit nad Polskem ruskou střelu s plochou dráhou letu. Nakonec nevystřelil.…",
-      "source": "CNN Prima NEWS",
-      "category": "svet",
-      "published_at": "2026-11-21T16:31:45+01:00",
-      "url": "https://cnn.iprima.cz/pilot-mel-ruskou-raketu-letici-na-polsko-na-musce-urady-prozradily-proc-nevystrelil-527743",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "„Špidlovi“ socialisté zvolili šéfa. Ukázali nečekanou ambici, mluví i o prezidentovi",
-      "summary": "Prvním předsedou Nové sociální demokracie (NSD) byl dnes v Jihlavě zvolen jednatřicetiletý právník Martin Matas. Na ustavujícím sjezdu získal 58 z 84 hlasů. Byl zvolen…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-21T16:16:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/nova-socialni-demokracie-si-zvolila-sefa-spidlova-levice-doufa-v-predcasne-volby/r~aaa29a23c6d43b4463a706a995d04f85/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Po útoku na loď ve Finském zálivu hlásí Helsinky možné narušení vzdušného prostoru",
-      "summary": "Finsko má podezření, že jeho vzdušný prostor narušil ruský vrtulník. Mohlo to souviset se zásahem po útoku dronů na ruskou nákladní loď v neutrálních vodách…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-21T14:52:27+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/po-utoku-na-lod-ve-finskem-zalivu-hlasi-helsinky-mozne-naruseni-vzdusneho-prostoru-379818",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Rutte Polákům slíbil, že NATO bude bránit každou píď jejich země",
-      "summary": "NATO bude bránit každou píď polského území, řekl při návštěvě Varšavy generální tajemník aliance Mark Rutte. Polští představitelé v pátek oznámili, že Rusko narušilo polský…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-21T15:51:28+01:00",
-      "url": "https://www.denik.cz/evropa/rutte-polakum-slibil-ze-nato-bude-branit-kazdou-pid-jejich-zeme/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "NATO je připraveno ochránit své členy, řekl Rutte po incidentu v Polsku",
-      "summary": "Generální tajemník NATO Mark Rutte přiletěl do Varšavy. Polský premiér Donald Tusk jeho návštěvu oznámil poté, co se na jihovýchodě země v pátek zřítily tři…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-21T12:40:17+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/sef-nato-rutte-dorazil-po-incidentu-s-ruskymi-raketami-do-varsavy-379815",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "STAN chce ve Sněmovně střely v Polsku označit za provokaci ze strany Ruska",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-21T11:50:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/stan-chce-ve-snemovne-strely-v-polsku-oznacit-za-provokaci-ze-strany-ruska/2904762",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "FBI a americké ministerstvo zemědělství se staly terčem kybernetických útoků",
-      "summary": "Americký Federální úřad pro vyšetřování (FBI) se stal terčem zřejmého kybernetického útoku, informovala dnes stanice CNN s odvoláním na zdroje blízké vyšetřování incidentu. Hackeři se…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-21T11:37:32+01:00",
-      "url": "https://www.denik.cz/svet/fbi-a-americke-ministerstvo-zemedelstvi-se-staly-tercem-kybernetickych-utoku/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Ruské hybridní hrozby přestávají být hybridní, varovala šéfka Komise",
-      "summary": "Ruské hybridní hrozby v EU přestávají být hybridní a jsou stále reálnější, uvedla šéfka Evropské komise (EK) Ursula von der Leyenová. Jde o reakci na…",
-      "source": "ČT24",
-      "category": "svet",
-      "published_at": "2026-11-21T09:44:09+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/ruske-hybridni-hrozby-jsou-stale-realnejsi-varovala-sefka-komise-379812",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Ruské hybridní hrozby v EU jsou stále reálnější, uvedla šéfka EK",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-21T10:28:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/ruske-hybridni-hrozby-v-eu-jsou-stale-realnejsi-uvedla-sefka-ek/2904755",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Vadilo mi, jak Turek a spol. popírají vědu, říká studentka o dopisu Babišovi",
-      "summary": "Devatenáctiletá studentka a lektorka Ludmila Kozlová ukazuje, že i jednotlivec může ovlivnit veřejnou debatu. Když nesouhlasila se zlehčováním vědeckých poznatků o klimatu na ministerstvu životního…",
-      "source": "Deník",
-      "category": "domaci",
-      "published_at": "2026-11-21T10:00:00+01:00",
-      "url": "https://www.denik.cz/cesko/vadilo-mi-jak-turek-a-spol-popiraji-vedu-rika-studentka-o-dopisu-babisovi/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "R5M: V Polsku se zřítily dvě ruské střely a jeden dron | Chudárek jednal s Babišem, Zavoral pozvaný nebyl | Akcie Anthropicu po čtvrtečním úspěšném startu spadly",
-      "summary": "",
-      "source": "Deník N",
-      "category": "domaci",
-      "published_at": "2026-11-21T07:18:47+00:00",
-      "url": "https://denikn.cz/newsletter/2265528/v-polsku-se-zritily-dve-ruske-strely-a-jeden-dron-chudarek-jednal-s-babisem-zavoral-pozvany-nebyl-akcie-anthropicu-po-ctvrtecnim-uspesnem-startu-spadly/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
     }
   ],
   "unavailable_sources": [],
@@ -325,9 +303,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 10,
       "selected": 6,
-      "free_articles_checked": 7
+      "free_articles_checked": 8
     },
     {
       "name": "iROZHLAS",
@@ -335,7 +313,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -345,9 +323,9 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 9,
-      "selected": 8,
-      "free_articles_checked": 8
+      "candidates": 7,
+      "selected": 6,
+      "free_articles_checked": 7
     },
     {
       "name": "Novinky.cz",
@@ -365,7 +343,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -375,7 +353,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 5,
+      "candidates": 7,
       "selected": 5,
       "free_articles_checked": 5
     },
@@ -385,9 +363,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 6,
-      "selected": 3,
-      "free_articles_checked": 3
+      "candidates": 10,
+      "selected": 5,
+      "free_articles_checked": 7
     },
     {
       "name": "iDNES.cz",
@@ -395,9 +373,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 16,
-      "selected": 4,
-      "free_articles_checked": 4
+      "candidates": 14,
+      "selected": 6,
+      "free_articles_checked": 8
     },
     {
       "name": "CNN Prima NEWS",
@@ -405,9 +383,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
-      "selected": 4,
-      "free_articles_checked": 4
+      "candidates": 9,
+      "selected": 1,
+      "free_articles_checked": 1
     },
     {
       "name": "E15",
@@ -415,7 +393,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 2,
+      "candidates": 3,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -425,7 +403,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -436,8 +414,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 1,
-      "selected": 1,
-      "free_articles_checked": 1
+      "selected": 0,
+      "free_articles_checked": 0
     },
     {
       "name": "Respekt",
@@ -465,7 +443,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
+      "candidates": 7,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -475,7 +453,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 13,
       "selected": 0,
       "free_articles_checked": 0
     }
