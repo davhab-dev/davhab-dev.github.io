@@ -3,6 +3,18 @@
   "current": null,
   "queue": [
     [
+      "https://www.ceskenoviny.cz/zpravy/vlada-v-pondeli-projedna-tresty-za-vybrzdovani-ci-ujizdeni-pred-policii/2904995",
+      "Vláda v pondělí projedná tresty za vybržďování či ujíždění před policií"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/poslanci-se-budou-zabyvat-rozpoctem-a-schvalovat-dan-na-rafinerie/2904989",
+      "Poslanci se budou zabývat rozpočtem a schvalovat daň na rafinerie"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/stihacky-munice-a-miliardy-pro-kyjev-evropane-otevreli-penezenky/r~aaa296d1f3901c7a4388913859a035db/",
+      "Stíhačky, munice a miliardy pro Kyjev. Evropané otevřeli peněženky"
+    ],
+    [
       "https://ct24.ceskatelevize.cz/clanek/domaci/armada-porizuje-drony-prekazkou-je-byrokracie-379824",
       "Armáda pořizuje drony, překážkou je byrokracie"
     ],
@@ -17,10 +29,6 @@
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/francouzsti-vojaci-na-ukrajine-pobourili-rusko-podle-medii-jsou-tam-uz-mesice-379821",
       "Francouzští vojáci na Ukrajině pobouřili Rusko. Podle médií jsou tam už měsíce"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-prichazi-s-novym-programem-na-podporu-bydleni-stary-zastavila-379817",
-      "Vláda přichází s novým programem na podporu bydlení, starý zastavila"
     ],
     [
       "https://cnn.iprima.cz/zemrel-majitel-jedne-z-nejslavnejsich-a-nejluxusnejsich-znacek-na-svete-527751",
@@ -51,10 +59,6 @@
       "Trump Evropě připomněl účet za válku na Ukrajině. V míru mají peníze utrácet doma"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/ve-finskem-zalivu-napadly-drony-ruskou-lod-zrejme-utocila-ukrajina/2904722",
-      "Ve Finském zálivu napadly drony ruskou loď, zřejmě útočila Ukrajina"
-    ],
-    [
       "https://zpravy.aktualne.cz/zahranici/vychvalil-trumpa-do-nebes-a-hned-od-nej-dostal-nabidku-ktera-se-neodmita/r~aaa2963ff79fd8620f18efd0ae34cfe1/",
       "„Mimořádná zpráva.“ Trump prozradil, kdo je lepší než Rubio i Vance"
     ],
@@ -63,16 +67,8 @@
       "Sjezd lékařské komory nezvolil nového viceprezidenta"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/slavna-hrosice-fiona-uhynula-po-spolknuti-cepice-jeji-pamatku-uctil-americky-senat.A261121_172736_zahranicni_ichuc",
-      "Památku slavné hrošice Fiony, která sežrala čepici, uctil americký Senát"
-    ],
-    [
       "https://cnn.iprima.cz/kdo-napadl-ruskou-lod-v-baltskem-mori-finsko-ukazuje-na-ukrajinu-premier-pise-o-valce-v-okoli-527746",
       "Kdo napadl ruskou loď v Baltském moři? Finsko ukazuje na Ukrajinu, premiér píše o válce v okolí"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/gripen-raketa-drony-rusko-polsko-sestrel-ch-101-general-pocasi.A261121_134157_zahranicni_sahu",
-      "NATO povolilo zničení střely nad Polskem. Proč přesto švédský gripen ani nevypálil"
     ],
     [
       "https://www.ceskenoviny.cz/zpravy/zelenskyj-trump-evropanum-rekl-ze-po-miru-mohou-penize-na-valku-utratit-doma/2904827",
@@ -85,10 +81,6 @@
     [
       "https://zpravy.aktualne.cz/domaci/nova-socialni-demokracie-si-zvolila-sefa-spidlova-levice-doufa-v-predcasne-volby/r~aaa29a23c6d43b4463a706a995d04f85/",
       "„Špidlovi“ socialisté zvolili šéfa. Ukázali nečekanou ambici, mluví i o prezidentovi"
-    ],
-    [
-      "https://zpravy.aktualne.cz/zahranici/britove-poslou-ukrajine-tajemnou-zbran-dokaze-zasahnout-cile-hluboko-v-rusku/r~aaa296920256124377b378683d27067d/",
-      "Britové pošlou Ukrajině tajemnou zbraň. Dokáže zasáhnout cíle hluboko v Rusku"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/po-utoku-na-lod-ve-finskem-zalivu-hlasi-helsinky-mozne-naruseni-vzdusneho-prostoru-379818",
@@ -111,26 +103,30 @@
       "FBI a americké ministerstvo zemědělství se staly terčem kybernetických útoků"
     ],
     [
+      "https://ct24.ceskatelevize.cz/clanek/svet/ruske-hybridni-hrozby-jsou-stale-realnejsi-varovala-sefka-komise-379812",
+      "Ruské hybridní hrozby přestávají být hybridní, varovala šéfka Komise"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/ruske-hybridni-hrozby-v-eu-jsou-stale-realnejsi-uvedla-sefka-ek/2904755",
+      "Ruské hybridní hrozby v EU jsou stále reálnější, uvedla šéfka EK"
+    ],
+    [
       "https://www.denik.cz/cesko/vadilo-mi-jak-turek-a-spol-popiraji-vedu-rika-studentka-o-dopisu-babisovi/",
       "Vadilo mi, jak Turek a spol. popírají vědu, říká studentka o dopisu Babišovi"
     ],
     [
       "https://denikn.cz/newsletter/2265528/v-polsku-se-zritily-dve-ruske-strely-a-jeden-dron-chudarek-jednal-s-babisem-zavoral-pozvany-nebyl-akcie-anthropicu-po-ctvrtecnim-uspesnem-startu-spadly/",
       "R5M: V Polsku se zřítily dvě ruské střely a jeden dron | Chudárek jednal s Babišem, Zavoral pozvaný nebyl | Akcie Anthropicu po čtvrtečním úspěšném startu spadly"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/politologove-nova-socialni-demokracie-muze-uspet-potrebuje-ale-silne-osobnosti-/2904712",
-      "Politologové: Nová sociální demokracie může uspět, potřebuje ale silné osobnosti"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 30,
+    "initial_pending": 29,
     "completed": [],
     "deferred": [],
-    "remaining": 30
+    "remaining": 29
   },
   "samples_seconds": [
     51.274763,

@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-11-21T23:13:28.280032+00:00",
+  "updated_at": "2026-11-22T06:43:39.904696+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Vláda v pondělí projedná tresty za vybržďování či ujíždění před policií",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-22T07:30:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/vlada-v-pondeli-projedna-tresty-za-vybrzdovani-ci-ujizdeni-pred-policii/2904995",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Poslanci se budou zabývat rozpočtem a schvalovat daň na rafinerie",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-22T07:00:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/poslanci-se-budou-zabyvat-rozpoctem-a-schvalovat-dan-na-rafinerie/2904989",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Stíhačky, munice a miliardy pro Kyjev. Evropané otevřeli peněženky",
+      "summary": "Ukrajina má do konce roku obdržet dalších 12 bojových letounů, miliardy na protivzdušnou obranu a nové dodávky raket, munice i dronů. Rozsáhlou vojenskou pomoc oznámily…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-22T05:30:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/stihacky-munice-a-miliardy-pro-kyjev-evropane-otevreli-penezenky/r~aaa296d1f3901c7a4388913859a035db/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Armáda pořizuje drony, překážkou je byrokracie",
       "summary": "Ministerstvo obrany připravuje nákup dronů pro Armádu ČR. „Chcete se podívat, jestli za tím lesem nebo za kopcem už není nepřítel,“ vysvětluje podplukovník Michal Peterek…",
@@ -49,8 +79,10 @@
       "category": "domaci",
       "published_at": "2026-11-21T19:38:47+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-prichazi-s-novym-programem-na-podporu-bydleni-stary-zastavila-379817",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Vláda podle ČT24 připravuje téměř šest miliard korun na dotace a zvýhodněné úvěry pro dostupné nájemní bydlení. Příjem žádostí má začít v roce 2027, nejprve v Karlovarském, Ústeckém a Moravskoslezském kraji; další část má následovat pro ostatní území včetně Prahy. Očekávaných přibližně 2900 bytů je cílem programu, nikoli již dokončenou výstavbou. Podpora může obcím umožnit rekonstrukce či výstavbu, které by z vlastního rozpočtu nezaplatily, a vysokým školám či nemocnicím pomoci zajistit bydlení pro zaměstnance. O přínosu pro konkrétní domácnosti rozhodnou teprve pravidla přidělování bytů a výše nájemného.\n\nRozhodující bude, zda nové podmínky dovolí rychle využít již připravené projekty. Opozice tvrdí, že nahrazení předchozího programu přináší prodlevy a nové žádosti; vláda naopak slibuje jednodušší podmínky a kritizuje náklady levných úvěrů. Článek sám nedokládá přesnou délku zdržení ani úsporu nové varianty. Příklad Velkého Oseka ukazuje konkrétní překážku: obec zvažuje rekonstrukci za až 40 milionů korun pro deset bytů, ale čeká na parametry podpory. Program proto může rozšířit místní nabídku, nelze z něj však odvodit rychlý pokles celostátních nájmů ani splnění samostatného vládního cíle 50 tisíc nových bytů ročně.",
+      "importance_kind": "analysis",
+      "analysis_source": "ČT24",
+      "analysis_url": "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-prichazi-s-novym-programem-na-podporu-bydleni-stary-zastavila-379817"
     },
     {
       "title": "Zemřel šéf ikony světového luxusu. Bulgari stvořil impérium, měl mimořádný talent",
@@ -129,8 +161,10 @@
       "category": "svet",
       "published_at": "2026-11-21T18:22:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/ve-finskem-zalivu-napadly-drony-ruskou-lod-zrejme-utocila-ukrajina/2904722",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
+      "importance": "Finská armáda podle ČTK potvrdila dronový útok na ruskou loď Sparta II v mezinárodních vodách Finského zálivu a za pravděpodobného původce označila Ukrajinu. To není definitivní potvrzení odpovědnosti. Finská pohraniční stráž uvedla, že poškozenou loď proudy zanesly do finských teritoriálních vod a posádka se evakuuje. Incident tak přímo zaměstnává finské orgány zajišťující bezpečnost plavby a záchranu lidí. Ruská původní vyjádření o evakuaci se měnila; rozsah škod ani další osud plavidla zatím zpráva spolehlivě neuzavírá.\n\nPodle finské pohraniční stráže je loď spojena s ruskými ozbrojenými silami, vojenský náklad ale pouze připouští. Pokud plavidlo skutečně zajišťovalo vojenské zásobování, jeho vyřazení může tuto konkrétní přepravu narušit; bez potvrzení nákladu a škod nelze vyčíslit dopad na ruskou logistiku. Finsko navíc prověřuje možné narušení vzdušného prostoru ruským vrtulníkem, které mohlo souviset se záchrannou či monitorovací operací. Pro sousední členský stát NATO je proto podstatné odděleně objasnit průběh útoku, pohyb poškozené lodi a případný přelet. Samotná zpráva nedokládá úmyslný útok na Finsko ani rozhodnutí Aliance o vojenské reakci.",
+      "importance_kind": "analysis",
+      "analysis_source": "ČTK / České noviny",
+      "analysis_url": "https://www.ceskenoviny.cz/zpravy/ve-finskem-zalivu-napadly-drony-ruskou-lod-zrejme-utocila-ukrajina/2904722"
     },
     {
       "title": "„Mimořádná zpráva.“ Trump prozradil, kdo je lepší než Rubio i Vance",
@@ -153,32 +187,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Památku slavné hrošice Fiony, která sežrala čepici, uctil americký Senát",
-      "summary": "Americký Senát v pátek jednomyslně schválil rezoluci na počest hrošice Fiony, která uhynula v zoologické zahradě v Cincinnati ve státě Ohio. Devítiletá hrošice se krátce…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-21T17:02:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/slavna-hrosice-fiona-uhynula-po-spolknuti-cepice-jeji-pamatku-uctil-americky-senat.A261121_172736_zahranicni_ichuc",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Kdo napadl ruskou loď v Baltském moři? Finsko ukazuje na Ukrajinu, premiér píše o válce v okolí",
       "summary": "V neutrálních vodách Finského zálivu v sobotu dva drony zaútočily na ruskou nákladní loď, uvedl gubernátor Leningradské oblasti Alexandr Drozděnko podle ruské služby BBC. Dronový…",
       "source": "CNN Prima NEWS",
       "category": "svet",
       "published_at": "2026-11-21T17:47:00+01:00",
       "url": "https://cnn.iprima.cz/kdo-napadl-ruskou-lod-v-baltskem-mori-finsko-ukazuje-na-ukrajinu-premier-pise-o-valce-v-okoli-527746",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "NATO povolilo zničení střely nad Polskem. Proč přesto švédský gripen ani nevypálil",
-      "summary": "Švédský pilot stíhačky Gripen měl povolení od NATO sestřelit ruský objekt, pravděpodobně střelu Ch-101, který pronikl do polského vzdušného prostoru. Kvůli mimořádně špatnému počasí ale…",
-      "source": "iDNES.cz",
-      "category": "svet",
-      "published_at": "2026-11-21T16:32:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/gripen-raketa-drony-rusko-polsko-sestrel-ch-101-general-pocasi.A261121_134157_zahranicni_sahu",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -209,16 +223,6 @@
       "category": "domaci",
       "published_at": "2026-11-21T16:16:00+01:00",
       "url": "https://zpravy.aktualne.cz/domaci/nova-socialni-demokracie-si-zvolila-sefa-spidlova-levice-doufa-v-predcasne-volby/r~aaa29a23c6d43b4463a706a995d04f85/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Britové pošlou Ukrajině tajemnou zbraň. Dokáže zasáhnout cíle hluboko v Rusku",
-      "summary": "Velká Británie poskytne Ukrajině více než tisíc útočných dronů dlouhého dosahu, z nichž některé mohou zasahovat cíle vzdálené přes 1000 kilometrů. Balík vojenské pomoci v…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-21T15:56:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/britove-poslou-ukrajine-tajemnou-zbran-dokaze-zasahnout-cile-hluboko-v-rusku/r~aaa296920256124377b378683d27067d/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -273,6 +277,26 @@
       "importance_kind": "pending"
     },
     {
+      "title": "Ruské hybridní hrozby přestávají být hybridní, varovala šéfka Komise",
+      "summary": "Ruské hybridní hrozby v EU přestávají být hybridní a jsou stále reálnější, uvedla šéfka Evropské komise (EK) Ursula von der Leyenová. Jde o reakci na…",
+      "source": "ČT24",
+      "category": "svet",
+      "published_at": "2026-11-21T09:44:09+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/ruske-hybridni-hrozby-jsou-stale-realnejsi-varovala-sefka-komise-379812",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Ruské hybridní hrozby v EU jsou stále reálnější, uvedla šéfka EK",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-21T10:28:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/ruske-hybridni-hrozby-v-eu-jsou-stale-realnejsi-uvedla-sefka-ek/2904755",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
       "title": "Vadilo mi, jak Turek a spol. popírají vědu, říká studentka o dopisu Babišovi",
       "summary": "Devatenáctiletá studentka a lektorka Ludmila Kozlová ukazuje, že i jednotlivec může ovlivnit veřejnou debatu. Když nesouhlasila se zlehčováním vědeckých poznatků o klimatu na ministerstvu životního…",
       "source": "Deník",
@@ -291,16 +315,6 @@
       "url": "https://denikn.cz/newsletter/2265528/v-polsku-se-zritily-dve-ruske-strely-a-jeden-dron-chudarek-jednal-s-babisem-zavoral-pozvany-nebyl-akcie-anthropicu-po-ctvrtecnim-uspesnem-startu-spadly/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
-    },
-    {
-      "title": "Politologové: Nová sociální demokracie může uspět, potřebuje ale silné osobnosti",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-21T06:10:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/politologove-nova-socialni-demokracie-muze-uspet-potrebuje-ale-silne-osobnosti-/2904712",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
     }
   ],
   "unavailable_sources": [],
@@ -311,8 +325,8 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 10,
-      "selected": 5,
+      "candidates": 9,
+      "selected": 6,
       "free_articles_checked": 7
     },
     {
@@ -331,8 +345,8 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 8,
-      "selected": 6,
+      "candidates": 9,
+      "selected": 8,
       "free_articles_checked": 8
     },
     {
@@ -341,7 +355,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 12,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -351,7 +365,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 9,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -361,9 +375,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 7,
+      "candidates": 5,
       "selected": 5,
-      "free_articles_checked": 7
+      "free_articles_checked": 5
     },
     {
       "name": "Deník",
@@ -382,8 +396,8 @@
       "feeds_total": 1,
       "status": "ok",
       "candidates": 16,
-      "selected": 6,
-      "free_articles_checked": 6
+      "selected": 4,
+      "free_articles_checked": 4
     },
     {
       "name": "CNN Prima NEWS",
@@ -391,7 +405,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 10,
       "selected": 4,
       "free_articles_checked": 4
     },
@@ -411,7 +425,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 11,
+      "candidates": 8,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -451,7 +465,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -461,7 +475,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     }
