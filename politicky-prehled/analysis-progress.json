@@ -3,6 +3,18 @@
   "current": null,
   "queue": [
     [
+      "https://www.ceskenoviny.cz/zpravy/vlada-projedna-novelu-ktera-resi-vybrzdovani-ci-ujizdeni-pred-policii/2904995",
+      "Vláda projedná novelu, která řeší vybržďování či ujíždění před policií"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/vedeni-ods-s-regiony-probere-strategii-kterou-chce-zlomit-klesajici-preference/2905252",
+      "Vedení ODS s regiony probere strategii, kterou chce zlomit klesající preference"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/premieri-zemi-v4-se-v-bratislave-sejdou-s-rakouskym-kanclerem/2905251",
+      "Premiéři zemí V4 se v Bratislavě sejdou s rakouským kancléřem"
+    ],
+    [
       "https://zpravy.aktualne.cz/domaci/patova-situace-beroun-se-noveho-vedeni-nejspis-nedocka-ani-v-pondeli/r~aaa294ad035cd21e273474ed703c777e/",
       "Patová situace. Beroun se nového vedení nejspíš nedočká ani v pondělí"
     ],
@@ -71,10 +83,6 @@
       "Hádka a kolaps na klimatické konferenci. Země OSN mají aspoň rekord v její délce"
     ],
     [
-      "https://www.idnes.cz/zpravy/domaci/macinka-dobry-by-byl-system-protivzdusne-obrany-daviduv-prak-arrow-nevhodny.A261122_143907_domaci_remy",
-      "Macinka řekl, jaký je pro Česko nejlepší izraelský systém protivzdušné obrany"
-    ],
-    [
       "https://www.denik.cz/svet/staty-na-klimaticke-konferenci-se-neshodly-na-deklaraci-hrozi-kolaps-jednani/",
       "Jednání na klimatické konferenci zkolabovala. Státy se neshodly na deklaraci"
     ],
@@ -97,20 +105,16 @@
     [
       "https://www.ceskenoviny.cz/zpravy/navrh-rozpoctu-eu-je-podle-babise-pro-cesko-absolutne-neprijatelny/2905029",
       "Návrh rozpočtu EU je podle Babiše pro Česko absolutně nepřijatelný"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/poslanci-se-budou-zabyvat-rozpoctem-a-schvalovat-dan-na-rafinerie/2904989",
-      "Poslanci se budou zabývat rozpočtem a schvalovat daň na rafinerie"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 25,
+    "initial_pending": 26,
     "completed": [],
     "deferred": [],
-    "remaining": 25
+    "remaining": 26
   },
   "samples_seconds": [
     51.274763,

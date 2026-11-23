@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-11-22T21:44:45.342971+00:00",
+  "updated_at": "2026-11-23T02:43:41.119878+00:00",
   "window_hours": 24,
   "articles": [
+    {
+      "title": "Vláda projedná novelu, která řeší vybržďování či ujíždění před policií",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-23T00:10:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/vlada-projedna-novelu-ktera-resi-vybrzdovani-ci-ujizdeni-pred-policii/2904995",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Vedení ODS s regiony probere strategii, kterou chce zlomit klesající preference",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-23T00:08:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/vedeni-ods-s-regiony-probere-strategii-kterou-chce-zlomit-klesajici-preference/2905252",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Premiéři zemí V4 se v Bratislavě sejdou s rakouským kancléřem",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-23T00:07:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/premieri-zemi-v4-se-v-bratislave-sejdou-s-rakouskym-kanclerem/2905251",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
     {
       "title": "Patová situace. Beroun se nového vedení nejspíš nedočká ani v pondělí",
       "summary": "Povolební jednání v Berouně stále nepřinesla výsledek. Lídryně vítězného uskupení Beroun sobě Barbora Skálová na pondělním pokračování ustavujícího zastupitelstva navrhne jeho další odložení o týden.",
@@ -173,16 +203,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Macinka řekl, jaký je pro Česko nejlepší izraelský systém protivzdušné obrany",
-      "summary": "Pro Českou republiku by byly podle ministra zahraničních věcí Petra Macinky (Motoristé) ideální systémy protivzdušné obrany podobného typu, jako je izraelský David’s Sling (Davidův prak).…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-22T13:50:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/macinka-dobry-by-byl-system-protivzdusne-obrany-daviduv-prak-arrow-nevhodny.A261122_143907_domaci_remy",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Jednání na klimatické konferenci zkolabovala. Státy se neshodly na deklaraci",
       "summary": "Jednání na nejdéle trvající klimatické konferenci OSN v historii COP31 zkolabovala, uvedla agentura Reuters. Stalo se tak poté, co se státy neshodly na společné deklaraci,…",
       "source": "Deník",
@@ -241,28 +261,6 @@
       "url": "https://www.ceskenoviny.cz/zpravy/navrh-rozpoctu-eu-je-podle-babise-pro-cesko-absolutne-neprijatelny/2905029",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
-    },
-    {
-      "title": "Vláda v pondělí projedná tresty za vybržďování či ujíždění před policií",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-22T07:30:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/vlada-v-pondeli-projedna-tresty-za-vybrzdovani-ci-ujizdeni-pred-policii/2904995",
-      "importance": "Ministerstvo spravedlnosti navrhuje nový trestný čin ohrožení v silničním provozu. Podle zprávy ČTK má umožnit trestní postih nebezpečného vybržďování, vytlačování vozidel či ujíždění policistům i před vznikem závažného zranění. Vláda má návrh teprve projednat 23. listopadu 2026; popsané sazby proto nejsou nově platnými tresty. Ministerstvo zdůvodňuje změnu tím, že dosavadní přestupkový postih části agresivního jednání neodpovídá riziku pro ostatní účastníky provozu. Jde o argument předkladatele, nikoli o doložený výsledek nové úpravy.\n\nPraktickým přínosem by mohla být možnost zasáhnout proti závažnému ohrožování dříve, než skončí nehodou. Zásadní však bude konečné vymezení trestného jednání a dokazování konkrétního průběhu jízdy: samotné zavedení vyšších sazeb nezaručuje odhalení ani odsouzení pachatele. Návrh podle ČTK počítá také se zabráním motorového vozidla, které má omezit další jízdy lidí bez oprávnění. Pro řidiče, policii i soudy proto bude důležité schválené znění a podmínky jednotlivých postihů. Zpráva zatím nedokládá dokončení legislativního procesu ani datum účinnosti; nelze podle ní tvrdit, že každé prudké brzdění bude automaticky trestným činem.",
-      "importance_kind": "analysis",
-      "analysis_source": "ČTK / České noviny",
-      "analysis_url": "https://www.ceskenoviny.cz/zpravy/vlada-v-pondeli-projedna-tresty-za-vybrzdovani-ci-ujizdeni-pred-policii/2904995"
-    },
-    {
-      "title": "Poslanci se budou zabývat rozpočtem a schvalovat daň na rafinerie",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-22T07:00:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/poslanci-se-budou-zabyvat-rozpoctem-a-schvalovat-dan-na-rafinerie/2904989",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
     }
   ],
   "unavailable_sources": [],
@@ -293,9 +291,9 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 4,
-      "selected": 4,
-      "free_articles_checked": 4
+      "candidates": 6,
+      "selected": 5,
+      "free_articles_checked": 6
     },
     {
       "name": "Novinky.cz",
@@ -303,7 +301,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 15,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -343,9 +341,9 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
-      "selected": 6,
-      "free_articles_checked": 6
+      "candidates": 15,
+      "selected": 5,
+      "free_articles_checked": 5
     },
     {
       "name": "CNN Prima NEWS",
@@ -353,7 +351,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 9,
+      "candidates": 10,
       "selected": 2,
       "free_articles_checked": 2
     },
@@ -403,7 +401,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 2,
+      "candidates": 6,
       "selected": 0,
       "free_articles_checked": 0
     },
