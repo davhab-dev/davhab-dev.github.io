@@ -3,134 +3,154 @@
   "current": null,
   "queue": [
     [
-      "https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-krym-desetidenni-omezeni-dodavky-elektrina.A261124_113418_zahranicni_rtn",
-      "Krym čeká deset dní omezené elektřiny. Havarijní práce, zdůvodňují to úřady"
+      "https://zpravy.aktualne.cz/zahranici/americke-rozvedky-celily-kybernetickemu-utoku-unikly-pri-nem-nektere-informace/r~aaa294b6e495dc64fe246ad6757faae6/",
+      "Americké rozvědky čelily kybernetickému útoku, unikly při něm některé informace"
     ],
     [
-      "https://www.idnes.cz/zpravy/domaci/hozeni-dlazebni-kostkou-u-snemovny-policie-proveruje-pro-trestny-cin-vytrznictvi.A261124_110450_domaci_ptac",
-      "Policie šetří hození dlažební kostkou na Sněmovnu jako trestný čin"
+      "https://www.idnes.cz/zpravy/zahranicni/rusky-velvyslanec-byl-predvolan-na-polske-ministerstvo-kvuli-ruskym-strelam.A261124_211948_zahranicni_tbr",
+      "Poláci si předvolali ruského diplomata kvůli raketám. Nebyly naše, řekl a rychle odešel"
     ],
     [
-      "https://www.idnes.cz/zpravy/domaci/jednani-koalicni-rady-ano-spd-motoriste-rozpocet-poplatky.A261124_080900_domaci_lupr",
-      "Koaliční rada schválila miliardy navíc pro zemědělství. Polepší si i kultura a sport"
+      "https://www.idnes.cz/zpravy/zahranicni/trump-udelil-exstarostovi-new-yorku-giulianimu-nejvyssi-civilni-vyznamenani.A261124_211532_zahranicni_balu",
+      "Nejvyšší medaile pro Giulianiho. Trump ocenil spojence, který šířil lži o volebním podvodu"
     ],
     [
       "https://www.idnes.cz/zpravy/zahranicni/prvni-navsteva-od-roku-2015-magyar-se-na-ukrajine-setka-se-zelenskym.A261124_102945_zahranicni_bro",
-      "První návštěva od roku 2015. Magyar se na Ukrajině setká se Zelenským"
+      "První návštěva od roku 2015. Magyar na Ukrajině uctil padlé vojáky"
     ],
     [
-      "https://zpravy.aktualne.cz/zahranici/europarlament-varuje-pred-oslabenim-nezavislosti-ceskych-verejnopravnich-medii/r~aaa29b2d16bd63ff01661eabb14d4677/",
-      "Europarlament varuje před oslabením nezávislosti českých veřejnoprávních médií"
+      "https://www.idnes.cz/praha/zpravy/praha-sobe-vyloucila-dva-zastupitele-z-prahy-12-koalice-ano.A261124_203335_domaci_balu",
+      "Praha sobě vyloučila dva své zastupitele v Praze 12. Vadí jí jejich koalice s ANO"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/svet/kongres-ma-co-vysetrovat-zni-od-republikanu-kvuli-navratu-jensena-do-nvidie-379897",
-      "Kongres má co vyšetřovat, zní od republikánů kvůli návratu Jensena do Nvidie"
+      "https://www.idnes.cz/zpravy/domaci/jednani-snemovny-o-novele-energetickeho-zakona.A261124_195853_domaci_kop",
+      "Zrychlené schválení zákona, který umožní regulovat ceny elektřiny, opozice vetovala"
     ],
     [
-      "https://www.idnes.cz/ekonomika/zahranicni/huanguv-navrat-reziroval-trump-predstavenstvo-podle-expertu-ztratilo-autoritu.A261124_094317_eko-zahranicni_ven",
-      "Huangův návrat režíroval Trump. Představenstvo podle expertů ztratilo autoritu"
+      "https://www.denik.cz/svet/v-kolumbijske-cartagene-ozbrojenci-prepadli-supermarket-vzali-30-rukojmich/",
+      "V kolumbijské Cartageně ozbrojenci přepadli supermarket, vzali 30 rukojmích"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/v-kolumbii-prepadli-supermarket-a-vzali-rukojmi-utocnici-pozaduji-penize-i-auta/r~aaa29beabe8ea76cfeebd481bbd7f2a5/",
+      "V Kolumbii přepadli supermarket a vzali rukojmí. Útočníci požadují peníze i auta"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/trump-udelil-exstarostovi-new-yorku-giulianimu-nejvyssi-civilni-vyznamenani/2906193",
+      "Trump udělil exstarostovi New Yorku Giulianimu nejvyšší civilní vyznamenání"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/okamura-zustava-v-cele-snemovny-opozice-neprosadila-ani-paty-pokus-o-jeho-odvolani/r~aaa2994920e2b8168ab326ebb3b797be/",
+      "Okamura zůstává v čele Sněmovny. Opozice neprosadila ani pátý pokus o jeho odvolání"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/putin-saha-po-satanovi-snimky-prozradily-co-rusove-ukladaji-do-sibirskeho-sila/r~aaa29865199efc45e284df5d7a603c98/",
+      "Putin sahá po „Satanovi“. Snímky prozradily, co Rusové ukládají do sibiřského sila"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/magyar-se-sesel-se-zelenskym-uctili-pamatku-padlych-ukrajinskych-vojaku/2905811",
+      "Magyar se sešel se Zelenským, uctili památku padlých ukrajinských vojáků"
     ],
     [
       "https://www.idnes.cz/zpravy/domaci/snemovna-snizeni-podpor-v-nezamestnanosti-zakonik-prace-svarsystem.A261124_051923_domaci_kop",
-      "Poslance čeká bitva o snížení podpor v nezaměstnanosti a o švarcsystém"
+      "Jurečka varuje před legalizací švarcsystému. Koalice dohodla snížení podpor"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/ep-zkritizuje-postup-ceske-vlady-vuci-mediim-ukazuje-navrh-usneseni/2905847",
-      "EP zkritizuje postup české vlády vůči médiím, ukazuje návrh usnesení"
+      "https://cnn.iprima.cz/sucho-hrozilo-skiarealum-krachem-situaci-zachranovaly-deste-poslednich-dnu-528039",
+      "Sucho hrozilo skiareálům krachem. Situaci zachraňovaly deště posledních dnů"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/vhozeni-kostky-pri-protestu-u-snemovny-by-podle-policie-mohl-byt-trestny-cin-379895",
-      "Vhození kostky při protestu u sněmovny by podle policie mohl být trestný čin"
+      "https://www.ceskenoviny.cz/zpravy/opozice-popate-neprosadila-projednani-okamurova-odvolani-z-cela-snemovny/2906168",
+      "Opozice popáté neprosadila projednání Okamurova odvolání z čela Sněmovny"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-schvalila-zapojeni-ceska-do-druhe-faze-programu-safe-oznamil-zuna-379896",
-      "Vláda schválila zapojení Česka do druhé fáze programu SAFE, oznámil Zůna"
+      "https://zpravy.aktualne.cz/domaci/koalice-s-ano-je-pro-nas-neprijatelna-rika-scheinherr-praha-sobe-vyloucila-dva-cleny/r~aaa29ce24461703691526b9e9aa25fa3/",
+      "Koalice s ANO je pro nás nepřijatelná, říká Scheinherr. Praha sobě vyloučila dva členy"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/v-cr-bude-od-roku-2027-fungovat-nova-forma-digitalni-identity-platna-v-cele-eu/2905823",
-      "V ČR bude od roku 2027 fungovat nová forma digitální identity platná v celé EU"
+      "https://zpravy.aktualne.cz/domaci/babis-oznamil-navrat-75procentnich-slev-na-jizdnem-pro-studenty-a-seniory/r~aaa2921b18c683a7da71c43982565973/",
+      "Babiš oznámil návrat 75procentních slev na jízdném pro studenty a seniory"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/koalice-smeruje-k-dohode-o-podpore-v-nezamestnanosti-oznami-ji-ve-stredu-/2905763",
-      "Koalice směřuje k dohodě o podpoře v nezaměstnanosti, oznámí ji ve středu"
+      "https://www.idnes.cz/zpravy/domaci/opozice-chce-ve-snemovne-resit-dopad-ruskych-strel-v-polsku.A261124_131006_domaci_kop",
+      "Macinka vyjádřil solidaritu Polsku. Koalice pak odmítla jednat o počínání Ruska"
     ],
     [
-      "https://zpravy.aktualne.cz/domaci/bez-eu-a-nato-by-cesko-bezpecnost-nezajistilo-varuje-petr-pavel/r~aaa29aa4f7a876ee865a783d953b562b/",
-      "Bez EU a NATO by Česko bezpečnost nezajistilo, varuje Petr Pavel"
+      "https://www.ceskenoviny.cz/zpravy/praha-sobe-vyloucila-dva-zastupitele-z-prahy-12-kteri-jsou-v-koalici-s-ano/2906138",
+      "Praha sobě vyloučila dva zastupitele z Prahy 12, kteří jsou v koalici s ANO"
     ],
     [
-      "https://www.denik.cz/cesko/safe-pujcky-nakupy-zbrane-cesko-zapojeni/",
-      "Česko si řekne o evropské půjčky na nákupy zbraní, oznámil Zůna rozhodnutí vlády"
+      "https://ct24.ceskatelevize.cz/clanek/domaci/pravidla-pro-skolni-jidelny-by-melo-nahradit-zavazne-minimum-uvedl-plaga-379918",
+      "Závazné minimum, ne jen doporučení. Plaga u pravidel pro školní jídelny otáčí"
     ],
     [
-      "https://www.denik.cz/cesko/denis-doksansky-tanecnice-chovani-nocni-podnik-omluva/",
-      "Byla to chyba. Poslanec Doksanský se omluvil za chování v nočním klubu"
+      "https://www.ceskenoviny.cz/zpravy/senatniho-slyseni-k-obrane-statu-se-zucastni-pavel-prijit-ma-i-zuna/2906130",
+      "Senátního slyšení k obraně státu se zúčastní Pavel, přijít má i Zůna"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/magyar-oznamil-ze-se-dnes-na-zapade-ukrajiny-sejde-se-zelenskym/2905811",
-      "Magyar oznámil, že se dnes na západě Ukrajiny sejde se Zelenským"
+      "https://www.denik.cz/evropa/sarkozy-a-jeho-zena-stanou-pred-soudem-celi-podezreni-z-ovlivnovani-svedka/",
+      "Sarkozy a jeho žena stanou před soudem. Čelí podezření z ovlivňování svědka"
+    ],
+    [
+      "https://www.denik.cz/evropa/polsko-predvolalo-ruskeho-velvyslance-zada-vysvetleni-dopadu-ruskych-strel/",
+      "Polsko předvolalo ruského velvyslance. Žádá vysvětlení dopadu ruských střel"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/plaga-pravidla-pro-skolni-jidelny-by-melo-nahradit-jednodussi-zavazne-minimum/2906118",
+      "Plaga: Pravidla pro školní jídelny by mělo nahradit jednodušší závazné minimum"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/premieri-v4-zadaji-v-dopise-analyzu-dopadu-emisniho-systemu-ets2-a-jeho-odklad/2906111",
+      "Premiéři V4 žádají v dopise analýzu dopadů emisního systému ETS2 a jeho odklad"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/vyroci-prvniho-transportu-do-terezina-pripomina-unikatni-album-379914",
+      "Výročí prvního transportu do Terezína připomíná unikátní album"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/napeti-kvuli-valce-mezi-ruskem-a-ukrajinou-se-siri-od-libye-po-polsko-379908",
+      "Napětí kvůli válce mezi Ruskem a Ukrajinou se šíří od Libye po Polsko"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/v-nemecku-obzalovali-dalsi-lidi-v-kauze-pripravy-statniho-prevratu-379910",
+      "V Německu obžalovali další lidi v kauze přípravy státního převratu"
+    ],
+    [
+      "https://www.denik.cz/evropa/pellegrini-zada-zmenu-zakonu-chce-posilit-ochranu-slovenskeho-nebe/",
+      "Pellegrini žádá změnu zákonů. Chce posílit ochranu slovenského nebe"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/britska-tajna-sluzba-varovala-firmy-podporujici-ukrajinu-pred-ruskymi-sabotazemi-379907",
+      "Britská tajná služba varovala firmy podporující Ukrajinu před ruskými sabotážemi"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/rusko-verbuje-v-evrope-skrze-discord-telegram-a-whatsapp-agenty-tvrdi-ukrajinska-rozvedka-379903",
+      "Rusko verbuje v Evropě skrze Discord, Telegram a WhatsApp „agenty“, tvrdí ukrajinská rozvědka"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/snemovna-ma-na-programu-platformovou-praci-379888",
+      "Poslanci po řadě hodin schválili program schůze. Můžou jednat až do noci"
+    ],
+    [
+      "https://www.denik.cz/cesko/cesko-pripravenost-krize-armady-spojenci/",
+      "Česko musí být připravené hostit vojska spojenců, uvedli experti"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/zemedelstvi-pridame-dve-miliardy-na-ukor-zivotniho-prostredi-shodla-se-koalice-379901",
+      "Zemědělství přidáme dvě miliardy na úkor životního prostředí, shodla se koalice"
     ],
     [
       "https://cnn.iprima.cz/rusko-chce-testovat-soudrznost-nato-rekl-hlavac-bezpecnostni-situace-zustava-vazna-527966",
       "Náčelník generálního štábu: Obranné výdaje jsou na limitu. Rusko testuje soudržnost NATO"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/exprimator-pardubic-charvat-dostal-u-soudu-penezity-trest-a-zakaz-cinnosti-379890",
-      "Exprimátor Pardubic Charvát dostal u soudu peněžitý trest a zákaz činnosti"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/tusk-rekl-kolegum-z-v4-ze-solidarita-s-ukrajinou-je-solidarita-s-polskem/2905778",
-      "Tusk řekl kolegům z V4, že solidarita s Ukrajinou je solidarita s Polskem"
-    ],
-    [
-      "https://zpravy.aktualne.cz/zahranici/kazdych-pet-minut-zemre-rus-unik-tajnych-dat-ukazal-na-obrovsky-rozsah-ztrat/r~aaa29ed38fc12cf012580cfcaaddb1c0/",
-      "Každých pět minut zemře Rus. Únik tajných dat ukázal na obrovský rozsah ztrát"
-    ],
-    [
-      "https://cnn.iprima.cz/kratom-v-datech-kdy-latka-zacala-do-ceska-pronikat-a-jak-se-projevuje-regulace-527552",
-      "Kratom zkusil každý desátý Čech. Babiš se chlubí propadem dovozu, jeho zákon ale ještě neplatí"
-    ],
-    [
-      "https://zpravy.aktualne.cz/zahranici/ukrajina-ceka-na-60-strel-patriot-pentagon-dodavku-zatim-neschvalil/r~aaa29c509933461ebfa7dbf1704681f3/",
-      "Brzdí to Hegseth. Ukrajina čeká na dodávku střel Patriot, Evropa už je zaplatila"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/pentagon-zatim-neschvalil-dodavky-60-strel-patriot-pro-ukrajinu/2905747",
-      "Pentagon zatím neschválil dodávky 60 střel Patriot pro Ukrajinu"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/moskva-chce-rozdelit-brehy-dnepru-kyjev-hleda-k-zasazenym-mostum-alternativy-379854",
-      "Moskva chce rozdělit břehy Dněpru, Kyjev hledá k zasaženým mostům alternativy"
-    ],
-    [
-      "https://cnn.iprima.cz/praminek-vlasu-zakladatele-usa-se-vydrazil-za-ctyri-tisice-dolaru-barvil-ho-pudrem-527888",
-      "Pramínek vlasů zakladatele USA se vydražil za čtyři tisíce dolarů. Barvil ho pudrem"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/velitelske-shromazdeni-probere-priority-armady-na-pristi-rok-379887",
-      "Armáda při rozpočtu ve výši dvou procent HDP naráží na své limity, řekl Hlaváč"
-    ],
-    [
-      "https://www.denik.cz/svet/trump-zverejnil-fotomontaz-sefa-nvidie-huang-na-ni-drzi-cervenou-podprsenku/",
-      "Trump zveřejnil fotomontáž šéfa Nvidie. Huang na ní drží červenou podprsenku"
-    ],
-    [
-      "https://www.denik.cz/svet/iranska-zpevacka-vystoupila-bez-hidzabu-dostala-74-ran-bicem/",
-      "Íránská zpěvačka vystoupila bez hidžábu. Dostala 74 ran bičem"
-    ],
-    [
-      "https://cnn.iprima.cz/svoboda-je-to-zlom-soucasti-miru-na-ukrajine-bude-pardon-pro-vsechny-rusko-platit-nebude-527926",
-      "Svoboda: Je to zlom. Součástí míru na Ukrajině bude pardon pro všechny, Rusko platit nebude"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 30,
+    "initial_pending": 35,
     "completed": [],
     "deferred": [],
-    "remaining": 30
+    "remaining": 35
   },
   "samples_seconds": [
     51.274763,
