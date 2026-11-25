@@ -1,6 +1,60 @@
 {
-  "updated": "2026-11-25T15:13:13.596955+00:00",
+  "updated": "2026-11-25T23:42:53.930276+00:00",
   "articles": [
+    {
+      "title": "Nike announces major return to pro cycling with new Team Visma | Lease a Bike partnership",
+      "summary": "The expanded partnership teases an intriguing future for the storied clothing brand",
+      "url": "https://www.bikeradar.com/news/nike-team-visma-lease-a-bike-2027-partnership",
+      "source": "BikeRadar",
+      "lang": "EN",
+      "category": "Technika",
+      "published": "2026-11-25T16:48:41+00:00"
+    },
+    {
+      "title": "'The more I was thinking, the more I didn't know what to do' – Primož Roglič on looking retirement in the eye, his 'really fast' move to NSN, and why he could even race beyond 2027",
+      "summary": "Slovenian gives an interview from NSN Cycling's pre-season training camp, reflecting on an uncertain off-season and what the future holds",
+      "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/the-more-i-was-thinking-the-more-i-didnt-know-what-to-do-primoz-roglic-on-looking-retirement-in-the-eye-his-really-fast-move-to-nsn-and-why-he-could-even-race-beyond-2027/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Trénink",
+      "published": "2026-11-25T16:31:25+00:00"
+    },
+    {
+      "title": "Get big savings on the best waterproof winter cycling gloves we've tested in this early Black Friday deal",
+      "summary": "Keep your hands warm as temperatures drop AND save money with 23% off the excellent GripGrab Polaris 2 gloves",
+      "url": "https://www.cyclingnews.com/cycling-kit-accessories/gripgrab-polaris-2-gloves-deal/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-25T16:24:39+00:00"
+    },
+    {
+      "title": "My favourite electric bike pump has 28% off for Black Friday",
+      "summary": "Top-rated electric mini pump has been upgraded and is now available for less",
+      "url": "https://www.bikeradar.com/news/prestaflator-go-black-friday-2026",
+      "source": "BikeRadar",
+      "lang": "EN",
+      "category": "Technika",
+      "published": "2026-11-25T16:00:00+00:00"
+    },
+    {
+      "title": "Black Friday Garmin deals - Big discounts on computers, watches and hardware",
+      "summary": "All the best Black Friday Garmin deals in one place",
+      "url": "https://www.cyclingnews.com/cycling-tech-components/black-friday-garmin-deals-big-discounts-on-computers-watches-and-hardware/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-25T15:43:55+00:00"
+    },
+    {
+      "title": "The UCI's registration rules strike again, delaying Shirin van Anrooij's debut with Canyon-SRAM",
+      "summary": "Dutch rider forced to register as independent for first five weeks of 'cross campaign",
+      "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/the-ucis-registration-rules-strike-again-delaying-shirin-van-anrooijs-debut-with-canyon-sram/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-25T15:38:41+00:00"
+    },
     {
       "title": "'It's really the hope that kills you' – A season of resets for Rory Townsend",
       "summary": "Injury hangs over Irish rider's first year with Unibet Rose Rockets but 'I found other ways to make myself useful'",
@@ -90,6 +144,15 @@
       "lang": "EN",
       "category": "Technika",
       "published": "2026-11-25T10:00:00+00:00"
+    },
+    {
+      "title": "Kolo pro život 2027: Osm závodů, nabité září a stále populárnější gravel",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/kolo-pro-zivot-2027-osm-zavodu-nabite-zari-a-stale-popularnejsi-gravel/kategorie/xcm-kolo-pro-zivot",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "Gravel",
+      "published": "2026-11-25"
     },
     {
       "title": "TEST: Giro Montaro MIPS III – Trailová klasika v nové podobě",
@@ -1199,15 +1262,6 @@
       "published": "2026-11-18T05:00:00+00:00"
     },
     {
-      "title": "Přestupová mapa MTB 2027: Mistři světa s otazníkem, velké týmy končí. Kdo už má jasno?",
-      "summary": "",
-      "url": "https://mtbs.cz/clanek/prestupova-mapa-mtb-2027-mistri-sveta-s-otaznikem-velke-tymy-konci-kdo-uz-ma-jasno/kategorie/tymy-a-kluby",
-      "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-11-18"
-    },
-    {
       "title": "Kärcher OC 7-18 Handheld: Ten správný kompromis na všechno?",
       "summary": "",
       "url": "https://www.mtbiker.cz/clanky/132129/karcher-oc-7-18-handheld-ten-spravny-kompromis-na-vsechno.html",
@@ -1241,6 +1295,15 @@
       "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Cyklistika",
+      "published": "2026-11-18"
+    },
+    {
+      "title": "Přestupová mapa MTB 2027: Mistři světa s otazníkem, velké týmy končí. Kdo už má jasno?",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/prestupova-mapa-mtb-2027-mistri-sveta-s-otaznikem-velke-tymy-konci-kdo-uz-ma-jasno/kategorie/tymy-a-kluby",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
       "published": "2026-11-18"
     },
     {
@@ -3087,69 +3150,6 @@
       "lang": "EN",
       "category": "MTB",
       "published": "2026-11-04T14:00:00+00:00"
-    },
-    {
-      "title": "Simon says: this unreleased Specialized alloy gravel bike could be amazing",
-      "summary": "The one bike Simon wants to see from Specialized is a new aluminium Crux DSW",
-      "url": "https://www.bikeradar.com/features/opinion/unreleased-aero-specialized-crux-dsw",
-      "source": "BikeRadar Gravel",
-      "lang": "EN",
-      "category": "Gravel",
-      "published": "2026-11-04T12:00:00+00:00"
-    },
-    {
-      "title": "Collapsible bicycle helmets pass safety standards but offer less protection, study finds",
-      "summary": "Research from the HEAD Lab at Imperial College London found that, on average, collapsible helmets provide lower levels of protection against serious head injuries than non-collapsible helmets",
-      "url": "https://www.bikeradar.com/news/collapsible-bicycle-helmets-offer-less-protection",
-      "source": "BikeRadar",
-      "lang": "EN",
-      "category": "Technika",
-      "published": "2026-11-04T11:18:26+00:00"
-    },
-    {
-      "title": "Bell 3Qtr-Air MIPS review: one of the chunkiest open-face helmets around offers plenty of protection",
-      "summary": "As much protection as possible without a full-face helmet, but are the compromises worth it?",
-      "url": "https://www.bikeradar.com/reviews/helmets/mountain-bike-helmets/bell-3qtr-air-mips",
-      "source": "BikeRadar MTB",
-      "lang": "EN",
-      "category": "Technika",
-      "published": "2026-11-04T10:00:00+00:00"
-    },
-    {
-      "title": "HONDA RN0 – Velký návrat do (e)MTB + nový motor Shimano",
-      "summary": "Již v září jsme na tuto plánovanou novinku upozornili, nyní je oficiálně venku! HONDA se vrací do světa MTB, nebo spíše",
-      "url": "https://www.bikeandride.cz/2026/11/honda-rn0-velky-navrat-do-emtb-novy-motor-shimano/",
-      "source": "BikeAndRide.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-11-04T09:04:46+00:00"
-    },
-    {
-      "title": "VYZKOUŠENO: dres na kolo s kapucí IXS Carve 1.0",
-      "summary": "Tomuhle svršku můžete stejně jako německý výrobce říkat dres s kapucí, ale klidně taky mikina nebo bunda. Ani v jednom směru ... The post VYZKOUŠENO: dres na kolo s kapucí IXS Carve 1.0 appeared first on iVELO .",
-      "url": "https://www.ivelo.cz/test-dres-na-kolo-ixs-carve-1-0/",
-      "source": "iVELO.cz",
-      "lang": "CS",
-      "category": "Technika",
-      "published": "2026-11-04T05:02:59+00:00"
-    },
-    {
-      "title": "VYZKOUŠENO: dres s kapucí IXS Carve 1.0",
-      "summary": "Tomuhle svršku můžete stejně jako německý výrobce říkat dres s kapucí, ale klidně taky mikina nebo bunda. Ani v jednom směru ... The post VYZKOUŠENO: dres s kapucí IXS Carve 1.0 appeared first on iVELO .",
-      "url": "https://www.ivelo.cz/test-dres-kapuci-ixs-carve-1-0/",
-      "source": "iVELO.cz",
-      "lang": "CS",
-      "category": "Technika",
-      "published": "2026-11-04T05:02:59+00:00"
-    },
-    {
-      "title": "The best radar bike lights 2026, reviewed and rated",
-      "summary": "A rearview radar can up your situational awareness. We tested the latest models on the market from the likes of Garmin, Wahoo and Lezyne to find the best for you",
-      "url": "https://www.bikeradar.com/advice/buyers-guides/bike-rearview-radars",
-      "source": "BikeRadar",
-      "lang": "EN",
-      "category": "Technika",
-      "published": "2026-11-03T16:00:00+00:00"
     }
   ],
   "source_errors": [
