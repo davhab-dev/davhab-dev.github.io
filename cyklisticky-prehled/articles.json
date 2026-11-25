@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T21:50:19.224994+00:00",
+  "updated": "2026-11-25T04:45:04.084792+00:00",
   "articles": [
     {
       "title": "Tadej Pogačar's return to Tour Down Under and Cadel Evans Great Ocean Road Race will have to wait",
@@ -893,15 +893,6 @@
       "published": "2026-11-19"
     },
     {
-      "title": "Řetěz KMC Pro Transmission",
-      "summary": "",
-      "url": "https://cykl.cz/retez-kmc-pro-transmission",
-      "source": "Cykl.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
-      "published": "2026-11-19"
-    },
-    {
       "title": "Podcast: To nejlepší ze sezóny (CykloPodcast Awards 2026 I.)",
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/podcast-to-nejlepsi-ze-sezony-cyklopodcast-awards-2026-i",
@@ -935,6 +926,15 @@
       "source": "RoadCycling.cz",
       "lang": "CS",
       "category": "Závody",
+      "published": "2026-11-19"
+    },
+    {
+      "title": "Řetěz KMC Pro Transmission",
+      "summary": "",
+      "url": "https://cykl.cz/retez-kmc-pro-transmission",
+      "source": "Cykl.cz",
+      "lang": "CS",
+      "category": "Cyklistika",
       "published": "2026-11-19"
     },
     {
@@ -2279,21 +2279,21 @@
       "published": "2026-11-10T09:27:16+00:00"
     },
     {
-      "title": "Vrchařská prověrka, elektrokolo Touroll S2",
-      "summary": "",
-      "url": "https://cykl.cz/vrcharska-proverka-elektrokolo-touroll-s2",
-      "source": "Cykl.cz",
-      "lang": "CS",
-      "category": "Technika",
-      "published": "2026-11-10"
-    },
-    {
       "title": "Waze bude varovat řidiče před cyklisty s Garminem pomocí funkce LiveTrack",
       "summary": "",
       "url": "https://cyklorepublic.cz/clanky/01a1c710-3c8f-70e5-ab9c-9260e725b3e3/waze-bude-varovat-ridice-pred-cyklisty-s-garminem-s-funkci-livetrack",
       "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Cyklistika",
+      "published": "2026-11-10"
+    },
+    {
+      "title": "Vrchařská prověrka, elektrokolo Touroll S2",
+      "summary": "",
+      "url": "https://cykl.cz/vrcharska-proverka-elektrokolo-touroll-s2",
+      "source": "Cykl.cz",
+      "lang": "CS",
+      "category": "Technika",
       "published": "2026-11-10"
     },
     {
@@ -3153,6 +3153,7 @@
     }
   ],
   "source_errors": [
-    "NaKole.cz: HTTP Error 403: Forbidden"
+    "NaKole.cz: HTTP Error 403: Forbidden",
+    "Cykl.cz: <urlopen error timed out>"
   ]
 }
