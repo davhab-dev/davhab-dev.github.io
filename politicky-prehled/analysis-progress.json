@@ -3,6 +3,26 @@
   "current": null,
   "queue": [
     [
+      "https://www.denik.cz/cesko/debata-premier-andrej-babis-predcasne-volby/",
+      "Premiér Babiš vzkazuje: Nikdy neodstoupím. Sledujte už dnes debatu na Deník.cz"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/poslance-ceka-dalsi-debata-o-navrhu-rozpoctu-budou-navrhovat-presuny-penez-379923",
+      "Poslance čeká další debata o návrhu rozpočtu, budou navrhovat přesuny peněz"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/porota-v-usa-shledala-huawei-vinnou-z-kradeze-obchodnich-tajemstvi-379924",
+      "Porota v USA shledala Huawei vinnou z krádeže obchodních tajemství"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/ep-bude-hlasovat-o-rezoluci-k-financovani-ct-a-ceskeho-rozhlasu/2905847",
+      "EP bude hlasovat o rezoluci k financování ČT a Českého rozhlasu"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/jednani-snemovny-o-novele-energetickeho-zakona.A261124_195853_domaci_kop",
+      "Čeká nás peklo, hájil Havlíček návrh, který umožní regulovat ceny elektřiny"
+    ],
+    [
       "https://zpravy.aktualne.cz/zahranici/americke-rozvedky-celily-kybernetickemu-utoku-unikly-pri-nem-nektere-informace/r~aaa294b6e495dc64fe246ad6757faae6/",
       "Americké rozvědky čelily kybernetickému útoku, unikly při něm některé informace"
     ],
@@ -21,10 +41,6 @@
     [
       "https://www.idnes.cz/praha/zpravy/praha-sobe-vyloucila-dva-zastupitele-z-prahy-12-koalice-ano.A261124_203335_domaci_balu",
       "Praha sobě vyloučila dva své zastupitele v Praze 12. Vadí jí jejich koalice s ANO"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/jednani-snemovny-o-novele-energetickeho-zakona.A261124_195853_domaci_kop",
-      "Zrychlené schválení zákona, který umožní regulovat ceny elektřiny, opozice vetovala"
     ],
     [
       "https://www.denik.cz/svet/v-kolumbijske-cartagene-ozbrojenci-prepadli-supermarket-vzali-30-rukojmich/",
@@ -51,10 +67,6 @@
       "Magyar se sešel se Zelenským, uctili památku padlých ukrajinských vojáků"
     ],
     [
-      "https://www.idnes.cz/zpravy/domaci/snemovna-snizeni-podpor-v-nezamestnanosti-zakonik-prace-svarsystem.A261124_051923_domaci_kop",
-      "Jurečka varuje před legalizací švarcsystému. Koalice dohodla snížení podpor"
-    ],
-    [
       "https://cnn.iprima.cz/sucho-hrozilo-skiarealum-krachem-situaci-zachranovaly-deste-poslednich-dnu-528039",
       "Sucho hrozilo skiareálům krachem. Situaci zachraňovaly deště posledních dnů"
     ],
@@ -71,10 +83,6 @@
       "Babiš oznámil návrat 75procentních slev na jízdném pro studenty a seniory"
     ],
     [
-      "https://www.idnes.cz/zpravy/domaci/opozice-chce-ve-snemovne-resit-dopad-ruskych-strel-v-polsku.A261124_131006_domaci_kop",
-      "Macinka vyjádřil solidaritu Polsku. Koalice pak odmítla jednat o počínání Ruska"
-    ],
-    [
       "https://www.ceskenoviny.cz/zpravy/praha-sobe-vyloucila-dva-zastupitele-z-prahy-12-kteri-jsou-v-koalici-s-ano/2906138",
       "Praha sobě vyloučila dva zastupitele z Prahy 12, kteří jsou v koalici s ANO"
     ],
@@ -83,24 +91,12 @@
       "Závazné minimum, ne jen doporučení. Plaga u pravidel pro školní jídelny otáčí"
     ],
     [
-      "https://www.ceskenoviny.cz/zpravy/senatniho-slyseni-k-obrane-statu-se-zucastni-pavel-prijit-ma-i-zuna/2906130",
-      "Senátního slyšení k obraně státu se zúčastní Pavel, přijít má i Zůna"
-    ],
-    [
       "https://www.denik.cz/evropa/sarkozy-a-jeho-zena-stanou-pred-soudem-celi-podezreni-z-ovlivnovani-svedka/",
       "Sarkozy a jeho žena stanou před soudem. Čelí podezření z ovlivňování svědka"
     ],
     [
       "https://www.denik.cz/evropa/polsko-predvolalo-ruskeho-velvyslance-zada-vysvetleni-dopadu-ruskych-strel/",
       "Polsko předvolalo ruského velvyslance. Žádá vysvětlení dopadu ruských střel"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/plaga-pravidla-pro-skolni-jidelny-by-melo-nahradit-jednodussi-zavazne-minimum/2906118",
-      "Plaga: Pravidla pro školní jídelny by mělo nahradit jednodušší závazné minimum"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/premieri-v4-zadaji-v-dopise-analyzu-dopadu-emisniho-systemu-ets2-a-jeho-odklad/2906111",
-      "Premiéři V4 žádají v dopise analýzu dopadů emisního systému ETS2 a jeho odklad"
     ],
     [
       "https://ct24.ceskatelevize.cz/clanek/domaci/vyroci-prvniho-transportu-do-terezina-pripomina-unikatni-album-379914",
@@ -121,36 +117,16 @@
     [
       "https://ct24.ceskatelevize.cz/clanek/svet/britska-tajna-sluzba-varovala-firmy-podporujici-ukrajinu-pred-ruskymi-sabotazemi-379907",
       "Britská tajná služba varovala firmy podporující Ukrajinu před ruskými sabotážemi"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/rusko-verbuje-v-evrope-skrze-discord-telegram-a-whatsapp-agenty-tvrdi-ukrajinska-rozvedka-379903",
-      "Rusko verbuje v Evropě skrze Discord, Telegram a WhatsApp „agenty“, tvrdí ukrajinská rozvědka"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/snemovna-ma-na-programu-platformovou-praci-379888",
-      "Poslanci po řadě hodin schválili program schůze. Můžou jednat až do noci"
-    ],
-    [
-      "https://www.denik.cz/cesko/cesko-pripravenost-krize-armady-spojenci/",
-      "Česko musí být připravené hostit vojska spojenců, uvedli experti"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/zemedelstvi-pridame-dve-miliardy-na-ukor-zivotniho-prostredi-shodla-se-koalice-379901",
-      "Zemědělství přidáme dvě miliardy na úkor životního prostředí, shodla se koalice"
-    ],
-    [
-      "https://cnn.iprima.cz/rusko-chce-testovat-soudrznost-nato-rekl-hlavac-bezpecnostni-situace-zustava-vazna-527966",
-      "Náčelník generálního štábu: Obranné výdaje jsou na limitu. Rusko testuje soudržnost NATO"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 35,
+    "initial_pending": 29,
     "completed": [],
     "deferred": [],
-    "remaining": 35
+    "remaining": 29
   },
   "samples_seconds": [
     51.274763,
