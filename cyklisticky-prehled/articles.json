@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-25T23:42:53.930276+00:00",
+  "updated": "2026-11-26T06:13:13.079862+00:00",
   "articles": [
+    {
+      "title": "Česká L’Etape se rozroste na tři závody. Do Prahy dorazí Chris Froome",
+      "summary": "",
+      "url": "https://cyklorepublic.cz/clanky/01a21676-e63f-7058-9c7d-fdc02b9c87a3/ceska-letape-se-rozroste-na-tri-zavody-do-prahy-dorazi-chris-froome",
+      "source": "CykloRepublic.cz",
+      "lang": "CS",
+      "category": "Závody",
+      "published": "2026-11-26"
+    },
     {
       "title": "Nike announces major return to pro cycling with new Team Visma | Lease a Bike partnership",
       "summary": "The expanded partnership teases an intriguing future for the storied clothing brand",
@@ -512,6 +521,15 @@
       "source": "MTBS.cz",
       "lang": "CS",
       "category": "Technika",
+      "published": "2026-11-23"
+    },
+    {
+      "title": "Domácí dílna – osm nástrojů pro běžnou údržbu",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132144/domaci-dilna-osm-nastroju-pro-beznou-udrzbu.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "MTB",
       "published": "2026-11-23"
     },
     {
@@ -2108,27 +2126,9 @@
       "published": "2026-11-12"
     },
     {
-      "title": "Pouze 150 kusů na světě - limitovaná verze Canyon Spectral:ON CF LTD přináší výkon 1 500 W",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132119/pouze-150-kusu-na-svete-limitovana-verze-canyon-spectralon-cf-ltd-prinasi-vykon-1-500-w.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "MTB",
-      "published": "2026-11-12"
-    },
-    {
       "title": "Canyon představil limitku Spectral:ON CF LTD. 1 500 W, 150 Nm a 20,8 kilogramu",
       "summary": "",
       "url": "https://cyklorepublic.cz/clanky/01a1d128-f836-703d-b4b0-7b6cb31d9525/canyon-predstavil-limitku-spectralon-cf-ltd-1-500-w-150-nm-a-208-kilogramu",
-      "source": "CykloRepublic.cz",
-      "lang": "CS",
-      "category": "Cyklistika",
-      "published": "2026-11-12"
-    },
-    {
-      "title": "Pogačarovo vítězné kolo se vydražilo téměř za milion korun. Pomůže americkým olympionikům",
-      "summary": "",
-      "url": "https://cyklorepublic.cz/clanky/01a1cffb-ef01-728f-ba1b-3a3699fd126b/pogacarovo-vitezne-kolo-se-vydrazilo-temer-za-milion-korun-pomuze-americkym-olympionikum",
       "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Cyklistika",
