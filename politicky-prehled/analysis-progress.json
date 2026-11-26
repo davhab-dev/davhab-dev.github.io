@@ -3,114 +3,134 @@
   "current": null,
   "queue": [
     [
-      "https://www.idnes.cz/zpravy/domaci/babis-potrebujeme-penize-na-dalnice-pomoc-ukrajine-do-rozpoctu-eu-nepatri.A261126_093946_domaci_aoc",
-      "Babiš: Potřebujeme peníze na dálnice, pomoc Ukrajině do rozpočtu EU nepatří"
+      "https://www.idnes.cz/zpravy/domaci/poslankyne-dorazila-k-recnisti-na-zadech-s-boxem-kuryru-s-jidlem.A261126_190142_domaci_kop",
+      "Poslankyně dorazila k řečništi s boxem kurýrů s jídlem na zádech"
+    ],
+    [
+      "https://zpravy.aktualne.cz/domaci/cesko-je-v-nevyhode-pavel-vola-po-obsazeni-klicoveho-postu-babis-ale-nepokrocil/r~aaa292c5b5babfca6812ac04601d26cf/",
+      "„Česko je v nevýhodě.“ Pavel volá po obsazení klíčového postu. Babiš ale nepokročil"
+    ],
+    [
+      "https://www.denik.cz/evropa/volby-srbsko-vitez-studentske-hnuti-plany-ctyrdenni-pracovni-tyden-mene-reality-show/",
+      "Odvážné plány vítězů srbských voleb: Čtyřdenní pracovní týden, méně reality show"
     ],
     [
       "https://www.idnes.cz/zpravy/domaci/poslanci-se-utkaji-kvuli-svarcsystemu-a-podpore-v-nezamestnanosti-cekaji-je-interpelace.A261126_053326_domaci_kop",
-      "Juchelka vzdal návrh, za nějž schytal kritiku za legalizaci švarcsystému"
+      "Juchelka schytal kritiku za krok k legalizaci švarcsystému a vzal zpátečku"
     ],
     [
-      "https://www.idnes.cz/zpravy/zahranicni/rusko-prezident-putin-kreslo-brunej-podpatky.A261126_095325_zahranicni_dtt",
-      "Putinovi při dosedu vyletěly nohy do vzduchu. Nechtěně ukázal své podpatky"
+      "https://zpravy.aktualne.cz/zahranici/husiove-zautocili-na-dalsi-saudskoarabskou-rafinerii-zemrel-jeden-clovek/r~aaa29d00137cda82b3fcfb62013b4f6f/",
+      "Húsíové zaútočili na další saúdskoarabskou rafinerii. Zemřel jeden člověk, další jsou zranění"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/svet/zacina-mimoradny-summit-eu-staty-se-prou-o-dlouhodoby-rozpocet-379966",
-      "Začíná mimořádný summit EU. Státy se přou o dlouhodobý rozpočet"
+      "https://www.denik.cz/svet/formovani-izraelske-vlady-pokracuje-eisenkot-nasel-partnera/",
+      "Formování izraelské vlády pokračuje. Eisenkot našel partnera"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/svet/uzivani-dronu-se-siri-napric-bojisti-klicove-jsou-na-ukrajine-ci-v-africe-379958",
-      "Užívání dronů se šíří napříč bojišti. Klíčové jsou na Ukrajině či v Africe"
+      "https://zpravy.aktualne.cz/zahranici/z-platneho-hrace-se-stavame-cernymi-pasazery-spor-o-verejnopravni-media-dorazil-do-bruselu/r~aaa290a91c39ed563749ad13ccec993b/",
+      "„Z platného hráče se stáváme černými pasažéry.“ Spor o veřejnoprávní média dorazil do Bruselu"
     ],
     [
-      "https://www.denik.cz/cesko/schvalovani-genocidy-bez-trestu-navrh-jindrich-rajchl/",
-      "Schvalování genocidy bez trestu? Návrh Rajchla je nebezpečný, varuje odborník"
+      "https://www.denik.cz/evropa/britanie-vojaci-zalohy-dopis-pripravenost/",
+      "Sto tisíc vojáků v záloze dostalo dopis. Británie chce být připravena na válku"
     ],
     [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/poslanci-by-se-meli-zabyvat-platformovou-praci-a-podporami-v-nezamestnanosti-379965",
-      "Poslanci by se měli zabývat platformovou prací a podporami v nezaměstnanosti"
+      "https://zpravy.aktualne.cz/domaci/neprijatelne-chovani-cirkev-tepe-poslance-ano-za-strip-bar-ten-mluvi-o-sekte/r~aaa297aa66cd7d7683e271dea6cb251e/",
+      "„Nepřijatelné chování.“ Církev tepe poslance ANO za strip bar, ten mluví o sektě"
     ],
     [
-      "https://www.denik.cz/svet/musk-slibil-kazdemu-diteti-v-usa-dve-akcie-firmy-spacex/",
-      "Musk slíbil každému dítěti v USA dvě akcie firmy SpaceX"
+      "https://www.ceskenoviny.cz/zpravy/ve-slavjansku-na-jihozapade-ruska-po-naletu-ukrajinskych-dronu-hori-rafinerie/2907281",
+      "Ve Slavjansku na jihozápadě Ruska po náletu ukrajinských dronů hoří rafinérie"
+    ],
+    [
+      "https://zpravy.aktualne.cz/zahranici/costa-hleda-shodu-na-rozpoctu-eu-s-lidry-bude-jednat-az-do-pulnoci/r~aaa2973d7ed0472b3f769f8d4fa36f49/",
+      "Costa hledá shodu na rozpočtu EU, s lídry bude jednat až do půlnoci"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/costa-jedna-o-rozpoctu-eu-se-skupinami-zemi-v-noci-se-opet-sejdou-vsichni-lidri/2906412",
+      "Costa jedná o rozpočtu EU se skupinami zemí, v noci se opět sejdou všichni lídři"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/zahranicni/trump-putinovi-jsem-rekl-aby-ustoupil-od-veskere-vojenske-agrese-proti-evrope.A261126_161106_zahranicni_bro",
+      "Trump: Putinovi jsem řekl, aby ustoupil od veškeré vojenské agrese proti Evropě"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/vojtech-haji-pravidla-pro-jidelny-kompromis-vydame-vzorove-receptury-rekl.A261126_162843_domaci_jira",
+      "Vojtěch hájí pravidla pro jídelny. Kompromis, vydáme vzorové receptury, řekl"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/omezeni-hvezdneho-stitu-ukrajine-odhalilo-zranitelnost-modernich-armad-379977",
+      "Omezení „Hvězdného štítu” Ukrajině odhalilo zranitelnost moderních armád"
+    ],
+    [
+      "https://www.idnes.cz/zpravy/domaci/pojistky-se-davaji-tam-kde-neco-hrozi-tady-nic-nehrozi-rika-klempir-o-poplatcich.A261126_144222_domaci_tty",
+      "Pojistky se dávají tam, kde něco hrozí. Tady nic nehrozí, řekl Klempíř o poplatcích"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/trump-chce-aby-putin-ustoupil-od-vojenske-agrese-vuci-evropskym-uzemim/2907233",
+      "Trump chce, aby Putin ustoupil od vojenské agrese vůči evropským územím"
+    ],
+    [
+      "https://www.denik.cz/svet/ulomky-iranskeho-dronu-v-kuvajtu-zabily-dva-italy-a-dva-lidi-zranily/",
+      "Úlomky dronu v Kuvajtu zabily dva Italy, Írán útok popřel"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/soud-zacal-projednavat-zalobu-hnuti-duha-na-macinku/2907137",
+      "Soud začal projednávat žalobu Hnutí Duha na Macinku"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/slyseni-snemovniho-vyboru-o-zmene-financovani-verejnopravnich-medii-379971",
+      "Pro ústavní pojistky nezávislosti ČT a ČRo nevidím žádný důvod, řekl Klempíř při slyšení"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/schillerova-cr-v-dalsim-obdobi-ziska-z-eu-urcite-mene-penez-nez-doposud/2907112",
+      "Schillerová: ČR v dalším období získá z EU určitě méně peněz než doposud"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/v-senatu-se-resi-obrana-zeme-dle-pavla-chybi-pruznost-znela-varovani-pred-ruskem-379978",
+      "V Senátu se řešila obrana země. Dle Pavla chybí pružnost, zněla varování před Ruskem"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/kreml-vini-ukrajinu-ze-snahy-rozsirit-valku-do-stredomori-a-na-balt/2906831",
+      "Kreml viní Ukrajinu ze snahy rozšířit válku do Středomoří a na Balt"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/ruske-utoky-zabijely-v-charkove-a-zasahly-kyjev-379975",
+      "Ruské útoky zabíjely v Charkově a zasáhly Kyjev"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/cr-by-nemela-blokovat-pomoc-ukrajine-skrze-rozpocet-eu-mini-pavel/2907031",
+      "ČR by neměla blokovat pomoc Ukrajině skrze rozpočet EU, míní Pavel"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/rusko-navrhuje-nerealne-primeri-podle-expertu-jde-o-taktiku-379952",
+      "Rusko navrhuje „nereálné“ příměří, podle expertů jde o taktiku"
+    ],
+    [
+      "https://www.ceskenoviny.cz/zpravy/pavel-cesko-potrebuje-obsadit-post-poradce-pro-narodni-bezpecnost/2907025",
+      "Pavel: Česko potřebuje obsadit post poradce pro národní bezpečnost"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/svet/izrael-zabijel-v-pasmu-gazy-treti-den-v-rade-379974",
+      "Izrael zabíjel v Pásmu Gazy třetí den v řadě"
+    ],
+    [
+      "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-nedela-cesku-dobre-jmeno-rika-o-unijni-rezoluci-kolar-aktivisticky-text-namita-knotek-379962",
+      "Vláda nedělá Česku dobré jméno, říká o unijní rezoluci Kolář. Aktivistický text, namítá Knotek"
     ],
     [
       "https://denikn.cz/newsletter/2270043/vlada-ustoupila-od-zmeny-ktera-by-mohla-zlegalizovat-svarcsystem-vojtech-s-plagou-couvaji-se-stravovaci-vyhlaskou-europoslanci-vyzvali-vladu-aby-novy-zakon-o-ct-a-cro-byl-v/",
       "R5M: Vláda ustoupila od změny, která by mohla zlegalizovat švarcsystém | Vojtěch s Plagou couvají se stravovací vyhláškou"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/zahranicni/rusko-by-nemelo-rozsirovat-valku-na-ukrajine-shodli-se-trump-a-rutte.A261126_070607_zahranicni_kurl",
-      "Rutte jednal s Trumpem. Rusko by nemělo rozšiřovat válku na Ukrajině, shodli se"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/domaci/posledni-rozlouceni-dle-vlastnich-predstav-stovky-lidi-si-plati-svuj-pohreb-dopredu-379942",
-      "Poslední rozloučení dle vlastních představ. Stovky lidí si platí svůj pohřeb dopředu"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/cesko-predpoved-pocasi-snih-zima.A261126_062233_domaci_pluh",
-      "Česko zasype sníh. Řidiče mohou zaskočit jazyky i mrznoucí mlhy"
-    ],
-    [
-      "https://ct24.ceskatelevize.cz/clanek/svet/kldr-chce-byt-podle-kima-jadernym-statem-sankcim-navzdory-379963",
-      "KLDR chce být podle Kima jaderným státem, sankcím navzdory"
-    ],
-    [
-      "https://zpravy.aktualne.cz/domaci/devadesat-korun-je-malo-nadeje-ods-chce-zvysit-poplatek-za-pohotovost-o-vic-nez-100-procent/r~aaa294f9ffe8259f978f1028056b10ff/",
-      "Dražší cesty na pohotovost. Z ODS vyšel návrh na radikální zvýšení poplatku"
-    ],
-    [
-      "https://cnn.iprima.cz/milacek-levice-klidna-sila-z-galicie-nebo-drsny-macho-spanele-si-zvoli-noveho-lidra-528018",
-      "Miláček levice, klidná síla z Galicie nebo drsný macho. Španělé si zvolí nového lídra"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/v-kyjeve-jsou-po-utoku-ctyri-zraneni-v-ruskem-okupovane-casti-pet-mrtvych/2906831",
-      "V Kyjevě jsou po útoku čtyři zranění, v Ruskem okupované části pět mrtvých"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/poslanci-prednesli-temer-150-navrhu-k-rozpoctu-presunout-chteji-pres-380-mld/2904989",
-      "Poslanci přednesli téměř 150 návrhů k rozpočtu, přesunout chtějí přes 380 mld."
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/zive-senat-se-zabyva-pripravenosti-ceska-na-obranu-statu/2906130",
-      "ŽIVĚ: Senát se zabývá připraveností Česka na obranu státu"
-    ],
-    [
-      "https://www.idnes.cz/zpravy/domaci/druhe-cteni-rozpoctu-na-2027-navrhy-poslancu-na-presuny-penez.A261125_042858_domaci_kop",
-      "Miliardy na důchody přidá koalice na sport a slevy jízdného, miliony divadlům"
-    ],
-    [
-      "https://www.denik.cz/cesko/babisovi-bude-radit-byvaly-guverner-cnb-singer/",
-      "Babišovi bude radit bývalý guvernér ČNB Singer"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/rust-plateb-statu-do-zdravotnictvi-za-statni-pojistence-senat-schvalil/2906770",
-      "Růst plateb státu do zdravotnictví za státní pojištěnce Senát schválil"
-    ],
-    [
-      "https://www.denik.cz/evropa/polsko-varsava-sebeupaleni-hasila-ochranka-prezidenta/",
-      "Muž se zapálil v centru Varšavy. Hasila ho ochranka prezidenta"
-    ],
-    [
-      "https://www.ceskenoviny.cz/zpravy/hnuti-duha-podalo-exekucni-navrh-na-vymozeni-omluvy-od-turka/2886636",
-      "Hnutí Duha podalo exekuční návrh na vymožení omluvy od Turka"
-    ],
-    [
-      "https://www.denik.cz/cesko/soud-pozadal-senat-o-vydani-martina-puty-k-trestnimu-stihani/",
-      "Soud požádal Senát o vydání Martina Půty k trestnímu stíhání"
-    ],
-    [
-      "https://www.denik.cz/cesko/dvere-mam-otevrene-ale-s-minarem-debatovat-nebudu-rekl-premier-babis/",
-      "Dveře mám otevřené, ale s Minářem debatovat nebudu, řekl premiér Babiš"
     ]
   ],
   "needs_sources": [],
   "heartbeat": "2026-11-12T11:54:16.705544+00:00",
   "cycle": {
     "status": "awaiting_analysis",
-    "initial_pending": 25,
+    "initial_pending": 30,
     "completed": [],
     "deferred": [],
-    "remaining": 25
+    "remaining": 30
   },
   "samples_seconds": [
     51.274763,
