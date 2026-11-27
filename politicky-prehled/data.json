@@ -1,14 +1,124 @@
 {
-  "updated_at": "2026-11-26T19:36:47.686372+00:00",
+  "updated_at": "2026-11-27T02:50:53.570829+00:00",
   "window_hours": 24,
   "articles": [
     {
+      "title": "Costa: Půjčku pro Ukrajinu 45 miliard eur podpořilo 24 zemí EU",
+      "summary": "Na summitu EU podpořilo 24 členských států novou půjčku pro Ukrajinu ve výši 45 miliard eur, přičemž Bulharsko souhlasí pouze s využitím své části na…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-27T00:29:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/costa-pujcku-pro-ukrajinu-45-miliard-eur-podporilo-24-zemi-eu.A261127_005439_zahranicni_air",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
       "title": "Poslankyně dorazila k řečništi s boxem kurýrů s jídlem na zádech",
-      "summary": "Poslankyně Irena Ferčíková Konečná (Zelení) zvolená za Piráty dorazila k řečnickému pultu ve Sněmovně při jednání o vládním návrhu zákona o platformové práci na zádech…",
+      "summary": "Poslankyně Irena Ferčíková Konečná (Zelení) zvolená za Piráty dorazila k řečnickému pultu ve Sněmovně při druhém čtení vládního návrhu zákona o platformové práci na zádech…",
       "source": "iDNES.cz",
       "category": "domaci",
-      "published_at": "2026-11-26T19:33:00+00:00",
+      "published_at": "2026-11-26T23:56:00+00:00",
       "url": "https://www.idnes.cz/zpravy/domaci/poslankyne-dorazila-k-recnisti-na-zadech-s-boxem-kuryru-s-jidlem.A261126_190142_domaci_kop",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Juchelka schytal kritiku za krok k legalizaci švarcsystému a vzal zpátečku",
+      "summary": "Ministr práce a sociálních věcí Aleš Juchelka vzdal pokus změnit definici závislé práce. Jeho návrh vyvolal ostrou kritiku odborů i části opozice, že by jeho…",
+      "source": "iDNES.cz",
+      "category": "domaci",
+      "published_at": "2026-11-26T23:56:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/domaci/poslanci-se-utkaji-kvuli-svarcsystemu-a-podpore-v-nezamestnanosti-cekaji-je-interpelace.A261126_053326_domaci_kop",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Prezident Pavel se dnes na Hradě setká s monackým knížetem Albertem II.",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-27T00:20:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/prezident-pavel-se-dnes-na-hrade-setka-s-monackym-knizetem-albertem-ii/2907418",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Poslanci mají schvalovat zdanění rafinerií a změny v důchodech",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "domaci",
+      "published_at": "2026-11-27T00:17:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/poslanci-maji-schvalovat-zdaneni-rafinerii-a-zmeny-v-duchodech/2907416",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Merz ohlásil konec rozpočtového summitu bez dohody, lídři to zkusí znovu v prosinci",
+      "summary": "Lídři členských zemí Evropské unie, kteří se účastní summitu v Bruselu, se sejdou znovu kolem půlnoci a pak jednání věnovaná příštímu dlouholetému rozpočtu sedmadvacítky ukončí…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-26T23:01:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/merz-ohlasil-konec-rozpoctoveho-summitu-bez-dohody-lidri-to-zkusi-znovu-v-prosinci/r~aaa294312f754c3aa9e3c49186d4d37b/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Trump děkoval vrahům a dealerům. Migrantům vzkázal, že se do USA nevrátí",
+      "summary": "Americký prezident Donald Trump na Den díkůvzdání, jeden z nejdůležitějších amerických svátků, popřál americkým patriotům, ale také vrahům, drogovým dealerům nebo lidem, kteří tak tvrdě…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-26T21:44:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/trump-dekoval-vrahum-a-dealerum-migrantum-vzkazal-ze-se-do-usa-nevrati/r~aaa292a3d44ec1321cf99f3417691965/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Krym se ponořil do tmy. Elektřina vypadla kvůli havárii mimo poloostrov, tvrdí úřady",
+      "summary": "Ruskem okupovaný ukrajinský poloostrov Krym a město Sevastopol se dnes ocitly bez elektřiny. Důvodem se stala havárie energetického zařízení mimo poloostrov, oznámily společnosti Krymenergo a…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-26T20:42:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/krym-bez-elektriny-havarie-mimo-poloostrov-tvrdi-energetici.A261126_211838_zahranicni_sile",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Francouzský prezident označil škrty v rozpočtu EU za strategickou chybu",
+      "summary": "Evropská unie se kvůli navrhovaným škrtům v příštím dlouhodobém rozpočtu EU dopouští strategické chyby, uvedl ve čtvrtek na unijním summitu v Bruselu francouzský prezident Emmanuel…",
+      "source": "Aktuálně.cz",
+      "category": "svet",
+      "published_at": "2026-11-26T21:36:00+01:00",
+      "url": "https://zpravy.aktualne.cz/zahranici/francouzsky-prezident-oznacil-skrty-v-rozpoctu-eu-za-strategickou-chybu/r~aaa297dfdaf1d92d3d5731808bf79338/",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Děkuji vrahům a dealerům. Trump do svátečního vzkazu zapletl migraci i volby",
+      "summary": "Americký prezident Donald Trump na Den díkůvzdání, jeden z nejdůležitějších amerických svátků, popřál americkým patriotům, ale také vrahům, drogovým dealerům nebo lidem, kteří tak tvrdě…",
+      "source": "iDNES.cz",
+      "category": "svet",
+      "published_at": "2026-11-26T20:26:00+00:00",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/trump-dikuvzdani-vzkaz-vrahum-a-drogovym-dealerum.A261126_210736_zahranicni_kha",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Červený dál hájí šéfa KRNAPu. Kauzu cesty do Karibiku považuje za uzavřenou",
+      "summary": "Ministr životního prostředí Igor Červený (Motoristé) se ve čtvrtečním Interview ČT24 znovu postavil za ředitele Krkonošského národního parku (KRNAPu) Petra Moravce. Plánovanou cestu na karibský…",
+      "source": "ČT24",
+      "category": "domaci",
+      "published_at": "2026-11-26T20:09:05+00:00",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/cerveny-dal-haji-sefa-krnapu-kauzu-cesty-do-karibiku-povazuje-za-uzavrenou-379993",
+      "importance": "Čeká na zpracování a ověření zdrojů.",
+      "importance_kind": "pending"
+    },
+    {
+      "title": "Trump na Den díkůvzdání popřál patriotům, vrahům i drogovým dealerům",
+      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
+      "source": "ČTK / České noviny",
+      "category": "svet",
+      "published_at": "2026-11-26T20:49:00+01:00",
+      "url": "https://www.ceskenoviny.cz/zpravy/trump-na-den-dikuvzdani-popral-patriotum-vrahum-i-drogovym-dealerum/2907345",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -33,16 +143,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Juchelka schytal kritiku za krok k legalizaci švarcsystému a vzal zpátečku",
-      "summary": "Ministr práce a sociálních věcí Aleš Juchelka vzdal pokus změnit definici závislé práce. Jeho návrh vyvolal ostrou kritiku odborů i části opozice, že by jeho…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-26T18:59:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/poslanci-se-utkaji-kvuli-svarcsystemu-a-podpore-v-nezamestnanosti-cekaji-je-interpelace.A261126_053326_domaci_kop",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Húsíové zaútočili na další saúdskoarabskou rafinerii. Zemřel jeden člověk, další jsou zranění",
       "summary": "Jemenští proíránští povstalci z řad Húsíů ve čtvrtek zaútočili na ropnou rafinerii v Džázánu na jihovýchodě Saúdské Arábie, nedaleko hranice s Jemenem. Oznámila to podle…",
       "source": "Aktuálně.cz",
@@ -63,32 +163,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "„Z platného hráče se stáváme černými pasažéry.“ Spor o veřejnoprávní média dorazil do Bruselu",
-      "summary": "Evropský parlament schválil rezoluci, ve které kritizuje změnu financování veřejnoprávních médií v České republice. Zatímco europoslanci z českých opozičních stran ji podpořili, zástupci hnutí ANO…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-26T19:00:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/z-platneho-hrace-se-stavame-cernymi-pasazery-spor-o-verejnopravni-media-dorazil-do-bruselu/r~aaa290a91c39ed563749ad13ccec993b/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Sto tisíc vojáků v záloze dostalo dopis. Británie chce být připravena na válku",
       "summary": "Sto tisíc bývalých příslušníků britského námořnictva, letectva a armády dostalo v těchto dnech dopisy od svých velitelů. Mají aktualizovat své kontakty a přidat přehled dovedností…",
       "source": "Deník",
       "category": "svet",
       "published_at": "2026-11-26T19:00:00+01:00",
       "url": "https://www.denik.cz/evropa/britanie-vojaci-zalohy-dopis-pripravenost/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "„Nepřijatelné chování.“ Církev tepe poslance ANO za strip bar, ten mluví o sektě",
-      "summary": "Ještě před lety byl pastorem a vedl křesťanský sbor. Teď se proti němu jeho někdejší církev ostře vymezuje. Jednota bratrská Aktuálně.cz řekla, že chování poslance…",
-      "source": "Aktuálně.cz",
-      "category": "domaci",
-      "published_at": "2026-11-26T18:52:00+01:00",
-      "url": "https://zpravy.aktualne.cz/domaci/neprijatelne-chovani-cirkev-tepe-poslance-ano-za-strip-bar-ten-mluvi-o-sekte/r~aaa297aa66cd7d7683e271dea6cb251e/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -103,16 +183,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Costa hledá shodu na rozpočtu EU, s lídry bude jednat až do půlnoci",
-      "summary": "Pracovní oběd unijních prezidentů a premiérů na summitu v Bruselu skončil, oznámila mluvčí předsedy Evropské rady Maria Tomasiková. António Costa nyní zahájil individuální schůzky s…",
-      "source": "Aktuálně.cz",
-      "category": "svet",
-      "published_at": "2026-11-26T17:34:00+01:00",
-      "url": "https://zpravy.aktualne.cz/zahranici/costa-hleda-shodu-na-rozpoctu-eu-s-lidry-bude-jednat-az-do-pulnoci/r~aaa2973d7ed0472b3f769f8d4fa36f49/",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Costa jedná o rozpočtu EU se skupinami zemí, v noci se opět sejdou všichni lídři",
       "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
       "source": "ČTK / České noviny",
@@ -123,42 +193,22 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Trump: Putinovi jsem řekl, aby ustoupil od veškeré vojenské agrese proti Evropě",
-      "summary": "Americký prezident Donald Trump podle svého vyjádření na síti Truth Social minulý týden při jednání v Číně řekl ruskému prezidentovi Vladimiru Putinovi, že chce, aby…",
-      "source": "iDNES.cz",
+      "title": "Trump vyzval Putina, aby ustoupil od veškeré vojenské agrese vůči celé Evropě",
+      "summary": "Americký prezident Donald Trump podle svého vyjádření ruskému prezidentovi Vladimiru Putinovi řekl, že chce, aby ustoupil od veškeré vojenské agrese vůči územím po celé Evropě.…",
+      "source": "Deník",
       "category": "svet",
-      "published_at": "2026-11-26T15:56:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/trump-putinovi-jsem-rekl-aby-ustoupil-od-veskere-vojenske-agrese-proti-evrope.A261126_161106_zahranicni_bro",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Vojtěch hájí pravidla pro jídelny. Kompromis, vydáme vzorové receptury, řekl",
-      "summary": "Státní zdravotní ústav podle ministra zdravotnictví Adama Vojtěcha (ANO) vydá pro školní jídelny vzorové receptury k novým závazným pravidlům pro skladbu denního jídla. Ministr to…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-26T15:52:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/vojtech-haji-pravidla-pro-jidelny-kompromis-vydame-vzorove-receptury-rekl.A261126_162843_domaci_jira",
+      "published_at": "2026-11-26T16:51:07+01:00",
+      "url": "https://www.denik.cz/svet/trump-vyzval-putina-aby-ustoupil-od-veskere-vojenske-agrese-vuci-cele-evrope/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
     {
       "title": "Omezení „Hvězdného štítu” Ukrajině odhalilo zranitelnost moderních armád",
-      "summary": "Omezení satelitních služeb Ukrajině naznačilo, že ze Starlinku, potažmo Starshieldu (Hvězdného šítu), se stává zbraň americké zahraniční politiky. Odpovědnost za klíčové rozhodnutí zůstává nejasná –…",
+      "summary": "Omezení satelitních služeb Ukrajině naznačilo, že ze Starlinku, potažmo Starshieldu (Hvězdného štítu), se stává zbraň americké zahraniční politiky. Odpovědnost za klíčové rozhodnutí zůstává nejasná –…",
       "source": "ČT24",
       "category": "svet",
       "published_at": "2026-11-26T15:44:26+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/omezeni-hvezdneho-stitu-ukrajine-odhalilo-zranitelnost-modernich-armad-379977",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Pojistky se dávají tam, kde něco hrozí. Tady nic nehrozí, řekl Klempíř o poplatcích",
-      "summary": "Veřejnoprávní média nepotřebují nové pojistky. Na veřejném slyšení v Poslanecké sněmovně to uvedl ministr kultury Oto Klempíř. Vláda podle něj jen mění způsob financování České…",
-      "source": "iDNES.cz",
-      "category": "domaci",
-      "published_at": "2026-11-26T15:26:00+00:00",
-      "url": "https://www.idnes.cz/zpravy/domaci/pojistky-se-davaji-tam-kde-neco-hrozi-tady-nic-nehrozi-rika-klempir-o-poplatcich.A261126_144222_domaci_tty",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -169,16 +219,6 @@
       "category": "svet",
       "published_at": "2026-11-26T16:16:00+01:00",
       "url": "https://www.ceskenoviny.cz/zpravy/trump-chce-aby-putin-ustoupil-od-vojenske-agrese-vuci-evropskym-uzemim/2907233",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Úlomky dronu v Kuvajtu zabily dva Italy, Írán útok popřel",
-      "summary": "Úlomky sestřelených íránských dronů v Kuvajtu zabily dva Italy a další dva lidi zranily, informovala agentura ANSA. Tamní ministerstvo obrany dříve podle agentury AFP informovalo…",
-      "source": "Deník",
-      "category": "svet",
-      "published_at": "2026-11-26T15:57:48+01:00",
-      "url": "https://www.denik.cz/svet/ulomky-iranskeho-dronu-v-kuvajtu-zabily-dva-italy-a-dva-lidi-zranily/",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -203,32 +243,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Schillerová: ČR v dalším období získá z EU určitě méně peněz než doposud",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-26T13:35:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/schillerova-cr-v-dalsim-obdobi-ziska-z-eu-urcite-mene-penez-nez-doposud/2907112",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "V Senátu se řešila obrana země. Dle Pavla chybí pružnost, zněla varování před Ruskem",
       "summary": "Veřejného slyšení v Senátu na téma připravenosti Česka na obranu státu a zajištění podpory spojeneckým jednotkám na českém území se zúčastnili mimo jiné prezident Petr…",
       "source": "ČT24",
       "category": "domaci",
       "published_at": "2026-11-26T12:31:28+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/v-senatu-se-resi-obrana-zeme-dle-pavla-chybi-pruznost-znela-varovani-pred-ruskem-379978",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Kreml viní Ukrajinu ze snahy rozšířit válku do Středomoří a na Balt",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "svet",
-      "published_at": "2026-11-26T12:27:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/kreml-vini-ukrajinu-ze-snahy-rozsirit-valku-do-stredomori-a-na-balt/2906831",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -243,16 +263,6 @@
       "importance_kind": "pending"
     },
     {
-      "title": "ČR by neměla blokovat pomoc Ukrajině skrze rozpočet EU, míní Pavel",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-26T12:00:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/cr-by-nemela-blokovat-pomoc-ukrajine-skrze-rozpocet-eu-mini-pavel/2907031",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Rusko navrhuje „nereálné“ příměří, podle expertů jde o taktiku",
       "summary": "V ukrajinské Doněcké oblasti pokračují boje o Kosťantynivku. Rusko přitom tvrdí, že město ovládá, a navrhuje tam „humanitární příměří“. Okupanti Kosťantynivku ale celou nekontrolují, ve…",
       "source": "ČT24",
@@ -263,32 +273,12 @@
       "importance_kind": "pending"
     },
     {
-      "title": "Pavel: Česko potřebuje obsadit post poradce pro národní bezpečnost",
-      "summary": "Zpráva ČTK. Celý článek si přečtěte na webu České noviny.",
-      "source": "ČTK / České noviny",
-      "category": "domaci",
-      "published_at": "2026-11-26T11:54:00+01:00",
-      "url": "https://www.ceskenoviny.cz/zpravy/pavel-cesko-potrebuje-obsadit-post-poradce-pro-narodni-bezpecnost/2907025",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
       "title": "Izrael zabíjel v Pásmu Gazy třetí den v řadě",
       "summary": "Izraelské vzdušné údery v Pásmu Gazy zabily v noci na čtvrtek nejméně devět Palestinců včetně náměstka ministra školství, uvedli tamní zdravotníci. Jde tak o třetí…",
       "source": "ČT24",
       "category": "svet",
       "published_at": "2026-11-26T10:24:29+00:00",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/izrael-zabijel-v-pasmu-gazy-treti-den-v-rade-379974",
-      "importance": "Čeká na zpracování a ověření zdrojů.",
-      "importance_kind": "pending"
-    },
-    {
-      "title": "Vláda nedělá Česku dobré jméno, říká o unijní rezoluci Kolář. Aktivistický text, namítá Knotek",
-      "summary": "Evropský parlament vyzval českou vládu, aby nový systém financování České televize a Českého rozhlasu řešila v souladu s unijním právem. Europoslanci přijali rezoluci, ve které…",
-      "source": "ČT24",
-      "category": "domaci",
-      "published_at": "2026-11-26T09:30:53+00:00",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-nedela-cesku-dobre-jmeno-rika-o-unijni-rezoluci-kolar-aktivisticky-text-namita-knotek-379962",
       "importance": "Čeká na zpracování a ověření zdrojů.",
       "importance_kind": "pending"
     },
@@ -311,7 +301,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 14,
+      "candidates": 15,
       "selected": 7,
       "free_articles_checked": 7
     },
@@ -321,7 +311,7 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 22,
+      "candidates": 24,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -331,8 +321,8 @@
       "feeds_ok": 2,
       "feeds_total": 2,
       "status": "ok",
-      "candidates": 14,
-      "selected": 8,
+      "candidates": 16,
+      "selected": 7,
       "free_articles_checked": 8
     },
     {
@@ -341,7 +331,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 10,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -351,7 +341,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 15,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -361,7 +351,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 8,
+      "candidates": 7,
       "selected": 5,
       "free_articles_checked": 6
     },
@@ -373,7 +363,7 @@
       "status": "ok",
       "candidates": 9,
       "selected": 4,
-      "free_articles_checked": 7
+      "free_articles_checked": 6
     },
     {
       "name": "iDNES.cz",
@@ -381,7 +371,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 15,
       "selected": 5,
       "free_articles_checked": 5
     },
@@ -421,7 +411,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 5,
+      "candidates": 6,
       "selected": 1,
       "free_articles_checked": 1
     },
@@ -441,7 +431,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 6,
+      "candidates": 7,
       "selected": 0,
       "free_articles_checked": 0
     },
@@ -461,7 +451,7 @@
       "feeds_ok": 1,
       "feeds_total": 1,
       "status": "ok",
-      "candidates": 13,
+      "candidates": 14,
       "selected": 0,
       "free_articles_checked": 0
     }
