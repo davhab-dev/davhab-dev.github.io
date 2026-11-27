@@ -1,6 +1,51 @@
 {
-  "updated": "2026-11-27T01:05:43.909969+00:00",
+  "updated": "2026-11-27T09:51:53.044717+00:00",
   "articles": [
+    {
+      "title": "Black Friday Bike Deals LIVE: The best hand picked bargains as soon as we find them",
+      "summary": "Mega deals on Shimano, Wahoo, Castelli, Garmin and more...",
+      "url": "https://www.cyclingnews.com/cycling-tech-components/live/black-friday-bike-deals-live/",
+      "source": "Cyclingnews",
+      "lang": "EN",
+      "category": "Závody",
+      "published": "2026-11-27T09:34:18+00:00"
+    },
+    {
+      "title": "Favero is offering a rare discount of up to $200 / £150 on the Assioma PRO power meter pedals this Black Friday",
+      "summary": "Save on three pedal systems in the Assioma PRO range",
+      "url": "https://www.bikeradar.com/advertising-feature/favero-assioma-pro-black-friday-2026-deal",
+      "source": "BikeRadar",
+      "lang": "EN",
+      "category": "Technika",
+      "published": "2026-11-27T09:00:00+00:00"
+    },
+    {
+      "title": "Marin's Madrone Trail costs less than £1,000 for an MTB with modern parts and retro geometry",
+      "summary": "Limited-edition rigid steel MTB is a reminder of exactly what mountain biking is all about",
+      "url": "https://www.bikeradar.com/first-look-friday/marin-madrone-trail",
+      "source": "BikeRadar MTB",
+      "lang": "EN",
+      "category": "MTB",
+      "published": "2026-11-27T07:00:00+00:00"
+    },
+    {
+      "title": "Sven Nys je nadšený ostravským divadlem a oživuje táborské vzpomínky. Zemanová je ženou budoucnosti, říká",
+      "summary": "",
+      "url": "https://www.roadcycling.cz/clanek/sven-nys-je-nadseny-ostravskym-divadlem-a-ozivuje-taborske-vzpominky-zemanova-je-zenou-budoucnosti-rika",
+      "source": "RoadCycling.cz",
+      "lang": "CS",
+      "category": "Závody",
+      "published": "2026-11-27"
+    },
+    {
+      "title": "Biatlonový šampión Jacquelin vynechá letošní závodní zimu, aby si splnil cyklistický sen",
+      "summary": "",
+      "url": "https://www.roadcycling.cz/clanek/biatlonovy-sampion-jacquelin-vynecha-letosni-zavodni-zimu-aby-si-splnil-cyklisticky-sen",
+      "source": "RoadCycling.cz",
+      "lang": "CS",
+      "category": "Závody",
+      "published": "2026-11-27"
+    },
     {
       "title": "CRANKBROTHERS Highline V2 – Kratší tělo, delší krok a více možností!",
       "summary": "Značka Crankbrothers letos v létě představila novou generaci vlastních teleskopických sedlovek Highline, označených prostě a výstižně „V2“. Vedle přepracovaných vnitřností",
@@ -198,6 +243,15 @@
       "lang": "EN",
       "category": "Závody",
       "published": "2026-11-26T11:15:24+00:00"
+    },
+    {
+      "title": "TEST MTB brzd: Shimano XTR M9220 – Japonský etalon",
+      "summary": "",
+      "url": "https://mtbs.cz/clanek/test-mtb-brzd-shimano-xtr-m9220/kategorie/testy-recenze",
+      "source": "MTBS.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-26"
     },
     {
       "title": "Charlie Aldridge bude závodit i na silnici. V UAE se potká s Václavem Ježkem",
@@ -785,6 +839,15 @@
       "published": "2026-11-23"
     },
     {
+      "title": "Domácí dílna – osm nástrojů pro běžnou údržbu",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132144/domaci-dilna-osm-nastroju-pro-beznou-udrzbu.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-23"
+    },
+    {
       "title": "Na silnici i na trenažéru: tipy pro Black Friday",
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/na-silnici-i-na-trenazeru-tipy-pro-black-friday",
@@ -800,15 +863,6 @@
       "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Cyklistika",
-      "published": "2026-11-23"
-    },
-    {
-      "title": "Domácí dílna – osm nástrojů pro běžnou údržbu",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132144/domaci-dilna-osm-nastroju-pro-beznou-udrzbu.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "MTB",
       "published": "2026-11-23"
     },
     {
@@ -1010,6 +1064,15 @@
       "published": "2026-11-21T08:00:00+00:00"
     },
     {
+      "title": "Test: Univerzální turistické kalhoty Karpos Lastia, nebo technické Karpos Limaro?",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132091/test-univerzalni-turisticke-kalhoty-karpos-lastia-nebo-technicke-karpos-limaro.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "Technika",
+      "published": "2026-11-21"
+    },
+    {
       "title": "Paříž–Roubaix, Tour de France a mistrovství světa budou pro Pogačara v příští sezóně nejdůležitější",
       "summary": "",
       "url": "https://www.roadcycling.cz/clanek/pariz-roubaix-tour-de-france-a-mistrovstvi-sveta-budou-pro-pogacara-v-pristi-sezone-nejdulezitejsi",
@@ -1025,15 +1088,6 @@
       "source": "RoadCycling.cz",
       "lang": "CS",
       "category": "Závody",
-      "published": "2026-11-21"
-    },
-    {
-      "title": "Test: Univerzální turistické kalhoty Karpos Lastia, nebo technické Karpos Limaro?",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132091/test-univerzalni-turisticke-kalhoty-karpos-lastia-nebo-technicke-karpos-limaro.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "Technika",
       "published": "2026-11-21"
     },
     {
@@ -1185,24 +1239,6 @@
       "summary": "",
       "url": "https://mtbs.cz/clanek/test-mtb-brzd-iii-pro-r2x4/kategorie/testy-recenze",
       "source": "MTBS.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": "2026-11-20"
-    },
-    {
-      "title": "Saidl, Janovský, Svoboda (a Bažant). Se čtyřmi čerstvými tvářemi zahajuje přípravu v domácích podmínkách kontinentální tým Kasper crypto4me",
-      "summary": "",
-      "url": "https://www.roadcycling.cz/clanek/saidl-janovsky-svoboda-a-bazant-se-ctyrmi-cerstvymi-tvaremi-zahajuje-pripravu-v-domacich-podminkach-kontinentalni-tym-kasper-crypto4me",
-      "source": "RoadCycling.cz",
-      "lang": "CS",
-      "category": "Závody",
-      "published": "2026-11-20"
-    },
-    {
-      "title": "Roglič pravděpodobně pojede Tour de France, tvrdí ředitel týmu NSN. Cílem týmu je uspět v celkovém pořadí Grand Tours",
-      "summary": "",
-      "url": "https://www.roadcycling.cz/clanek/roglic-pravdepodobne-pojede-tour-de-france-tvrdi-reditel-tymu-nsn-cilem-tymu-je-uspet-v-celkovem-poradi-grand-tours",
-      "source": "RoadCycling.cz",
       "lang": "CS",
       "category": "Závody",
       "published": "2026-11-20"
@@ -1514,6 +1550,15 @@
       "published": "2026-11-18T05:00:00+00:00"
     },
     {
+      "title": "Kärcher OC 7-18 Handheld: Ten správný kompromis na všechno?",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132129/karcher-oc-7-18-handheld-ten-spravny-kompromis-na-vsechno.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-18"
+    },
+    {
       "title": "Výsledky: JANEV Cup 2026 #6 - Prachatice",
       "summary": "",
       "url": "https://cyklorepublic.cz/clanky/01a1ed94-8b09-73b3-ad23-dfbf0b843a7f/vysledky-janev-cup-2026-6-prachatice",
@@ -1538,15 +1583,6 @@
       "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Cyklistika",
-      "published": "2026-11-18"
-    },
-    {
-      "title": "Kärcher OC 7-18 Handheld: Ten správný kompromis na všechno?",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132129/karcher-oc-7-18-handheld-ten-spravny-kompromis-na-vsechno.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "MTB",
       "published": "2026-11-18"
     },
     {
@@ -1955,6 +1991,15 @@
       "published": "2026-11-15T05:30:40+00:00"
     },
     {
+      "title": "Liptovské bláznovstvá s činelem na zádech",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132124/liptovske-blaznovstva-s-cinelem-na-zadech.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-15"
+    },
+    {
       "title": "Výsledky: JANEV Cup 2026 #5 - Jičín",
       "summary": "",
       "url": "https://cyklorepublic.cz/clanky/01a1e101-4c89-70e0-9204-25763d82e2f2/vysledky-janev-cup-2026-5-jicin",
@@ -1970,15 +2015,6 @@
       "source": "CykloRepublic.cz",
       "lang": "CS",
       "category": "Závody",
-      "published": "2026-11-15"
-    },
-    {
-      "title": "Liptovské bláznovstvá s činelem na zádech",
-      "summary": "",
-      "url": "https://www.mtbiker.cz/clanky/132124/liptovske-blaznovstva-s-cinelem-na-zadech.html",
-      "source": "MTBIKER.cz",
-      "lang": "CS",
-      "category": "MTB",
       "published": "2026-11-15"
     },
     {
@@ -2151,6 +2187,15 @@
       "lang": "CS",
       "category": "MTB",
       "published": "2026-11-13T08:55:11+00:00"
+    },
+    {
+      "title": "Novinky od Garminu: Edge 1060 s hlasovým ovládáním a trenažér Tacx Nēra, který se hýbe s vámi",
+      "summary": "",
+      "url": "https://www.mtbiker.cz/clanky/132120/novinky-od-garminu-edge-1060-s-hlasovym-ovladanim-a-trenazer-tacx-nera-ktery-se-hybe-s-vami.html",
+      "source": "MTBIKER.cz",
+      "lang": "CS",
+      "category": "MTB",
+      "published": "2026-11-13"
     },
     {
       "title": "Gravel inspirovaný kytarou. Dangerholm přestavěl Scott Scale RC na 8,58 kg",
@@ -3105,55 +3150,9 @@
       "lang": "EN",
       "category": "Trénink",
       "published": "2026-11-06T16:00:00+00:00"
-    },
-    {
-      "title": "'If you like it, then why would you stop?' – Approaching his 40s, Wout Poels continues into 19th and final pro season with Unibet Rose Rockets in 2027",
-      "summary": "Dutch rider targets a stage win as he maintains the joy of training and racing on French ProTeam",
-      "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/if-you-like-it-then-why-would-you-stop-approaching-his-40s-wout-poels-continues-into-19th-and-final-pro-season-with-unibet-rose-rockets-in-2027/",
-      "source": "Cyclingnews",
-      "lang": "EN",
-      "category": "Trénink",
-      "published": "2026-11-06T15:39:05+00:00"
-    },
-    {
-      "title": "'I think she has grown a lot mentally' – Lars Boom highlights reason for Demi Vollering's stunning season, outlines 2027 goals",
-      "summary": "Tour de France Femmes and World Championships defences high on the priority list for Dutch racer",
-      "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/i-think-she-has-grown-a-lot-mentally-lars-boom-highlights-reason-for-demi-vollerings-stunning-season-outlines-2027-goals/",
-      "source": "Cyclingnews",
-      "lang": "EN",
-      "category": "Závody",
-      "published": "2026-11-06T14:10:50+00:00"
-    },
-    {
-      "title": "Losing battery power to your electronic components can be a nightmare, here’s what to do if it happens on your ride",
-      "summary": "Modern bikes have a wealth of electronic components onboard, which is great… until you run out of juice",
-      "url": "https://www.bikeradar.com/features/tech/what-to-do-if-you-lose-battery-power-to-your-electronic-components",
-      "source": "BikeRadar MTB",
-      "lang": "EN",
-      "category": "MTB",
-      "published": "2026-11-06T14:00:00+00:00"
-    },
-    {
-      "title": "'Miraculous' – Tadej Pogačar's heart rate data and sleep scores revealed in new documentary",
-      "summary": "Pogačar's 'astonishing' powers of recovery highlighted in 'Anatomy of a G.O.A.T' film on HBO Max",
-      "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/miraculous-tadej-pogacars-heart-rate-data-and-sleep-scores-revealed-in-new-documentary/",
-      "source": "Cyclingnews",
-      "lang": "EN",
-      "category": "Trénink",
-      "published": "2026-11-06T12:05:05+00:00"
-    },
-    {
-      "title": "EF Education-EasyPost continue post-Carapaz rebuild for 2027 with two more development team graduates",
-      "summary": "US rider Gavin Hlady and Italian 19-year-old Roberto Capello make step up to WorldTour squad for upcoming season",
-      "url": "https://www.cyclingnews.com/pro-cycling/transfers/ef-education-easypost-continue-post-carapaz-rebuild-for-2027-with-two-more-development-team-graduates/",
-      "source": "Cyclingnews",
-      "lang": "EN",
-      "category": "Závody",
-      "published": "2026-11-06T12:01:51+00:00"
     }
   ],
   "source_errors": [
-    "NaKole.cz: HTTP Error 403: Forbidden",
-    "MTBIKER.cz: HTTP Error 403: Forbidden"
+    "NaKole.cz: HTTP Error 403: Forbidden"
   ]
 }
