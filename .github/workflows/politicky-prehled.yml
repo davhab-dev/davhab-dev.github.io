@@ -1,11 +1,6 @@
 name: Politicky prehled - hourly without AI
 on:
-  schedule:
-    - cron: '12 * * * *'
   workflow_dispatch:
-  push:
-    paths:
-      - '.github/workflows/politicky-prehled.yml'
 permissions:
   contents: write
   pages: write
