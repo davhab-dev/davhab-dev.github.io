@@ -1,12 +1,5 @@
 name: Aktualizace Cyklistickeho prehledu
 on:
-  push:
-    branches: [main]
-    paths:
-      - scripts/update_cycling.py
-      - .github/workflows/cycling-rss.yml
-  schedule:
-    - cron: '27,57 * * * *'
   workflow_dispatch:
 permissions:
   contents: write
